@@ -1,0 +1,47 @@
+name: Atualizar dados (24h)
+
+# Verificação 24h: busca as fontes abertas, valida e faz commit dos JSON.
+# Requer que a RAIZ do repositório seja a pasta cortex-gf/ (onde ficam scripts/ e data/).
+# Se o repo tiver a pasta em outro nível, ajuste os caminhos e mova .github/ para a raiz.
+
+on:
+  schedule:
+    - cron: "30 20 * * 5"   # sexta 20:30 UTC — logo após o release do COT (15:30 ET)
+    - cron: "0 11 * * *"    # diário 11:00 UTC — frescor / health check
+  workflow_dispatch: {}     # permite rodar manualmente pelo botão do GitHub
+
+permissions:
+  contents: write           # necessário para o bot commitar os dados
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Ingestão COT (CFTC)
+        run: node scripts/fetch-cot.mjs
+
+      - name: Ingestão FRED (regime / juro real / macro)
+        run: node scripts/fetch-fred.mjs
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+
+      - name: Montar bundle
+        run: node scripts/build-bundle.mjs
+
+        # Fonte futura (eventos) entra aqui do mesmo jeito:
+        # - name: Ingestão calendário (eventos)
+        #   run: node scripts/fetch-calendar.mjs
+        #   env: { FMP_API_KEY: ${{ secrets.FMP_API_KEY }} }
+
+      - name: Commit dos dados
+        run: |
+          git config user.name  "gf-quant-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore(data): atualiza dados $(date -u +%F)"
+          git push
