@@ -227,6 +227,26 @@ Um ativo herda o pior evento entre suas moedas (FX: base+quote; índices/commodi
 - Selo nos cards: ⚠ evento (iminente, vermelho) / ◐ evento (semana, azul).
 > Ex.: BoJ iminente derruba AUDJPY de 0,88% → 0,44% (em cima do corte de carry); AUDCAD (sem evento) sobe a #1.
 
+## 5.11 CALENDÁRIO DE BANCOS CENTRAIS — eventos sem API paga
+
+Datas de decisão de política monetária são publicadas com ~1 ano de antecedência.
+Não precisam de API: ficam em `data/cbcalendar.json`, extraídas dos **sites oficiais**, e alimentam
+o painel Risco de Evento automaticamente.
+
+`próxima data ≥ hoje` → `dias ≤ 2 = Iminente · dias ≤ 7 = Esta semana · resto = Nenhum`
+→ e o Alocador de Risco aplica o corte (×0,5 / ×0,85) descrito em §5.10.
+
+Cobertura atual: FOMC, BCE, BoJ, BoE, RBA, BoC. **RBNZ e SNB ficaram vazios de propósito** — não
+consegui confirmar em fonte oficial e chutar data seria pior que não ter. Revisar o arquivo 1× por ano.
+
+> Ainda manual: releases de dados (CPI/NFP). Entram depois via FRED `releases/dates` (a chave já existe).
+
+## 5.12 GUARDA DE VALIDADE DOS DADOS
+
+Dado vencido é tão perigoso quanto dado errado. Cada fonte tem idade máxima e o cabeçalho
+acusa em âmbar quando estoura: `COT 12d · REGIME 5d · CALENDÁRIO 200d`.
+O limite do COT considera o ciclo normal (referência terça + publicação sexta ≈ 10 dias).
+
 ## 6. Como o indicador Pine se pluga aqui
 
 O Pine (a enviar) deve exportar, por ativo/timeframe, os **insumos crus**, não o veredito:

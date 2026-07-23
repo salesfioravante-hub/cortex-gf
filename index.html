@@ -515,6 +515,19 @@ const EVRANK={none:0,week:1,imminent:2};
 function loadEvents(){try{const s=JSON.parse(localStorage.getItem("gfquant_events_v1"));if(s)return s;}catch(e){}
   return JSON.parse(JSON.stringify(EVENTS_SEED));}
 function saveEvents(){localStorage.setItem("gfquant_events_v1",JSON.stringify(EVENTS));}
+// preenche o painel a partir do calendário oficial dos bancos centrais (data/cbcalendar.json)
+function applyAutoEvents(){
+  const cal=gfauto().cbcal; if(!cal) return;
+  const hoje=new Date(); hoje.setHours(0,0,0,0);
+  CUR.forEach(c=>{
+    const info=cal[c]; if(!info||!Array.isArray(info.datas)||!info.datas.length) return;
+    const prox=info.datas.map(d=>new Date(d+"T00:00:00")).filter(d=>d>=hoje).sort((a,b)=>a-b)[0];
+    if(!prox) return;
+    const dias=Math.round((prox-hoje)/86400000);
+    EVENTS[c]={ ev: dias<=2?"imminent" : dias<=7?"week" : "none",
+                label: info.banco + (dias<=7 ? "" : " "+prox.toISOString().slice(5,10)) };
+  });
+}
 function eventProx(a){
   const curs = assetKey(a)==="fx" ? [a.sym.slice(0,3),a.sym.slice(3,6)] : ["USD"];
   let worst="none",lbl="";
@@ -853,9 +866,15 @@ function renderDataStatus(){
   const el=document.getElementById("dataStatus"); if(!el) return;
   const m=gfauto().meta, src=m&&m.sources;
   if(!src||!Object.keys(src).length){ el.textContent="Dados automáticos: — (usando seed)"; el.style.color="var(--dim)"; return; }
+  // idade máxima aceitável por fonte (dias). Dado vencido é tão perigoso quanto dado errado.
+  // COT: referência terça + publicação sexta => 10d é ciclo normal; 12 evita alarme falso
+  const MAXAGE={cot:12, regime:5, calendario:200, events:3};
   const parts=Object.entries(src).map(([k,s])=>{
-    const c=s.status==="ok"?"var(--bull)":s.status==="placeholder"?"var(--amber)":"var(--bear)";
-    return `${k.toUpperCase()} <b style="color:${c}">${s.status}</b> ${s.asof}`;
+    const idade=s.asof?Math.round((Date.now()-new Date(s.asof+"T00:00:00"))/86400000):null;
+    const vencido=idade!=null && MAXAGE[k]!=null && idade>MAXAGE[k];
+    const c = (s.status!=="ok") ? "var(--bear)" : vencido ? "var(--amber)" : "var(--bull)";
+    const txt = (s.status!=="ok") ? s.status : vencido ? `${idade}d ⚠ vencido` : "ok";
+    return `${k.toUpperCase()} <b style="color:${c}">${txt}</b> ${s.asof}`;
   });
   el.innerHTML="Dados: "+parts.join(" · ");
 }
@@ -1102,6 +1121,7 @@ document.getElementById("rgToggle").addEventListener("click",()=>{
   REGIME.apply=!REGIME.apply;saveRegime();render();
 });
 applyAutoRegime();
+applyAutoEvents();
 syncRegimeSelects();
 buildRatesGrid();
 buildEventsGrid();

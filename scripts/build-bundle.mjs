@@ -9,7 +9,7 @@ import { dirname, join } from "node:path";
 export async function buildBundle(DATA_DIR) {
   const files = (await readdir(DATA_DIR)).filter(f => f.endsWith(".json"));
   const meta = { generated: new Date().toISOString(), sources: {} };
-  const out = { cot: {}, regime: null, commodity: {}, events: {} };
+  const out = { cot: {}, regime: null, commodity: {}, events: {}, cbcal: {} };
 
   for (const f of files) {
     const key = f.replace(".json", "");
@@ -24,6 +24,10 @@ export async function buildBundle(DATA_DIR) {
       if (j.commodity) out.commodity = { ...out.commodity, ...j.commodity };
       meta.sources.regime = { status: j.status, asof: j.asof, provider: "FRED" };
     }
+    if (key === "cbcalendar" && j.byCurrency) {
+      out.cbcal = j.byCurrency;
+      meta.sources.calendario = { status: "ok", asof: j.atualizado, provider: "Bancos centrais" };
+    }
     if (key === "events" && j.byCurrency) {
       out.events = j.byCurrency;
       meta.sources.events = { status: j.status, asof: j.asof, provider: j.provider || "calendar" };
@@ -37,6 +41,7 @@ window.GFDATA.cot = ${JSON.stringify(out.cot)};
 window.GFDATA.regime = ${JSON.stringify(out.regime)};
 window.GFDATA.commodity = ${JSON.stringify(out.commodity)};
 window.GFDATA.events = ${JSON.stringify(out.events)};
+window.GFDATA.cbcal = ${JSON.stringify(out.cbcal)};
 `;
   await writeFile(join(DATA_DIR, "gfdata.js"), js);
   return { meta, out };

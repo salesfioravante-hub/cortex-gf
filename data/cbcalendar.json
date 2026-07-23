@@ -1,0 +1,40 @@
+{
+  "fonte": "Sites oficiais dos bancos centrais",
+  "atualizado": "2026-07-23",
+  "nota": "Datas de DECISÃO de política monetária (último dia da reunião). Publicadas com ~1 ano de antecedência, por isso não exigem API paga. Revisar 1x por ano, em dezembro.",
+  "pendente": "RBNZ e SNB: não consegui confirmar as datas restantes de 2026 em fonte oficial — deixados vazios de propósito em vez de chutar. Preencher quando confirmado.",
+  "byCurrency": {
+    "USD": {
+      "banco": "FOMC",
+      "fonte": "federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "datas": ["2026-07-29", "2026-09-16", "2026-10-28", "2026-12-09"]
+    },
+    "EUR": {
+      "banco": "BCE",
+      "fonte": "ecb.europa.eu (calendário do Conselho do BCE)",
+      "datas": ["2026-07-23", "2026-09-10", "2026-10-29", "2026-12-17"]
+    },
+    "JPY": {
+      "banco": "BoJ",
+      "fonte": "boj.or.jp (Monetary Policy Meetings)",
+      "datas": ["2026-07-31", "2026-09-18", "2026-10-30", "2026-12-18"]
+    },
+    "GBP": {
+      "banco": "BoE",
+      "fonte": "bankofengland.co.uk (MPC dates 2026)",
+      "datas": ["2026-07-30", "2026-09-17", "2026-11-05", "2026-12-17"]
+    },
+    "AUD": {
+      "banco": "RBA",
+      "fonte": "rba.gov.au (Monetary Policy Board 2026)",
+      "datas": ["2026-08-11", "2026-09-29", "2026-11-03", "2026-12-08"]
+    },
+    "CAD": {
+      "banco": "BoC",
+      "fonte": "bankofcanada.ca (schedule 2026)",
+      "datas": ["2026-09-02", "2026-10-28", "2026-12-09"]
+    },
+    "NZD": { "banco": "RBNZ", "fonte": "rbnz.govt.nz", "datas": [] },
+    "CHF": { "banco": "SNB", "fonte": "snb.ch", "datas": [] }
+  }
+}

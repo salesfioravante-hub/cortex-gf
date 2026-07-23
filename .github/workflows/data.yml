@@ -18,6 +18,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0        # histórico completo: necessário para o rebase antes do push
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
@@ -40,8 +43,24 @@ jobs:
 
       - name: Commit dos dados
         run: |
+          set -e
           git config user.name  "gf-quant-bot"
           git config user.email "bot@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || git commit -m "chore(data): atualiza dados $(date -u +%F)"
-          git push
+          if git diff --staged --quiet; then
+            echo "Sem mudanças nos dados — nada a commitar."
+            exit 0
+          fi
+          git commit -m "chore(data): atualiza dados $(date -u +%F)"
+          # O remoto pode ter avançado enquanto o job rodava (push manual, outra execução).
+          # Sem isto o push é rejeitado e o dado do dia se perde silenciosamente.
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Dados publicados (tentativa $i)."
+              exit 0
+            fi
+            echo "Tentativa $i falhou — o remoto mudou. Repetindo em 5s..."
+            sleep 5
+          done
+          echo "ERRO: não foi possível publicar os dados após 3 tentativas."
+          exit 1
