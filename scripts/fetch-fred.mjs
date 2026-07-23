@@ -29,7 +29,11 @@ async function obs(series, limit = 400) {
   const url = `https://api.stlouisfed.org/fred/series/observations?series_id=${series}`
     + `&api_key=${KEY}&file_type=json&sort_order=desc&limit=${limit}`;
   const r = await fetch(url);
-  if (!r.ok) throw new Error(`HTTP ${r.status} ${series}`);
+  if (!r.ok) {
+    // o FRED devolve a causa em error_message (ex.: "Bad Request. Invalid API key.")
+    let msg = ""; try { const j = await r.json(); msg = j.error_message || ""; } catch { }
+    throw new Error(`HTTP ${r.status}${msg ? " — " + msg : ""}`);
+  }
   const j = await r.json();
   return (j.observations || []).map(o => ({ d: o.date, v: parseFloat(o.value) })).filter(o => Number.isFinite(o.v));
 }
@@ -77,9 +81,19 @@ async function main() {
   const ryDir = dir(data.realyield, 20, 0.02);
   const ryPts = ryDir === "down" ? 2 : ryDir === "up" ? -2 : 0;
 
+  // saúde honesta: se nenhuma série voltou, o regime abaixo é só default — não é dado real
+  const okCount = Object.values(data).filter(a => a.length).length;
+  const total = Object.keys(SERIES).length;
+  const status = okCount === 0 ? "erro" : okCount < total ? "parcial" : "ok";
+  if (status !== "ok") {
+    console.error(`\n!! FRED devolveu ${okCount}/${total} séries.`);
+    if (okCount === 0) console.error("!! Nenhum dado. Causa provável: FRED_API_KEY inválida/ausente. "
+      + "Teste no navegador: https://api.stlouisfed.org/fred/series/observations?series_id=VIXCLS&api_key=SUACHAVE&file_type=json&limit=1");
+  }
+
   const asof = data.vix[0]?.d || new Date().toISOString().slice(0, 10);
   const payload = {
-    asof, source: "FRED (Federal Reserve Bank of St. Louis)", status: "ok",
+    asof, source: "FRED (Federal Reserve Bank of St. Louis)", status, series_ok: `${okCount}/${total}`,
     regime: { dxy: dxyDir, us10y: us10yDir, vix, growth, infl },
     commodity: {
       XAUUSD: { realYield: ryPts },
