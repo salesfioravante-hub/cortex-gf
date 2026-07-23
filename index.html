@@ -195,6 +195,17 @@
     border:1px solid var(--line);color:var(--muted)}
   .rp-members .m.exp{border-color:var(--accent-dim);color:var(--accent)}
 
+  /* ---------- notícias ---------- */
+  .news{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:10px}
+  .news .item{background:linear-gradient(180deg,var(--panel),var(--panel2));border:1px solid var(--line);
+    border-radius:9px;padding:11px 13px;display:flex;gap:11px;align-items:flex-start}
+  .news .cur{font-family:var(--mono);font-size:9.5px;font-weight:700;padding:3px 7px;border-radius:5px;
+    background:#16211e;border:1px solid var(--line2);color:var(--muted);flex:none;margin-top:1px}
+  .news .body{min-width:0}
+  .news .t{font-size:12.5px;line-height:1.4;color:var(--text)}
+  .news a.t{text-decoration:none} .news a.t:hover{color:var(--accent)}
+  .news .meta{font-family:var(--mono);font-size:10px;color:var(--dim);margin-top:4px;letter-spacing:.02em}
+
   h2.section{font-size:11px;letter-spacing:.28em;text-transform:uppercase;color:var(--muted);
     font-weight:600;margin:34px 2px 14px;display:flex;align-items:center;gap:12px}
   h2.section::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,var(--line),transparent)}
@@ -417,6 +428,9 @@
 </div>
 <div id="riskplan"></div>
 
+<h2 class="section">Notícias dos Bancos Centrais <span class="hint">comunicados oficiais — contexto, não altera o score</span></h2>
+<div class="news" id="news"></div>
+
 <footer>
   <b>Como ler:</b> cada célula vale ALTA FORTE +2 · ALTA +1 · NEUTRO 0 · BAIXA −1 · BAIXA FORTE −2.
   <b>Score&nbsp;Técnico</b> = média ponderada de W1/D1/H4 (W1 pesa mais). <b>Score&nbsp;Fundamentalista</b> = COT + Varejo (contrário) + Sazonalidade + Macro.
@@ -517,15 +531,24 @@ function loadEvents(){try{const s=JSON.parse(localStorage.getItem("gfquant_event
 function saveEvents(){localStorage.setItem("gfquant_events_v1",JSON.stringify(EVENTS));}
 // preenche o painel a partir do calendário oficial dos bancos centrais (data/cbcalendar.json)
 function applyAutoEvents(){
-  const cal=gfauto().cbcal; if(!cal) return;
+  const cal=gfauto().cbcal, rel=gfauto().events;
+  if(!cal && !rel) return;
   const hoje=new Date(); hoje.setHours(0,0,0,0);
   CUR.forEach(c=>{
-    const info=cal[c]; if(!info||!Array.isArray(info.datas)||!info.datas.length) return;
-    const prox=info.datas.map(d=>new Date(d+"T00:00:00")).filter(d=>d>=hoje).sort((a,b)=>a-b)[0];
-    if(!prox) return;
-    const dias=Math.round((prox-hoje)/86400000);
+    const cands=[];
+    if(cal && cal[c] && Array.isArray(cal[c].datas)){                 // reuniões de BC
+      const prox=cal[c].datas.map(d=>new Date(d+"T00:00:00")).filter(d=>d>=hoje).sort((a,b)=>a-b)[0];
+      if(prox) cands.push({date:prox, label:cal[c].banco});
+    }
+    if(rel && rel[c] && rel[c].date){                                 // dados de alto impacto
+      const d=new Date(rel[c].date+"T00:00:00");
+      if(d>=hoje) cands.push({date:d, label:rel[c].title});
+    }
+    if(!cands.length) return;
+    cands.sort((a,b)=>a.date-b.date);
+    const near=cands[0], dias=Math.round((near.date-hoje)/86400000);
     EVENTS[c]={ ev: dias<=2?"imminent" : dias<=7?"week" : "none",
-                label: info.banco + (dias<=7 ? "" : " "+prox.toISOString().slice(5,10)) };
+                label: near.label + (dias<=7 ? "" : " "+near.date.toISOString().slice(5,10)) };
   });
 }
 function eventProx(a){
@@ -866,13 +889,23 @@ function load(){
   catch(e){ base=SEED.map(a=>({...a})); }
   return applyAuto(base);
 }
+function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+function renderNews(){
+  const el=document.getElementById("news"); if(!el) return;
+  const items=gfauto().news||[];
+  if(!items.length){ el.innerHTML=`<div class="pf-panel"><div class="msg" style="font-size:12px;color:var(--muted)">Sem notícias automáticas ainda — a fonte (RSS dos bancos centrais) preenche no próximo ciclo.</div></div>`; return; }
+  el.innerHTML=items.map(n=>{
+    const t = n.link ? `<a class="t" href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">${esc(n.title)}</a>` : `<span class="t">${esc(n.title)}</span>`;
+    return `<div class="item"><span class="cur">${esc(n.cur||"")}</span><div class="body">${t}<div class="meta">${esc(n.source||"")} · ${esc(n.date||"—")}</div></div></div>`;
+  }).join("");
+}
 function renderDataStatus(){
   const el=document.getElementById("dataStatus"); if(!el) return;
   const m=gfauto().meta, src=m&&m.sources;
   if(!src||!Object.keys(src).length){ el.textContent="Dados automáticos: — (usando seed)"; el.style.color="var(--dim)"; return; }
   // idade máxima aceitável por fonte (dias). Dado vencido é tão perigoso quanto dado errado.
   // COT: referência terça + publicação sexta => 10d é ciclo normal; 12 evita alarme falso
-  const MAXAGE={cot:12, regime:5, calendario:200, events:3, tecnico:4};
+  const MAXAGE={cot:12, regime:5, calendario:200, events:3, tecnico:4, noticias:14, calendario_dados:5};
   const parts=Object.entries(src).map(([k,s])=>{
     const idade=s.asof?Math.round((Date.now()-new Date(s.asof+"T00:00:00"))/86400000):null;
     const vencido=idade!=null && MAXAGE[k]!=null && idade>MAXAGE[k];
@@ -926,7 +959,7 @@ function scoreColor(v){ if(v>=1)return"var(--bull)"; if(v>0.05)return"#8fcfa4"; 
 /* ---------------- render ---------------- */
 function render(){
   renderDataStatus();
-  renderRegime(); renderRates(); renderEvents(); renderCards(); renderTable(); renderStrength(); renderPortfolio(); renderRiskPlan();
+  renderRegime(); renderRates(); renderEvents(); renderCards(); renderTable(); renderStrength(); renderPortfolio(); renderRiskPlan(); renderNews();
 }
 
 function renderRegime(){

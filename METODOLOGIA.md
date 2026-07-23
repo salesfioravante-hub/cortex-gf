@@ -263,6 +263,17 @@ fetch client-side esbarra em CORS). Sem chave.
 > O **indicador Pine** do usuário pode substituir/refinar isto depois: basta o Pine exportar por ativo
 > os mesmos campos (ou já a nota por timeframe) para `data/prices.json`. A metodologia não muda.
 
+## 5.14 CALENDÁRIO DE DADOS + NOTÍCIAS (Tier automação)
+
+**Calendário econômico** (`fetch-calendar.mjs`): dados de alto impacto (CPI/NFP/PIB/PMI) com projeção.
+Caminho principal **FMP** (chave grátis `FMP_API_KEY`, confiável em nuvem); reserva **ForexFactory** XML
+(grátis, mas bloqueia IP de datacenter — best-effort). Reduz para o próximo alto impacto por moeda;
+o app funde com as reuniões de BC (§5.11) e usa o evento mais próximo → mesmo corte de risco do §5.10.
+
+**Notícias** (`fetch-news.mjs`): comunicados oficiais de Fed/BCE/BoE/BoJ via RSS (sem chave, alto sinal,
+mapeiam a USD/EUR/GBP/JPY). Painel informativo (`window.GFDATA.news`) — **não altera o score** (evita
+"lixo entra, lixo sai"). Títulos são escapados no app (defesa contra HTML de fonte externa).
+
 ## 6. Como o indicador Pine se pluga aqui
 
 O Pine (a enviar) deve exportar, por ativo/timeframe, os **insumos crus**, não o veredito:

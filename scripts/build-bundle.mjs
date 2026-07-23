@@ -9,7 +9,7 @@ import { dirname, join } from "node:path";
 export async function buildBundle(DATA_DIR) {
   const files = (await readdir(DATA_DIR)).filter(f => f.endsWith(".json"));
   const meta = { generated: new Date().toISOString(), sources: {} };
-  const out = { cot: {}, regime: null, commodity: {}, events: {}, cbcal: {}, tech: {}, quote: {} };
+  const out = { cot: {}, regime: null, commodity: {}, events: {}, cbcal: {}, tech: {}, quote: {}, news: [] };
 
   for (const f of files) {
     const key = f.replace(".json", "");
@@ -35,7 +35,11 @@ export async function buildBundle(DATA_DIR) {
     }
     if (key === "events" && j.byCurrency) {
       out.events = j.byCurrency;
-      meta.sources.events = { status: j.status, asof: j.asof, provider: j.provider || "calendar" };
+      meta.sources.calendario_dados = { status: j.status, asof: j.asof, provider: j.provider || "calendar" };
+    }
+    if (key === "news" && Array.isArray(j.items)) {
+      out.news = j.items;
+      meta.sources.noticias = { status: j.status, asof: j.asof, provider: j.provider || "RSS" };
     }
   }
 
@@ -49,6 +53,7 @@ window.GFDATA.events = ${JSON.stringify(out.events)};
 window.GFDATA.cbcal = ${JSON.stringify(out.cbcal)};
 window.GFDATA.tech = ${JSON.stringify(out.tech)};
 window.GFDATA.quote = ${JSON.stringify(out.quote)};
+window.GFDATA.news = ${JSON.stringify(out.news)};
 `;
   await writeFile(join(DATA_DIR, "gfdata.js"), js);
   return { meta, out };

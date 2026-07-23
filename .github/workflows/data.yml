@@ -36,13 +36,18 @@ jobs:
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
 
+      - name: Ingestão calendário econômico (FMP / ForexFactory)
+        run: node scripts/fetch-calendar.mjs
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        continue-on-error: true    # calendário indisponível não derruba o resto
+
+      - name: Ingestão notícias (RSS bancos centrais)
+        run: node scripts/fetch-news.mjs
+        continue-on-error: true
+
       - name: Montar bundle
         run: node scripts/build-bundle.mjs
-
-        # Fonte futura (eventos) entra aqui do mesmo jeito:
-        # - name: Ingestão calendário (eventos)
-        #   run: node scripts/fetch-calendar.mjs
-        #   env: { FMP_API_KEY: ${{ secrets.FMP_API_KEY }} }
 
       - name: Commit dos dados
         run: |
