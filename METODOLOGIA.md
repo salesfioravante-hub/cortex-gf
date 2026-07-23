@@ -247,6 +247,22 @@ Dado vencido é tão perigoso quanto dado errado. Cada fonte tem idade máxima e
 acusa em âmbar quando estoura: `COT 12d · REGIME 5d · CALENDÁRIO 200d`.
 O limite do COT considera o ciclo normal (referência terça + publicação sexta ≈ 10 dias).
 
+## 5.13 SCORE TÉCNICO AUTOMÁTICO — TradingView (Tier automação)
+
+O técnico deixou de ser manual. `scripts/fetch-prices.mjs` consulta o endpoint público de scanner do
+TradingView e lê o campo **`Recommend.All`** (nota técnica agregada de ~26 indicadores) em três
+timeframes: `|1W` (Semanal), sem sufixo (Diário), `|240` (H4).
+
+Mapeamento direto para a escala do §1:
+`≥+0,5 = ALTA FORTE(+2) · +0,1..+0,5 = ALTA(+1) · −0,1..+0,1 = NEUTRO(0) · −0,5..−0,1 = BAIXA(−1) · ≤−0,5 = BAIXA FORTE(−2)`.
+
+Também traz **preço, RSI, ATR, ADX** por ativo (`window.GFDATA.quote`) — o ATR abre caminho para
+o sizing por volatilidade no Alocador. Roda no cron a cada 4h (near-real-time; não é tick a tick —
+fetch client-side esbarra em CORS). Sem chave.
+
+> O **indicador Pine** do usuário pode substituir/refinar isto depois: basta o Pine exportar por ativo
+> os mesmos campos (ou já a nota por timeframe) para `data/prices.json`. A metodologia não muda.
+
 ## 6. Como o indicador Pine se pluga aqui
 
 O Pine (a enviar) deve exportar, por ativo/timeframe, os **insumos crus**, não o veredito:

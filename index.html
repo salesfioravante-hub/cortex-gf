@@ -848,6 +848,10 @@ function applyAuto(list){
     let x=a;
     if(A.cot){const d=A.cot[a.sym]; if(d && typeof d.pts==="number") x={...x, cot:d.pts, _cotAuto:true};}
     if(A.commodity){const c=A.commodity[a.sym]; if(c) x={...x, ...c, _autoFields:Object.keys(c)};}
+    if(A.tech){const t=A.tech[a.sym]; if(t){
+      if(t.W1!=null) x={...x, W1:t.W1}; if(t.D1!=null) x={...x, D1:t.D1}; if(t.H4!=null) x={...x, H4:t.H4};
+      x={...x, _techAuto:true};
+    }}
     return x;
   });
 }
@@ -868,7 +872,7 @@ function renderDataStatus(){
   if(!src||!Object.keys(src).length){ el.textContent="Dados automáticos: — (usando seed)"; el.style.color="var(--dim)"; return; }
   // idade máxima aceitável por fonte (dias). Dado vencido é tão perigoso quanto dado errado.
   // COT: referência terça + publicação sexta => 10d é ciclo normal; 12 evita alarme falso
-  const MAXAGE={cot:12, regime:5, calendario:200, events:3};
+  const MAXAGE={cot:12, regime:5, calendario:200, events:3, tecnico:4};
   const parts=Object.entries(src).map(([k,s])=>{
     const idade=s.asof?Math.round((Date.now()-new Date(s.asof+"T00:00:00"))/86400000):null;
     const vencido=idade!=null && MAXAGE[k]!=null && idade>MAXAGE[k];
