@@ -22,6 +22,17 @@ Node 18+ (usa `fetch` nativo). Abra o `index.html` depois — o cabeçalho mostr
   O script loga `index`/`pts` por contrato — se algum vier vazio, ajuste o código no portal
   https://publicreporting.cftc.gov (Legacy Futures-Only).
 
+## Conflito em `data/gfdata.js` (esperado, e por que)
+
+O robô do GitHub e a máquina local **geram** esse arquivo. Se os dois gerarem entre sincronizações,
+o git acusa conflito. A resolução correta **nunca é escolher um lado** — é regerar:
+
+```bash
+node scripts/build-bundle.mjs && git add data/gfdata.js && git rebase --continue
+```
+
+O atalho `ENVIAR PROJETO PARA O GITHUB.bat` (Área de Trabalho) já faz isso sozinho.
+
 ## Próximas fontes (mesma receita)
 - `scripts/fetch-fred.mjs` → VIX (`VIXCLS`), DXY (`DTWEXBGS`), US10Y (`DGS10`), juro real (`DFII10`),
   CPI (`CPIAUCSL`), emprego (`PAYEMS`) — grava `data/regime.json`/`macro.json`. Precisa `FRED_API_KEY` (grátis).
