@@ -65,6 +65,7 @@ Se o gráfico diz "sobe" e o fundamento diz "cai", eles se anulam e o Geral fica
 Isso é proposital. **Quando os dois brigam, você não tem trade.**
 
 A barra de **Convicção** mostra o quanto os dois concordam:
+
 - **90–100%** = os dois apontam junto → sinal forte
 - **abaixo de 60%** = estão brigando → desconfie
 
@@ -121,6 +122,7 @@ Aqui a ferramenta descobre em que "estação do ano" o mercado está, cruzando *
 | **Crescimento caindo** | DEFLAÇÃO (bom p/ dólar) | ESTAGFLAÇÃO (bom p/ ouro e dólar) |
 
 Também mostra o **Apetite a risco** (calculado do VIX + dólar):
+
 - **RISK-ON** = mercado tranquilo, gosta de risco → favorece AUD, NZD, ações
 - **RISK-OFF** = mercado com medo → favorece iene, franco suíço, dólar, ouro
 
@@ -151,8 +153,8 @@ clássico aviso de reversão. Hoje isso aparece nos pares com iene.
 
 Mostra qual banco central decide juros e quando.
 
-- 🔴 **Iminente (≤48h)** — evento em até 2 dias
-- 🔵 **Esta semana** — evento em até 7 dias
+- **Iminente (≤48h)** — evento em até 2 dias
+- **Esta semana** — evento em até 7 dias
 
 **O que a ferramenta faz:** ela **não muda a direção** do sinal — muda o **tamanho**.
 Evento iminente corta o risco alocado **pela metade**; "esta semana" corta 15%.
