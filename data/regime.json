@@ -1,5 +1,5 @@
 {
-  "asof": "2026-07-22",
+  "asof": "2026-07-23",
   "source": "FRED (Federal Reserve Bank of St. Louis)",
   "status": "ok",
   "series_ok": "7/7",
@@ -19,7 +19,7 @@
     }
   },
   "values": {
-    "vix": 16.64,
+    "vix": 18.7,
     "dxy": 120.5315,
     "us10y": 4.67,
     "realyield": 2.39
