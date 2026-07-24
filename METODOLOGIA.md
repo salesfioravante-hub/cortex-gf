@@ -274,6 +274,51 @@ o app funde com as reuniões de BC (§5.11) e usa o evento mais próximo → mes
 mapeiam a USD/EUR/GBP/JPY). Painel informativo (`window.GFDATA.news`) — **não altera o score** (evita
 "lixo entra, lixo sai"). Títulos são escapados no app (defesa contra HTML de fonte externa).
 
+## 5.15 TENDÊNCIA × MOMENTUM, REGIME (ADX) e RISCO (ATR)
+
+### Por que separar — a medição que motivou
+Correlação cruzada nos 17 ativos (2026-07-24):
+
+| Par | Corr |
+|---|---|
+| Estocástico × Williams %R | **0,98** |
+| Williams %R × CCI | 0,96 |
+| RSI × Estocástico / CCI / W%R | 0,92–0,93 |
+| **Bloco Médias × Bloco Osciladores** | **−0,01** |
+| ADX × RSI | 0,07 |
+
+**Conclusão:** os 26 indicadores do rating valem ~3–4 informações independentes. *Dentro* de cada
+bloco a redundância é 0,92–0,98 — acima da nossa própria "zona de perigo" de 0,85 (§5.6). *Entre*
+os blocos a correlação é ~0: são informações genuinamente diferentes que a média destruía.
+
+> **Por que isso é risco, não estética:** 15 médias dizendo "compra" parecem confirmação esmagadora,
+> mas são **uma** evidência repetida. Convicção inflada → **posição maior** (§5.8). É a mesma doença
+> que curamos no portfólio (§5.6), escondida dentro do score técnico.
+
+### As duas dimensões
+- **Tendência** = `Recommend.MA` (15 médias) — seguidor de tendência.
+- **Momentum** = `Recommend.Other` (11 osciladores) — na convenção do TradingView vota **VENDA quando
+  sobrecomprado**, ou seja, é **reversão à média**.
+
+Como servem a regimes opostos, o peso muda pelo **ADX**:
+
+| ADX | Regime | Peso Tendência | Peso Momentum |
+|---|---|---|---|
+| ≥ 25 | tendência | 0,80 | 0,20 |
+| 20–25 | misto | 0,60 | 0,40 |
+| < 20 | lateral | 0,40 | 0,60 |
+
+`W1/D1/H4 = recToPts(w_t · MA_cru + w_m · Osc_cru)` — mistura feita no valor cru (sem arredondar duas vezes).
+
+**Divergência Tendência × Momentum** (sinais opostos) = movimento cansando → aviso na gaveta.
+
+### ATR — o que faltava para gestão de risco
+O rating do TradingView **ignora volatilidade e localização**, que é o que o gestor mais precisa. Adicionados:
+- **Stop sugerido = 1,5 × ATR**, exibido também em % do preço → mostra que prata (7,2%) e EURUSD (0,7%)
+  **não podem** ter o mesmo tamanho de posição.
+- **Extensão = (preço − EMA50) / ATR** → quantos ATRs longe da média.
+  `|ext| ≥ 3` **na direção do trade** = perseguindo preço → selo ⚠ esticado e **corte de 30% no risco alocado** (§5.8).
+
 ## 6. Como o indicador Pine se pluga aqui
 
 O Pine (a enviar) deve exportar, por ativo/timeframe, os **insumos crus**, não o veredito:

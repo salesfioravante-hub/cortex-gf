@@ -157,6 +157,12 @@
   .evchip{font-family:var(--mono);font-size:9px;font-weight:700;color:#7cc7ff;
     background:#2b6fb31e;border:1px solid #3b82c655;border-radius:4px;padding:2px 5px;margin-left:6px}
   .evchip.im{color:#ffb0b3;background:#e23b441e;border-color:#e23b4455}
+  .extchip{font-family:var(--mono);font-size:9px;font-weight:700;color:#ffc98a;
+    background:#e9873a1e;border:1px solid #e9873a55;border-radius:4px;padding:2px 5px;margin-left:6px}
+  .adxcell{display:block;padding:12px 8px;font-family:var(--mono);font-size:11.5px;font-weight:700}
+  .adxcell.reg-t{color:var(--accent)}
+  .adxcell.reg-m{color:var(--muted)}
+  .adxcell.reg-l{color:var(--amber)}
   .rt-cell input[type=text]{width:100%;font-family:var(--sans);font-size:11px;background:#0a100f;color:var(--text);
     border:1px solid var(--line2);border-radius:6px;padding:5px 7px}
   .rt-cell input[type=text]:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
@@ -401,12 +407,12 @@
       <tr>
         <th class="l" rowspan="2">Ativo</th>
         <th class="grp" colspan="4">Fundamentalista</th>
-        <th class="grp" colspan="4">Técnico</th>
+        <th class="grp" colspan="7">Técnico</th>
         <th class="grp" colspan="2">Geral</th>
       </tr>
       <tr>
         <th>COT</th><th>Varejo</th><th>Sazon.</th><th>Score&nbsp;F</th>
-        <th>W1</th><th>D1</th><th>H4</th><th>Score&nbsp;T</th>
+        <th>Tend.</th><th>Mom.</th><th>ADX</th><th>W1</th><th>D1</th><th>H4</th><th>Score&nbsp;T</th>
         <th>Conv.</th><th>Score</th>
       </tr>
     </thead>
@@ -681,8 +687,9 @@ function renderRiskPlan(){
     const strength=Math.abs(best.r.geral),conv=best.r.align;
     const unwind=members.some(m=>m.r.carry&&m.r.carry.unwind);
     const evWorst=members.reduce((w,m)=>{const e=eventProx(m.a);return EVRANK[e.ev]>EVRANK[w]?e.ev:w;},"none");
-    const q=Math.min(1,(strength/5)*0.5+conv*0.5)*(unwind?0.6:1)*eventMult(evWorst);
-    return {members,best,strength,conv,unwind,evWorst,q,driver:clusterDriver(members),dir:best.dir};
+    const chase=esticado(best.a.sym,best.dir);          // perseguir preço esticado = pior risco/retorno
+    const q=Math.min(1,(strength/5)*0.5+conv*0.5)*(unwind?0.6:1)*eventMult(evWorst)*(chase?0.7:1);
+    return {members,best,strength,conv,unwind,evWorst,chase,q,driver:clusterDriver(members),dir:best.dir,x:techx(best.a.sym)};
   });
   const raw=bets.map(b=>RISK.base*b.q);
   const tot=raw.reduce((s,x)=>s+x,0);
@@ -704,8 +711,9 @@ function renderRiskPlan(){
     const redund=b.members.filter(m=>m!==b.best);
     return `<div class="rp-card ${b.unwind?'flag':''}">
       <div class="rc-top">
-        <div><span class="rc-sym">${b.best.a.sym}</span><span class="rc-dir" style="background:${dirCol}22;color:${dirCol}">${dirLab}</span>${b.unwind?' <span class="crchip">⚠ carry</span>':''}${b.evWorst!=="none"?` <span class="evchip ${b.evWorst==="imminent"?"im":""}">${b.evWorst==="imminent"?"⚠ evento":"◐ evento"}</span>`:''}
-          <div class="rc-driver" style="margin-top:7px">Aposta: <b>${b.driver}</b></div></div>
+        <div><span class="rc-sym">${b.best.a.sym}</span><span class="rc-dir" style="background:${dirCol}22;color:${dirCol}">${dirLab}</span>${b.unwind?' <span class="crchip">⚠ carry</span>':''}${b.evWorst!=="none"?` <span class="evchip ${b.evWorst==="imminent"?"im":""}">${b.evWorst==="imminent"?"⚠ evento":"◐ evento"}</span>`:''}${b.chase?` <span class="extchip">⚠ esticado</span>`:''}
+          <div class="rc-driver" style="margin-top:7px">Aposta: <b>${b.driver}</b></div>
+          ${b.x&&b.x.stopPct!=null?`<div class="rc-driver" style="margin-top:3px">Stop 1,5×ATR: <b>${String(b.x.stopPct).replace(".",",")}%</b>${b.x.ext!=null?` · a <b>${String(b.x.ext).replace(".",",")}</b> ATR da média`:""}${b.x.regime?` · <b>${b.x.regime}</b> (ADX ${b.x.adx})`:""}</div>`:""}</div>
         <div class="rc-risk"><div class="v" style="color:${dirCol}">${b.risk.toFixed(2).replace('.',',')}%</div><div class="cap">${rl}</div></div>
       </div>
       <div class="rp-bars">
@@ -863,6 +871,14 @@ let W=0.5;                       // peso técnico (fund = 1-W)
 let RANK="conv";
 
 function gfauto(){ return (typeof window!=="undefined" && window.GFDATA) ? window.GFDATA : {}; }
+// detalhe técnico por ativo: tendência, momentum, ADX (regime), extensão em ATR e stop sugerido
+function techx(sym){ const t=gfauto().techx; return (t && t[sym]) || null; }
+function regClass(r){ return r==="tendência"?"reg-t" : r==="lateral"?"reg-l" : "reg-m"; }
+// "perseguindo o preço": esticado ≥3 ATRs da média NA DIREÇÃO que se pretende operar
+function esticado(sym,dir){
+  const x=techx(sym); if(!x || x.ext==null) return false;
+  return (dir>0 && x.ext>=3) || (dir<0 && x.ext<=-3);
+}
 // sobrepõe fatos automáticos (hoje: COT) sobre o estado; se faltar, mantém o que veio do seed/edição
 function applyAuto(list){
   const A=gfauto();
@@ -1003,6 +1019,7 @@ function renderCards(){
           <span class="pill ${cl}">${lab}</span>
           ${(r.carry&&r.carry.unwind)?`<span class="crchip">⚠ carry</span>`:''}
           ${evBadge(a)}
+          ${esticado(a.sym, r.geral>=0?1:-1)?`<span class="extchip" title="preço a ${techx(a.sym).ext} ATRs da média">⚠ esticado</span>`:''}
         </div>
       </div>
       <div class="num" style="color:${dir?'var(--bull)':'var(--bear)'}">${fmt(r.geral)}</div>
@@ -1022,15 +1039,18 @@ function renderTable(){
     const group=STATE.filter(a=>a.cls===cls);
     if(!group.length)return;
     const gr=document.createElement("tr");gr.className="grouprow";
-    gr.innerHTML=`<td colspan="11">${cls}</td>`; tb.appendChild(gr);
+    gr.innerHTML=`<td colspan="14">${cls}</td>`; tb.appendChild(gr);
     group.forEach(a=>{
       const r=calc(a); const[lab,cl]=band(r.geral);
+      const x=techx(a.sym);
       const tr=document.createElement("tr"); tr.onclick=()=>openDrawer(a.sym);
       const c=(p)=>`<td><span class="cell" style="${cellBg(p)}">${p==null?"—":(PT[p]||"—")}</span></td>`;
       tr.innerHTML=
         `<td class="sym l"><div class="s">${a.sym}</div><div class="n">${a.name}</div></td>`+
         c(a.cot)+c(a.varejo)+c(a.sazon)+
         `<td><span class="scorecell" style="color:${scoreColor(r.fund)}">${fmt(r.fund)}</span></td>`+
+        c(x?x.trend?.D1:null)+c(x?x.mom?.D1:null)+
+        `<td><span class="adxcell ${x?regClass(x.regime):''}">${x&&x.adx!=null?x.adx:"—"}</span></td>`+
         c(a.W1)+c(a.D1)+c(a.H4)+
         `<td><span class="scorecell" style="color:${scoreColor(r.tec)}">${fmt(r.tec)}</span></td>`+
         `<td><span class="divmini"><span class="bar"><span style="width:${Math.round(r.align*100)}%"></span></span></span></td>`+
@@ -1095,6 +1115,16 @@ function openDrawer(sym){
      </div>
      <div class="fgroup">
        <div class="t">Técnico <span class="sc" id="sc-t">${fmt(r.tec)}</span></div>
+       ${(()=>{const x=techx(a.sym); if(!x) return "";
+         const lin=(k,o)=>`${PT[o?.W1]??"—"} / ${PT[o?.D1]??"—"} / ${PT[o?.H4]??"—"}`;
+         const div = (x.trend?.D1!=null && x.mom?.D1!=null && Math.sign(x.trend.D1)*Math.sign(x.mom.D1)<0);
+         return `<div class="field"><span>Tendência (médias)</span><span class="dval">${lin("t",x.trend)}</span></div>
+         <div class="field"><span>Momentum (osciladores)</span><span class="dval">${lin("m",x.mom)}</span></div>
+         <div class="field"><span>Regime (ADX ${x.adx??"—"})</span><span class="dval">${x.regime||"—"}</span></div>
+         <div class="field"><span>Stop 1,5×ATR</span><span class="dval">${x.stopPct!=null?String(x.stopPct).replace(".",",")+"%":"—"}</span></div>
+         <div class="field"><span>Distância da média</span><span class="dval">${x.ext!=null?String(x.ext).replace(".",",")+" ATR":"—"}</span></div>
+         ${div?`<div class="rc-driver" style="color:var(--amber);font-size:11px;margin:2px 0 6px">⚠ Tendência e momentum discordam — movimento pode estar cansando.</div>`:""}
+         <div class="rc-driver" style="font-size:10.5px;color:var(--dim);margin:2px 0 8px">W1 / D1 / H4 abaixo já saem da mistura ponderada pelo regime.</div>`;})()}
        <div class="field"><span>Semanal (W1)</span>${selectHTML("W1",a.W1)}</div>
        <div class="field"><span>Diário (D1)</span>${selectHTML("D1",a.D1)}</div>
        <div class="field"><span>H4</span>${selectHTML("H4",a.H4)}</div>
