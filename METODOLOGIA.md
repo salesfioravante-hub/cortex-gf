@@ -340,6 +340,25 @@ US$ e em % da conta, mais o veredito (`alinhado` / `Nx o sugerido` / `conservado
 > Achado que motivou: com lote fixo, EURUSD 0,30 arrisca US$ 112 e XAUUSD 0,03 arrisca US$ 176 —
 > **57% a mais no ouro**. Lote igual não é risco igual.
 
+## 5.17 REGISTRO DE OPERAÇÕES — de opinião a evidência
+
+O botão **Registrar** (card do Alocador) congela a **tese no instante da entrada**: score, convicção,
+técnico e fundamento separados, regime de mercado e do ativo (ADX), extensão em ATR, lote, risco em US$
+e os alertas ativos (carry / evento / esticado). Depois o trade é fechado como **Ganho / Perda / Zerou**,
+com o resultado em **R** (múltiplos do risco) — R é a unidade certa porque compara trades de tamanhos
+diferentes.
+
+**Por que congelar na entrada:** sem isso, a memória reescreve a tese depois do resultado (viés
+retrospectivo). Só comparando o que o modelo *dizia antes* com o que aconteceu *depois* dá para saber
+se ele tem valor.
+
+**Saídas:** taxa de acerto, R médio, R acumulado e — o que mais importa — **acerto e R médio por faixa
+de score**. Se o modelo presta, faixas altas devem entregar mais que faixas baixas.
+
+> **Honestidade estatística:** abaixo de ~20 operações fechadas a ferramenta exibe aviso explícito de
+> amostra pequena. Taxa de acerto com n=5 é ruído, e apresentar isso como evidência seria pior que não medir.
+> Tudo fica no navegador (localStorage), sem servidor.
+
 ## 6. Como o indicador Pine se pluga aqui
 
 O Pine (a enviar) deve exportar, por ativo/timeframe, os **insumos crus**, não o veredito:

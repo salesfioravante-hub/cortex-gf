@@ -211,6 +211,29 @@
   .sz-v{font-size:11px;margin-top:2px}
   .sz-ok{color:var(--bull)} .sz-alerta{color:var(--amber)}
   .sz-warn{color:var(--amber);font-size:10.5px}
+  /* registro de operações */
+  .jr-tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:14px}
+  .jr-tile{background:linear-gradient(180deg,var(--panel),var(--panel2));border:1px solid var(--line);
+    border-radius:var(--r);padding:13px 16px}
+  .jr-tile .k{font-size:9px;letter-spacing:.18em;text-transform:uppercase;color:var(--dim)}
+  .jr-tile .v{font-family:var(--mono);font-size:22px;font-weight:700;margin-top:6px;line-height:1}
+  .jr-tile .s{font-size:10.5px;color:var(--muted);margin-top:4px}
+  .jr-wrap{border:1px solid var(--line);border-radius:var(--r);overflow-x:auto;background:var(--panel2)}
+  .jr-wrap table{border-collapse:collapse;width:100%;min-width:860px;font-size:12px}
+  .jr-wrap th{font-size:9px;letter-spacing:.14em;text-transform:uppercase;color:var(--dim);font-weight:600;
+    padding:10px 9px;text-align:left;border-bottom:1px solid var(--line2);white-space:nowrap}
+  .jr-wrap td{padding:9px;border-bottom:1px solid #16201e;font-family:var(--mono);
+    font-variant-numeric:tabular-nums;white-space:nowrap}
+  .jr-btn{font-size:10.5px;border:1px solid var(--line2);background:#16211e;color:var(--text);
+    border-radius:6px;padding:3px 8px;cursor:pointer;margin-right:4px}
+  .jr-btn:hover{border-color:var(--accent-dim)}
+  .jr-btn.g:hover{border-color:var(--bull);color:var(--bull)}
+  .jr-btn.p:hover{border-color:var(--bear);color:var(--bear)}
+  .jr-r{width:52px;font-family:var(--mono);font-size:11px;background:#0c1413;color:var(--text);
+    border:1px solid var(--line2);border-radius:5px;padding:2px 5px;margin-right:6px;text-align:right}
+  .jr-flag{font-size:9px;color:var(--amber);margin-left:4px}
+  .jr-amostra{font-size:11.5px;color:var(--amber);margin:10px 2px 0}
+  @media(max-width:900px){.jr-tiles{grid-template-columns:repeat(2,1fr)}}
 
   /* ---------- notícias ---------- */
   .news{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:10px}
@@ -444,6 +467,9 @@
   <div class="ctl"><label>Capital (opcional, R$)</label><input id="rpCapital" type="number" step="1000" placeholder="ex: 50000"></div>
 </div>
 <div id="riskplan"></div>
+
+<h2 class="section">Registro de Operações <span class="hint">o score no momento da entrada × o que aconteceu depois</span></h2>
+<div id="journal"></div>
 
 <h2 class="section">Notícias dos Bancos Centrais <span class="hint">comunicados oficiais — contexto, não altera o score</span></h2>
 <div class="news" id="news"></div>
@@ -692,6 +718,127 @@ function loteDe(sym){ return (LOTS && LOTS[sym]!=null) ? LOTS[sym] : 1; }
 function rpMetric(k,frac,val,col){
   return `<div class="rp-metric"><span class="k">${k}</span><div class="track"><span style="width:${Math.round(Math.max(0,Math.min(1,frac))*100)}%;background:${col}"></span></div><span class="val">${val}</span></div>`;
 }
+/* ---- registro de operações: congela a TESE na entrada para poder auditar depois ---- */
+function loadJournal(){try{const s=JSON.parse(localStorage.getItem("gfquant_journal_v1"));if(Array.isArray(s))return s;}catch(e){}return [];}
+function saveJournal(){localStorage.setItem("gfquant_journal_v1",JSON.stringify(JOURNAL));}
+
+function registrar(sym){
+  const a=STATE.find(x=>x.sym===sym); if(!a) return;
+  const r=calc(a), x=techx(sym), rl=riscoPorLote(sym), lote=loteDe(sym);
+  const ev=eventProx(a);
+  JOURNAL.push({
+    id: Date.now()+"-"+sym,
+    ts: new Date().toISOString().slice(0,10),
+    sym, dir: r.geral>=0?1:-1,
+    score:+r.geral.toFixed(1), conv:+(r.align*100).toFixed(0),
+    tec:+r.tec.toFixed(1), fund:+r.fund.toFixed(1),
+    regimeMercado: QUAD_META[quadKey()].name, regimeAtivo: x?x.regime:null, adx: x?x.adx:null,
+    ext: x?x.ext:null, stopPct: x?x.stopPct:null,
+    lote, risco: rl? +(lote*rl.usd).toFixed(0) : null,
+    flags:{ carry: !!(r.carry&&r.carry.unwind), evento: ev.ev!=="none", esticado: esticado(sym, r.geral>=0?1:-1) },
+    status:"aberta", resultado:null, r:null, fechadaEm:null
+  });
+  saveJournal(); renderJournal();
+}
+function fecharOp(id, resultado, rInput){
+  const op=JOURNAL.find(o=>o.id===id); if(!op) return;
+  let rv=parseFloat(rInput);
+  if(!Number.isFinite(rv)) rv = resultado==="ganho"?1 : resultado==="perda"?-1 : 0;
+  if(resultado==="perda" && rv>0) rv=-rv;         // perda é sempre negativa
+  if(resultado==="zerado") rv=0;
+  op.status="fechada"; op.resultado=resultado; op.r=+rv.toFixed(2); op.fechadaEm=new Date().toISOString().slice(0,10);
+  saveJournal(); renderJournal();
+}
+function apagarOp(id){ JOURNAL=JOURNAL.filter(o=>o.id!==id); saveJournal(); renderJournal(); }
+
+// estatística por faixa — com aviso honesto de amostra pequena
+function faixaScore(s){ const v=Math.abs(s); return v>=4?"≥4,0" : v>=3?"3,0–4,0" : "2,0–3,0"; }
+function statsPor(chave){
+  const fech=JOURNAL.filter(o=>o.status==="fechada");
+  const g={};
+  fech.forEach(o=>{ const k=chave(o); (g[k]=g[k]||[]).push(o); });
+  return Object.entries(g).map(([k,arr])=>{
+    const dec=arr.filter(o=>o.resultado!=="zerado");
+    const win=dec.filter(o=>o.resultado==="ganho").length;
+    const somaR=arr.reduce((s,o)=>s+(o.r||0),0);
+    return { k, n:arr.length, acerto: dec.length? win/dec.length*100 : null, rMedio: arr.length? somaR/arr.length : 0 };
+  }).sort((a,b)=>a.k.localeCompare(b.k));
+}
+
+function renderJournal(){
+  const el=document.getElementById("journal"); if(!el) return;
+  const abertas=JOURNAL.filter(o=>o.status==="aberta"), fechadas=JOURNAL.filter(o=>o.status==="fechada");
+  const dec=fechadas.filter(o=>o.resultado!=="zerado");
+  const win=dec.filter(o=>o.resultado==="ganho").length;
+  const acerto=dec.length? win/dec.length*100 : null;
+  const rTotal=fechadas.reduce((s,o)=>s+(o.r||0),0);
+  const rMedio=fechadas.length? rTotal/fechadas.length : 0;
+
+  if(!JOURNAL.length){
+    el.innerHTML=`<div class="pf-panel"><div style="font-size:12px;color:var(--muted);line-height:1.6">
+      Nenhuma operação registrada ainda. Use o botão <b>Registrar</b> nos cards do Alocador de Risco no
+      momento em que abrir a posição — a ferramenta congela o score, a convicção, o regime e os alertas
+      daquele instante. Depois você marca o resultado e passamos a medir se o modelo realmente acerta.
+    </div></div>`;
+    return;
+  }
+
+  const tiles=`<div class="jr-tiles">
+    <div class="jr-tile"><div class="k">Registradas</div><div class="v">${JOURNAL.length}</div><div class="s">${abertas.length} abertas · ${fechadas.length} fechadas</div></div>
+    <div class="jr-tile"><div class="k">Taxa de acerto</div><div class="v" style="color:${acerto==null?"var(--neutral)":acerto>=50?"var(--bull)":"var(--bear)"}">${acerto==null?"—":acerto.toFixed(0)+"%"}</div><div class="s">${dec.length} operações decididas</div></div>
+    <div class="jr-tile"><div class="k">R médio</div><div class="v" style="color:${rMedio>0?"var(--bull)":rMedio<0?"var(--bear)":"var(--neutral)"}">${fechadas.length?(rMedio>0?"+":"")+rMedio.toFixed(2).replace(".",","):"—"}</div><div class="s">por operação fechada</div></div>
+    <div class="jr-tile"><div class="k">Resultado acumulado</div><div class="v" style="color:${rTotal>0?"var(--bull)":rTotal<0?"var(--bear)":"var(--neutral)"}">${fechadas.length?(rTotal>0?"+":"")+rTotal.toFixed(1).replace(".",",")+"R":"—"}</div><div class="s">soma dos múltiplos de risco</div></div>
+  </div>`;
+
+  const linhas=JOURNAL.slice().reverse().map(o=>{
+    const fl=[o.flags.carry?'<span class="jr-flag">carry</span>':"",o.flags.evento?'<span class="jr-flag">evento</span>':"",o.flags.esticado?'<span class="jr-flag">esticado</span>':""].join("");
+    const acoes = o.status==="aberta"
+      ? `<input class="jr-r" type="number" step="0.1" placeholder="R" data-r="${o.id}">
+         <button class="jr-btn g" data-fechar="${o.id}" data-res="ganho">Ganho</button>
+         <button class="jr-btn p" data-fechar="${o.id}" data-res="perda">Perda</button>
+         <button class="jr-btn" data-fechar="${o.id}" data-res="zerado">Zerou</button>`
+      : `<b style="color:${o.r>0?"var(--bull)":o.r<0?"var(--bear)":"var(--neutral)"}">${(o.r>0?"+":"")+String(o.r).replace(".",",")}R</b>
+         <button class="jr-btn" data-apagar="${o.id}" title="remover">✕</button>`;
+    return `<tr>
+      <td>${o.ts}</td>
+      <td><b>${esc(o.sym)}</b> <span style="color:${o.dir>0?"var(--bull)":"var(--bear)"}">${o.dir>0?"LONG":"SHORT"}</span>${fl}</td>
+      <td style="color:${scoreColor(o.score)}">${(o.score>0?"+":"")+String(o.score).replace(".",",")}</td>
+      <td>${o.conv}%</td>
+      <td>${o.regimeAtivo||"—"}${o.adx!=null?" ("+o.adx+")":""}</td>
+      <td>${o.ext!=null?String(o.ext).replace(".",",")+" ATR":"—"}</td>
+      <td>${String(o.lote).replace(".",",")}${o.risco!=null?" · US$ "+o.risco.toLocaleString("pt-BR"):""}</td>
+      <td>${acoes}</td></tr>`;
+  }).join("");
+
+  const tabela=`<div class="jr-wrap"><table><thead><tr>
+    <th>Data</th><th>Ativo</th><th>Score</th><th>Conv.</th><th>Regime</th><th>Extensão</th><th>Lote · risco</th><th>Resultado</th>
+    </tr></thead><tbody>${linhas}</tbody></table></div>`;
+
+  // evidência por faixa de score — só faz sentido com amostra
+  let evid="";
+  if(fechadas.length){
+    const porScore=statsPor(o=>faixaScore(o.score));
+    evid=`<div class="pf-panel" style="margin-top:14px"><div class="h">Acerto por faixa de score</div>
+      <div class="jr-wrap" style="border:0"><table><thead><tr><th>Faixa</th><th>Operações</th><th>Acerto</th><th>R médio</th></tr></thead><tbody>
+      ${porScore.map(s=>`<tr><td>${s.k}</td><td>${s.n}</td><td>${s.acerto==null?"—":s.acerto.toFixed(0)+"%"}</td>
+        <td style="color:${s.rMedio>0?"var(--bull)":s.rMedio<0?"var(--bear)":"var(--neutral)"}">${(s.rMedio>0?"+":"")+s.rMedio.toFixed(2).replace(".",",")}</td></tr>`).join("")}
+      </tbody></table></div>
+      ${fechadas.length<20?`<div class="jr-amostra">⚠ Amostra de ${fechadas.length} operações — pequena demais para conclusão estatística. Trate como observação, não como evidência. A partir de ~30 fechadas os números começam a significar algo.</div>`:""}
+    </div>`;
+  }
+
+  el.innerHTML=tiles+tabela+evid;
+
+  el.querySelectorAll("button[data-fechar]").forEach(b=>b.addEventListener("click",()=>{
+    const id=b.dataset.fechar;
+    const inp=el.querySelector(`input[data-r="${id}"]`);
+    fecharOp(id, b.dataset.res, inp?inp.value:"");
+  }));
+  el.querySelectorAll("button[data-apagar]").forEach(b=>b.addEventListener("click",()=>{
+    if(confirm("Remover esta operação do registro?")) apagarOp(b.dataset.apagar);
+  }));
+}
+
 // bloco de tamanho de posição: sugere o lote a partir do risco alocado e confere o lote do trader
 function sizingHTML(b, capital){
   const sym=b.best.a.sym, rl=riscoPorLote(sym), br=gfauto().broker;
@@ -718,6 +865,7 @@ function sizingHTML(b, capital){
       <span><input class="sz-in" type="number" step="0.01" min="0" data-lot="${esc(sym)}" value="${meu}">
       <b>${fmtUSD(riscoMeu)}</b>${pctMeu!=null?` <span class="sz-pct">${pctMeu.toFixed(2).replace(".",",")}%</span>`:""}</span></div>
     ${veredito?`<div class="sz-v">${veredito}</div>`:""}
+    <div style="margin-top:7px"><button class="jr-btn" data-registrar="${esc(sym)}">Registrar operação</button></div>
   </div>`;
 }
 
@@ -770,6 +918,10 @@ function renderRiskPlan(){
   }).join("");
   el.innerHTML=summary+`<div class="rp-cards">${cards}</div>`;
   // campos de lote: recalculam só este painel (não perde o foco do input)
+  el.querySelectorAll("button[data-registrar]").forEach(b=>b.addEventListener("click",()=>{
+    registrar(b.dataset.registrar);
+    b.textContent="✓ registrada"; b.disabled=true;
+  }));
   el.querySelectorAll("input[data-lot]").forEach(i=>{
     i.addEventListener("input",()=>{
       const v=parseFloat(i.value);
@@ -924,6 +1076,7 @@ let REGIME=loadRegime();
 let RATES=loadRates();
 let RISK=loadRisk();
 let LOTS=loadLots();
+let JOURNAL=loadJournal();
 let EVENTS=loadEvents();
 let W=0.5;                       // peso técnico (fund = 1-W)
 let RANK="conv";
@@ -1058,7 +1211,7 @@ function scoreColor(v){ if(v>=1)return"var(--bull)"; if(v>0.05)return"#8fcfa4"; 
 /* ---------------- render ---------------- */
 function render(){
   renderDataStatus();
-  renderRegime(); renderRates(); renderEvents(); renderCards(); renderTable(); renderStrength(); renderPortfolio(); renderRiskPlan(); renderNews();
+  renderRegime(); renderRates(); renderEvents(); renderCards(); renderTable(); renderStrength(); renderPortfolio(); renderRiskPlan(); renderJournal(); renderNews();
 }
 
 function renderRegime(){
