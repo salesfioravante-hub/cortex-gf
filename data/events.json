@@ -1,12 +1,19 @@
 {
   "asof": "2026-07-24",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
-  "status": "erro",
+  "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: sem chave",
-    "FMP: HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is only available for legacy users w",
+    "FRED: 5 releases de alto impacto (EUA)",
+    "FMP(stable): HTTP 402",
+    "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
     "ForexFactory: 0 eventos"
   ],
-  "byCurrency": {}
+  "byCurrency": {
+    "USD": {
+      "date": "2026-07-30",
+      "title": "Debt to Gross Domestic Product Ratios",
+      "forecast": ""
+    }
+  }
 }
