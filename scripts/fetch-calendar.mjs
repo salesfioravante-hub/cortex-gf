@@ -61,13 +61,19 @@ async function fromFRED(out) {
 async function fromFMP(out) {
   if (!FMP_KEY) { notes.push("FMP: sem chave"); return; }
   const hoje = new Date(), fim = new Date(Date.now() + 9 * 86400000);
-  const r = await fetch(`https://financialmodelingprep.com/api/v3/economic_calendar?from=${iso(hoje)}&to=${iso(fim)}&apikey=${FMP_KEY}`);
-  if (!r.ok) {
+  // A FMP aposentou o /api/v3 ("Legacy Endpoint") para contas novas — o caminho atual é /stable.
+  const urls = [
+    `https://financialmodelingprep.com/stable/economic-calendar?from=${iso(hoje)}&to=${iso(fim)}&apikey=${FMP_KEY}`,
+    `https://financialmodelingprep.com/api/v3/economic_calendar?from=${iso(hoje)}&to=${iso(fim)}&apikey=${FMP_KEY}`
+  ];
+  let arr = null;
+  for (const u of urls) {
+    const r = await fetch(u);
+    if (r.ok) { arr = await r.json(); break; }
     let m = ""; try { m = (await r.json())?.["Error Message"] || ""; } catch { }
-    notes.push(`FMP: HTTP ${r.status}${m ? " — " + m.slice(0, 120) : ""}`);
-    return;
+    notes.push(`FMP(${u.includes("/stable/") ? "stable" : "v3"}): HTTP ${r.status}${m ? " — " + m.slice(0, 90) : ""}`);
   }
-  const arr = await r.json();
+  if (!arr) return;
   if (!Array.isArray(arr)) { notes.push("FMP: resposta inesperada " + JSON.stringify(arr).slice(0, 100)); return; }
   let n = 0;
   for (const e of arr) {

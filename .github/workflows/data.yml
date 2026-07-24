@@ -36,9 +36,10 @@ jobs:
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
 
-      - name: Ingestão calendário econômico (FMP / ForexFactory)
+      - name: Ingestão calendário econômico (FRED / FMP / ForexFactory)
         run: node scripts/fetch-calendar.mjs
         env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}   # fonte principal (datas dos dados dos EUA)
           FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
         continue-on-error: true    # calendário indisponível não derruba o resto
 
