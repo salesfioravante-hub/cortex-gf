@@ -22,6 +22,19 @@
 | **DXY→ouro** | derivado do Regime (já automático) | interno | — | — | — |
 | **Compra de BCs (ouro)** | World Gold Council (trimestral) | relatório WGC | — | trimestral | grátis (baixa freq.) |
 
+### Veredito testado em 2026-07-24 (calendário econômico)
+| Fonte | Resultado real | Conclusão |
+|---|---|---|
+| **FRED** `releases/dates` | ✅ funciona com a chave grátis | **fonte principal** dos dados dos EUA |
+| **FMP** `/stable/economic-calendar` | ❌ **HTTP 402 (Payment Required)** | calendário é **pago**; plano grátis não cobre |
+| FMP `/api/v3/economic_calendar` | ❌ HTTP 403 "Legacy Endpoint" | aposentado para contas novas |
+| **ForexFactory** XML | ✅ funciona (inclusive do IP do GitHub) | reserva; cobre **só a semana corrente** (não existe `nextweek`, 404) |
+
+> Ou seja: **não vale pagar FMP só pelo calendário.** FRED (14 dias à frente) + reuniões de BC
+> (meses à frente) + ForexFactory (semana corrente) cobrem o necessário de graça.
+> Atenção ao filtrar nomes do FRED: ancore no início (`^`), senão "Gross Domestic Product" casa
+> com "Debt to Gross Domestic Product Ratios" e polui o calendário.
+
 **Regra de ouro de licença (importante pro público):** priorizar **domínio público** — **FRED, CFTC, EIA**
 (dados do governo dos EUA) cobrem a maior parte e podem ser usados comercialmente. FMP/Finnhub/Trading
 Economics/Myfxbook são APIs **comerciais**: ótimas p/ desenvolver, exigem plano pago quando escalar.

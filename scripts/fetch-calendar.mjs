@@ -27,8 +27,10 @@ const FMP_KEY = process.env.FMP_API_KEY;
 const CUR = ["USD", "EUR", "GBP", "JPY", "AUD", "NZD", "CAD", "CHF"];
 const COUNTRY2CUR = { US: "USD", EU: "EUR", GB: "GBP", UK: "GBP", JP: "JPY", AU: "AUD", NZ: "NZD", CA: "CAD", CH: "CHF" };
 
-// releases dos EUA que realmente movem mercado
-const US_HIGH = /(employment situation|consumer price index|gross domestic product|personal income and outlays|retail sales|producer price index|employment cost)/i;
+// Releases dos EUA que realmente movem mercado.
+// Ancorado no INÍCIO do nome de propósito: sem o "^", "gross domestic product" casava com
+// "Debt to Gross Domestic Product Ratios" (estatística menor) e sujava o calendário.
+const US_HIGH = /^(employment situation|consumer price index|gross domestic product|personal income and outlays|advance monthly sales for retail|producer price index|employment cost index|job openings and labor turnover)/i;
 
 const iso = d => d.toISOString().slice(0, 10);
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -48,13 +50,14 @@ async function fromFRED(out) {
   const r = await fetch(url);
   if (!r.ok) { notes.push(`FRED: HTTP ${r.status}`); return; }
   const j = await r.json();
-  let n = 0;
+  const hits = [];
   for (const d of (j.release_dates || [])) {
     if (!US_HIGH.test(d.release_name || "")) continue;
     if (d.date < iso(hoje)) continue;
-    put(out, "USD", d.date, d.release_name); n++;
+    put(out, "USD", d.date, d.release_name);
+    hits.push(`${d.date} ${d.release_name}`);
   }
-  notes.push(`FRED: ${n} releases de alto impacto (EUA)`);
+  notes.push(`FRED: ${hits.length} releases (EUA)${hits.length ? " — " + hits.slice(0, 4).join("; ") : ""}`);
 }
 
 /* ---- 2) FMP: várias moedas + projeção (depende do plano) ---- */
