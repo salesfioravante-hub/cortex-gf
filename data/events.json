@@ -1,7 +1,12 @@
 {
   "asof": "2026-07-24",
-  "source": "Calendário econômico (ForexFactory)",
+  "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "erro",
-  "provider": "ForexFactory",
+  "provider": "multi",
+  "notes": [
+    "FRED: sem chave",
+    "FMP: HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is only available for legacy users w",
+    "ForexFactory: 0 eventos"
+  ],
   "byCurrency": {}
 }
