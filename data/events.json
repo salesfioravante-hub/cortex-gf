@@ -1,20 +1,7 @@
 {
-  "asof": "2026-07-23",
+  "asof": "2026-07-24",
   "source": "Calendário econômico (ForexFactory)",
-  "status": "ok",
+  "status": "erro",
   "provider": "ForexFactory",
-  "byCurrency": {
-    "AUD": {
-      "date": "2026-07-23",
-      "title": "Employment Change",
-      "forecast": "16.4K",
-      "previous": "40.3K"
-    },
-    "EUR": {
-      "date": "2026-07-23",
-      "title": "Main Refinancing Rate",
-      "forecast": "2.40%",
-      "previous": "2.40%"
-    }
-  }
+  "byCurrency": {}
 }
