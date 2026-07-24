@@ -9,7 +9,7 @@ import { dirname, join } from "node:path";
 export async function buildBundle(DATA_DIR) {
   const files = (await readdir(DATA_DIR)).filter(f => f.endsWith(".json"));
   const meta = { generated: new Date().toISOString(), sources: {} };
-  const out = { cot: {}, regime: null, commodity: {}, events: {}, cbcal: {}, tech: {}, techx: {}, quote: {}, news: [] };
+  const out = { cot: {}, regime: null, commodity: {}, events: {}, cbcal: {}, tech: {}, techx: {}, quote: {}, news: [], broker: null };
 
   for (const f of files) {
     const key = f.replace(".json", "");
@@ -27,9 +27,13 @@ export async function buildBundle(DATA_DIR) {
     if (key === "prices" && j.byAsset) {
       out.tech = Object.fromEntries(Object.entries(j.byAsset).map(([s, v]) => [s, { W1: v.W1, D1: v.D1, H4: v.H4 }]));
       out.techx = Object.fromEntries(Object.entries(j.byAsset).map(([s, v]) =>
-        [s, { trend: v.trend, mom: v.mom, adx: v.adx, regime: v.regime, ext: v.ext, stop: v.stop, stopPct: v.stopPct }]));
+        [s, { trend: v.trend, mom: v.mom, adx: v.adx, regime: v.regime, ext: v.ext, stop: v.stop, stopPct: v.stopPct, stopMult: v.stopMult, stopTf: v.stopTf, atr4: v.atr4 }]));
       out.quote = Object.fromEntries(Object.entries(j.byAsset).map(([s, v]) => [s, { last: v.last, chg: v.chg, rsi: v.rsi, atr: v.atr, perfW: v.perfW }]));
       meta.sources.tecnico = { status: j.status, asof: j.asof, provider: "TradingView" };
+    }
+    if (key === "broker-tickmill" && j.instrumentos) {
+      out.broker = j;
+      meta.sources.corretora = { status: "ok", asof: j.atualizado, provider: j.corretora };
     }
     if (key === "cbcalendar" && j.byCurrency) {
       out.cbcal = j.byCurrency;
@@ -57,6 +61,7 @@ window.GFDATA.tech = ${JSON.stringify(out.tech)};
 window.GFDATA.techx = ${JSON.stringify(out.techx)};
 window.GFDATA.quote = ${JSON.stringify(out.quote)};
 window.GFDATA.news = ${JSON.stringify(out.news)};
+window.GFDATA.broker = ${JSON.stringify(out.broker)};
 `;
   await writeFile(join(DATA_DIR, "gfdata.js"), js);
   return { meta, out };

@@ -1,0 +1,29 @@
+{
+  "corretora": "Tickmill",
+  "moedaConta": "USD",
+  "atualizado": "2026-07-24",
+  "nota": "size = unidades por 1 lote. quote = moeda em que o lucro/prejuízo nasce (convertida para USD pela cotação do próprio painel). Confira no MT5: botão direito no símbolo → Especificação.",
+  "confirmado": "EURUSD (100.000) e XAUUSD (100 oz, mín 0,01) verificados no site da Tickmill em 2026-07-24.",
+  "verificar": "USOIL e índices não estavam explícitos no site — valores abaixo são o padrão de mercado. CONFERIR NO MT5 antes de confiar no risco em dólar destes.",
+  "minLote": 0.01,
+  "passoLote": 0.01,
+  "instrumentos": {
+    "EURUSD": { "size": 100000, "quote": "USD", "ok": true },
+    "GBPUSD": { "size": 100000, "quote": "USD", "ok": true },
+    "AUDUSD": { "size": 100000, "quote": "USD", "ok": true },
+    "NZDUSD": { "size": 100000, "quote": "USD", "ok": true },
+    "USDCAD": { "size": 100000, "quote": "CAD", "ok": true },
+    "USDJPY": { "size": 100000, "quote": "JPY", "ok": true },
+    "USDCHF": { "size": 100000, "quote": "CHF", "ok": true },
+    "AUDJPY": { "size": 100000, "quote": "JPY", "ok": true },
+    "NZDJPY": { "size": 100000, "quote": "JPY", "ok": true },
+    "AUDCAD": { "size": 100000, "quote": "CAD", "ok": true },
+    "EURCHF": { "size": 100000, "quote": "CHF", "ok": true },
+    "XAUUSD": { "size": 100, "quote": "USD", "ok": true },
+    "XAGUSD": { "size": 5000, "quote": "USD", "ok": false },
+    "USOIL": { "size": 1000, "quote": "USD", "ok": false },
+    "US500": { "size": 1, "quote": "USD", "ok": false },
+    "USTEC": { "size": 1, "quote": "USD", "ok": false },
+    "US30": { "size": 1, "quote": "USD", "ok": false }
+  }
+}

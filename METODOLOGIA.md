@@ -319,6 +319,27 @@ O rating do TradingView **ignora volatilidade e localização**, que é o que o 
 - **Extensão = (preço − EMA50) / ATR** → quantos ATRs longe da média.
   `|ext| ≥ 3` **na direção do trade** = perseguindo preço → selo ⚠ esticado e **corte de 30% no risco alocado** (§5.8).
 
+## 5.16 TAMANHO DE POSIÇÃO — do % de risco ao lote na Tickmill
+
+**Stop = 2 × ATR de 4H** (timeframe de execução do trader). O ATR de 4H é ~1/3 do diário —
+usar o diário num operacional de 4H triplicaria o stop e o risco por lote. A *extensão* (§5.15)
+segue no diário, porque responde a outra pergunta: "estou perseguindo no gráfico maior?".
+
+**Risco de 1 lote (US$)** = `stop(preço) × tamanho_do_contrato × conversão_para_USD`
+- Specs em `data/broker-tickmill.json` (editável). Confirmados no site: EURUSD 100.000, XAUUSD 100 oz (mín 0,01).
+- A conversão usa as **próprias cotações do painel**: par com quote em JPY divide por USDJPY, e assim por diante.
+- Instrumentos com `ok:false` (prata, petróleo, índices) exibem **⚠ conferir spec** — não estavam
+  explícitos no site; validar no MT5 (botão direito no símbolo → Especificação).
+
+**Lote sugerido** = `risco_alocado(US$) ÷ risco_de_1_lote`, arredondado **para baixo** no passo de 0,01
+(nunca arredondar risco para cima). O risco alocado vem do Alocador (§5.8) × Capital.
+
+**Conferência**: o trader digita o lote que realmente usa (padrão 1) e a ferramenta mostra o risco em
+US$ e em % da conta, mais o veredito (`alinhado` / `Nx o sugerido` / `conservador`).
+
+> Achado que motivou: com lote fixo, EURUSD 0,30 arrisca US$ 112 e XAUUSD 0,03 arrisca US$ 176 —
+> **57% a mais no ouro**. Lote igual não é risco igual.
+
 ## 6. Como o indicador Pine se pluga aqui
 
 O Pine (a enviar) deve exportar, por ativo/timeframe, os **insumos crus**, não o veredito:

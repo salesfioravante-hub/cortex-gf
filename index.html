@@ -200,6 +200,17 @@
   .rp-members .m{font-family:var(--mono);font-size:10px;padding:2px 7px;border-radius:5px;background:#131d1b;
     border:1px solid var(--line);color:var(--muted)}
   .rp-members .m.exp{border-color:var(--accent-dim);color:var(--accent)}
+  /* tamanho de posição */
+  .sz{border-top:1px solid var(--line);margin:10px 0;padding-top:9px;display:flex;flex-direction:column;gap:5px}
+  .sz-l{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:11.5px;color:var(--muted)}
+  .sz-l b{font-family:var(--mono);color:var(--text);font-weight:700}
+  .sz-in{width:62px;font-family:var(--mono);font-size:11.5px;background:#0c1413;color:var(--text);
+    border:1px solid var(--line2);border-radius:6px;padding:3px 6px;margin-right:7px;text-align:right}
+  .sz-in:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+  .sz-pct{font-family:var(--mono);font-size:10.5px;color:var(--dim)}
+  .sz-v{font-size:11px;margin-top:2px}
+  .sz-ok{color:var(--bull)} .sz-alerta{color:var(--amber)}
+  .sz-warn{color:var(--amber);font-size:10.5px}
 
   /* ---------- notícias ---------- */
   .news{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:10px}
@@ -674,9 +685,42 @@ function refreshDrawer(){if(CURRENT_SYM&&document.getElementById("drawer").class
 /* ---- alocador de risco (Tier 2) ---- */
 function loadRisk(){try{const s=JSON.parse(localStorage.getItem("gfquant_risk_v1"));if(s)return s;}catch(e){}return {base:1.5,cap:6.0,capital:0};}
 function saveRisk(){localStorage.setItem("gfquant_risk_v1",JSON.stringify(RISK));}
+// lote que o trader realmente usa em cada ativo (padrão 1); serve p/ conferir contra o sugerido
+function loadLots(){try{const s=JSON.parse(localStorage.getItem("gfquant_lots_v1"));if(s)return s;}catch(e){}return {};}
+function saveLots(){localStorage.setItem("gfquant_lots_v1",JSON.stringify(LOTS));}
+function loteDe(sym){ return (LOTS && LOTS[sym]!=null) ? LOTS[sym] : 1; }
 function rpMetric(k,frac,val,col){
   return `<div class="rp-metric"><span class="k">${k}</span><div class="track"><span style="width:${Math.round(Math.max(0,Math.min(1,frac))*100)}%;background:${col}"></span></div><span class="val">${val}</span></div>`;
 }
+// bloco de tamanho de posição: sugere o lote a partir do risco alocado e confere o lote do trader
+function sizingHTML(b, capital){
+  const sym=b.best.a.sym, rl=riscoPorLote(sym), br=gfauto().broker;
+  if(!rl) return `<div class="sz"><div class="sz-warn">Sem specs da corretora para ${esc(sym)} — risco em dólar indisponível.</div></div>`;
+  const meu=loteDe(sym);
+  const riscoMeu=meu*rl.usd;
+  const alvo = capital ? capital*b.risk/100 : null;         // quanto o Alocador liberou, em US$
+  const sug  = alvo!=null ? arredondaLote(alvo/rl.usd, br) : null;
+  const pctMeu = capital ? (riscoMeu/capital*100) : null;
+  const fmtUSD=v=>"US$ "+Math.round(v).toLocaleString("pt-BR");
+  // compara o que ele faz com o que o modelo pediria
+  let veredito="";
+  if(sug!=null && sug>0){
+    const r=meu/sug;
+    veredito = r>1.25 ? `<span class="sz-alerta">seu lote é ${r.toFixed(1)}× o sugerido</span>`
+             : r<0.75 ? `<span class="sz-ok">seu lote é conservador (${r.toFixed(1)}× o sugerido)</span>`
+             : `<span class="sz-ok">alinhado com o sugerido</span>`;
+  }
+  return `<div class="sz">
+    <div class="sz-l"><span>Risco de 1 lote</span><b>${fmtUSD(rl.usd)}</b>${rl.confiavel?"":' <span class="sz-warn">⚠ conferir spec</span>'}</div>
+    ${sug!=null?`<div class="sz-l"><span>Lote sugerido</span><b style="color:var(--accent)">${sug>0?String(sug).replace(".",","):"abaixo do mínimo"}</b></div>`:
+      `<div class="sz-l"><span>Lote sugerido</span><span class="sz-warn">informe o Capital acima</span></div>`}
+    <div class="sz-l"><span>Seu lote</span>
+      <span><input class="sz-in" type="number" step="0.01" min="0" data-lot="${esc(sym)}" value="${meu}">
+      <b>${fmtUSD(riscoMeu)}</b>${pctMeu!=null?` <span class="sz-pct">${pctMeu.toFixed(2).replace(".",",")}%</span>`:""}</span></div>
+    ${veredito?`<div class="sz-v">${veredito}</div>`:""}
+  </div>`;
+}
+
 function renderRiskPlan(){
   const el=document.getElementById("riskplan");if(!el)return;
   const {book,comps}=computeBook();
@@ -713,17 +757,30 @@ function renderRiskPlan(){
       <div class="rc-top">
         <div><span class="rc-sym">${b.best.a.sym}</span><span class="rc-dir" style="background:${dirCol}22;color:${dirCol}">${dirLab}</span>${b.unwind?' <span class="crchip">⚠ carry</span>':''}${b.evWorst!=="none"?` <span class="evchip ${b.evWorst==="imminent"?"im":""}">${b.evWorst==="imminent"?"⚠ evento":"◐ evento"}</span>`:''}${b.chase?` <span class="extchip">⚠ esticado</span>`:''}
           <div class="rc-driver" style="margin-top:7px">Aposta: <b>${b.driver}</b></div>
-          ${b.x&&b.x.stopPct!=null?`<div class="rc-driver" style="margin-top:3px">Stop 1,5×ATR: <b>${String(b.x.stopPct).replace(".",",")}%</b>${b.x.ext!=null?` · a <b>${String(b.x.ext).replace(".",",")}</b> ATR da média`:""}${b.x.regime?` · <b>${b.x.regime}</b> (ADX ${b.x.adx})`:""}</div>`:""}</div>
+          ${b.x&&b.x.stopPct!=null?`<div class="rc-driver" style="margin-top:3px">Stop ${b.x.stopMult||2}×ATR ${b.x.stopTf||"4H"}: <b>${String(b.x.stopPct).replace(".",",")}%</b>${b.x.ext!=null?` · a <b>${String(b.x.ext).replace(".",",")}</b> ATR da média`:""}${b.x.regime?` · <b>${b.x.regime}</b> (ADX ${b.x.adx})`:""}</div>`:""}</div>
         <div class="rc-risk"><div class="v" style="color:${dirCol}">${b.risk.toFixed(2).replace('.',',')}%</div><div class="cap">${rl}</div></div>
       </div>
       <div class="rp-bars">
         ${rpMetric("Score",b.strength/5,(b.dir>0?'+':'−')+b.strength.toFixed(1).replace('.',','),"var(--accent)")}
         ${rpMetric("Convicção",b.conv,Math.round(b.conv*100)+"%","var(--accent)")}
       </div>
+      ${sizingHTML(b, cap)}
       ${redund.length?`<div class="rc-driver" style="margin-bottom:6px">Já coberto (não somar risco): </div><div class="rp-members">${redund.map(m=>`<span class="m">${m.a.sym}</span>`).join("")}</div>`:`<div class="rp-members"><span class="m exp">expressão única</span></div>`}
     </div>`;
   }).join("");
   el.innerHTML=summary+`<div class="rp-cards">${cards}</div>`;
+  // campos de lote: recalculam só este painel (não perde o foco do input)
+  el.querySelectorAll("input[data-lot]").forEach(i=>{
+    i.addEventListener("input",()=>{
+      const v=parseFloat(i.value);
+      LOTS[i.dataset.lot]=Number.isFinite(v)&&v>=0?v:1;
+      saveLots();
+      const foco=i.dataset.lot;
+      renderRiskPlan();
+      const novo=document.querySelector(`input[data-lot="${foco}"]`);
+      if(novo){novo.focus();novo.setSelectionRange(novo.value.length,novo.value.length);}
+    });
+  });
 }
 
 /* ---- correlação (modelo de fatores) ---- */
@@ -866,6 +923,7 @@ let STATE=load();
 let REGIME=loadRegime();
 let RATES=loadRates();
 let RISK=loadRisk();
+let LOTS=loadLots();
 let EVENTS=loadEvents();
 let W=0.5;                       // peso técnico (fund = 1-W)
 let RANK="conv";
@@ -874,6 +932,31 @@ function gfauto(){ return (typeof window!=="undefined" && window.GFDATA) ? windo
 // detalhe técnico por ativo: tendência, momentum, ADX (regime), extensão em ATR e stop sugerido
 function techx(sym){ const t=gfauto().techx; return (t && t[sym]) || null; }
 function regClass(r){ return r==="tendência"?"reg-t" : r==="lateral"?"reg-l" : "reg-m"; }
+/* ---- sizing: risco em dólar por lote (specs da corretora) ---- */
+// converte a moeda em que o P&L nasce para USD usando as próprias cotações do painel
+function paraUSD(quote){
+  if(quote==="USD") return 1;
+  const q=gfauto().quote||{};
+  const par={JPY:"USDJPY", CAD:"USDCAD", CHF:"USDCHF"}[quote];
+  const r=par && q[par] && q[par].last;
+  return r ? 1/r : null;              // USDJPY=163 -> 1 JPY = 1/163 USD
+}
+// quanto se perde, em USD, se o stop for atingido operando 1 lote
+function riscoPorLote(sym){
+  const b=gfauto().broker, x=techx(sym);
+  if(!b || !x || x.stop==null) return null;
+  const spec=b.instrumentos && b.instrumentos[sym];
+  if(!spec) return null;
+  const fx=paraUSD(spec.quote);
+  if(fx==null) return null;
+  return { usd: x.stop * spec.size * fx, confiavel: spec.ok !== false, stop: x.stop };
+}
+// arredonda para baixo no passo da corretora (nunca arredondar risco para cima)
+function arredondaLote(l, b){
+  const passo=(b&&b.passoLote)||0.01, min=(b&&b.minLote)||0.01;
+  const v=Math.floor(l/passo)*passo;
+  return v < min ? 0 : +v.toFixed(2);
+}
 // "perseguindo o preço": esticado ≥3 ATRs da média NA DIREÇÃO que se pretende operar
 function esticado(sym,dir){
   const x=techx(sym); if(!x || x.ext==null) return false;

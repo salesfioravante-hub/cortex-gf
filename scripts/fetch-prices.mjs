@@ -34,8 +34,12 @@ const TICKERS = {
 const COLS = [
   "close", "change", "Perf.W", "RSI", "ATR", "ADX", "EMA50",          // 0-6
   "Recommend.MA|1W", "Recommend.MA", "Recommend.MA|240",              // 7-9   tendência
-  "Recommend.Other|1W", "Recommend.Other", "Recommend.Other|240"      // 10-12 momentum
+  "Recommend.Other|1W", "Recommend.Other", "Recommend.Other|240",     // 10-12 momentum
+  "ATR|240"                                                           // 13    ATR de 4H (execução)
 ];
+// Stop = 2 x ATR de 4H (definido pelo trader). O ATR de 4H é ~1/3 do diário — usar o diário
+// num operacional de 4H triplicaria o stop e o risco por lote.
+const STOP_MULT = 2;
 
 // rating (−1..+1) -> pts (−2..+2), mesma escala do §1
 function recToPts(v) {
@@ -84,15 +88,18 @@ async function main() {
         : recToPts(a == null ? b : b == null ? a : w.t * a + w.m * b);
     }
 
-    // risco: quantos ATRs o preço está longe da média de 50 (perseguindo ou não)
+    // Extensão continua no DIÁRIO: responde "estou perseguindo no gráfico maior?" (estrutura).
     const ext = (close != null && ema50 != null && atr) ? (close - ema50) / atr : null;
-    const stop = atr ? 1.5 * atr : null;                       // stop sugerido = 1,5 ATR
+    // Stop vem do 4H: é o timeframe de EXECUÇÃO.
+    const atr4 = d[13];
+    const stop = atr4 ? STOP_MULT * atr4 : null;
 
     byAsset[sym] = {
       last: close, chg: d[1], perfW: d[2], rsi: d[3] != null ? Math.round(d[3]) : null,
-      atr, adx, regime: w.regime, ema50,
+      atr, atr4, adx, regime: w.regime, ema50,
       ext: ext != null ? +ext.toFixed(2) : null,
-      stop: stop != null ? +stop.toPrecision(4) : null,
+      stopMult: STOP_MULT, stopTf: "4H",
+      stop: stop != null ? +stop.toPrecision(5) : null,
       stopPct: (stop && close) ? +(stop / close * 100).toFixed(2) : null,
       trend, mom, W1: tf.W1, D1: tf.D1, H4: tf.H4
     };
