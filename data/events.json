@@ -7,13 +7,33 @@
     "FRED: 5 releases (EUA) — 2026-07-30 Gross Domestic Product; 2026-07-30 Personal Income and Outlays; 2026-07-31 Employment Cost Index; 2026-08-04 Job Openings and Labor Turnover Survey",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 0 eventos"
+    "ForexFactory: 18 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-07-30",
-      "title": "Gross Domestic Product",
+      "date": "2026-07-29",
+      "title": "Federal Funds Rate",
+      "forecast": "3.75%"
+    },
+    "AUD": {
+      "date": "2026-07-28",
+      "title": "RBA Gov Bullock Speaks",
       "forecast": ""
+    },
+    "GBP": {
+      "date": "2026-07-30",
+      "title": "BOE Monetary Policy Report",
+      "forecast": ""
+    },
+    "JPY": {
+      "date": "2026-07-31",
+      "title": "BOJ Policy Rate",
+      "forecast": "<1.00%"
+    },
+    "CAD": {
+      "date": "2026-07-31",
+      "title": "GDP m/m",
+      "forecast": "0.2%"
     }
   }
 }
