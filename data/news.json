@@ -1,9 +1,16 @@
 {
-  "asof": "2026-07-26",
+  "asof": "2026-07-27",
   "source": "Bancos centrais (RSS)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Services Producer Price Index (June)",
+      "link": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2606.pdf",
+      "date": "2026-07-26"
+    },
     {
       "cur": "EUR",
       "source": "BCE",
@@ -65,13 +72,6 @@
       "source": "BoJ",
       "title": "(BOJ Review) The Development and Strengthening of International Forums in Asia with the Participation of the Bank of Japan",
       "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e09.htm",
-      "date": "2026-07-22"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Bank of Japan Accounts (July 20)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260720.htm",
       "date": "2026-07-22"
     },
     {
