@@ -7,6 +7,13 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "(IMES Newsletter) 2026 BOJ-IMES Conference",
+      "link": "http://www.boj.or.jp/en/about/release_2026/rel260727a.htm",
+      "date": "2026-07-27"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Services Producer Price Index (June)",
       "link": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2606.pdf",
       "date": "2026-07-26"
@@ -65,13 +72,6 @@
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260717.xlsx",
-      "date": "2026-07-22"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(BOJ Review) The Development and Strengthening of International Forums in Asia with the Participation of the Bank of Japan",
-      "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e09.htm",
       "date": "2026-07-22"
     },
     {
