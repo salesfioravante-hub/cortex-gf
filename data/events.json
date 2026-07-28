@@ -1,24 +1,24 @@
 {
-  "asof": "2026-07-27",
+  "asof": "2026-07-28",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 5 releases (EUA) — 2026-07-30 Gross Domestic Product; 2026-07-30 Personal Income and Outlays; 2026-07-31 Employment Cost Index; 2026-08-04 Job Openings and Labor Turnover Survey",
+    "FRED: HTTP 502",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
     "ForexFactory: 19 eventos"
   ],
   "byCurrency": {
-    "USD": {
-      "date": "2026-07-29",
-      "title": "Federal Funds Rate",
-      "forecast": "3.75%"
-    },
     "AUD": {
       "date": "2026-07-28",
       "title": "RBA Gov Bullock Speaks",
       "forecast": ""
+    },
+    "USD": {
+      "date": "2026-07-29",
+      "title": "Federal Funds Rate",
+      "forecast": "3.75%"
     },
     "GBP": {
       "date": "2026-07-30",
