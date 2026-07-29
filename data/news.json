@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "",
+      "date": "2026-07-29"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
@@ -108,13 +115,6 @@
       "title": "PRA and FCA propose new captive insurance regime to drive UK growth and competitiveness",
       "link": "https://www.bankofengland.co.uk/news/2026/july/pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-growth-and-competitiveness",
       "date": "2026-07-14"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-      "link": "",
-      "date": "2026-07-09"
     }
   ]
 }
