@@ -1,9 +1,16 @@
 {
-  "asof": "2026-07-28",
+  "asof": "2026-07-29",
   "source": "Bancos centrais (RSS)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Average Contract Interest Rates on Loans and Discounts (June)",
+      "link": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2606.pdf",
+      "date": "2026-07-28"
+    },
     {
       "cur": "JPY",
       "source": "BoJ",
@@ -58,13 +65,6 @@
       "source": "BoE",
       "title": "Letter from the Governor to the Daily Mail",
       "link": "https://www.bankofengland.co.uk/letter/2026/letter-from-the-governor-to-the-daily-mail",
-      "date": "2026-07-23"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Developments in Real Exports and Real Imports",
-      "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
       "date": "2026-07-23"
     },
     {
