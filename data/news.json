@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
+      "date": "2026-07-29"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Average Contract Interest Rates on Loans and Discounts (June)",
@@ -51,13 +58,6 @@
       "source": "BCE",
       "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
-      "date": "2026-07-24"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
       "date": "2026-07-24"
     },
     {
