@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "link": "",
+      "date": "2026-07-30"
+    },
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "link": "",
+      "date": "2026-07-30"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Digital euro app to incorporate highest accessibility standards",
@@ -101,20 +115,6 @@
       "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
       "link": "",
       "date": "2026-07-16"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
-      "link": "",
-      "date": "2026-07-16"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
-      "link": "",
-      "date": "2026-07-14"
     }
   ]
 }
