@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Digital euro app to incorporate highest accessibility standards",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
+      "date": "2026-07-30"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve issues FOMC statement",
@@ -58,13 +65,6 @@
       "source": "BCE",
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
       "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
-      "date": "2026-07-24"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
       "date": "2026-07-24"
     },
     {
