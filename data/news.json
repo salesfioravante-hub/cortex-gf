@@ -12,6 +12,20 @@
       "date": "2026-07-30"
     },
     {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Minutes of the Meeting of the Court of Directors held on 4 June 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-4-june-2026",
+      "date": "2026-07-30"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026",
+      "date": "2026-07-30"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve issues FOMC statement",
@@ -82,13 +96,6 @@
       "date": "2026-07-22"
     },
     {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "PRA fines HDI Global SE £4,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data",
-      "link": "https://www.bankofengland.co.uk/news/2026/july/pra-fines-hdi-global-se-4165000-for-inaccurate-reporting",
-      "date": "2026-07-20"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
@@ -107,13 +114,6 @@
       "source": "Fed",
       "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
       "link": "",
-      "date": "2026-07-14"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "PRA and FCA propose new captive insurance regime to drive UK growth and competitiveness",
-      "link": "https://www.bankofengland.co.uk/news/2026/july/pra-and-fca-propose-new-captive-insurance-regime-to-drive-uk-growth-and-competitiveness",
       "date": "2026-07-14"
     }
   ]
