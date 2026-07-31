@@ -1,9 +1,16 @@
 {
-  "asof": "2026-07-30",
+  "asof": "2026-07-31",
   "source": "Bancos centrais (RSS)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Payment and Settlement Statistics (June)",
+      "link": "http://www.boj.or.jp/en/statistics/set/kess/release/2026/kess2606.pdf",
+      "date": "2026-07-31"
+    },
     {
       "cur": "USD",
       "source": "Fed",
@@ -73,13 +80,6 @@
       "title": "(IMES Newsletter) 2026 BOJ-IMES Conference",
       "link": "http://www.boj.or.jp/en/about/release_2026/rel260727a.htm",
       "date": "2026-07-27"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Services Producer Price Index (June)",
-      "link": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2606.pdf",
-      "date": "2026-07-26"
     },
     {
       "cur": "EUR",

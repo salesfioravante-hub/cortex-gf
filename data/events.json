@@ -1,23 +1,18 @@
 {
-  "asof": "2026-07-30",
+  "asof": "2026-07-31",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 7 releases (EUA) — 2026-07-30 Gross Domestic Product; 2026-07-30 Personal Income and Outlays; 2026-07-31 Employment Cost Index; 2026-08-04 Job Openings and Labor Turnover Survey",
+    "FRED: 6 releases (EUA) — 2026-07-31 Employment Cost Index; 2026-08-04 Job Openings and Labor Turnover Survey; 2026-08-07 Employment Situation; 2026-08-12 Consumer Price Index",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 12 eventos"
+    "ForexFactory: 5 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-07-30",
-      "title": "Gross Domestic Product",
-      "forecast": ""
-    },
-    "GBP": {
-      "date": "2026-07-30",
-      "title": "BOE Monetary Policy Report",
+      "date": "2026-07-31",
+      "title": "Employment Cost Index",
       "forecast": ""
     },
     "JPY": {
