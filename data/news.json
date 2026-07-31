@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "link": "",
+      "date": "2026-07-31"
+    },
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+      "link": "",
+      "date": "2026-07-31"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (July-September 2026) (Schedule Updates)",
@@ -35,14 +49,14 @@
     {
       "cur": "USD",
       "source": "Fed",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
       "link": "",
       "date": "2026-07-30"
     },
     {
       "cur": "USD",
       "source": "Fed",
-      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
       "link": "",
       "date": "2026-07-30"
     },
@@ -66,13 +80,6 @@
       "title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
       "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026",
       "date": "2026-07-30"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve issues FOMC statement",
-      "link": "",
-      "date": "2026-07-29"
     },
     {
       "cur": "EUR",
@@ -108,13 +115,6 @@
       "title": "PRA consults on updated guidance for friendly society amalgamations and transfers",
       "link": "https://www.bankofengland.co.uk/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers",
       "date": "2026-07-22"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-      "link": "",
-      "date": "2026-07-16"
     }
   ]
 }
