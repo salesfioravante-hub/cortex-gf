@@ -7,6 +7,27 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Statement on Monetary Policy",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260731a.pdf",
+      "date": "2026-07-31"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Outlook for Economic Activity and Prices (July 2026, The Bank's View)",
+      "link": "http://www.boj.or.jp/en/mopo/outlook/gor2607a.pdf",
+      "date": "2026-07-31"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Scheduled Dates of Monetary Policy Meetings in 2027",
+      "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/m_ref/mref260731a.pdf",
+      "date": "2026-07-31"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Payment and Settlement Statistics (June)",
       "link": "http://www.boj.or.jp/en/statistics/set/kess/release/2026/kess2606.pdf",
       "date": "2026-07-31"
@@ -59,27 +80,6 @@
       "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
       "date": "2026-07-29"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Average Contract Interest Rates on Loans and Discounts (June)",
-      "link": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2606.pdf",
-      "date": "2026-07-28"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Indicators for Core CPI",
-      "link": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
-      "date": "2026-07-28"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(IMES Newsletter) 2026 BOJ-IMES Conference",
-      "link": "http://www.boj.or.jp/en/about/release_2026/rel260727a.htm",
-      "date": "2026-07-27"
     },
     {
       "cur": "EUR",
