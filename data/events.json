@@ -1,29 +1,19 @@
 {
-  "asof": "2026-07-31",
+  "asof": "2026-08-01",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 6 releases (EUA) — 2026-07-31 Employment Cost Index; 2026-08-04 Job Openings and Labor Turnover Survey; 2026-08-07 Employment Situation; 2026-08-12 Consumer Price Index",
+    "FRED: 5 releases (EUA) — 2026-08-04 Job Openings and Labor Turnover Survey; 2026-08-07 Employment Situation; 2026-08-12 Consumer Price Index; 2026-08-13 Producer Price Index",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 5 eventos"
+    "ForexFactory: 0 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-07-31",
-      "title": "Employment Cost Index",
+      "date": "2026-08-04",
+      "title": "Job Openings and Labor Turnover Survey",
       "forecast": ""
-    },
-    "JPY": {
-      "date": "2026-07-31",
-      "title": "BOJ Outlook Report",
-      "forecast": ""
-    },
-    "CAD": {
-      "date": "2026-07-31",
-      "title": "GDP m/m",
-      "forecast": "0.2%"
     }
   }
 }
