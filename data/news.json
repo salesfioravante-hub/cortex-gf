@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Outlook for Economic Activity and Prices (July 2026, full text)",
+      "link": "http://www.boj.or.jp/en/mopo/outlook/gor2607b.pdf",
+      "date": "2026-08-03"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Sources of Changes in Current Account Balances and Market Operations (July)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf07.xlsx",
+      "date": "2026-08-03"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
@@ -30,20 +44,6 @@
       "source": "BoJ",
       "title": "Timetable and Schedule of U.S. Dollar Funds-Supplying Operations  (August-December 2026)",
       "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260731a.pdf",
-      "date": "2026-07-31"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Statement on Monetary Policy",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260731a.pdf",
-      "date": "2026-07-31"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Outlook for Economic Activity and Prices (July 2026, The Bank's View)",
-      "link": "http://www.boj.or.jp/en/mopo/outlook/gor2607a.pdf",
       "date": "2026-07-31"
     },
     {
