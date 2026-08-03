@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
+      "link": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
+      "date": "2026-08-03"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Outlook for Economic Activity and Prices (July 2026, full text)",
@@ -108,13 +115,6 @@
       "title": "Letter from the Governor to the Daily Mail",
       "link": "https://www.bankofengland.co.uk/letter/2026/letter-from-the-governor-to-the-daily-mail",
       "date": "2026-07-23"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "PRA consults on updated guidance for friendly society amalgamations and transfers",
-      "link": "https://www.bankofengland.co.uk/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers",
-      "date": "2026-07-22"
     }
   ]
 }
