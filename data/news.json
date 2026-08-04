@@ -7,22 +7,29 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260731.xlsx",
+      "date": "2026-08-04"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Collateral Accepted by the Bank of Japan (End of July)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2607.xlsx",
+      "date": "2026-08-04"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "(BOJ Review) Impact of the Bank of Japan's Reductions in JGB Purchases on the JGB Markets",
+      "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e10.htm",
+      "date": "2026-08-04"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "(Research Paper) IMES DPS: Distance and Loan Pricing Revisited: A Structural Estimation Approach",
       "link": "http://www.boj.or.jp/en/research/imes/dps/dpse260804b.htm",
-      "date": "2026-08-04"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(Research Paper) IMES DPS: Current Status and Future Prospects of Optical Quantum Computing",
-      "link": "http://www.boj.or.jp/en/research/imes/dps/dpse260804a.htm",
-      "date": "2026-08-04"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Bank of Japan Accounts (July 31)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260731.htm",
       "date": "2026-08-04"
     },
     {
@@ -30,13 +37,6 @@
       "source": "BoE",
       "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
       "link": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
-      "date": "2026-08-03"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Monetary Base (July)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
       "date": "2026-08-03"
     },
     {
