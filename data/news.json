@@ -1,14 +1,28 @@
 {
-  "asof": "2026-08-03",
+  "asof": "2026-08-04",
   "source": "Bancos centrais (RSS)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Bank of Japan Accounts (July 31)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260731.htm",
+      "date": "2026-08-04"
+    },
+    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
       "link": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
+      "date": "2026-08-03"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Monetary Base (July)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
       "date": "2026-08-03"
     },
     {
@@ -37,20 +51,6 @@
       "source": "Fed",
       "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
       "link": "",
-      "date": "2026-07-31"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (July-September 2026) (Schedule Updates)",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260731b.pdf",
-      "date": "2026-07-31"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Timetable and Schedule of U.S. Dollar Funds-Supplying Operations  (August-December 2026)",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260731a.pdf",
       "date": "2026-07-31"
     },
     {
