@@ -7,6 +7,20 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "(Research Paper) IMES DPS: Distance and Loan Pricing Revisited: A Structural Estimation Approach",
+      "link": "http://www.boj.or.jp/en/research/imes/dps/dpse260804b.htm",
+      "date": "2026-08-04"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "(Research Paper) IMES DPS: Current Status and Future Prospects of Optical Quantum Computing",
+      "link": "http://www.boj.or.jp/en/research/imes/dps/dpse260804a.htm",
+      "date": "2026-08-04"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Bank of Japan Accounts (July 31)",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260731.htm",
       "date": "2026-08-04"
@@ -23,20 +37,6 @@
       "source": "BoJ",
       "title": "Monetary Base (July)",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
-      "date": "2026-08-03"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Outlook for Economic Activity and Prices (July 2026, full text)",
-      "link": "http://www.boj.or.jp/en/mopo/outlook/gor2607b.pdf",
-      "date": "2026-08-03"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Sources of Changes in Current Account Balances and Market Operations (July)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf07.xlsx",
       "date": "2026-08-03"
     },
     {
