@@ -1,5 +1,5 @@
 {
-  "asof": "2026-08-04",
+  "asof": "2026-08-05",
   "source": "Bancos centrais (RSS)",
   "status": "ok",
   "provider": "RSS BC",
@@ -28,6 +28,20 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Sources of Changes in Current Account Balances (Projections for Aug.)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2608.xlsx",
+      "date": "2026-08-04"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Minutes of the Monetary Policy Meeting on June 15 and 16, 2026",
+      "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260616.pdf",
+      "date": "2026-08-04"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260731.xlsx",
       "date": "2026-08-04"
@@ -37,20 +51,6 @@
       "source": "BoJ",
       "title": "Collateral Accepted by the Bank of Japan (End of July)",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2607.xlsx",
-      "date": "2026-08-04"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(BOJ Review) Impact of the Bank of Japan's Reductions in JGB Purchases on the JGB Markets",
-      "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e10.htm",
-      "date": "2026-08-04"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(Research Paper) IMES DPS: Distance and Loan Pricing Revisited: A Structural Estimation Approach",
-      "link": "http://www.boj.or.jp/en/research/imes/dps/dpse260804b.htm",
       "date": "2026-08-04"
     },
     {

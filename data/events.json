@@ -1,24 +1,19 @@
 {
-  "asof": "2026-08-04",
+  "asof": "2026-08-05",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 5 releases (EUA) — 2026-08-04 Job Openings and Labor Turnover Survey; 2026-08-07 Employment Situation; 2026-08-12 Consumer Price Index; 2026-08-13 Producer Price Index",
+    "FRED: 4 releases (EUA) — 2026-08-07 Employment Situation; 2026-08-12 Consumer Price Index; 2026-08-13 Producer Price Index; 2026-08-14 Advance Monthly Sales for Retail and Food Services",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 7 eventos"
+    "ForexFactory: 5 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-08-04",
-      "title": "Job Openings and Labor Turnover Survey",
+      "date": "2026-08-07",
+      "title": "Employment Situation",
       "forecast": ""
-    },
-    "NZD": {
-      "date": "2026-08-04",
-      "title": "Employment Change q/q",
-      "forecast": "0.1%"
     },
     "CAD": {
       "date": "2026-08-07",
