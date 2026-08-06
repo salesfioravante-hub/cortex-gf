@@ -7,6 +7,13 @@
     {
       "cur": "GBP",
       "source": "BoE",
+      "title": "Green notice 2026/02",
+      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02",
+      "date": "2026-08-06"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
       "title": "Artificial Intelligence Consortium minutes – June 2026",
       "link": "https://www.bankofengland.co.uk/minutes/2026/june/ai-consortium-minutes-3-june-2026",
       "date": "2026-08-05"
@@ -86,13 +93,6 @@
       "source": "BoE",
       "title": "Minutes of the Meeting of the Court of Directors held on 4 June 2026",
       "link": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-4-june-2026",
-      "date": "2026-07-30"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026",
       "date": "2026-07-30"
     },
     {
