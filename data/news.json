@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Consumption Activity Index",
+      "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+      "date": "2026-08-07"
+    },
+    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Green notice 2026/02",
@@ -58,13 +65,6 @@
       "source": "Fed",
       "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
       "link": "",
-      "date": "2026-08-04"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Sources of Changes in Current Account Balances (Projections for Aug.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2608.xlsx",
       "date": "2026-08-04"
     },
     {
