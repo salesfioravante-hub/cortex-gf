@@ -1,5 +1,5 @@
 {
-  "asof": "2026-08-06",
+  "asof": "2026-08-07",
   "source": "Bancos centrais (RSS)",
   "status": "ok",
   "provider": "RSS BC",
@@ -9,6 +9,27 @@
       "source": "BoE",
       "title": "Green notice 2026/02",
       "link": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02",
+      "date": "2026-08-06"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Market Operations by the Bank of Japan (July)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2607.xlsx",
+      "date": "2026-08-06"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Monetary Base and the Bank of Japan's Transactions (July)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2607.pdf",
+      "date": "2026-08-06"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Bank of Japan's Transactions with the Government (July)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2607.pdf",
       "date": "2026-08-06"
     },
     {
@@ -44,27 +65,6 @@
       "source": "BoJ",
       "title": "Sources of Changes in Current Account Balances (Projections for Aug.)",
       "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2608.xlsx",
-      "date": "2026-08-04"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Minutes of the Monetary Policy Meeting on June 15 and 16, 2026",
-      "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260616.pdf",
-      "date": "2026-08-04"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260731.xlsx",
-      "date": "2026-08-04"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Collateral Accepted by the Bank of Japan (End of July)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2607.xlsx",
       "date": "2026-08-04"
     },
     {
