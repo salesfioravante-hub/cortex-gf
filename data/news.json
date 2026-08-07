@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "ECB publishes consolidated banking data for end-March 2026",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
+      "date": "2026-08-07"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Amounts Outstanding in the Call Money Market (July)",
+      "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
+      "date": "2026-08-07"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Consumption Activity Index",
@@ -30,13 +44,6 @@
       "source": "BoJ",
       "title": "Monetary Base and the Bank of Japan's Transactions (July)",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2607.pdf",
-      "date": "2026-08-06"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Bank of Japan's Transactions with the Government (July)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2607.pdf",
       "date": "2026-08-06"
     },
     {
@@ -107,13 +114,6 @@
       "source": "BCE",
       "title": "Philip R. Lane: Outlook for the euro area economy",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
-      "date": "2026-07-24"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
       "date": "2026-07-24"
     }
   ]
