@@ -7,13 +7,23 @@
     "FRED: 3 releases (EUA) — 2026-08-12 Consumer Price Index; 2026-08-13 Producer Price Index; 2026-08-14 Advance Monthly Sales for Retail and Food Services",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 0 eventos"
+    "ForexFactory: 11 eventos"
   ],
   "byCurrency": {
     "USD": {
       "date": "2026-08-12",
       "title": "Consumer Price Index",
       "forecast": ""
+    },
+    "AUD": {
+      "date": "2026-08-11",
+      "title": "Cash Rate",
+      "forecast": "4.35%"
+    },
+    "GBP": {
+      "date": "2026-08-13",
+      "title": "GDP m/m",
+      "forecast": "-0.1%"
     }
   }
 }
