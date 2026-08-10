@@ -1,12 +1,12 @@
 {
-  "asof": "2026-08-06",
+  "asof": "2026-08-07",
   "source": "FRED (Federal Reserve Bank of St. Louis)",
   "status": "ok",
   "series_ok": "7/7",
   "regime": {
     "dxy": "down",
     "us10y": "up",
-    "vix": "normal",
+    "vix": "calm",
     "growth": "up",
     "infl": "up"
   },
@@ -19,7 +19,7 @@
     }
   },
   "values": {
-    "vix": 15.15,
+    "vix": 14.9,
     "dxy": 119.7034,
     "us10y": 4.69,
     "realyield": 2.43
