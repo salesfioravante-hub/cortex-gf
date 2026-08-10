@@ -1,9 +1,30 @@
 {
-  "asof": "2026-08-09",
+  "asof": "2026-08-10",
   "source": "Bancos centrais (RSS)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Summary of Opinions at the Monetary Policy Meeting on July 30 and 31, 2026",
+      "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260731.pdf",
+      "date": "2026-08-09"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Principal Figures of Financial Institutions (July)",
+      "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2607.pdf",
+      "date": "2026-08-09"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Release of Latest \"Loans and Bills Discounted by Sector\" and \"Loans to Households\" Data",
+      "link": "http://www.boj.or.jp/en/statistics/outline/notice_2026/not260810a.htm",
+      "date": "2026-08-09"
+    },
     {
       "cur": "EUR",
       "source": "BCE",
@@ -19,31 +40,10 @@
       "date": "2026-08-07"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Consumption Activity Index",
-      "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
-      "date": "2026-08-07"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Green notice 2026/02",
       "link": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02",
-      "date": "2026-08-06"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Market Operations by the Bank of Japan (July)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2607.xlsx",
-      "date": "2026-08-06"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Monetary Base and the Bank of Japan's Transactions (July)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2607.pdf",
       "date": "2026-08-06"
     },
     {
