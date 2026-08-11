@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html",
+      "date": "2026-08-11"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Summary of Opinions at the Monetary Policy Meeting on July 30 and 31, 2026",
@@ -108,13 +115,6 @@
       "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
       "date": "2026-07-29"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Philip R. Lane: Outlook for the euro area economy",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
-      "date": "2026-07-24"
     }
   ]
 }
