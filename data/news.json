@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "(Research Paper) Linkages of Firm Spending Behavior through Supply Chains",
+      "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e14.htm",
+      "date": "2026-08-12"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "(Research Paper) Mapping Japan's Manufacturing Supply Chains Through Firm-to-Firm Transaction Data",
+      "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e13.htm",
+      "date": "2026-08-12"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
@@ -30,20 +44,6 @@
       "source": "BoJ",
       "title": "Summary of Opinions at the Monetary Policy Meeting on July 30 and 31, 2026",
       "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260731.pdf",
-      "date": "2026-08-09"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Principal Figures of Financial Institutions (July)",
-      "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2607.pdf",
-      "date": "2026-08-09"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Release of Latest \"Loans and Bills Discounted by Sector\" and \"Loans to Households\" Data",
-      "link": "http://www.boj.or.jp/en/statistics/outline/notice_2026/not260810a.htm",
       "date": "2026-08-09"
     },
     {
