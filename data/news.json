@@ -1,5 +1,5 @@
 {
-  "asof": "2026-08-11",
+  "asof": "2026-08-12",
   "source": "Bancos centrais (RSS)",
   "status": "ok",
   "provider": "RSS BC",
@@ -16,6 +16,13 @@
       "source": "BoE",
       "title": "Results of the Semi-Annual FX Turnover Surveys in April 2026",
       "link": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-april-2026",
+      "date": "2026-08-11"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Money Stock (July)",
+      "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2607.pdf",
       "date": "2026-08-11"
     },
     {
@@ -44,13 +51,6 @@
       "source": "BCE",
       "title": "ECB publishes consolidated banking data for end-March 2026",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
-      "date": "2026-08-07"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Amounts Outstanding in the Call Money Market (July)",
-      "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
       "date": "2026-08-07"
     },
     {
