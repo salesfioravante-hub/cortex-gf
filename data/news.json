@@ -7,6 +7,13 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "(Research Paper) Market Operations in Fiscal 2025",
+      "link": "http://www.boj.or.jp/en/research/brp/mor/mor260812.htm",
+      "date": "2026-08-12"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "(Research Paper) Linkages of Firm Spending Behavior through Supply Chains",
       "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e14.htm",
       "date": "2026-08-12"
@@ -38,13 +45,6 @@
       "title": "Money Stock (July)",
       "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2607.pdf",
       "date": "2026-08-11"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Summary of Opinions at the Monetary Policy Meeting on July 30 and 31, 2026",
-      "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260731.pdf",
-      "date": "2026-08-09"
     },
     {
       "cur": "EUR",
