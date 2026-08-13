@@ -5,6 +5,27 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Cash remains most widely accepted payment method in euro area",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
+      "date": "2026-08-13"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260810.xlsx",
+      "date": "2026-08-13"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Basic Figures on Fails (July)",
+      "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2607.pdf",
+      "date": "2026-08-13"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Bank of Japan Accounts (August 10)",
@@ -16,20 +37,6 @@
       "source": "BoJ",
       "title": "Corporate Goods Price Index (July)",
       "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2607.pdf",
-      "date": "2026-08-12"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(Research Paper) Market Operations in Fiscal 2025",
-      "link": "http://www.boj.or.jp/en/research/brp/mor/mor260812.htm",
-      "date": "2026-08-12"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(Research Paper) Linkages of Firm Spending Behavior through Supply Chains",
-      "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e14.htm",
       "date": "2026-08-12"
     },
     {
@@ -108,13 +115,6 @@
       "title": "Digital euro app to incorporate highest accessibility standards",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
       "date": "2026-07-30"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
-      "date": "2026-07-29"
     }
   ]
 }
