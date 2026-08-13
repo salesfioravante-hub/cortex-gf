@@ -1,18 +1,18 @@
 {
-  "asof": "2026-08-12",
+  "asof": "2026-08-13",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 5 releases (EUA) — 2026-08-12 Consumer Price Index; 2026-08-13 Producer Price Index; 2026-08-14 Advance Monthly Sales for Retail and Food Services; 2026-08-26 Gross Domestic Product",
+    "FRED: 4 releases (EUA) — 2026-08-13 Producer Price Index; 2026-08-14 Advance Monthly Sales for Retail and Food Services; 2026-08-26 Gross Domestic Product; 2026-08-26 Personal Income and Outlays",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 7 eventos"
+    "ForexFactory: 3 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-08-12",
-      "title": "Consumer Price Index",
+      "date": "2026-08-13",
+      "title": "Producer Price Index",
       "forecast": ""
     },
     "GBP": {
