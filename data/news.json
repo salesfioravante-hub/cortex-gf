@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "(Research Paper) What Prevents Productivity Gains from Translating into Wages: Lessons from Japan's Deflationary Period",
+      "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e12.htm",
+      "date": "2026-08-14"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
@@ -38,13 +45,6 @@
       "title": "Bank of Japan Accounts (August 10)",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260810.htm",
       "date": "2026-08-13"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Corporate Goods Price Index (July)",
-      "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2607.pdf",
-      "date": "2026-08-12"
     },
     {
       "cur": "EUR",
