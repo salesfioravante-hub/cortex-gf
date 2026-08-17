@@ -7,6 +7,27 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Highlights of the Outlook for Economic Activity and Prices (July 2026)",
+      "link": "http://www.boj.or.jp/en/mopo/outlook/highlight/ten202607.htm",
+      "date": "2026-08-17"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "BOJ Current Account Balances by Sector (July)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
+      "date": "2026-08-17"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Results of the Fifth Market Functioning Survey concerning Climate Change",
+      "link": "http://www.boj.or.jp/en/paym/m-climate/mcli260817a.htm",
+      "date": "2026-08-17"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "(Research Paper) What Prevents Productivity Gains from Translating into Wages: Lessons from Japan's Deflationary Period",
       "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e12.htm",
       "date": "2026-08-14"
@@ -23,27 +44,6 @@
       "source": "BCE",
       "title": "Cash remains most widely accepted payment method in euro area",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
-      "date": "2026-08-13"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260810.xlsx",
-      "date": "2026-08-13"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Basic Figures on Fails (July)",
-      "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2607.pdf",
-      "date": "2026-08-13"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Bank of Japan Accounts (August 10)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260810.htm",
       "date": "2026-08-13"
     },
     {
