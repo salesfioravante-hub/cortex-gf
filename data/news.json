@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
+      "date": "2026-08-17"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Highlights of the Outlook for Economic Activity and Prices (July 2026)",
@@ -108,13 +115,6 @@
       "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
       "link": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
       "date": "2026-08-03"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Digital euro app to incorporate highest accessibility standards",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
-      "date": "2026-07-30"
     }
   ]
 }
