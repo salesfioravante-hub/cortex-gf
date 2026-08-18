@@ -1,24 +1,19 @@
 {
-  "asof": "2026-08-17",
+  "asof": "2026-08-18",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 2 releases (EUA) — 2026-08-26 Gross Domestic Product; 2026-08-26 Personal Income and Outlays",
+    "FRED: 3 releases (EUA) — 2026-08-26 Gross Domestic Product; 2026-08-26 Personal Income and Outlays; 2026-09-01 Job Openings and Labor Turnover Survey",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 8 eventos"
+    "ForexFactory: 5 eventos"
   ],
   "byCurrency": {
     "USD": {
       "date": "2026-08-19",
       "title": "FOMC Meeting Minutes",
       "forecast": ""
-    },
-    "CAD": {
-      "date": "2026-08-17",
-      "title": "CPI m/m",
-      "forecast": "0.4%"
     },
     "GBP": {
       "date": "2026-08-18",
