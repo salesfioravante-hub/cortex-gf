@@ -1,13 +1,13 @@
 {
   "asof": "2026-08-17",
   "source": "FRED (Federal Reserve Bank of St. Louis)",
-  "status": "ok",
-  "series_ok": "7/7",
+  "status": "parcial",
+  "series_ok": "6/7",
   "regime": {
     "dxy": "down",
     "us10y": "up",
     "vix": "normal",
-    "growth": "up",
+    "growth": "down",
     "infl": "down"
   },
   "commodity": {
