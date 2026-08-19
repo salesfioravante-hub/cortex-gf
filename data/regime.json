@@ -5,23 +5,23 @@
   "series_ok": "7/7",
   "regime": {
     "dxy": "down",
-    "us10y": "up",
+    "us10y": "flat",
     "vix": "normal",
     "growth": "up",
     "infl": "down"
   },
   "commodity": {
     "XAUUSD": {
-      "realYield": -2
+      "realYield": 0
     },
     "XAGUSD": {
-      "realYield": -1
+      "realYield": 0
     }
   },
   "values": {
     "vix": 15.84,
     "dxy": 118.9028,
-    "us10y": 4.72,
-    "realyield": 2.44
+    "us10y": 4.71,
+    "realyield": 2.41
   }
 }

@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "link": "",
+      "date": "2026-08-19"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
@@ -99,13 +106,6 @@
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
-      "link": "",
-      "date": "2026-08-04"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
       "link": "",
       "date": "2026-08-04"
     },
