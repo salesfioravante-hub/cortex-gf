@@ -7,6 +7,20 @@
     {
       "cur": "USD",
       "source": "Fed",
+      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "link": "",
+      "date": "2026-08-20"
+    },
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "link": "",
+      "date": "2026-08-20"
+    },
+    {
+      "cur": "USD",
+      "source": "Fed",
       "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
       "link": "",
       "date": "2026-08-19"
@@ -94,20 +108,6 @@
       "title": "Artificial Intelligence Consortium minutes – June 2026",
       "link": "https://www.bankofengland.co.uk/minutes/2026/june/ai-consortium-minutes-3-june-2026",
       "date": "2026-08-05"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
-      "link": "",
-      "date": "2026-08-04"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
-      "link": "",
-      "date": "2026-08-04"
     },
     {
       "cur": "GBP",
