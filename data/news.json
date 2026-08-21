@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "ECB Consumer Expectations Survey results – July 2026",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
+      "date": "2026-08-21"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Developments in Real Exports and Real Imports",
+      "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+      "date": "2026-08-21"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
@@ -68,25 +82,11 @@
       "date": "2026-08-17"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(Research Paper) What Prevents Productivity Gains from Translating into Wages: Lessons from Japan's Deflationary Period",
-      "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e12.htm",
-      "date": "2026-08-14"
-    },
-    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Cash remains most widely accepted payment method in euro area",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
       "date": "2026-08-13"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html",
-      "date": "2026-08-11"
     },
     {
       "cur": "GBP",
