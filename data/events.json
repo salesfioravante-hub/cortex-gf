@@ -7,13 +7,23 @@
     "FRED: 4 releases (EUA) — 2026-08-26 Gross Domestic Product; 2026-08-26 Personal Income and Outlays; 2026-09-01 Job Openings and Labor Turnover Survey; 2026-09-04 Employment Situation",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 0 eventos"
+    "ForexFactory: 9 eventos"
   ],
   "byCurrency": {
     "USD": {
       "date": "2026-08-26",
       "title": "Gross Domestic Product",
       "forecast": ""
+    },
+    "AUD": {
+      "date": "2026-08-26",
+      "title": "CPI m/m",
+      "forecast": "0.9%"
+    },
+    "CAD": {
+      "date": "2026-08-28",
+      "title": "GDP m/m",
+      "forecast": "0.2%"
     }
   }
 }
