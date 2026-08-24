@@ -12,16 +12,16 @@
   },
   "commodity": {
     "XAUUSD": {
-      "realYield": 2
+      "realYield": 0
     },
     "XAGUSD": {
-      "realYield": 1
+      "realYield": 0
     }
   },
   "values": {
     "vix": 15.13,
-    "dxy": 118.9028,
-    "us10y": 4.69,
-    "realyield": 2.35
+    "dxy": 118.0628,
+    "us10y": 4.74,
+    "realyield": 2.4
   }
 }
