@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Piero Cipollone: Interview with ilsussidiario.net",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
+      "date": "2026-08-24"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260820.xlsx",
+      "date": "2026-08-24"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Financial System Report Annex \"Use and Risk Management of Generative AI by Japanese Financial Institutions\"",
@@ -30,13 +44,6 @@
       "source": "BCE",
       "title": "ECB Consumer Expectations Survey results – July 2026",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
-      "date": "2026-08-21"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Developments in Real Exports and Real Imports",
-      "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
       "date": "2026-08-21"
     },
     {
@@ -80,13 +87,6 @@
       "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
       "date": "2026-08-17"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Cash remains most widely accepted payment method in euro area",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
-      "date": "2026-08-13"
     },
     {
       "cur": "GBP",
