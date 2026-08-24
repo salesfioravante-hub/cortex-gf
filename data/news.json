@@ -7,6 +7,20 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Financial System Report Annex \"Use and Risk Management of Generative AI by Japanese Financial Institutions\"",
+      "link": "http://www.boj.or.jp/en/research/brp/fsr/fsrb260824.htm",
+      "date": "2026-08-24"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Bank of Japan Accounts (August 20)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260820.htm",
+      "date": "2026-08-24"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Statistics on Securities Financing Transactions in Japan",
       "link": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
       "date": "2026-08-23"
@@ -65,20 +79,6 @@
       "source": "BCE",
       "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
-      "date": "2026-08-17"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Highlights of the Outlook for Economic Activity and Prices (July 2026)",
-      "link": "http://www.boj.or.jp/en/mopo/outlook/highlight/ten202607.htm",
-      "date": "2026-08-17"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "BOJ Current Account Balances by Sector (July)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
       "date": "2026-08-17"
     },
     {
