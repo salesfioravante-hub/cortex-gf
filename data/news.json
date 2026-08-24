@@ -1,9 +1,16 @@
 {
-  "asof": "2026-08-23",
+  "asof": "2026-08-24",
   "source": "Bancos centrais (RSS)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Statistics on Securities Financing Transactions in Japan",
+      "link": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
+      "date": "2026-08-23"
+    },
     {
       "cur": "EUR",
       "source": "BCE",
@@ -72,13 +79,6 @@
       "source": "BoJ",
       "title": "BOJ Current Account Balances by Sector (July)",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
-      "date": "2026-08-17"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Results of the Fifth Market Functioning Survey concerning Climate Change",
-      "link": "http://www.boj.or.jp/en/paym/m-climate/mcli260817a.htm",
       "date": "2026-08-17"
     },
     {
