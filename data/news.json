@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Indicators for Core CPI",
+      "link": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
+      "date": "2026-08-25"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Piero Cipollone: Interview with ilsussidiario.net",
@@ -31,13 +38,6 @@
       "title": "Bank of Japan Accounts (August 20)",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260820.htm",
       "date": "2026-08-24"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Statistics on Securities Financing Transactions in Japan",
-      "link": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
-      "date": "2026-08-23"
     },
     {
       "cur": "EUR",
