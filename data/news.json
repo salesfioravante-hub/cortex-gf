@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+      "link": "",
+      "date": "2026-08-25"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Indicators for Core CPI",
@@ -56,13 +63,6 @@
     {
       "cur": "USD",
       "source": "Fed",
-      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "link": "",
-      "date": "2026-08-20"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
       "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
       "link": "",
       "date": "2026-08-20"
@@ -70,9 +70,9 @@
     {
       "cur": "USD",
       "source": "Fed",
-      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
       "link": "",
-      "date": "2026-08-19"
+      "date": "2026-08-20"
     },
     {
       "cur": "EUR",
