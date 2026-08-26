@@ -1,5 +1,5 @@
 {
-  "asof": "2026-08-25",
+  "asof": "2026-08-26",
   "source": "Bancos centrais (RSS)",
   "status": "ok",
   "provider": "RSS BC",
@@ -9,6 +9,13 @@
       "source": "Fed",
       "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
       "link": "",
+      "date": "2026-08-25"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Services Producer Price Index (July)",
+      "link": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2607.pdf",
       "date": "2026-08-25"
     },
     {
@@ -37,13 +44,6 @@
       "source": "BoJ",
       "title": "Financial System Report Annex \"Use and Risk Management of Generative AI by Japanese Financial Institutions\"",
       "link": "http://www.boj.or.jp/en/research/brp/fsr/fsrb260824.htm",
-      "date": "2026-08-24"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Bank of Japan Accounts (August 20)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260820.htm",
       "date": "2026-08-24"
     },
     {
