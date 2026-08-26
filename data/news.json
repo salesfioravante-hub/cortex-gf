@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
+      "date": "2026-08-26"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
@@ -82,13 +89,6 @@
       "date": "2026-08-19"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
-      "date": "2026-08-17"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Results of the Semi-Annual FX Turnover Surveys in April 2026",
@@ -101,13 +101,6 @@
       "title": "Green notice 2026/02",
       "link": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02",
       "date": "2026-08-06"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Artificial Intelligence Consortium minutes – June 2026",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/june/ai-consortium-minutes-3-june-2026",
-      "date": "2026-08-05"
     }
   ]
 }
