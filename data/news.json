@@ -1,9 +1,16 @@
 {
-  "asof": "2026-08-26",
+  "asof": "2026-08-27",
   "source": "Bancos centrais (RSS)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Speech by Deputy Governor HIMINO in Saitama (Japan's Economy and Monetary Policy)",
+      "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko260827a.htm",
+      "date": "2026-08-27"
+    },
     {
       "cur": "EUR",
       "source": "BCE",
@@ -44,13 +51,6 @@
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260820.xlsx",
-      "date": "2026-08-24"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Financial System Report Annex \"Use and Risk Management of Generative AI by Japanese Financial Institutions\"",
-      "link": "http://www.boj.or.jp/en/research/brp/fsr/fsrb260824.htm",
       "date": "2026-08-24"
     },
     {
