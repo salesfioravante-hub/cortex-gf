@@ -5,10 +5,31 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+      "link": "",
+      "date": "2026-08-27"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Meeting of 22-23 July 2026",
+      "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
+      "date": "2026-08-27"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Delay to the November 2026 RTGS standards release",
+      "link": "https://www.bankofengland.co.uk/news/2026/august/delay-to-the-november-2026-rtgs-standards-release",
+      "date": "2026-08-27"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Speech by Deputy Governor HIMINO in Saitama (Japan's Economy and Monetary Policy)",
-      "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko260827a.htm",
+      "link": "https://www.boj.or.jp/en/about/press/koen_2026/ko260827a.htm",
       "date": "2026-08-27"
     },
     {
@@ -29,14 +50,14 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Services Producer Price Index (July)",
-      "link": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2607.pdf",
+      "link": "https://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2607.pdf",
       "date": "2026-08-25"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Indicators for Core CPI",
-      "link": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
+      "link": "https://www.boj.or.jp/en/research/research_data/cpi/index.htm",
       "date": "2026-08-25"
     },
     {
@@ -50,7 +71,7 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260820.xlsx",
+      "link": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260820.xlsx",
       "date": "2026-08-24"
     },
     {
@@ -75,32 +96,11 @@
       "date": "2026-08-20"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "link": "",
-      "date": "2026-08-20"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
-      "date": "2026-08-19"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Results of the Semi-Annual FX Turnover Surveys in April 2026",
       "link": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-april-2026",
       "date": "2026-08-11"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Green notice 2026/02",
-      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02",
-      "date": "2026-08-06"
     }
   ]
 }
