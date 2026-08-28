@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Isabel Schnabel: Central banks on-chain",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+      "date": "2026-08-28"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "(BOJ Review) Expanding and Revising the Application of Hedonic Quality Adjustment in the Corporate Goods Price Index",
+      "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e11.htm",
+      "date": "2026-08-28"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
@@ -66,20 +80,6 @@
       "title": "Piero Cipollone: Interview with ilsussidiario.net",
       "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
       "date": "2026-08-24"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260820.xlsx",
-      "date": "2026-08-24"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "ECB Consumer Expectations Survey results – July 2026",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
-      "date": "2026-08-21"
     },
     {
       "cur": "USD",
