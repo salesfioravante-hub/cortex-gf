@@ -1,10 +1,10 @@
 {
-  "asof": "2026-08-27",
+  "asof": "2026-08-28",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 3 releases (EUA) — 2026-09-01 Job Openings and Labor Turnover Survey; 2026-09-04 Employment Situation; 2026-09-10 Producer Price Index",
+    "FRED: 4 releases (EUA) — 2026-09-01 Job Openings and Labor Turnover Survey; 2026-09-04 Employment Situation; 2026-09-10 Producer Price Index; 2026-09-11 Consumer Price Index",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
     "ForexFactory: 4 eventos"
