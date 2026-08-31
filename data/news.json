@@ -7,6 +7,13 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (July-September 2026) (Schedule Updates)",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
+      "date": "2026-08-31"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Payment and Settlement Statistics (July)",
       "link": "http://www.boj.or.jp/en/statistics/set/kess/release/2026/kess2607.pdf",
       "date": "2026-08-31"
@@ -30,13 +37,6 @@
       "source": "BCE",
       "title": "Isabel Schnabel: Central banks on-chain",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
-      "date": "2026-08-28"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(BOJ Review) Expanding and Revising the Application of Hedonic Quality Adjustment in the Corporate Goods Price Index",
-      "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e11.htm",
       "date": "2026-08-28"
     },
     {
