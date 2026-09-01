@@ -100,7 +100,42 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil: Private survey of inventory shows a headline crude oil vs expected",
+      "title": "CENTCOM confirms hits Iranian air defence and naval sites after Hormuz mine attempt",
+      "link": "https://investinglive.com/commodities/centcom-confirms-hits-iranian-air-defence-and-naval-sites-after-hormuz-mine-attempt/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Dip buyers coming in: Schroders turns more bullish on gold citing central bank buying",
+      "link": "https://investinglive.com/commodities/dip-buyers-coming-in-schroders-turns-more-bullish-on-gold-citing-central-bank-buying/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UBS's rate cut thesis meets a tougher test after Tuesday's yield surge",
+      "link": "https://investinglive.com/central-banks/ubs-s-rate-cut-thesis-meets-a-tougher-test-after-tuesday-s-yield-surge/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas FX news wrap 1 Sept: It's a wrap but not for the Iran War.  Fighting resumes.",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-1-sept-it-s-a-wrap-but-not-for-the-iran-war-fighting-resumes/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US oil production data delayed as EIA cites technical glitch",
+      "link": "https://investinglive.com/commodities/us-oil-production-data-delayed-as-eia-cites-technical-glitch/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Oil: Private survey of inventory shows a headline crude oil draw greater than expected",
       "link": "https://investinglive.com/commodities/oil-private-survey-of-inventory-shows-a-headline-crude-oil-vs-expected/",
       "date": "2026-09-01"
     },
@@ -169,37 +204,44 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "AUDUSD is lower on the day but finds support buyers near corrective lows from last week",
-      "link": "https://investinglive.com/technical-analysis/audusd-is-lower-on-the-day-but-finds-support-buyers-near-corrective-lows-from-last-week/",
+      "source": "FXStreet",
+      "title": "Australian Dollar falls as US-Iran conflict lifts USD, GDP data eyed",
+      "link": "https://www.fxstreet.com/news/australian-dollar-falls-as-us-iran-conflict-lifts-usd-gdp-data-eyed-202609012239",
       "date": "2026-09-01"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US Treas. Sec Bessent: I think Japan is taking right steps for economy",
-      "link": "https://investinglive.com/news/us-treas-sec-bessent-i-think-japan-is-taking-right-steps-for-economy/",
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Range-bound consolidation outlook against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-bound-consolidation-outlook-against-us-dollar-uob-202609012224",
       "date": "2026-09-01"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Canada PM Carney: We never thought we had a trade deal with US during talks",
-      "link": "https://investinglive.com/news/canada-pm-carney-we-never-thought-we-had-a-trade-deal-with-us-during-talks/",
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: 200-day SMA caps Euro as Dollar firms",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-200-day-sma-caps-euro-as-dollar-firms-202609012204",
       "date": "2026-09-01"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US construction spending for July -0.5% versus 0.0% expected.",
-      "link": "https://investinglive.com/news/us-construction-spending-for-july-0-5-versus-0-0-expected/",
+      "source": "FXStreet",
+      "title": "RBNZ set to raise interest rate to 2.75%",
+      "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200",
       "date": "2026-09-01"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US manufacturing PMI 54.6 versus 55.2 estimate",
-      "link": "https://investinglive.com/news/us-manufacturing-pmi-54-6-versus-55-2-estimate/",
+      "source": "FXStreet",
+      "title": "India: Growth and inflation forecasts revised higher – UOB",
+      "link": "https://www.fxstreet.com/news/india-growth-and-inflation-forecasts-revised-higher-uob-202609012141",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Asia FX: KRW and MYR lead firmer profile vs USD – OCBC",
+      "link": "https://www.fxstreet.com/news/asia-fx-krw-and-myr-lead-firmer-profile-vs-usd-ocbc-202609012058",
       "date": "2026-09-01"
     },
     {
@@ -263,48 +305,6 @@
       "source": "FXStreet",
       "title": "Hungary: Growth strengthens but structural limits remain - ING",
       "link": "https://www.fxstreet.com/news/hungary-growth-strengthens-but-structural-limits-remain-ing-202609011806",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US President Trump says US striking Iranian targets near Hormuz",
-      "link": "https://www.fxstreet.com/news/us-president-trump-says-us-striking-iranian-targets-near-hormuz-202609011734",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Forex Today: Enter the US labour market",
-      "link": "https://www.fxstreet.com/news/forex-today-enter-the-us-labour-market-202609011705",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average finds no bid under confirmed strikes",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-finds-no-bid-under-confirmed-strikes-202609011704",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Crude Oil goes vertical on fresh explosions in southern Iran",
-      "link": "https://www.fxstreet.com/news/crude-oil-goes-vertical-on-fresh-explosions-in-southern-iran-202609011642",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Explosions in Iran renew Hormuz war fears – Iran International",
-      "link": "https://www.fxstreet.com/news/explosions-in-iran-renew-hormuz-war-fears-iran-international-202609011635",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Treasury Secretary Bessent backs Yen support, urges BoJ clarity",
-      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-backs-yen-support-urges-boj-clarity-202609011621",
       "date": "2026-09-01"
     }
   ]
