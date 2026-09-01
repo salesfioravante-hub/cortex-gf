@@ -100,6 +100,55 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Oil: Private survey of inventory shows a headline crude oil vs expected",
+      "link": "https://investinglive.com/commodities/oil-private-survey-of-inventory-shows-a-headline-crude-oil-vs-expected/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nasdaq indices close sharply lower as Iran war heats up",
+      "link": "https://investinglive.com/stocks/nasdaq-indices-close-sharply-lower-as-iran-war-heats-up/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Economic and event calendar in Asia Wednesday, September 2, 2026 - RBZN rate hike expected",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-september-2-2026-rbzn-rate-hike-expected/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "All aboard!. The Bond Bears take the 10 year yield above 4.75% and up to 4.80%",
+      "link": "https://investinglive.com/technical-analysis/all-aboard-the-bond-bears-take-the-10-year-yield-above-4-75-and-to-4-80/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Here we go again.  Trump says \"Iran will be totally wiped out as a country\". Crude oil trades at $90.50",
+      "link": "https://investinglive.com/news/here-we-go-again-trump-says-iran-will-be-totally-wiped-out-as-a-country-crude-oil-trades-at-90-50/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "USD moves to new highs vs most of the major currencies. What next for the major currency pairs?",
+      "link": "https://investinglive.com/technical-analysis/usd-moves-to-new-highs-vs-most-of-the-major-currencies-what-next-for-the-major-currency-pairs/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump confirms US striking Iran.",
+      "link": "https://investinglive.com/news/trump-confirms-us-striking-iran/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Gold is down close to $100 on the day and trades to the lowest level since August 18",
       "link": "https://investinglive.com/technical-analysis/gold-is-down-close-to-100-on-the-day-and-trades-to-the-lowest-level-since-august-18/",
       "date": "2026-09-01"
@@ -155,51 +204,72 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "JOLTs job openings 7.271M vs 7.300M estimate",
-      "link": "https://investinglive.com/news/jolts-job-openings-7-271m-vs-7-300m-estimate/",
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Volatility widens range-trading band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-volatility-widens-range-trading-band-against-us-dollar-uob-202609012023",
       "date": "2026-09-01"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "S&P global manufacturing PMI final for August 53.9 versus 53.2 preliminary",
-      "link": "https://investinglive.com/news/s-p-global-manufacturing-pmi-final-for-august-53-9-versus-53-2-preliminary/",
+      "source": "FXStreet",
+      "title": "Mexican Peso holds near 17.00 as US-Iran strikes weigh on Peso",
+      "link": "https://www.fxstreet.com/news/mexican-peso-holds-near-1700-as-us-iran-strikes-hit-peso-202609012012",
       "date": "2026-09-01"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Barr: Inflation remains too high. If inflation does not moderate soon, will be time for a hike.",
-      "link": "https://investinglive.com/central-banks/fed-s-barr-inflation-remains-too-high-if-inflation-does-not-moderate-soon-will-be-time-for-a-hike/",
+      "source": "FXStreet",
+      "title": "India: Growth outlook revised higher – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/india-growth-outlook-revised-higher-standard-chartered-202609011951",
       "date": "2026-09-01"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ECBs Nagel: Despite the middle east, the global economy remains in a growth trajectory",
-      "link": "https://investinglive.com/central-banks/ecbs-nagel-despite-the-middle-east-the-global-economy-remains-in-a-growth-trajectory/",
+      "source": "FXStreet",
+      "title": "Gold collapses as US-Iran strikes send Oil, US yields higher",
+      "link": "https://www.fxstreet.com/news/gold-collapses-as-us-iran-strikes-send-oil-us-yields-higher-202609011930",
       "date": "2026-09-01"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Kickstart September 1: The USD is stronger as yields move higher.",
-      "link": "https://investinglive.com/technical-analysis/kickstart-september-1-the-usd-is-stronger-as-yields-move-higher/",
+      "source": "FXStreet",
+      "title": "China: Trade imbalances and weak demand – Rabobank",
+      "link": "https://www.fxstreet.com/news/china-trade-imbalances-and-weak-demand-rabobank-202609011923",
       "date": "2026-09-01"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Why Bond Yields Are Rising: A Guide for Investors",
-      "link": "https://investinglive.com/education/why-bond-yields-are-rising-a-guide-for-investors/",
+      "source": "FXStreet",
+      "title": "Equities: Fragile advance under energy and yield risks – NBC",
+      "link": "https://www.fxstreet.com/news/equities-fragile-advance-under-energy-and-yield-risks-nbc-202609011843",
       "date": "2026-09-01"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European news wrap: Risk-off returns as oil and yields extend gains",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-off-returns-as-oil-and-yields-extend-gains/",
+      "source": "FXStreet",
+      "title": "United States Treasury yields read Iran strikes as inflation",
+      "link": "https://www.fxstreet.com/news/united-states-treasury-yields-read-iran-strikes-as-inflation-202609011824",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US Dollar Index gains as US-Iran tensions escalate, Treasury yields rise",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-gains-as-us-iran-tensions-escalate-treasury-yields-rise-202609011821",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Hungary: Growth strengthens but structural limits remain - ING",
+      "link": "https://www.fxstreet.com/news/hungary-growth-strengthens-but-structural-limits-remain-ing-202609011806",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US President Trump says US striking Iranian targets near Hormuz",
+      "link": "https://www.fxstreet.com/news/us-president-trump-says-us-striking-iranian-targets-near-hormuz-202609011734",
       "date": "2026-09-01"
     },
     {
@@ -235,76 +305,6 @@
       "source": "FXStreet",
       "title": "US Treasury Secretary Bessent backs Yen support, urges BoJ clarity",
       "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-backs-yen-support-urges-boj-clarity-202609011621",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "New Zealand Dollar struggles to rebound despite softer US data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-to-rebound-despite-softer-us-data-202609011602",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold struggles below $4,400 as Fed rate hike bets dominate",
-      "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Treasury Secretary Bessent backs Japan's steps, presses G20 on Iran",
-      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-backs-japans-steps-presses-g20-on-iran-202609011545",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Australian Dollar trades cautiously as Fed and RBA rate hike bets clash",
-      "link": "https://www.fxstreet.com/news/australian-dollar-trades-cautiously-as-fed-and-rba-rate-hike-bets-clash-202609011544",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Germany: Coalition risks and reform hurdles – Commerzbank",
-      "link": "https://www.fxstreet.com/news/germany-coalition-risks-and-reform-hurdles-commerzbank-202609011538",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound stalls as mixed US data keeps Fed hawkish bets alive",
-      "link": "https://www.fxstreet.com/news/british-pound-stalls-as-mixed-us-data-keeps-fed-hawkish-bets-alive-202609011533",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "United Kingdom: Growth cools as inflation risks build – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-growth-cools-as-inflation-risks-build-deutsche-bank-202609011504",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro struggles as softer-than-expected US econoomic data offer little relief",
-      "link": "https://www.fxstreet.com/news/euro-struggles-as-softer-than-expected-us-econoomic-data-offer-little-relief-202609011445",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Dollar: Fed risks and election scenarios – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-risks-and-election-scenarios-td-securities-202609011441",
-      "date": "2026-09-01"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold: Pricing stays supported as Fed path questioned – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-pricing-stays-supported-as-fed-path-questioned-td-securities-202609011419",
       "date": "2026-09-01"
     }
   ]
