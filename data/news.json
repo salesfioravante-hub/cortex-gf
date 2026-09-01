@@ -1,6 +1,6 @@
 {
   "asof": "2026-09-01",
-  "source": "Bancos centrais (RSS)",
+  "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
@@ -101,6 +101,218 @@
       "title": "Results of the Semi-Annual FX Turnover Surveys in April 2026",
       "link": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-april-2026",
       "date": "2026-08-11"
+    }
+  ],
+  "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Why Bond Yields Are Rising: A Guide for Investors",
+      "link": "https://investinglive.com/education/why-bond-yields-are-rising-a-guide-for-investors/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive European news wrap: Risk-off returns as oil and yields extend gains",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-off-returns-as-oil-and-yields-extend-gains/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "S&P 500 analysis (with video) shows bears are back but where is the next bounce?",
+      "link": "https://investinglive.com/stock-market-update/s-p-500-analysis-with-video-shows-bears-are-back-but-where-is-the-next-bounce/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin at crossroads after hawkish Warsh: traders waiting for 77K-80K range break",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-at-crossroads-after-hawkish-warsh-traders-waiting-for-77k-80k-range-break/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Euro area inflation climbs above 3% in August on higher energy prices",
+      "link": "https://investinglive.com/news/euro-area-inflation-climbs-above-3-in-august-on-higher-energy-prices/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UK mortgage borrowing slows in July, though consumer borrowing continues to hold up",
+      "link": "https://investinglive.com/news/uk-mortgage-borrowing-slows-in-july-though-consumer-borrowing-continues-to-hold-up/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Euro area factory growth continues to expand in August, driven by Germany - PMI data",
+      "link": "https://investinglive.com/news/euro-area-factory-growth-continues-to-expand-in-august-driven-by-germany-pmi-data/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "USD/JPY continues to test the waters at the 160 mark",
+      "link": "https://investinglive.com/forex/usd-jpy-continues-to-test-the-waters-at-the-160-mark/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Master the Moment: Global Broker FISG Appoints Football Legend Andrés Iniesta as Global Brand Experience Officer",
+      "link": "https://investinglive.com/education/master-the-moment-global-broker-fisg-appoints-football-legend-andres-iniesta-as-global-brand-experience-officer/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "France manufacturing confirmed to pick up a little in August - PMI data",
+      "link": "https://investinglive.com/news/france-manufacturing-confirmed-to-pick-up-a-little-in-august-pmi-data/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Stock Movers to Watch Today: PCG and EIX Plunge as RBLX, CRWD, TSLA and SLB Rally. Notable earnings reporters later today.",
+      "link": "https://investinglive.com/stocks/stock-movers-today-pcg-and-eix-plunge-as-rblx-crwd-tsla-and-slb-rally/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Italy August preliminary CPI +3.3% vs +3.3% y/y expected",
+      "link": "https://investinglive.com/news/italy-august-preliminary-cpi-xx-vs-3-3-y-y-expected/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UK August final manufacturing PMI 51.7 vs 51.5 prelim",
+      "link": "https://investinglive.com/news/uk-august-final-manufacturing-pmi-xx-vs-51-5-prelim/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Germany August final manufacturing PMI 54.3 vs 54.1 prelim",
+      "link": "https://investinglive.com/news/germany-august-final-manufacturing-pmi-xx-vs-54-1-prelim/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Italy August manufacturing PMI 49.6 vs 51.3 expected",
+      "link": "https://investinglive.com/news/italy-august-manufacturing-pmi-xx-vs-51-3-expected/",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Gold Price Forecast: XAU/USD extends reversal below $4.400 amid Fed hawkish repricing",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-extends-reversal-below-4400-amid-fed-hawkish-repricing-202609011150",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Japanese Yen: Policy pressure and FX path – Rabobank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-pressure-and-fx-path-rabobank-202609011146",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Upbeat US Dollar stresses on major currency pair",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-upbeat-us-dollar-stresses-on-major-currency-pair-202609011143",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US Dollar: September hike odds stay elevated – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-september-hike-odds-stay-elevated-bbh-202609011131",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Gold weakens below $4,400 as US Treasury yields surge, Fed rate hike bets rise",
+      "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Indian Rupee gains on India's upbeat Q2 GDP, narrowed fiscal deficit data",
+      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609010543",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Canadian Dollar: Trade tensions and extended BoC hold – TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-tensions-and-extended-boc-hold-td-securities-202609011111",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Silver drops below $65 as hawkish Fed bets weigh on XAG/USD",
+      "link": "https://www.fxstreet.com/news/silver-drops-below-65-as-hawkish-fed-bets-weigh-on-xag-usd-202609011107",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "New Zealand Dollar slumps against US Dollar amid firm hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slumps-against-us-dollar-amid-firm-hawkish-fed-bets-202609011106",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro extends losses against British Pound as Eurozone inflation fails to impress",
+      "link": "https://www.fxstreet.com/news/euro-extends-losses-against-british-pound-as-eurozone-inflation-fails-to-impress-202609011038",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "WTI Oil climbs toward $87 as US-Iran tensions threaten supply",
+      "link": "https://www.fxstreet.com/news/wti-oil-climbs-toward-87-as-us-iran-tensions-threaten-supply-202609011003",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro: Rebound capped by nearby resistance against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-rebound-capped-by-nearby-resistance-against-us-dollar-uob-202609011002",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US JOLTS Job Openings set to show a steady labor market",
+      "link": "https://www.fxstreet.com/news/us-jolts-job-openings-set-to-show-a-steady-labor-market-202609011000",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US Dollar: Jackson Hole keeps hike risk alive – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-jackson-hole-keeps-hike-risk-alive-mufg-202609010953",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Brazilian Real: Fiscal risks weigh on currency – Commerzbank",
+      "link": "https://www.fxstreet.com/news/brazilian-real-fiscal-risks-weigh-on-currency-commerzbank-202609010939",
+      "date": "2026-09-01"
     }
   ]
 }

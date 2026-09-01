@@ -108,11 +108,38 @@ async function main() {
       + `=> ${tf.W1}/${tf.D1}/${tf.H4}  ext ${byAsset[sym].ext}  stop ${byAsset[sym].stopPct}%`);
   }
 
+  // --- gauges macro intradiários (DXY, VIX) do TradingView, base 1H ---
+  // o Farol usa estes no lugar do FRED (diário) p/ DXY e VIX: reagem no mesmo dia.
+  let regimeLive = null;
+  try {
+    const MACRO = { DXY: "TVC:DXY", VIX: "TVC:VIX" };
+    const rm = await fetch("https://scanner.tradingview.com/global/scan", {
+      method: "POST",
+      headers: { "content-type": "application/json", "user-agent": "Mozilla/5.0" },
+      body: JSON.stringify({ symbols: { tickers: Object.values(MACRO), query: { types: [] } }, columns: ["close", "change", "change|60"] })
+    });
+    if (rm.ok) {
+      const jm = await rm.json();
+      const invM = Object.fromEntries(Object.entries(MACRO).map(([s, t]) => [t, s]));
+      const g = {};
+      for (const row of (jm.data || [])) { const s = invM[row.s]; if (s) g[s] = { close: row.d[0], chg1d: row.d[1], chg1h: row.d[2] }; }
+      const dir1h = c => c == null ? null : c > 0.05 ? "up" : c < -0.05 ? "down" : "flat";
+      const vb = v => v < 15 ? "calm" : v < 20 ? "normal" : v < 30 ? "elevated" : "stress";
+      regimeLive = {
+        dxy: g.DXY ? dir1h(g.DXY.chg1h) : null, vix: g.VIX ? vb(g.VIX.close) : null,
+        dxyVal: g.DXY ? +g.DXY.close.toFixed(2) : null, dxyChg1h: g.DXY?.chg1h != null ? +g.DXY.chg1h.toFixed(2) : null,
+        vixVal: g.VIX ? +g.VIX.close.toFixed(2) : null, vixChg1h: g.VIX?.chg1h != null ? +g.VIX.chg1h.toFixed(2) : null,
+        tf: "1H", asof: new Date().toISOString()
+      };
+      console.log(`\nmacro 1H: DXY ${regimeLive.dxyVal} (${regimeLive.dxy}, 1h ${regimeLive.dxyChg1h}%) · VIX ${regimeLive.vixVal} (${regimeLive.vix})`);
+    }
+  } catch (e) { console.warn("macro gauges (DXY/VIX) falhou:", e.message); }
+
   const ok = Object.keys(byAsset).length, total = Object.keys(TICKERS).length;
   const payload = {
     asof: new Date().toISOString().slice(0, 10),
     source: "TradingView — Recommend.MA (tendência) × Recommend.Other (momentum), peso pelo ADX",
-    status: ok === 0 ? "erro" : ok < total ? "parcial" : "ok", count: `${ok}/${total}`, byAsset
+    status: ok === 0 ? "erro" : ok < total ? "parcial" : "ok", count: `${ok}/${total}`, regimeLive, byAsset
   };
   console.log(`\n${ok}/${total} ativos.`);
   if (DRY) { console.log(JSON.stringify(payload, null, 2).slice(0, 1200)); return; }

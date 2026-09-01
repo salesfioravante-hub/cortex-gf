@@ -1,10 +1,10 @@
 {
   "corretora": "Tickmill",
   "moedaConta": "USD",
-  "atualizado": "2026-07-24",
+  "atualizado": "2026-08-31",
   "nota": "size = unidades por 1 lote. quote = moeda em que o lucro/prejuízo nasce (convertida para USD pela cotação do próprio painel). Confira no MT5: botão direito no símbolo → Especificação.",
-  "confirmado": "EURUSD (100.000) e XAUUSD (100 oz, mín 0,01) verificados no site da Tickmill em 2026-07-24.",
-  "verificar": "USOIL e índices não estavam explícitos no site — valores abaixo são o padrão de mercado. CONFERIR NO MT5 antes de confiar no risco em dólar destes.",
+  "confirmado": "EURUSD (100.000) e XAUUSD (100 oz) via site Tickmill; XAGUSD (5000), USOIL/XTI (1), US500 (1), USTEC (1) conferidos no MT5 do usuário em 2026-08-31.",
+  "verificar": "US30 inferido = 1 por analogia aos outros índices US (US500/USTEC = 1); usuário deve confirmar no MT5 quando puder.",
   "minLote": 0.01,
   "passoLote": 0.01,
   "instrumentos": {
@@ -20,10 +20,10 @@
     "AUDCAD": { "size": 100000, "quote": "CAD", "ok": true },
     "EURCHF": { "size": 100000, "quote": "CHF", "ok": true },
     "XAUUSD": { "size": 100, "quote": "USD", "ok": true },
-    "XAGUSD": { "size": 5000, "quote": "USD", "ok": false },
-    "USOIL": { "size": 1000, "quote": "USD", "ok": false },
-    "US500": { "size": 1, "quote": "USD", "ok": false },
-    "USTEC": { "size": 1, "quote": "USD", "ok": false },
-    "US30": { "size": 1, "quote": "USD", "ok": false }
+    "XAGUSD": { "size": 5000, "quote": "USD", "ok": true },
+    "USOIL": { "size": 1, "quote": "USD", "ok": true },
+    "US500": { "size": 1, "quote": "USD", "ok": true },
+    "USTEC": { "size": 1, "quote": "USD", "ok": true },
+    "US30": { "size": 1, "quote": "USD", "ok": true }
   }
 }

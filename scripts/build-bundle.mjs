@@ -9,7 +9,7 @@ import { dirname, join } from "node:path";
 export async function buildBundle(DATA_DIR) {
   const files = (await readdir(DATA_DIR)).filter(f => f.endsWith(".json"));
   const meta = { generated: new Date().toISOString(), sources: {} };
-  const out = { cot: {}, regime: null, commodity: {}, events: {}, cbcal: {}, tech: {}, techx: {}, quote: {}, news: [], broker: null };
+  const out = { cot: {}, regime: null, regimeVals: null, regimeLive: null, commodity: {}, events: {}, cbcal: {}, tech: {}, techx: {}, quote: {}, news: [], ticker: [], broker: null, policyRates: null };
 
   for (const f of files) {
     const key = f.replace(".json", "");
@@ -21,10 +21,12 @@ export async function buildBundle(DATA_DIR) {
     }
     if (key === "regime" && j.regime) {
       out.regime = j.regime;
+      if (j.values) out.regimeVals = j.values;
       if (j.commodity) out.commodity = { ...out.commodity, ...j.commodity };
       meta.sources.regime = { status: j.status, asof: j.asof, provider: "FRED" };
     }
     if (key === "prices" && j.byAsset) {
+      if (j.regimeLive) out.regimeLive = j.regimeLive;
       out.tech = Object.fromEntries(Object.entries(j.byAsset).map(([s, v]) => [s, { W1: v.W1, D1: v.D1, H4: v.H4 }]));
       out.techx = Object.fromEntries(Object.entries(j.byAsset).map(([s, v]) =>
         [s, { trend: v.trend, mom: v.mom, adx: v.adx, regime: v.regime, ext: v.ext, stop: v.stop, stopPct: v.stopPct, stopMult: v.stopMult, stopTf: v.stopTf, atr4: v.atr4 }]));
@@ -34,6 +36,10 @@ export async function buildBundle(DATA_DIR) {
     if (key === "broker-tickmill" && j.instrumentos) {
       out.broker = j;
       meta.sources.corretora = { status: "ok", asof: j.atualizado, provider: j.corretora };
+    }
+    if (key === "policy-rates" && j.byCurrency) {
+      out.policyRates = j.byCurrency;
+      meta.sources.taxas_bc = { status: j.status, asof: j.asof, provider: "FRED + curado" };
     }
     if (key === "cbcalendar" && j.byCurrency) {
       out.cbcal = j.byCurrency;
@@ -45,6 +51,7 @@ export async function buildBundle(DATA_DIR) {
     }
     if (key === "news" && Array.isArray(j.items)) {
       out.news = j.items;
+      if (Array.isArray(j.ticker)) out.ticker = j.ticker;
       meta.sources.noticias = { status: j.status, asof: j.asof, provider: j.provider || "RSS" };
     }
   }
@@ -54,6 +61,8 @@ window.GFDATA = window.GFDATA || {};
 window.GFDATA.meta = ${JSON.stringify(meta)};
 window.GFDATA.cot = ${JSON.stringify(out.cot)};
 window.GFDATA.regime = ${JSON.stringify(out.regime)};
+window.GFDATA.regimeVals = ${JSON.stringify(out.regimeVals)};
+window.GFDATA.regimeLive = ${JSON.stringify(out.regimeLive)};
 window.GFDATA.commodity = ${JSON.stringify(out.commodity)};
 window.GFDATA.events = ${JSON.stringify(out.events)};
 window.GFDATA.cbcal = ${JSON.stringify(out.cbcal)};
@@ -61,7 +70,9 @@ window.GFDATA.tech = ${JSON.stringify(out.tech)};
 window.GFDATA.techx = ${JSON.stringify(out.techx)};
 window.GFDATA.quote = ${JSON.stringify(out.quote)};
 window.GFDATA.news = ${JSON.stringify(out.news)};
+window.GFDATA.ticker = ${JSON.stringify(out.ticker)};
 window.GFDATA.broker = ${JSON.stringify(out.broker)};
+window.GFDATA.policyRates = ${JSON.stringify(out.policyRates)};
 `;
   await writeFile(join(DATA_DIR, "gfdata.js"), js);
   return { meta, out };

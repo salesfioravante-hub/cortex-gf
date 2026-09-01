@@ -1,0 +1,16 @@
+{
+  "asof": "2026-08-31",
+  "source": "FRED (USD via DFEDTARU, EUR via ECBDFR) + referência curada Meridiano (demais bancos centrais)",
+  "status": "curado",
+  "nota": "rate = taxa de política oficial (%). USD e EUR são sobrescritos automaticamente pelo FRED no robô. Os demais são referência curada — conferir/atualizar quando o banco central decidir (ver data/cbcalendar.json). Serve para VERIFICAR o que o usuário digita, não substitui o input.",
+  "byCurrency": {
+    "USD": { "rate": 4.50, "src": "Fed — limite superior da meta", "asof": "2026-08-31", "auto": false },
+    "EUR": { "rate": 2.15, "src": "BCE — taxa de depósito", "asof": "2026-08-31", "auto": false },
+    "GBP": { "rate": 4.00, "src": "BoE — Bank Rate", "asof": "2026-08-31", "auto": false },
+    "JPY": { "rate": 0.75, "src": "BoJ — Policy Rate", "asof": "2026-08-31", "auto": false },
+    "AUD": { "rate": 3.60, "src": "RBA — Cash Rate", "asof": "2026-08-31", "auto": false },
+    "NZD": { "rate": 3.00, "src": "RBNZ — Official Cash Rate", "asof": "2026-08-31", "auto": false },
+    "CAD": { "rate": 2.75, "src": "BoC — Overnight Rate", "asof": "2026-08-31", "auto": false },
+    "CHF": { "rate": 0.25, "src": "SNB — Policy Rate", "asof": "2026-08-31", "auto": false }
+  }
+}

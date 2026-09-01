@@ -6,7 +6,7 @@ name: Atualizar dados (24h)
 
 on:
   schedule:
-    - cron: "0 */4 * * *"   # a cada 4h — mantém preço/técnico do TradingView frescos (intradiário)
+    - cron: "0 * * * *"     # de hora em hora — DXY/VIX e técnico intradiário (1H) frescos
     - cron: "30 20 * * 5"   # sexta 20:30 UTC — logo após o release do COT (15:30 ET)
   workflow_dispatch: {}     # permite rodar manualmente pelo botão do GitHub
 
@@ -35,6 +35,12 @@ jobs:
         run: node scripts/fetch-fred.mjs
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+
+      - name: Ingestão taxas de política (FRED USD/EUR + curado)
+        run: node scripts/fetch-rates.mjs
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        continue-on-error: true    # verificação do carry: se cair, mantém a tabela curada
 
       - name: Ingestão calendário econômico (FRED / FMP / ForexFactory)
         run: node scripts/fetch-calendar.mjs
