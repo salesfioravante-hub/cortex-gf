@@ -7,6 +7,20 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Bond Market Survey (August 2026)",
+      "link": "http://www.boj.or.jp/en/paym/bond/bond_list/bond2608.pdf",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Sources of Changes in Current Account Balances and Market Operations (Aug.)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf08.xlsx",
+      "date": "2026-09-01"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (July-September 2026) (Schedule Updates)",
       "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
       "date": "2026-08-31"
@@ -17,20 +31,6 @@
       "title": "Payment and Settlement Statistics (July)",
       "link": "http://www.boj.or.jp/en/statistics/set/kess/release/2026/kess2607.pdf",
       "date": "2026-08-31"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Flow of Funds (Overview of Japan, US, and the Euro area)(1st Quarter 2026)",
-      "link": "http://www.boj.or.jp/en/statistics/sj/sjhiq.pdf",
-      "date": "2026-08-31"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Average Contract Interest Rates on Loans and Discounts (July)",
-      "link": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2607.pdf",
-      "date": "2026-08-30"
     },
     {
       "cur": "EUR",
