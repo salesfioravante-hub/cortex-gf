@@ -7,6 +7,13 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Sources of Changes in Current Account Balances (Projections for Sept.)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2609.xlsx",
+      "date": "2026-09-02"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260831.xlsx",
       "date": "2026-09-02"
@@ -23,13 +30,6 @@
       "source": "BoJ",
       "title": "Speech by Board Member TAKATA in Sapporo (Economic Activity, Prices, and Monetary Policy in Japan)",
       "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko260902a.htm",
-      "date": "2026-09-02"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Bank of Japan Accounts (August 31)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260831.htm",
       "date": "2026-09-02"
     },
     {
@@ -97,6 +97,20 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "AUD/NZD tests key resistance after RBNZ 'sell the fact' hike and Australia GDP beat",
+      "link": "https://investinglive.com/forex/aud-nzd-tests-key-resistance-after-rbnz-sell-the-fact-hike-and-australia-gdp-beat/",
+      "date": "2026-09-02"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Brent and WTI hit highest levels (resistance now?) since late July as Middle East war flares",
+      "link": "https://investinglive.com/commodities/brent-and-wti-hit-highest-levels-resistance-now-since-late-july-as-middle-east-war-flares/",
+      "date": "2026-09-02"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -190,16 +204,58 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil technical analsysis: US crude oil inventories for -4.450M barrel vs -1.085M estimate.",
-      "link": "https://investinglive.com/commodities/crude-oil-technical-analsysis-us-crude-oil-inventories-for-4-450m-barrel-vs-1-085m-estimate/",
+      "source": "FXStreet",
+      "title": "US President Donald Trump: Renewed campaign against Iran will not continue for too long",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-renewed-campaign-against-iran-will-not-continue-for-too-long-202609022355",
       "date": "2026-09-02"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USDJPY breaks lower.  The price cracks below the 200 hour MA and makes a \"break for it\"",
-      "link": "https://investinglive.com/education/usdjpy-breaks-lower-the-price-cracks-below-the-200-hour-ma-and-makes-a-break-for-it/",
+      "source": "FXStreet",
+      "title": "The Australian Dollar's thirteen-year high is a New Zealand story",
+      "link": "https://www.fxstreet.com/news/the-australian-dollars-thirteen-year-high-is-a-new-zealand-story-202609022330",
+      "date": "2026-09-02"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Gold rebounds above $4,350 as US Dollar, Treasury yields slip",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-350-as-us-dollar-treasury-yields-slip-202609022329",
+      "date": "2026-09-02"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Sellers eye 214.00 after SMA break",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-sellers-eye-21400-after-sma-break-202609022248",
+      "date": "2026-09-02"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "The New Zealand Dollar sells the hike it asked for",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-sells-the-hike-it-asked-for-202609022247",
+      "date": "2026-09-02"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Australian Dollar rises as soft US jobs, GDP beat lift AUD, PMIs ahead",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-as-soft-us-jobs-gdp-beat-lift-aud-pmis-ahead-202609022238",
+      "date": "2026-09-02"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Intervention buys the Japanese Yen less ground every time",
+      "link": "https://www.fxstreet.com/news/intervention-buys-the-japanese-yen-less-ground-every-time-202609022222",
+      "date": "2026-09-02"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Rising gilt yields are not saving the British Pound",
+      "link": "https://www.fxstreet.com/news/rising-gilt-yields-are-not-saving-the-british-pound-202609022154",
       "date": "2026-09-02"
     },
     {
@@ -249,62 +305,6 @@
       "source": "FXStreet",
       "title": "Indonesian Rupiah: Higher oil prices add to IDR pressure - MUFG",
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-higher-oil-prices-add-to-idr-pressure-mufg-202609021807",
-      "date": "2026-09-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Forex Today: Weekly claims and ISM Services keep the focus on the real economy",
-      "link": "https://www.fxstreet.com/news/forex-today-weekly-claims-and-ism-services-keep-the-focus-on-the-real-economy-202609021800",
-      "date": "2026-09-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Downside risks remain against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-downside-risks-remain-against-us-dollar-ocbc-202609021743",
-      "date": "2026-09-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average borrows its rebound from the bond market",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-borrows-its-rebound-from-the-bond-market-202609021613",
-      "date": "2026-09-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound: Break below 1.35 shifts focus lower against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-break-below-135-shifts-focus-lower-against-us-dollar-scotiabank-202609021724",
-      "date": "2026-09-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound hits three-week low as US yields, Iran risks weigh",
-      "link": "https://www.fxstreet.com/news/british-pound-hits-three-week-low-as-us-yields-iran-risks-weigh-202609021707",
-      "date": "2026-09-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "BoC recap: Risks are shifting as Oil prices and US trade actions complicate outlook",
-      "link": "https://www.fxstreet.com/news/boc-recap-risks-are-shifting-as-oil-prices-and-us-trade-actions-complicate-outlook-202609021702",
-      "date": "2026-09-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Indian Rupee: September gains face structural tests – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-september-gains-face-structural-tests-societe-generale-202609021608",
-      "date": "2026-09-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold turns positive as turmoil in Yen pairs hits US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-declines-as-us-iran-escalation-drives-oil-prices-global-bond-yields-higher-202609021114",
       "date": "2026-09-02"
     }
   ]
