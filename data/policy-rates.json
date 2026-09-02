@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-01",
+  "asof": "2026-09-02",
   "source": "FRED (USD via DFEDTARU, EUR via ECBDFR) + referência curada Meridiano (demais)",
   "status": "ok",
   "fred_ok": "2/2",
@@ -25,37 +25,37 @@
       "rate": 4,
       "src": "BoE — Bank Rate",
       "auto": false,
-      "asof": "2026-09-01"
+      "asof": "2026-09-02"
     },
     "JPY": {
       "rate": 0.75,
       "src": "BoJ — Policy Rate",
       "auto": false,
-      "asof": "2026-09-01"
+      "asof": "2026-09-02"
     },
     "AUD": {
       "rate": 3.6,
       "src": "RBA — Cash Rate",
       "auto": false,
-      "asof": "2026-09-01"
+      "asof": "2026-09-02"
     },
     "NZD": {
       "rate": 3,
       "src": "RBNZ — Official Cash Rate",
       "auto": false,
-      "asof": "2026-09-01"
+      "asof": "2026-09-02"
     },
     "CAD": {
       "rate": 2.75,
       "src": "BoC — Overnight Rate",
       "auto": false,
-      "asof": "2026-09-01"
+      "asof": "2026-09-02"
     },
     "CHF": {
       "rate": 0.25,
       "src": "SNB — Policy Rate",
       "auto": false,
-      "asof": "2026-09-01"
+      "asof": "2026-09-02"
     }
   }
 }
