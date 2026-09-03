@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-02",
+  "asof": "2026-09-03",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
@@ -7,7 +7,7 @@
     "FRED: 4 releases (EUA) — 2026-09-04 Employment Situation; 2026-09-10 Producer Price Index; 2026-09-11 Consumer Price Index; 2026-09-16 Advance Monthly Sales for Retail and Food Services",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 14 eventos"
+    "ForexFactory: 6 eventos"
   ],
   "byCurrency": {
     "USD": {
@@ -15,25 +15,15 @@
       "title": "Employment Situation",
       "forecast": ""
     },
-    "AUD": {
-      "date": "2026-09-02",
-      "title": "GDP q/q",
-      "forecast": "0.3%"
-    },
-    "NZD": {
-      "date": "2026-09-02",
-      "title": "Official Cash Rate",
-      "forecast": "2.75%"
-    },
-    "CAD": {
-      "date": "2026-09-02",
-      "title": "BOC Rate Statement",
-      "forecast": ""
-    },
     "GBP": {
       "date": "2026-09-04",
       "title": "BOE Gov Bailey Speaks",
       "forecast": ""
+    },
+    "CAD": {
+      "date": "2026-09-04",
+      "title": "Employment Change",
+      "forecast": "15.1K"
     }
   }
 }
