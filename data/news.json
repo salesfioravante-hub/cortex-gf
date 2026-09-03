@@ -100,6 +100,41 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "The magazine cover \"curse\": less about magic, more about who's already bought in",
+      "link": "https://investinglive.com/education/the-magazine-cover-curse-less-about-magic-more-about-who-s-already-bought-in/",
+      "date": "2026-09-03"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "How Waller moved the Fed rate-hike odds by 12 points in minutes: a look inside CME FedWatch",
+      "link": "https://investinglive.com/education/how-waller-moved-the-fed-rate-hike-odds-by-12-points-in-minutes-a-look-inside-cme-fedwatch/",
+      "date": "2026-09-03"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Catch-up: Waller sent stocks rocketing higher in the US",
+      "link": "https://investinglive.com/stock-market-update/catch-up-waller-sent-stocks-rocketing-higher-in-the-us/",
+      "date": "2026-09-03"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas market news wrap: Waller tamps down rate hike bets",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-waller-tamps-down-rate-hike-bets/",
+      "date": "2026-09-03"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ICYMI: Oman said to reject Iran's plan to jointly charge fees on ships in Hormuz",
+      "link": "https://investinglive.com/commodities/icymi-oman-said-to-reject-iran-s-plan-to-jointly-charge-fees-on-ships-in-hormuz/",
+      "date": "2026-09-03"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Citi lifts 3Q26 Brent forecast to $86 but sees prices sliding to $65 by 2027",
       "link": "https://investinglive.com/commodities/citi-lifts-3q26-brent-forecast-to-86-but-sees-prices-sliding-to-65-by-2027/",
       "date": "2026-09-03"
@@ -169,37 +204,86 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Markets react to Gov. Waller comments. Stocks higher. Yields lower, and the USD lower",
-      "link": "https://investinglive.com/education/markets-react-to-gov-waller-comments-stocks-higher-yields-lower-and-the-usd-lower/",
+      "source": "FXStreet",
+      "title": "RBNZ's Hansen: Future policy moves hinge on trends across broad economic data sets",
+      "link": "https://www.fxstreet.com/news/rbnzs-hansen-future-policy-moves-hinge-on-trends-across-broad-economic-data-sets-202609032344",
       "date": "2026-09-03"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Feds Waller: Finally seeing some signs of disinflation in recent data. How are the markets reacting?",
-      "link": "https://investinglive.com/central-banks/feds-waller-finally-seeing-some-signs-of-disinflation-in-recent-data/",
+      "source": "FXStreet",
+      "title": "Gold rebounds above $4,450 as Waller tempers Fed rate hike bets ahead US jobs data",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-450-as-waller-tempers-fed-rate-hike-bets-ahead-us-jobs-data-202609032336",
       "date": "2026-09-03"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US trade deficit widens sharply in July as AI-related imports surge",
-      "link": "https://investinglive.com/news/us-trade-deficit-widens-sharply-in-july-as-ai-related-imports-surge/",
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Intervention shock exposes 210.00",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-intervention-shock-exposes-21000-202609032301",
       "date": "2026-09-03"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US Initial Jobless claims 206K vs 205K estimate",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-206k-vs-205k-estimate/",
+      "source": "FXStreet",
+      "title": "The Australian Dollar thanks Waller's comments, which sink the USD",
+      "link": "https://www.fxstreet.com/news/the-australian-dollar-thanks-wallers-comments-which-sink-the-usd-202609032243",
       "date": "2026-09-03"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "How to trade oil: Bearish 1st target hit before bulls took control above $90.90",
-      "link": "https://investinglive.com/commodities/how-to-trade-oil-bearish-1st-target-hit-before-bulls-took-control-above-90-90/",
+      "source": "FXStreet",
+      "title": "New Zealand's Kiwi gets most of Wednesday back without earning it",
+      "link": "https://www.fxstreet.com/news/new-zealands-kiwi-gets-most-of-wednesday-back-without-earning-it-202609032223",
+      "date": "2026-09-03"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Underheld positions unwind with reflation risks – BNY",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-underheld-positions-unwind-with-reflation-risks-bny-202609032222",
+      "date": "2026-09-03"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "The Japanese Yen finally rallies on something Tokyo did not pay for",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-finally-rallies-on-something-tokyo-did-not-pay-for-202609032155",
+      "date": "2026-09-03"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Banxico’s Heath says rate cuts can wait as core inflation persists",
+      "link": "https://www.fxstreet.com/news/banxicos-heath-says-rate-cuts-can-wait-as-core-inflation-persists-202609032153",
+      "date": "2026-09-03"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Mexican Peso rescued by Waller’s dovish tilt, appreciates ahead of NFP",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rescued-by-wallers-dovish-tilt-appreciates-ahead-of-nfp-202609032142",
+      "date": "2026-09-03"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Singapore: PMI points to transitory weakness – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-pmi-points-to-transitory-weakness-uob-202609032141",
+      "date": "2026-09-03"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "The British Pound bounces on a hike argument that lost 6-3 in July",
+      "link": "https://www.fxstreet.com/news/the-british-pound-bounces-on-a-hike-argument-that-lost-6-3-in-july-202609032140",
+      "date": "2026-09-03"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average rallies into a payrolls print it cannot win",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-into-a-payrolls-print-it-cannot-win-202609032139",
       "date": "2026-09-03"
     },
     {
@@ -221,90 +305,6 @@
       "source": "FXStreet",
       "title": "Silver Price Forecast: XAG eyes 100-day SMA after Waller-led rally",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-eyes-100-day-sma-after-waller-rally-202609031957",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Stronger Singapore growth with contained inflation – Commerzbank",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-stronger-singapore-growth-with-contained-inflation-commerzbank-202609031938",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Range trade persists against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-against-us-dollar-uob-202609031852",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "USD/CHF Price Forecast: Break of 50-day SMA exposes 0.8040",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-50-day-sma-break-exposes-08040-202609031847",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Dollar extends decline as NFP takes centre stage",
-      "link": "https://www.fxstreet.com/news/us-dollar-extends-decline-as-nfp-takes-centre-stage-202609031822",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold soars as Waller's dovish tone hurts Fed hike bets ahead of NFP",
-      "link": "https://www.fxstreet.com/news/gold-soars-as-wallers-dovish-tone-hurts-fed-hike-bets-ahead-of-nfp-202609031820",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "European gas: Low storage keeps a floor under prices into winter - ING",
-      "link": "https://www.fxstreet.com/news/european-gas-low-storage-keeps-a-floor-under-prices-into-winter-ing-202609031812",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Equities: AI-led upside and income focus – HSBC",
-      "link": "https://www.fxstreet.com/news/equities-ai-led-upside-and-income-focus-hsbc-202609031752",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Forex Today: US Nonfarm Payrolls take centre stage",
-      "link": "https://www.fxstreet.com/news/forex-today-us-nonfarm-payrolls-take-centre-stage-202609031741",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen: Intervention ceiling guides BoJ path – BNY",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-ceiling-guides-boj-path-bny-202609031739",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average rallies on a coin toss",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-on-a-coin-toss-202609031609",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "BoE’s Pill backs rate hike to 4% to limit inflation catch-up effects",
-      "link": "https://www.fxstreet.com/news/boes-pill-backs-rate-hike-to-4-to-limit-inflation-catch-up-effects-202609031544",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound rises as Fed’s Waller tempers hike bets ahead of NFP",
-      "link": "https://www.fxstreet.com/news/british-pound-rises-as-feds-waller-tempers-fed-hike-bets-before-nfp-202609031541",
       "date": "2026-09-03"
     }
   ]
