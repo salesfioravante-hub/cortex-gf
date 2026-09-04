@@ -22,28 +22,28 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Financial Results of Japan's Banks for Fiscal 2025",
-      "link": "http://www.boj.or.jp/en/research/brp/fsr/fsrb260904.htm",
+      "link": "https://www.boj.or.jp/en/research/brp/fsr/fsrb260904.htm",
       "date": "2026-09-04"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Notice of the \"Meeting on Market Operations\"",
-      "link": "http://www.boj.or.jp/en/paym/market/mkt260903a.pdf",
+      "link": "https://www.boj.or.jp/en/paym/market/mkt260903a.pdf",
       "date": "2026-09-03"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Sources of Changes in Current Account Balances (Projections for Sept.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2609.xlsx",
+      "link": "https://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2609.xlsx",
       "date": "2026-09-02"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260831.xlsx",
+      "link": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260831.xlsx",
       "date": "2026-09-02"
     },
     {
@@ -205,6 +205,27 @@
     {
       "cur": "MKT",
       "source": "FXStreet",
+      "title": "USD/MXN Price Forecast: Peso rally targets April 2024 low",
+      "link": "https://www.fxstreet.com/news/usd-mxn-price-forecast-peso-rally-targets-april-2024-low-202609042159",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Malaysian Ringgit: BNM hawkish tilt supports MYR – Commerzbank",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-bnm-hawkish-tilt-supports-myr-commerzbank-202609042128",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "USD/CHF Price Forecast: NFP rally stalls at 0.8100, retraces",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-nfp-rally-stalls-at-08100-retraces-202609042127",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
       "title": "Indonesian Rupiah: Two-way risks around support levels – OCBC",
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-two-way-risks-around-support-levels-ocbc-202609042043",
       "date": "2026-09-04"
@@ -284,27 +305,6 @@
       "source": "FXStreet",
       "title": "Silver claws back post-NFP losses after briefly crashing below $65",
       "link": "https://www.fxstreet.com/news/silver-claws-back-post-nfp-losses-after-briefly-crashing-below-65-202609041551",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Euro forms potential higher low above 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-euro-forms-potential-higher-low-above-100-day-sma-202609041543",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Brent: Questionable flows, fragile outlook – Commerzbank",
-      "link": "https://www.fxstreet.com/news/brent-questionable-flows-fragile-outlook-commerzbank-202609041542",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "European Central Bank: Dovish hold may follow September hike - Rabobank",
-      "link": "https://www.fxstreet.com/news/european-central-bank-dovish-hold-may-follow-september-hike-rabobank-202609041524",
       "date": "2026-09-04"
     }
   ]
