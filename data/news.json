@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Philip R. Lane: Diversity at the European Central Bank",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Financial Results of Japan's Banks for Fiscal 2025",
+      "link": "http://www.boj.or.jp/en/research/brp/fsr/fsrb260904.htm",
+      "date": "2026-09-04"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Notice of the \"Meeting on Market Operations\"",
@@ -23,13 +37,6 @@
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260831.xlsx",
-      "date": "2026-09-02"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Collateral Accepted by the Bank of Japan (End of Aug.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2608.xlsx",
       "date": "2026-09-02"
     },
     {
@@ -68,13 +75,6 @@
       "date": "2026-08-27"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
-      "date": "2026-08-26"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
@@ -97,6 +97,41 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Eurozone retail sales fall in July as consumer spending softens",
+      "link": "https://investinglive.com/news/eurozone-retail-sales-fall-in-july-as-consumer-spending-softens/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What is the distribution of forecasts for the US NFP?",
+      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-0/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "USD/JPY bounces near the major 155.00 support; pullback or the start of a rally into new highs?",
+      "link": "https://investinglive.com/forex/usd-jpy-bounces-near-the-major-155-00-support-pullback-or-the-start-of-a-rally-into-new-highs/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FX option expiries for 4 September 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-4-september-10am-new-york-cut/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-35/",
+      "date": "2026-09-04"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -163,92 +198,106 @@
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Trades near 181.50 after rebounding from descending channel bottom",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-trades-near-18150-after-rebounding-from-descending-channel-bottom-202609040338",
+      "title": "Indian Rupee: Rate hike path supports currency – Societe Generale",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rate-hike-path-supports-currency-societe-generale-202609040927",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: Strong recovery from 100-day MA ahead of US NFP data",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-strong-recovery-from-100-day-ma-ahead-of-us-nfp-data-202609040320",
+      "title": "Experts agree: US-Iran tensions are far from over as Hormuz risks return",
+      "link": "https://www.fxstreet.com/news/experts-agree-us-iran-tensions-are-far-from-over-as-hormuz-risks-return-202609040916",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "New Zealand Dollar gains momentum to near 0.5900, US NFP data looms",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-momentum-to-near-05900-us-nfp-data-looms-202609040245",
+      "title": "Euro remains steady above 1.1600, unfazed by downbeat Eurozone Retail Sales",
+      "link": "https://www.fxstreet.com/news/euro-stalls-above-11600-with-eurozone-retail-sales-us-nonfarm-payrolls-on-tap-202609040621",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Japan’s Katayama says will closely monitoring bond markets with heightened urgency",
-      "link": "https://www.fxstreet.com/news/japans-katayama-says-will-closely-monitoring-bond-markets-with-heightened-urgency-202609040239",
+      "title": "Japanese Yen: Stronger yen driven by fundamentals – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-stronger-yen-driven-by-fundamentals-mufg-202609040915",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "United States Dollar Index weakens as Fed’s Waller signals rate pause",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-as-feds-waller-signals-rate-pause-202609040225",
+      "title": "British Pound: Budget risks weigh on Sterling – Rabobank",
+      "link": "https://www.fxstreet.com/news/british-pound-budget-risks-weigh-on-sterling-rabobank-202609040906",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD trades below $67.00 amid mixed setup as US NFP looms",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-below-6700-amid-mixed-setup-as-us-nfp-looms-202609040223",
+      "title": "Eurozone Retail Sales decline unexpectedly 0.6% MoM in July",
+      "link": "https://www.fxstreet.com/news/eurozone-retail-sales-declines-unexpectedly-06-mom-in-july-202609040902",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Australian Dollar strengthens on RBA hike odds",
-      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-on-rba-hike-odds-202609040207",
+      "title": "Euro: Gradual recovery from Warsh sell-off against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-gradual-recovery-from-warsh-sell-off-against-us-dollar-ing-202609040852",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Canadian Dollar remains on the front foot vs USD as US and Canada jobs data loom",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-on-the-front-foot-vs-usd-as-us-and-canada-jobs-data-loom-202609040148",
+      "title": "Indian Rupee outperforms ahead of US NFP data",
+      "link": "https://www.fxstreet.com/news/indian-rupee-trades-close-to-two-month-low-ahead-of-us-nfp-data-202609040546",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "British Pound edges higher above 1.3500 ahead of US jobs report",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-above-13500-ahead-of-us-jobs-report-202609040146",
+      "title": "GBP/USD Price Forecast: Bulls turn cautious as 1.3550 cap gains ahead of US NFP",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-turn-cautious-as-13550-cap-gains-ahead-of-us-nfp-202609040834",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "WTI hovers around $89.50 as US military escorts tankers through Hormuz earlier this week",
-      "link": "https://www.fxstreet.com/news/wti-hovers-around-8950-as-us-military-escorts-tankers-through-hormuz-earlier-this-week-202609040129",
+      "title": "US August Nonfarm Payrolls expected to rebound to 58K after July slump",
+      "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7787 vs. 6.7807 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67787-vs-67807-previous-202609040115",
+      "title": "Hungarian Forint: Forint supported by possible MNB pause – Commerzbank",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-forint-supported-by-possible-mnb-pause-commerzbank-202609040828",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Japanese Yen sits near August highs as USD remains on the back foot ahead of US NFP",
-      "link": "https://www.fxstreet.com/news/japanese-yen-sits-near-august-highs-as-usd-remains-on-the-back-foot-ahead-of-us-nfp-202609040104",
+      "title": "Euro recovery against Japanese Yen stalls despite upbeat German Factory data",
+      "link": "https://www.fxstreet.com/news/euro-recovery-against-japanese-yen-stalls-despite-upbeat-german-factory-data-202609040823",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro steadies above 1.1600 as traders await US NFP data",
-      "link": "https://www.fxstreet.com/news/euro-steadies-above-11600-as-traders-await-us-nfp-data-202609040048",
+      "title": "Gold extends the range play above $4,450 as traders look to US NFP for Fed rate cues",
+      "link": "https://www.fxstreet.com/news/gold-consolidates-below-4-500-as-bulls-look-to-us-nfp-for-fed-rate-cues-202609040418",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Japanese Yen: 160 seen as credible intervention deterrent against US Dollar – BNY",
+      "link": "https://www.fxstreet.com/news/japanese-yen-160-seen-as-credible-intervention-deterrent-against-us-dollar-bny-202609040814",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Equities: Rally on dovish Fed tone – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-rally-on-dovish-fed-tone-deutsche-bank-202609040800",
       "date": "2026-09-04"
     },
     {
@@ -256,55 +305,6 @@
       "source": "ForexLive",
       "title": "The magazine cover \"curse\": less about magic, more about who's already bought in",
       "link": "https://investinglive.com/education/the-magazine-cover-curse-less-about-magic-more-about-who-s-already-bought-in/",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "How Waller moved the Fed rate-hike odds by 12 points in minutes: a look inside CME FedWatch",
-      "link": "https://investinglive.com/education/how-waller-moved-the-fed-rate-hike-odds-by-12-points-in-minutes-a-look-inside-cme-fedwatch/",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Catch-up: Waller sent stocks rocketing higher in the US",
-      "link": "https://investinglive.com/stock-market-update/catch-up-waller-sent-stocks-rocketing-higher-in-the-us/",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Americas market news wrap: Waller tamps down rate hike bets",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-waller-tamps-down-rate-hike-bets/",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ICYMI: Oman said to reject Iran's plan to jointly charge fees on ships in Hormuz",
-      "link": "https://investinglive.com/commodities/icymi-oman-said-to-reject-iran-s-plan-to-jointly-charge-fees-on-ships-in-hormuz/",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Citi lifts 3Q26 Brent forecast to $86 but sees prices sliding to $65 by 2027",
-      "link": "https://investinglive.com/commodities/citi-lifts-3q26-brent-forecast-to-86-but-sees-prices-sliding-to-65-by-2027/",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "RBNZ's Hansen: Future policy moves hinge on trends across broad economic data sets",
-      "link": "https://www.fxstreet.com/news/rbnzs-hansen-future-policy-moves-hinge-on-trends-across-broad-economic-data-sets-202609032344",
-      "date": "2026-09-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold rebounds above $4,450 as Waller tempers Fed rate hike bets ahead US jobs data",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-450-as-waller-tempers-fed-rate-hike-bets-ahead-us-jobs-data-202609032336",
       "date": "2026-09-03"
     }
   ]
