@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "link": "",
+      "date": "2026-09-04"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Philip R. Lane: Diversity at the European Central Bank",
@@ -87,16 +94,51 @@
       "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
       "link": "",
       "date": "2026-08-20"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "link": "",
-      "date": "2026-08-20"
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Reports of loud explosions in Jordan",
+      "link": "https://investinglive.com/commodities/reports-of-loud-explosions-in-jordan/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Cleveland Fed President Beth Hammack is sounding decidedly hawkish on monetary policy",
+      "link": "https://investinglive.com/central-banks/cleveland-fed-president-beth-hammack-is-sounding-decidedly-hawkish-on-monetary-policy/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nvidia Technicals: Buyers are making a play and testing the all-time highs.",
+      "link": "https://investinglive.com/technical-analysis/nvidia-technicals-buyers-are-making-a-play-and-testing-the-all-time-highs/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Crude oil Technical Analysis: Crude oil futures are up strongly this week but lower on the day",
+      "link": "https://investinglive.com/commodities/crude-oil-technical-analysis-crude-oil-futures-are-up-strongly-this-week-but-lower-on-the-day/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Oil climbs on reports of Iran ballistic missile launches",
+      "link": "https://investinglive.com/commodities/oil-climbs-on-reports-of-iran-ballistic-missile-launches/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "S&P and Nasdaq Composite Technical Analysis: The broader indices are mixed but what are the charts saying?",
+      "link": "https://investinglive.com/technical-analysis/s-p-and-nasdaq-composite-technical-analysis-the-broader-indices-are-mixed-but-what-are-the-charts-saying/",
+      "date": "2026-09-04"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -162,149 +204,107 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Stop making this mistake when looking at the economic calendar",
-      "link": "https://investinglive.com/education/stop-making-this-mistake-when-looking-at-the-economic-calendar/",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "What is the distribution of forecasts for the US NFP?",
-      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-0/",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USD/JPY bounces near the major 155.00 support; pullback or the start of a rally into new highs?",
-      "link": "https://investinglive.com/forex/usd-jpy-bounces-near-the-major-155-00-support-pullback-or-the-start-of-a-rally-into-new-highs/",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "FX option expiries for 4 September 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-4-september-10am-new-york-cut/",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-35/",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Markets tread water ahead of US payrolls",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-markets-tread-water-ahead-of-us-payrolls/",
+      "source": "FXStreet",
+      "title": "Turkey: CBRT likely to hold before two Q4 rate cuts - ING",
+      "link": "https://www.fxstreet.com/news/turkey-cbrt-likely-to-hold-before-two-q4-rate-cuts-ing-202609041810",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Canadian Dollar: Jobs weakness caps gains against US Dollar - TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-jobs-weakness-caps-gains-against-us-dollar-td-securities-202609041406",
+      "title": "Australian Dollar resumes advance as US Dollar loses post-NFP momentum",
+      "link": "https://www.fxstreet.com/news/australian-dollar-resumes-advance-as-us-dollar-loses-post-nfp-momentum-202609041810",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Canadian Dollar slides as Canada sheds 41.7K jobs, US payrolls surge",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-as-canada-sheds-417k-jobs-us-payrolls-surge-202609041400",
+      "title": "Gold falls as traders increase Fed hawkish bets after stellar NFP",
+      "link": "https://www.fxstreet.com/news/gold-falls-as-traders-increase-fed-hawkish-bets-after-stellar-nfp-202609041808",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Dollar: Jobs strength lifts hike odds – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-jobs-strength-lifts-hike-odds-ing-202609041349",
+      "title": "Dow Jones Industrial Average falls on a jobs number the president loves",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-falls-on-a-jobs-number-the-president-loves-202609041736",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "British Pound trims losses against US Dollar after NFP-driven volatility",
-      "link": "https://www.fxstreet.com/news/british-pound-trims-losses-against-us-dollar-after-nfp-driven-volatility-202609041346",
+      "title": "Silver claws back post-NFP losses after briefly crashing below $65",
+      "link": "https://www.fxstreet.com/news/silver-claws-back-post-nfp-losses-after-briefly-crashing-below-65-202609041551",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Gold: Central bank buying underpins prices – ING",
-      "link": "https://www.fxstreet.com/news/gold-central-bank-buying-underpins-prices-ing-202609041325",
+      "title": "EUR/USD Price Forecast: Euro forms potential higher low above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-euro-forms-potential-higher-low-above-100-day-sma-202609041543",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro slips against US Dollar as Nonfarm Payrolls crush expectations",
-      "link": "https://www.fxstreet.com/news/euro-slips-against-us-dollar-as-nonfarm-payrolls-crush-expectations-202609041319",
+      "title": "Brent: Questionable flows, fragile outlook – Commerzbank",
+      "link": "https://www.fxstreet.com/news/brent-questionable-flows-fragile-outlook-commerzbank-202609041542",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Japanese Yen steadies against US Dollar after strong NFP report",
-      "link": "https://www.fxstreet.com/news/japanese-yen-steadies-against-us-dollar-after-strong-nfp-report-202609041309",
+      "title": "European Central Bank: Dovish hold may follow September hike - Rabobank",
+      "link": "https://www.fxstreet.com/news/european-central-bank-dovish-hold-may-follow-september-hike-rabobank-202609041524",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Gold tumbles as blockbuster US NFP lift US Dollar, Treasury yields",
+      "title": "United States Dollar Index rises as strong NFP revives Fed hike bets",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-as-strong-nfp-revives-fed-hike-bets-202609041521",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Hungary: Inflation uptick complicates rate-cut path – ING",
+      "link": "https://www.fxstreet.com/news/hungary-inflation-uptick-complicates-rate-cut-path-ing-202609041514",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Gold recovers from post-NFP low as US Dollar trims gains",
       "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Mexican Peso: Trade talks support Peso against US Dollar - Societe Generale",
-      "link": "https://www.fxstreet.com/news/mexican-peso-trade-talks-support-peso-against-us-dollar-societe-generale-202609041250",
+      "title": "Swiss Franc loses ground upbeat US Nonfarm Payrolls",
+      "link": "https://www.fxstreet.com/news/swiss-franc-loses-ground-upbeat-us-nonfarm-payrolls-202609041453",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro retreats against Pound Sterling as Eurozone Retail Sales disappoint",
-      "link": "https://www.fxstreet.com/news/euro-retreats-against-pound-sterling-as-eurozone-retail-sales-disappoint-202609041239",
+      "title": "Canada: Gradual improvement outlook on labour market – RBC",
+      "link": "https://www.fxstreet.com/news/canada-gradual-improvement-outlook-on-labour-market-rbc-202609041452",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Breaking: US Nonfarm Payrolls rise by 162K in August vs. 56K forecast",
-      "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830",
+      "title": "United States: Solid jobs data support steady Fed – Commerzbank",
+      "link": "https://www.fxstreet.com/news/united-states-solid-jobs-data-support-steady-fed-commerzbank-202609041436",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "European Central Bank: Inflation-driven hike prospects – DBS",
-      "link": "https://www.fxstreet.com/news/european-central-bank-inflation-driven-hike-prospects-dbs-202609041229",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "WTI Oil retreats below $89 despite persistent tensions around the Strait of Hormuz",
-      "link": "https://www.fxstreet.com/news/wti-oil-retreats-below-89-despite-persistent-tensions-around-the-strait-of-hormuz-202609041224",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Federal Reserve: Close call on further tightening – Commerzbank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-close-call-on-further-tightening-commerzbank-202609041204",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen: Sharp rebound and Fed repricing – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-sharp-rebound-and-fed-repricing-mufg-202609041152",
+      "title": "European Central Bank: September hike path and oil risks – Nomura",
+      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-path-and-oil-risks-nomura-202609041421",
       "date": "2026-09-04"
     }
   ]
