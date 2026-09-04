@@ -22,28 +22,28 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Financial Results of Japan's Banks for Fiscal 2025",
-      "link": "https://www.boj.or.jp/en/research/brp/fsr/fsrb260904.htm",
+      "link": "http://www.boj.or.jp/en/research/brp/fsr/fsrb260904.htm",
       "date": "2026-09-04"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Notice of the \"Meeting on Market Operations\"",
-      "link": "https://www.boj.or.jp/en/paym/market/mkt260903a.pdf",
+      "link": "http://www.boj.or.jp/en/paym/market/mkt260903a.pdf",
       "date": "2026-09-03"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Sources of Changes in Current Account Balances (Projections for Sept.)",
-      "link": "https://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2609.xlsx",
+      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2609.xlsx",
       "date": "2026-09-02"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "link": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260831.xlsx",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260831.xlsx",
       "date": "2026-09-02"
     },
     {
@@ -205,6 +205,13 @@
     {
       "cur": "MKT",
       "source": "FXStreet",
+      "title": "Malaysian Ringgit: Range-bound risks and key levels against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-range-bound-risks-and-key-levels-against-us-dollar-ocbc-202609042251",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
       "title": "USD/MXN Price Forecast: Peso rally targets April 2024 low",
       "link": "https://www.fxstreet.com/news/usd-mxn-price-forecast-peso-rally-targets-april-2024-low-202609042159",
       "date": "2026-09-04"
@@ -298,13 +305,6 @@
       "source": "FXStreet",
       "title": "Dow Jones Industrial Average falls on a jobs number the president loves",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-falls-on-a-jobs-number-the-president-loves-202609041736",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Silver claws back post-NFP losses after briefly crashing below $65",
-      "link": "https://www.fxstreet.com/news/silver-claws-back-post-nfp-losses-after-briefly-crashing-below-65-202609041551",
       "date": "2026-09-04"
     }
   ]
