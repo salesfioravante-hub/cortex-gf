@@ -100,6 +100,34 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "US indices close mixed with Dow, S&P and Nasdaq lower, but Russell and Nasdaq 100 higher",
+      "link": "https://investinglive.com/stocks/us-indices-close-mixed-with-dow-s-p-and-nasdaq-lower-but-russell-and-nasdaq-100-higher/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas market news wrap: Big beat for non-farm payrolls",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-big-beat-for-non-farm-payrolls/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump: Going to help cattle ranchers by allowing them to process their own beef.",
+      "link": "https://investinglive.com/news/trump-going-to-help-cattle-ranchers-by-allowing-them-to-process-their-own-beef/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump: Witkoff and Kushner will bring proposal to Putin to end the war",
+      "link": "https://investinglive.com/news/trump-we-may-hit-piackaxe-mountain-very-soon/",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Reports of loud explosions in Jordan",
       "link": "https://investinglive.com/commodities/reports-of-loud-explosions-in-jordan/",
       "date": "2026-09-04"
@@ -176,30 +204,51 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Locked and loaded for the August edition of non-farm payrolls",
-      "link": "https://investinglive.com/news/locked-and-loaded-for-the-august-edition-of-non-farm-payrolls/",
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah: Two-way risks around support levels – OCBC",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-two-way-risks-around-support-levels-ocbc-202609042043",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European news wrap: Markets consolidate ahead of NFP",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-ahead-of-nfp/",
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Services PMI rebound keeps PBoC cautious – Commerzbank",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-services-pmi-rebound-keeps-pboc-cautious-commerzbank-202609042003",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "How have interest rate expectations changed after this week's events?",
-      "link": "https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events-3/",
+      "source": "FXStreet",
+      "title": "Sterling’s rally stalls as US jobs data reopens Fed debate",
+      "link": "https://www.fxstreet.com/news/sterlings-rally-stalls-as-us-jobs-data-reopens-fed-debate-202609041952",
       "date": "2026-09-04"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Eurozone retail sales fall in July as consumer spending softens",
-      "link": "https://investinglive.com/news/eurozone-retail-sales-fall-in-july-as-consumer-spending-softens/",
+      "source": "FXStreet",
+      "title": "Malaysia: Hawkish pause keeps options open – DBS",
+      "link": "https://www.fxstreet.com/news/malaysia-hawkish-pause-keeps-options-open-dbs-202609041934",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Indian Rupee: Dollar inflows support INR but impulse may fade – OCBC",
+      "link": "https://www.fxstreet.com/news/indian-rupee-dollar-inflows-support-inr-but-impulse-may-fade-ocbc-202609041932",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Eurozone: Inflation above target into 2027 – Nordea",
+      "link": "https://www.fxstreet.com/news/eurozone-inflation-above-target-into-2027-nordea-202609041850",
+      "date": "2026-09-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Fed’s Hammack says policy is not restrictive enough",
+      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-is-not-restrictive-enough-202609041816",
       "date": "2026-09-04"
     },
     {
@@ -256,55 +305,6 @@
       "source": "FXStreet",
       "title": "European Central Bank: Dovish hold may follow September hike - Rabobank",
       "link": "https://www.fxstreet.com/news/european-central-bank-dovish-hold-may-follow-september-hike-rabobank-202609041524",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "United States Dollar Index rises as strong NFP revives Fed hike bets",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-as-strong-nfp-revives-fed-hike-bets-202609041521",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Hungary: Inflation uptick complicates rate-cut path – ING",
-      "link": "https://www.fxstreet.com/news/hungary-inflation-uptick-complicates-rate-cut-path-ing-202609041514",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold recovers from post-NFP low as US Dollar trims gains",
-      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Swiss Franc loses ground upbeat US Nonfarm Payrolls",
-      "link": "https://www.fxstreet.com/news/swiss-franc-loses-ground-upbeat-us-nonfarm-payrolls-202609041453",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canada: Gradual improvement outlook on labour market – RBC",
-      "link": "https://www.fxstreet.com/news/canada-gradual-improvement-outlook-on-labour-market-rbc-202609041452",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "United States: Solid jobs data support steady Fed – Commerzbank",
-      "link": "https://www.fxstreet.com/news/united-states-solid-jobs-data-support-steady-fed-commerzbank-202609041436",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "European Central Bank: September hike path and oil risks – Nomura",
-      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-path-and-oil-risks-nomura-202609041421",
       "date": "2026-09-04"
     }
   ]
