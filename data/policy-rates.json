@@ -4,7 +4,7 @@
   "status": "ok",
   "fred_ok": "2/2",
   "notes": [
-    "USD: FRED DFEDTARU = 3.75% (2026-09-04)",
+    "USD: FRED DFEDTARU = 3.75% (2026-09-05)",
     "EUR: FRED ECBDFR = 2.25% (2026-09-04)"
   ],
   "nota": "rate = taxa de política oficial (%). Verifica o input do carry; não o substitui. Curadas: conferir quando o BC decidir (ver cbcalendar.json).",
@@ -13,7 +13,7 @@
       "rate": 3.75,
       "src": "Fed — limite superior da meta (FRED DFEDTARU)",
       "auto": true,
-      "asof": "2026-09-04"
+      "asof": "2026-09-05"
     },
     "EUR": {
       "rate": 2.25,
