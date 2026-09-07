@@ -100,6 +100,69 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "South Korea Q2 GDP, final, +0.6% (vs. expected +0.6%, prior +1.8%)",
+      "link": "https://investinglive.com/news/south-korea-q2-gdp-final-0-6-vs-expected-0-6-prior-1-8/",
+      "date": "2026-09-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "BRC data shows summer retail boost fading fast as GBP watches consumer signals",
+      "link": "https://investinglive.com/news/brc-data-shows-summer-retail-boost-fading-fast-as-gbp-watches-consumer-signals/",
+      "date": "2026-09-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Oil jumps at reopen on Saudi strikes, Iran threat to Gulf energy assets",
+      "link": "https://investinglive.com/commodities/oil-jumps-at-reopen-on-saudi-strikes-iran-threat-to-gulf-energy-assets/",
+      "date": "2026-09-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UBS still likes gold despite hawkish Fed pivot",
+      "link": "https://investinglive.com/commodities/ubs-still-likes-gold-despite-hawkish-fed-pivot/",
+      "date": "2026-09-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UBS: two Fed hikes incoming, but equity bull case still intact",
+      "link": "https://investinglive.com/stocks/ubs-two-fed-hikes-incoming-but-equity-bull-case-still-intact/",
+      "date": "2026-09-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Goldman Sachs says gold bull run not over, flags $4,000 as buy zone into FOMC",
+      "link": "https://investinglive.com/commodities/goldman-sachs-says-gold-bull-run-not-over-flags-4-000-as-buy-zone-into-fomc/",
+      "date": "2026-09-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Preview: China trade data due today, a beat could firm up AUD as a demand proxy trade",
+      "link": "https://investinglive.com/news/preview-china-trade-data-due-today-a-beat-could-firm-up-aud-as-a-demand-proxy-trade/",
+      "date": "2026-09-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Preview: Japan revised Q2 GDP set to test BOJ September rate hike bets",
+      "link": "https://investinglive.com/stocks/preview-japan-revised-q2-gdp-set-to-test-boj-september-rate-hike-bets/",
+      "date": "2026-09-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Economic and event calendar in Asia Tuesday, September 8, 2026: Japan GDP and China trade data",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-september-8-2026-japan-gdp-and-china-trade-data/",
+      "date": "2026-09-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "investingLive Americas FX news wrap 7 Sept: USD falls as the yen surges on BOJ rate-hike expectations",
       "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-7-sept-usd-falls-as-the-yen-surges-on-boj-rate-hike-expectations/",
       "date": "2026-09-07"
@@ -141,65 +204,65 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Kickstart the North American FX session. The USDJPY is the big mover. The EUR and GBP are down modestly",
-      "link": "https://investinglive.com/technical-analysis/kickstart-the-north-american-fx-session-the-usdjpy-is-the-big-mover-the-eur-and-gbp-are-down-modestly/",
+      "source": "FXStreet",
+      "title": "Citi Survey sees Banxico frozen as Peso holds below 18.00",
+      "link": "https://www.fxstreet.com/news/citi-survey-sees-banxico-frozen-as-peso-holds-below-1800-202609072304",
       "date": "2026-09-07"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Today's gold trade idea (Long)",
-      "link": "https://investinglive.com/commodities/today-s-gold-trade-idea-long/",
+      "source": "FXStreet",
+      "title": "Thai Baht: Recent THB gains face headwinds – OCBC",
+      "link": "https://www.fxstreet.com/news/thai-baht-recent-thb-gains-face-headwinds-ocbc-202609072256",
       "date": "2026-09-07"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European session wrap: Oil climbs, yen surges amid US holiday",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-climbs-yen-surges-amid-us-holiday/",
+      "source": "FXStreet",
+      "title": "Australian Dollar rides thin-trading lift as Fed test looms",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rides-thin-trading-lift-as-fed-test-looms-202609072253",
       "date": "2026-09-07"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "$100 oil is coming back into the picture, and central banks may have a problem",
-      "link": "https://investinglive.com/commodities/100-oil-is-coming-back-into-the-picture-and-central-banks-may-have-a-problem/",
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Hong Kong’s offshore gateway role expands – Commerzbank",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-hong-kongs-offshore-gateway-role-expands-commerzbank-202609072217",
       "date": "2026-09-07"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Saudi Aramco facility attacked again; extent of the damage still being assessed",
-      "link": "https://investinglive.com/news/saudi-aramco-facility-attacked-again-extent-of-the-damage-still-being-assessed/",
+      "source": "FXStreet",
+      "title": "The Canadian Dollar gains as Oil rally offsets jobs gloom",
+      "link": "https://www.fxstreet.com/news/the-canadian-dollar-gains-as-oil-rally-offsets-jobs-gloom-202609072208",
       "date": "2026-09-07"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "S&P 500 extends losses as hot NFP raises rate hike odds; eyes on the US CPI next",
-      "link": "https://investinglive.com/stocks/s-p-500-extends-losses-as-hot-nfp-raises-rate-hike-odds-eyes-on-the-us-cpi-next/",
+      "source": "FXStreet",
+      "title": "South Korean Won: Authorities signal pause in KRW strength – ING",
+      "link": "https://www.fxstreet.com/news/south-korean-won-authorities-signal-pause-in-krw-strength-ing-202609072139",
       "date": "2026-09-07"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "EUR/USD at a crossroads as traders await the US CPI for the next major move",
-      "link": "https://investinglive.com/forex/eur-usd-at-a-crossroads-as-traders-await-the-us-cpi-for-the-next-major-move/",
+      "source": "FXStreet",
+      "title": "Tuesday tells the Japanese Yen more than next week will",
+      "link": "https://www.fxstreet.com/news/tonight-tells-the-japanese-yen-more-than-next-week-will-202609072138",
       "date": "2026-09-07"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Oil prices climb as US-Iran missile strikes keep Hormuz risks elevated",
-      "link": "https://investinglive.com/commodities/oil-prices-climb-as-us-iran-missile-strikes-keep-hormuz-risks-elevated/",
+      "source": "FXStreet",
+      "title": "Indonesian Rupiah: Oil and US inflation pose risks – MUFG",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-oil-and-us-inflation-pose-risks-mufg-202609072101",
       "date": "2026-09-07"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Eurozone Q2 GDP gets a trade boost as growth accelerates to 0.6%",
-      "link": "https://investinglive.com/news/eurozone-q2-gdp-gets-a-trade-boost-as-growth-accelerates-to-0-6/",
+      "source": "FXStreet",
+      "title": "Pound Sterling's rate advantage buys it no say this week",
+      "link": "https://www.fxstreet.com/news/pound-sterlings-rate-advantage-buys-it-no-say-this-week-202609072058",
       "date": "2026-09-07"
     },
     {
@@ -242,69 +305,6 @@
       "source": "FXStreet",
       "title": "Equities: AI-led upside and income focus – HSBC",
       "link": "https://www.fxstreet.com/news/equities-ai-led-upside-and-income-focus-hsbc-202609071857",
-      "date": "2026-09-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "The world has enough Crude Oil and not enough diesel",
-      "link": "https://www.fxstreet.com/news/the-world-has-enough-crude-oil-and-not-enough-diesel-202609071813",
-      "date": "2026-09-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Germany: Cautious growth outlook – ABN AMRO",
-      "link": "https://www.fxstreet.com/news/germany-cautious-growth-outlook-abn-amro-202609071813",
-      "date": "2026-09-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "United States Dollar Index trades under pressure as Yen buying accelerates",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-under-pressure-as-yen-buying-accelerates-202609071803",
-      "date": "2026-09-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "The Japanese Yen has stopped trading the Federal Reserve",
-      "link": "https://www.fxstreet.com/news/nobody-has-unwound-the-japanese-yen-carry-trade-yet-202609071701",
-      "date": "2026-09-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Forex Today: Japanese GDP figures and China’s trade results in the limelight",
-      "link": "https://www.fxstreet.com/news/forex-today-japanese-gdp-figures-and-chinas-trade-results-in-the-limelight-202609071750",
-      "date": "2026-09-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "United States: Sideways growth and oil shock risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-sideways-growth-and-oil-shock-risks-td-securities-202609071737",
-      "date": "2026-09-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound climbs as USD fades, Hormuz risk keeps Fed in play",
-      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-usd-fades-hormuz-risk-keeps-fed-in-play-202609071651",
-      "date": "2026-09-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "New Zealand Dollar struggles to gain traction as cautious RBNZ outlook weighs",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-to-gain-traction-as-cautious-rbnz-outlook-weighs-202609071609",
-      "date": "2026-09-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "USD/CHF Price Forecast: Pair consolidates around the 50-day SMA",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pair-consolidates-around-the-50-day-sma-202609071602",
       "date": "2026-09-07"
     }
   ]
