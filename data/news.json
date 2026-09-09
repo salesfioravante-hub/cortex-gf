@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Warning against Scams Using the Bank of Japan's Name",
+      "link": "http://www.boj.or.jp/en/about/organization/notice/index.htm",
+      "date": "2026-09-09"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Frank Elderson: Fireside chat",
@@ -30,13 +37,6 @@
       "source": "BoJ",
       "title": "Amounts Outstanding in the Call Money Market (Aug.)",
       "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
-      "date": "2026-09-07"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Consumption Activity Index",
-      "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
       "date": "2026-09-07"
     },
     {
@@ -100,6 +100,188 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "investingLive Asia-Pacific market news: War escalation supports oil",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-war-escalation-supports-oil/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "China inflation rebounds on energy costs, but the demand story hasn't changed - recap",
+      "link": "https://investinglive.com/news/china-inflation-rebounds-on-energy-costs-but-the-demand-story-hasn-t-changed-recap/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "KOSPI tops 7,000 on AI optimism even as Middle East risk weighs",
+      "link": "https://investinglive.com/stock-market-update/kospi-tops-7-000-on-ai-optimism-even-as-middle-east-risk-weighs/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Iran claims strikes on US destroyers, tankers crossing Hormuz",
+      "link": "https://investinglive.com/commodities/iran-claims-strikes-on-us-destroyers-tankers-crossing-hormuz/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Central bank buying keeps UBS bullish on gold's long game",
+      "link": "https://investinglive.com/commodities/central-bank-buying-keeps-ubs-bullish-on-gold-s-long-game/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold's Iran-war paradox: why bullion keeps stumbling as the conflict widens",
+      "link": "https://investinglive.com/commodities/gold-s-iran-war-paradox-why-bullion-keeps-stumbling-as-the-conflict-widens/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "China August CPI 0.8% y/y (expected 0.8%, prior 0.5%)",
+      "link": "https://investinglive.com/news/china-august-cpi-y-y-expected-0-8-prior-0-5/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC sets USD/ CNY mid-point today at 6.7769 (vs. estimate at 6.7042)",
+      "link": "https://investinglive.com/forex/pboc-sets-usd-cny-mid-point-today-at-6-vs-estimate-at-6-7042/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump  bans Canadian autos, dairy and alcohol in trade war escalation",
+      "link": "https://investinglive.com/stock-market-update/trump-bans-canadian-autos-dairy-and-alcohol-in-trade-war-escalation/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7042 – Reuters estimate",
+      "link": "https://investinglive.com/forex/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7042-reuters-estimate/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Why a Gulf oil shock moves Brent harder than WTI, and what that reveals",
+      "link": "https://investinglive.com/education/why-a-gulf-oil-shock-moves-brent-harder-than-wti-and-what-that-reveals/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Bullish bias remains above 1.1600 ahead of ECB and US inflation",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bullish-bias-remains-above-11600-ahead-of-ecb-and-us-inflation-202609090401",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Gold bounces off one-week low on soft USD; upside seems capped ahead of US inflation data",
+      "link": "https://www.fxstreet.com/news/gold-bounces-off-one-week-low-on-soft-usd-upside-seems-capped-ahead-of-us-inflation-data-202609090334",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "United States Dollar Index weakens despite rising inflation concerns, Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-despite-rising-inflation-concerns-fed-rate-hike-bets-202609090327",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD rises to near $66.40 as US Dollar declines, US CPI in focus",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6640-as-us-dollar-declines-us-cpi-in-focus-202609090318",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Japanese Yen gathers strength as BoJ hike bets ramp up",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gathers-strength-as-boj-hike-bets-ramp-up-202609090256",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Canadian Dollar gains amid elevated oil prices, escalating US trade sanctions",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-amid-elevated-oil-prices-escalating-us-trade-sanctions-202609090253",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "New Zealand Dollar holds gains above 0.5850 after Chinese inflation data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-gains-above-05850-after-chinese-inflation-data-202609090204",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Australian Dollar remains on the front foot vs weak USD after China's inflation data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-on-the-front-foot-vs-weak-usd-after-chinas-inflation-data-202609090154",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Australian Dollar inches higher against Japanese Yen following China’s inflation data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-inches-higher-against-japanese-yen-following-chinas-inflation-data-202609090154",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "0.8%: China’s CPI inflation rises in August",
+      "link": "https://www.fxstreet.com/news/08-chinas-cpi-inflation-rises-in-august-202609090131",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US President Donald Trump bans Canadian autos, dairy and alcohol",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-bans-canadian-autos-dairy-and-alcohol-202609090120",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "WTI surges as US strikes Iranian tankers",
+      "link": "https://www.fxstreet.com/news/wti-surges-as-us-strikes-iranian-tankers-202609090117",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7769 vs. 6.7804 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67769-vs-67804-previous-202609090115",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "British Pound holds steady near mid-1.3500s vs USD as traders eye UK GDP and US inflation",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-near-mid-13500s-vs-usd-as-traders-eye-uk-gdp-and-us-inflation-202609090110",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro grinds higher above 1.1600, traders await ECB rate decision, US inflation data",
+      "link": "https://www.fxstreet.com/news/euro-grinds-higher-above-11600-traders-await-ecb-rate-decision-us-inflation-data-202609090058",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Dorsey's Block applies for federal bank charter to custody bitcoin and stablecoins",
       "link": "https://investinglive.com/cryptocurrency/dorsey-s-block-applies-for-federal-bank-charter-to-custody-bitcoin-and-stablecoins/",
       "date": "2026-09-08"
@@ -123,188 +305,6 @@
       "source": "ForexLive",
       "title": "US and Iran continue to trade strikes. Tehran hits US bases in Jordan.",
       "link": "https://investinglive.com/commodities/us-and-iran-continue-to-trade-strikes-tehran-hits-us-bases-in-jordan/",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin isn't a weekend hedge, it's just the only market still open",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-isn-t-a-weekend-hedge-it-s-just-the-only-market-still-open/",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 8 Sept: USD mixed, yields rise. Trader await inflation data.",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-8-sept-usd-mixed-yields-rise-trader-await-inflation-data/",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "China August inflation seen rebounding as trade data flags demand gap",
-      "link": "https://investinglive.com/news/china-august-inflation-seen-rebounding-as-trade-data-flags-demand-gap/",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Economic and event calendar in Asia Wednesday, September 9, 2026 - China inflation data",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-september-9-2026-china-inflation-data/",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US stocks close on the low as the post-Labor Day pattern continues",
-      "link": "https://investinglive.com/stocks/us-stocks-close-on-the-low-as-the-post-labor-day-pattern-continues/",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Intel shares are soaring by 10% in trading today.",
-      "link": "https://investinglive.com/technical-analysis/intel-shares-are-soaring-by-10-in-trading-today/",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Several explosions heard on Kharg Island - report",
-      "link": "https://investinglive.com/news/several-explosions-heard-on-kharg-island-report/",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Oil gives back gains as the breakout fails to sustain",
-      "link": "https://investinglive.com/commodities/oil-gives-back-gains-as-the-breakout-fails-to-sustain/",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "U.S. Treasury sells $58 billion of 3 or notes at a high yield of 4.474%",
-      "link": "https://investinglive.com/news/u-s-treasury-sells-58-billion-of-3-or-notes-at-a-high-yield-of-4-474/",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Flights reportedly suspended at Jeddah airport in Saudi Arabia",
-      "link": "https://investinglive.com/news/flights-reportedly-suspended-at-jeddah-airport-in-saudi-arabia/",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "S&P 500 analysis shows why bulls don't want to lose this one",
-      "link": "https://investinglive.com/stocks/s-p-500-analysis-shows-why-bulls-don-t-want-lose-this-one/",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold slumps to near $4,350 amid oil-driven inflation fears, US inflation data in focus",
-      "link": "https://www.fxstreet.com/news/gold-slumps-to-near-4-350-amid-oil-driven-inflation-fears-us-inflation-data-in-focus-202609082332",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Australian Dollar bulls run into Oil wall amid looming Fed decision",
-      "link": "https://www.fxstreet.com/news/australian-dollar-bulls-run-into-oil-wall-amid-looming-fed-decision-202609082326",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "The Japanese Yen spikes on a generational wage print and balks by the closing bell",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-spikes-on-a-generational-wage-print-and-balks-by-the-closing-bell-202609082315",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "The Pound sits still through a hawkish hearing and the priciest gilt sale",
-      "link": "https://www.fxstreet.com/news/the-pound-sits-still-through-a-hawkish-hearing-and-the-priciest-gilt-sale-202609082221",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Hammer teases rebound after 650-pip slide",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-hammer-teases-rebound-after-650-pip-slide-202609082231",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: Head-and-Shoulders risk builds below $67",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-head-and-shoulders-risk-builds-below-67-202609082205",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Forex Today: China’s inflation looms as Lagarde tees up ECB decision",
-      "link": "https://www.fxstreet.com/news/forex-today-chinas-inflation-looms-as-lagarde-tees-up-ecb-decision-202609082014",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Chinese Yuan: PBoC fix slows downside pace – OCBC",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-fix-slows-downside-pace-ocbc-202609081945",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound: Short term bias tilts higher against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-short-term-bias-tilts-higher-against-us-dollar-uob-202609081930",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "United States: Core inflation stays contained as goods soften – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-core-inflation-stays-contained-as-goods-soften-td-securities-202609081917",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Mexican Peso flatlines as traders brace for Mexico’s fiscal package",
-      "link": "https://www.fxstreet.com/news/mexican-peso-flatlines-as-traders-brace-for-mexicos-fiscal-package-202609081907",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen: Intervention risk and key levels in focus against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-and-key-levels-in-focus-against-us-dollar-scotiabank-202609081907",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Swiss Franc: Sideways consolidation inside tight band against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-sideways-consolidation-inside-tight-band-against-us-dollar-uob-202609081857",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "United Kingdom: Backloaded consolidation risks – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-backloaded-consolidation-risks-deutsche-bank-202609081848",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Dollar: Mixed performance with Fed and trade risks – Scotiabank",
-      "link": "https://www.fxstreet.com/news/us-dollar-mixed-performance-with-fed-and-trade-risks-scotiabank-202609081833",
       "date": "2026-09-08"
     }
   ]
