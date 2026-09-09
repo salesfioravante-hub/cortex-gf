@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-08",
+  "asof": "2026-09-09",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -9,6 +9,13 @@
       "source": "BCE",
       "title": "Frank Elderson: Fireside chat",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
+      "date": "2026-09-08"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Money Stock (Aug.)",
+      "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2608.pdf",
       "date": "2026-09-08"
     },
     {
@@ -31,13 +38,6 @@
       "title": "Consumption Activity Index",
       "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
       "date": "2026-09-07"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Monetary Base and the Bank of Japan's Transactions (Aug.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2608.pdf",
-      "date": "2026-09-06"
     },
     {
       "cur": "USD",
@@ -97,6 +97,41 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Dorsey's Block applies for federal bank charter to custody bitcoin and stablecoins",
+      "link": "https://investinglive.com/cryptocurrency/dorsey-s-block-applies-for-federal-bank-charter-to-custody-bitcoin-and-stablecoins/",
+      "date": "2026-09-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "RBA weighing further rate rise this month as Dep gov Hauser cites three-headed risk",
+      "link": "https://investinglive.com/central-banks/rba-weighing-further-rate-rise-this-month-as-dep-gov-hauser-cites-three-headed-risk/",
+      "date": "2026-09-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan factory mood hits near 5-year high as chip demand lifts Reuters Tankan",
+      "link": "https://investinglive.com/news/japan-factory-mood-hits-near-5-year-high-as-chip-demand-lifts-reuters-tankan/",
+      "date": "2026-09-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US and Iran continue to trade strikes. Tehran hits US bases in Jordan.",
+      "link": "https://investinglive.com/commodities/us-and-iran-continue-to-trade-strikes-tehran-hits-us-bases-in-jordan/",
+      "date": "2026-09-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin isn't a weekend hedge, it's just the only market still open",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-isn-t-a-weekend-hedge-it-s-just-the-only-market-still-open/",
+      "date": "2026-09-08"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -169,37 +204,44 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bloom Energy Technical view: The price of Bloom Energy is up about 20% since last week's video. What now?",
-      "link": "https://investinglive.com/education/bloom-energy-technical-view-the-price-of-bloom-energy-is-up-about-20-since-last-week-s-video-what-now/",
+      "source": "FXStreet",
+      "title": "Gold slumps to near $4,350 amid oil-driven inflation fears, US inflation data in focus",
+      "link": "https://www.fxstreet.com/news/gold-slumps-to-near-4-350-amid-oil-driven-inflation-fears-us-inflation-data-in-focus-202609082332",
       "date": "2026-09-08"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USDCAD Technicals: The USDCAD is trading lower and dipping below the low from last week",
-      "link": "https://investinglive.com/technical-analysis/usdcad-technicals-the-usdcad-is-trading-lower-and-dipping-below-the-low-from-last-week/",
+      "source": "FXStreet",
+      "title": "Australian Dollar bulls run into Oil wall amid looming Fed decision",
+      "link": "https://www.fxstreet.com/news/australian-dollar-bulls-run-into-oil-wall-amid-looming-fed-decision-202609082326",
       "date": "2026-09-08"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "NY Fed survey: Expectations for rising unemployment rise to highest since April 2020",
-      "link": "https://investinglive.com/news/ny-fed-survey-expectations-for-rising-unemployment-rise-to-highest-since-april-2020/",
+      "source": "FXStreet",
+      "title": "The Japanese Yen spikes on a generational wage print and balks by the closing bell",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-spikes-on-a-generational-wage-print-and-balks-by-the-closing-bell-202609082315",
       "date": "2026-09-08"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The S&P and Nasdaq Technicals: What are the charts telling traders in the broader US stock indices NOW?",
-      "link": "https://investinglive.com/technical-analysis/the-s-p-and-nasdaq-technicals-what-are-the-charts-telling-traders-in-the-broader-us-stock-indices-now/",
+      "source": "FXStreet",
+      "title": "The Pound sits still through a hawkish hearing and the priciest gilt sale",
+      "link": "https://www.fxstreet.com/news/the-pound-sits-still-through-a-hawkish-hearing-and-the-priciest-gilt-sale-202609082221",
       "date": "2026-09-08"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US Conference Board August employment trends  108.53  vs 107.71 prior",
-      "link": "https://investinglive.com/news/us-conference-board-august-employment-trends-108-53-vs-107-71-prior/",
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Hammer teases rebound after 650-pip slide",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-hammer-teases-rebound-after-650-pip-slide-202609082231",
+      "date": "2026-09-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: Head-and-Shoulders risk builds below $67",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-head-and-shoulders-risk-builds-below-67-202609082205",
       "date": "2026-09-08"
     },
     {
@@ -263,48 +305,6 @@
       "source": "FXStreet",
       "title": "US Dollar: Mixed performance with Fed and trade risks – Scotiabank",
       "link": "https://www.fxstreet.com/news/us-dollar-mixed-performance-with-fed-and-trade-risks-scotiabank-202609081833",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold price wilts as Oil shock puts CPI in Fed crosshairs",
-      "link": "https://www.fxstreet.com/news/gold-price-wilts-as-oil-shock-puts-cpi-in-fed-crosshairs-202609081801",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro: Upside bias within defined range against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-upside-bias-within-defined-range-against-us-dollar-uob-202609081751",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro rebounds against British Pound on diverging ECB-BoE interest rate paths",
-      "link": "https://www.fxstreet.com/news/euro-rebounds-against-british-pound-on-diverging-ecb-boe-interest-rate-paths-202609081741",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen: Policy scenarios favor stronger JPY against US Dollar – BBH",
-      "link": "https://www.fxstreet.com/news/japanese-yen-policy-scenarios-favor-stronger-jpy-against-us-dollar-bbh-202609081740",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound: Supportive BoE outlook with range trade against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-supportive-boe-outlook-with-range-trade-against-us-dollar-scotiabank-202609081721",
-      "date": "2026-09-08"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "The Japanese Yen spikes and unwinds on the best pay data in decades",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-spikes-and-unwinds-on-the-best-pay-data-in-decades-202609081639",
       "date": "2026-09-08"
     }
   ]
