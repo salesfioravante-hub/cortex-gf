@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-09",
+  "asof": "2026-09-10",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -9,6 +9,13 @@
       "source": "BCE",
       "title": "Christine Lagarde: The choice facing Europeans",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Regular Derivatives Market Statistics in Japan",
+      "link": "http://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
       "date": "2026-09-09"
     },
     {
@@ -37,13 +44,6 @@
       "source": "BoJ",
       "title": "Principal Figures of Financial Institutions (Aug.)",
       "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2608.pdf",
-      "date": "2026-09-07"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Amounts Outstanding in the Call Money Market (Aug.)",
-      "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
       "date": "2026-09-07"
     },
     {
@@ -97,6 +97,41 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Construction surges at suspected Iran nuclear site as US eyes \"deep strikes\" (cough ...)",
+      "link": "https://investinglive.com/commodities/construction-surges-at-suspected-iran-nuclear-site-as-us-eyes-deep-strikes-cough/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump aides privately warn Iran war could last his full term, WSJ reports",
+      "link": "https://investinglive.com/commodities/trump-aides-privately-warn-iran-war-could-last-his-full-term-wsj-reports/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Big day ahead in China - to detail financial power plans at 3pm Beijing briefing with PBoC",
+      "link": "https://investinglive.com/stock-market-update/big-day-ahead-in-china-to-detail-financial-power-plans-at-3pm-beijing-briefing-with-pboc/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bond yields hit highest since 2023 as stocks fall, oil tops $100 and buyback misfires",
+      "link": "https://investinglive.com/stock-market-update/bond-yields-hit-highest-since-2023-as-stocks-fall-oil-tops-100-and-buyback-misfires/",
+      "date": "2026-09-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "HSBC warns oil market is now \"tighter for longer\", raises Brent forecast even higher",
+      "link": "https://investinglive.com/commodities/hsbc-warns-oil-market-is-now-tighter-for-longer-raises-brent-forecast-even-higher/",
+      "date": "2026-09-09"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -169,37 +204,9 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump says oil prices won't come down until after the midterms",
-      "link": "https://investinglive.com/commodities/trump-says-oil-prices-won-t-come-down-until-after-the-midterms-1/",
-      "date": "2026-09-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump says oil prices won't come down until after the midterms",
-      "link": "https://investinglive.com/commodities/trump-says-oil-prices-won-t-come-down-until-after-the-midterms-0/",
-      "date": "2026-09-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump says oil prices won't come down until after the midterms",
-      "link": "https://investinglive.com/commodities/trump-says-oil-prices-won-t-come-down-until-after-the-midterms/",
-      "date": "2026-09-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US sells 10-year notes at 4.834% vs 4.849% WI",
-      "link": "https://investinglive.com/forex/us-sells-10-year-notes-at-4-834-vs-4-849-wi/",
-      "date": "2026-09-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The endgame for the AI bubble is taking an unexpected twist",
-      "link": "https://investinglive.com/stocks/the-endgame-for-the-ai-bubble-is-taking-an-unexpected-twist/",
+      "source": "FXStreet",
+      "title": "Gold rebounds above $4,400 on weaker Dollar, US PPI inflation data looms",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-400-on-weaker-dollar-us-ppi-inflation-data-looms-202609092322",
       "date": "2026-09-09"
     },
     {
@@ -298,13 +305,6 @@
       "source": "FXStreet",
       "title": "Forex Today: Attention shifts to the ECB and US PPI",
       "link": "https://www.fxstreet.com/news/forex-today-attention-shifts-to-the-ecb-and-us-ppi-202609091712",
-      "date": "2026-09-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold bulls defy US yield spike as Treasury buyback nears",
-      "link": "https://www.fxstreet.com/news/gold-bulls-defy-us-yield-spike-as-treasury-buyback-nears-202609091702",
       "date": "2026-09-09"
     }
   ]
