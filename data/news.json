@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Monetary policy decisions",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+      "date": "2026-09-10"
+    },
+    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Announcement of the publication of the Governor's interview transcript",
@@ -61,20 +75,6 @@
       "date": "2026-09-04"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Philip R. Lane: Diversity at the European Central Bank",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
-      "date": "2026-09-01"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
@@ -107,211 +107,211 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "EUR/USD almost erased Warsh-driven selloff ahead of the ECB decision. What to watch next?",
-      "link": "https://investinglive.com/forex/eur-usd-almost-erased-warsh-driven-selloff-ahead-of-the-ecb-decision-what-to-watch-next/",
+      "title": "EIA weekly US crude oil inventories -391K vs -1554K expected",
+      "link": "https://investinglive.com/commodities/eia-weekly-us-crude-oil-inventories-391k-vs-1554k-expected/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Stock movers today: Meta leads AI optimism while ServiceTitan and Navan show the cost of missing expectations",
-      "link": "https://investinglive.com/stocks/stock-movers-today-meta-leads-ai-optimism-while-servicetitan-and-navan-show-the-cost-of-missing-expectations/",
+      "title": "Broader US stock indices stall the fall ahead of targeted support levels",
+      "link": "https://investinglive.com/technical-analysis/broader-us-stock-indices-stall-the-fall-ahead-of-targeted-support-levels/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The debasement trade is working - just not through Bitcoin",
-      "link": "https://investinglive.com/cryptocurrency/the-debasement-trade-is-working-just-not-through-bitcoin/",
+      "title": "Bitcoin sellers defend key resistance and take back control. Back below 100 bar MA level.",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-sellers-defend-key-resistance-and-take-back-control-back-below-100-bar-ma-level/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oracle earnings preview: AI spending, cloud growth and a $638 billion backlog in focus",
-      "link": "https://investinglive.com/stocks/oracle-earnings-preview-ai-spending-cloud-growth-and-a-638-billion-backlog-in-focus/",
+      "title": "Oil prices are surging again but oil company stocks are down, what gives?",
+      "link": "https://investinglive.com/commodities/oil-prices-are-surging-again-but-oil-company-stocks-are-down-what-gives/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "European stocks edge higher as investors brace for ECB decision",
-      "link": "https://investinglive.com/stocks/european-stocks-edge-higher-as-investors-brace-for-ecb-decision/",
+      "title": "US wholesale inventories +1.3% in line with expectations",
+      "link": "https://investinglive.com/news/us-wholesale-inventories-1-3-in-line-with-expectations/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ECB preview: what is expected, what is priced in and what could surprise",
-      "link": "https://investinglive.com/central-banks/ecb-preview-what-is-expected-what-is-priced-in-and-what-could-surprise/",
+      "title": "US August existing home sales 3.98m vs 3.98m expected",
+      "link": "https://investinglive.com/news/us-august-existing-home-sales-3-98m-vs-3-98m-expected/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ECB preview: What major banks and analysts expect from Lagarde and interest rates",
-      "link": "https://investinglive.com/central-banks/ecb-preview-what-major-banks-and-analysts-expect-from-lagarde-and-interest-rates/",
+      "title": "As yields/USD move higher, gold is falling sharply. The price cracks below it 100 day MA/trendline",
+      "link": "https://investinglive.com/technical-analysis/as-yields-usd-move-higher-gold-is-falling-sharply-the-price-cracks-below-it-100-day-ma-trendline/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-39/",
+      "title": "ECB's Lagarde: The economy is proving resilient",
+      "link": "https://investinglive.com/central-banks/ecb-s-lagarde-the-economy-is-proving-resilient/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 10 September 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-10-september-10am-new-york-cut-0/",
+      "title": "Surging oil prices and sinking bonds have decided the Fed need to hike",
+      "link": "https://investinglive.com/forex/surging-oil-prices-and-sinking-bonds-have-decided-the-fed-need-to-hike/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Germany August CPI: Energy shock keeps inflation pressures elevated",
-      "link": "https://investinglive.com/news/germany-august-cpi-energy-shock-keeps-inflation-pressures-elevated/",
+      "title": "WTI crude oil breaks $100 for the first time since May as markets price a prolonged war",
+      "link": "https://investinglive.com/commodities/wti-crude-oil-breaks-100-for-the-first-time-since-may-as-markets-price-a-prolonged-iran-war/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US Treasury bond buyback: Why yields are still rising",
-      "link": "https://investinglive.com/news/us-treasury-bond-buyback-why-yields-are-still-rising/",
+      "title": "Jobless claims show steady US employment picture. Initial claims 206K vs 205k estimate",
+      "link": "https://investinglive.com/news/jobless-claims-show-steady-us-employment-picture-initial-claims-206k-vs-205k-estimate/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "CLARITY Act: Why Washington could be crypto’s biggest September catalyst",
-      "link": "https://investinglive.com/cryptocurrency/clarity-act-why-washington-could-be-crypto-s-biggest-september-catalyst/",
+      "title": "US August PPI 5.4% vs 5.3% expected",
+      "link": "https://investinglive.com/news/us-august-ppi-5-4-vs-5-3-expected/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Gold steady around $4400",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-steady-around-4400/",
+      "title": "ECB hikes by 25 basis points, as expected",
+      "link": "https://investinglive.com/central-banks/ecb-hikes-by-25-basis-points-as-expected/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Earnings season is turning more defensive, but the weakness is not everywhere",
-      "link": "https://investinglive.com/stocks/earnings-season-is-turning-more-defensive-but-the-weakness-is-not-everywhere/",
+      "title": "Apple stock outlook: Can the foldable iPhone drive new growth?",
+      "link": "https://investinglive.com/stocks/apple-stock-outlook-can-the-foldable-iphone-drive-new-growth/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bank of Korea links Kospi's wild swings to leverage both at home and abroad",
-      "link": "https://investinglive.com/stock-market-update/bank-of-korea-links-kospi-s-wild-swings-to-leverage-both-at-home-and-abroad/",
+      "title": "Kickstart the NA trading day with a technical look at the EURUSD, USDJPY and GBPUSD. What levels are key.",
+      "link": "https://investinglive.com/technical-analysis/kickstart-the-na-trading-day-with-a-technical-look-at-the-eurusd-usdjpy-and-gbpusd-what-levels-are-key/",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD tumbles below $66 as US Dollar recovers ahead of US PPI data",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tumbles-below-66-as-us-dollar-recovers-ahead-of-us-ppi-data-202609101059",
+      "title": "Canadian Dollar firms as US Dollar loses momentum, Oil prices extend rally",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trades-under-pressure-as-us-ppi-data-supports-fed-hike-bets-202609101551",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "European Central Bank set to hike interest rates in September as markets assess the path ahead",
+      "title": "Copper: Tariff uncertainty and max CTA length – TD Securities",
+      "link": "https://www.fxstreet.com/news/copper-tariff-uncertainty-and-max-cta-length-td-securities-202609101551",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Silver slides below $65 as US PPI revives Fed rate-hike bets",
+      "link": "https://www.fxstreet.com/news/silver-slides-below-65-as-us-ppi-revives-fed-rate-hike-bets-202609101543",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "British Pound under pressure as hot PPI puts Fed hike in play",
+      "link": "https://www.fxstreet.com/news/british-pound-feels-the-heat-as-hot-ppi-puts-fed-hike-in-play-202609101527",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "British Pound: Consolidation against US Dollar before UK data and BoE – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-consolidation-against-us-dollar-before-uk-data-and-boe-scotiabank-202609101508",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "United States: Higher August forecast with methodology shift – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-states-higher-august-forecast-with-methodology-shift-td-securities-202609101450",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Australian Dollar eases from four-month high",
+      "link": "https://www.fxstreet.com/news/australian-dollar-eases-from-four-month-high-202609101447",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Gold slides as US PPI reinforces Fed hike expectations, US Dollar and yields rise",
+      "link": "https://www.fxstreet.com/news/gold-comes-under-pressure-ahead-of-us-ppi-as-fed-rate-hike-risks-linger-202609101107",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "European Central Bank: Two more hikes remain the baseline – Nordea",
+      "link": "https://www.fxstreet.com/news/european-central-bank-two-more-hikes-remain-the-baseline-nordea-202609101440",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro gains modestly against British Pound after ECB delivers widely expected hike",
+      "link": "https://www.fxstreet.com/news/uro-gains-modestly-against-british-pound-after-ecb-delivers-widely-expected-hike-202609101426",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Canadian Dollar: Range trade with upside bias against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-range-trade-with-upside-bias-against-us-dollar-scotiabank-202609101421",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Japanese Yen: BoJ risks skewed to stronger Yen – BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-risks-skewed-to-stronger-yen-bbh-202609101405",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Japanese Yen comes under pressure as US PPI data boost US Dollar",
+      "link": "https://www.fxstreet.com/news/japanese-yen-comes-under-pressure-as-us-ppi-data-boost-us-dollar-202609101358",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Copper: Record prices with real constraints – NBC",
+      "link": "https://www.fxstreet.com/news/copper-record-prices-with-real-constraints-nbc-202609101343",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "ECB Press Conference: Lagarde comments on policy outlook after raising key rates by 25 bps",
       "link": "https://www.fxstreet.com/news/european-central-bank-to-resume-interest-rate-hikes-in-september-as-inflation-energy-risks-rise-202609100800",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Australian Dollar: Gradual upside within capped range against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gradual-upside-within-capped-range-against-us-dollar-uob-202609101002",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold Price Forecast: XAU/USD holds below $4,400 with Oil, yields surging",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-below-4-400-with-oil-yields-surging-202609100956",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Turkish Lira: Liquidity stance key for TRY – Commerzbank",
-      "link": "https://www.fxstreet.com/news/turkish-lira-liquidity-stance-key-for-try-commerzbank-202609100952",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Czech Koruna: CNB stance leaves room for weakness against Euro – ING",
-      "link": "https://www.fxstreet.com/news/czech-koruna-cnb-stance-leaves-room-for-weakness-against-euro-ing-202609100942",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Dollar: Bond buybacks reshape yield dynamics – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-bond-buybacks-reshape-yield-dynamics-mufg-202609100932",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609100930",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Brent: Geopolitical risk drives price surge – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/brent-geopolitical-risk-drives-price-surge-deutsche-bank-202609100918",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro: Second hike seen as energy clouds outlook – Societe Generale",
-      "link": "https://www.fxstreet.com/news/euro-second-hike-seen-as-energy-clouds-outlook-societe-generale-202609100909",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Indian Rupee continues its underperformance amid surging oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-extends-its-downward-streak-as-oil-prices-keep-rising-202609100524",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro remains steady vs Canadian Dollar ahead of key ECB decision",
-      "link": "https://www.fxstreet.com/news/euro-remains-steady-vs-canadian-dollar-ahead-of-key-ecb-decision-202609100905",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Positions above 1.3550, nine-day EMA support",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-positions-above-13550-nine-day-ema-support-202609100904",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Trades above 153.50 ahead of US inflation; bearish bias remains",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-trades-above-15350-ahead-of-us-inflation-bearish-bias-remains-202609100903",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Swiss Franc gives back gains, but US Dollar struggles with Inflation data on tap",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gives-back-gains-but-us-dollar-struggles-with-inflation-data-on-tap-202609100854",
       "date": "2026-09-10"
     }
   ]
