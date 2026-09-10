@@ -7,7 +7,7 @@
     {
       "cur": "EUR",
       "source": "BCE",
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
       "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
       "date": "2026-09-10"
     },
@@ -107,6 +107,48 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Watch out below!  Copper, Gold and the AUDUSD are all tumbling to the downside today.",
+      "link": "https://investinglive.com/technical-analysis/watch-out-below-copper-gold-and-the-audusd-are-all-tumbling-to-the-downside-today/",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The US Treasury bought $5.187 billion in 10-20 year notes",
+      "link": "https://investinglive.com/news/the-us-treasury-bought-5-187-billion-in-10-20-year-notes/",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The oil market is suddenly a huge problem",
+      "link": "https://investinglive.com/commodities/the-oil-market-is-suddenly-a-huge-problem/",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US treasury sells $22 billion of 30 year bonds at a high yield of 5.308%",
+      "link": "https://investinglive.com/news/us-treasury-sells-22-billion-of-30-year-bonds-at-a-high-yield-of-5-308/",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Crude oil extends the gains for the day reaching $102. Iran reportedly are producing ballistic missiles again",
+      "link": "https://investinglive.com/commodities/crude-oil-extends-the-gains-for-the-day-reaching-102-iran-reportedly-are-producing-ballistic-missiles-again/",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "EURUSD Technicals: The EURUSD bounces and retraces the declines from the PPI",
+      "link": "https://investinglive.com/technical-analysis/eurusd-technicals-the-eurusd-bounces-and-retraces-the-declines-from-the-ppi/",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "EIA weekly US crude oil inventories -391K vs -1554K expected",
       "link": "https://investinglive.com/commodities/eia-weekly-us-crude-oil-inventories-391k-vs-1554k-expected/",
       "date": "2026-09-10"
@@ -169,44 +211,65 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "WTI crude oil breaks $100 for the first time since May as markets price a prolonged war",
-      "link": "https://investinglive.com/commodities/wti-crude-oil-breaks-100-for-the-first-time-since-may-as-markets-price-a-prolonged-iran-war/",
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Uptrend eyes breakout 6.7000 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-uptrend-eyes-breakout-67000-against-us-dollar-uob-202609101913",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Jobless claims show steady US employment picture. Initial claims 206K vs 205k estimate",
-      "link": "https://investinglive.com/news/jobless-claims-show-steady-us-employment-picture-initial-claims-206k-vs-205k-estimate/",
+      "source": "FXStreet",
+      "title": "NZD/USD Price Forecast: Kiwi breaks 0.5800 as bears take control",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-breaks-05800-as-bears-take-control-202609101844",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US August PPI 5.4% vs 5.3% expected",
-      "link": "https://investinglive.com/news/us-august-ppi-5-4-vs-5-3-expected/",
+      "source": "FXStreet",
+      "title": "Malaysia Ringgit: BNM hawkish tilt limits downside – Commerzbank",
+      "link": "https://www.fxstreet.com/news/malaysia-ringgit-bnm-hawkish-tilt-limits-downside-commerzbank-202609101842",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ECB hikes by 25 basis points, as expected",
-      "link": "https://investinglive.com/central-banks/ecb-hikes-by-25-basis-points-as-expected/",
+      "source": "FXStreet",
+      "title": "WTI Oil nears $100 as Middle East tensions keep supply concerns elevated",
+      "link": "https://www.fxstreet.com/news/wti-oil-nears-100-as-middle-east-tensions-keep-supply-concerns-elevated-202609101806",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Apple stock outlook: Can the foldable iPhone drive new growth?",
-      "link": "https://investinglive.com/stocks/apple-stock-outlook-can-the-foldable-iphone-drive-new-growth/",
+      "source": "FXStreet",
+      "title": "ECB sources say further tightening remains likely – Reuters",
+      "link": "https://www.fxstreet.com/news/ecb-sources-say-further-tightening-remains-likely-reuters-202609101738",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Kickstart the NA trading day with a technical look at the EURUSD, USDJPY and GBPUSD. What levels are key.",
-      "link": "https://investinglive.com/technical-analysis/kickstart-the-na-trading-day-with-a-technical-look-at-the-eurusd-usdjpy-and-gbpusd-what-levels-are-key/",
+      "source": "FXStreet",
+      "title": "Gold bulls blink as hot US PPI, $100 Oil send yields flying",
+      "link": "https://www.fxstreet.com/news/gold-bulls-blink-as-hot-us-ppi-100-oil-send-yields-flying-202609101729",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro steadies against the Yen after ECB lifts rates",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-the-yen-after-ecb-lifts-rates-202609101727",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "ECB recap: A hawkish hike despite downside growth risks",
+      "link": "https://www.fxstreet.com/news/ecb-recap-a-hawkish-hike-despite-downside-growth-risks-202609101721",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Japanese Yen: Defensive Yen as BoJ turns hawkish – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-defensive-yen-as-boj-turns-hawkish-scotiabank-202609101637",
       "date": "2026-09-10"
     },
     {
@@ -226,7 +289,7 @@
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Silver slides below $65 as US PPI revives Fed rate-hike bets",
+      "title": "Silver slides below $65 as US PPI reinforces Fed rate-hike bets",
       "link": "https://www.fxstreet.com/news/silver-slides-below-65-as-us-ppi-revives-fed-rate-hike-bets-202609101543",
       "date": "2026-09-10"
     },
@@ -249,69 +312,6 @@
       "source": "FXStreet",
       "title": "United States: Higher August forecast with methodology shift – TD Securities",
       "link": "https://www.fxstreet.com/news/united-states-higher-august-forecast-with-methodology-shift-td-securities-202609101450",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Australian Dollar eases from four-month high",
-      "link": "https://www.fxstreet.com/news/australian-dollar-eases-from-four-month-high-202609101447",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold slides as US PPI reinforces Fed hike expectations, US Dollar and yields rise",
-      "link": "https://www.fxstreet.com/news/gold-comes-under-pressure-ahead-of-us-ppi-as-fed-rate-hike-risks-linger-202609101107",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "European Central Bank: Two more hikes remain the baseline – Nordea",
-      "link": "https://www.fxstreet.com/news/european-central-bank-two-more-hikes-remain-the-baseline-nordea-202609101440",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro gains modestly against British Pound after ECB delivers widely expected hike",
-      "link": "https://www.fxstreet.com/news/uro-gains-modestly-against-british-pound-after-ecb-delivers-widely-expected-hike-202609101426",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canadian Dollar: Range trade with upside bias against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-range-trade-with-upside-bias-against-us-dollar-scotiabank-202609101421",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen: BoJ risks skewed to stronger Yen – BBH",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-risks-skewed-to-stronger-yen-bbh-202609101405",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen comes under pressure as US PPI data boost US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-comes-under-pressure-as-us-ppi-data-boost-us-dollar-202609101358",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Copper: Record prices with real constraints – NBC",
-      "link": "https://www.fxstreet.com/news/copper-record-prices-with-real-constraints-nbc-202609101343",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "ECB Press Conference: Lagarde comments on policy outlook after raising key rates by 25 bps",
-      "link": "https://www.fxstreet.com/news/european-central-bank-to-resume-interest-rate-hikes-in-september-as-inflation-energy-risks-rise-202609100800",
       "date": "2026-09-10"
     }
   ]
