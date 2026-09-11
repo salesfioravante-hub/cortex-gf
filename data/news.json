@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+      "link": "",
+      "date": "2026-09-11"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Central Bank Digital Currency Experiments: Progress Report on the Pilot Program (June 2026)",
@@ -94,16 +101,72 @@
       "title": "Delay to the November 2026 RTGS standards release",
       "link": "https://www.bankofengland.co.uk/news/2026/august/delay-to-the-november-2026-rtgs-standards-release",
       "date": "2026-08-27"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-      "link": "",
-      "date": "2026-08-25"
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "After testing key support yesterday, the S&P and Nasdaq indices are squeezing higher. What next technically?",
+      "link": "https://investinglive.com/stocks/after-testing-key-support-yesterday-the-s-p-and-nasdaq-indices-are-squeezing-higher-what-next-technically/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UMich September consumer sentiment 47.8 vs 51.0 expected",
+      "link": "https://investinglive.com/news/umich-september-consumer-sentiment-47-8-vs-51-0-expected/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Some anniversaries aren’t meant to be celebrated. They are simply remembered and never forgotten.",
+      "link": "https://investinglive.com/news/some-anniversaries-aren-t-meant-to-be-celebrated-they-are-simply-remembered-and-never-forgotten/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Back up the garbage truck: A look at how AI will impact margins in AI",
+      "link": "https://investinglive.com/news/back-of-the-garbage-truck-a-look-at-how-ai-will-impact-margins-in-ai/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Reaction: Markets rebound after the initial reactions are reversed.  .",
+      "link": "https://investinglive.com/technical-analysis/reaction-markets-rebound-after-the-initial-reactions-are-reversed/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Forex Kickstart: USD mixed as markets await the US CPI report",
+      "link": "https://investinglive.com/technical-analysis/forex-kickstart-usd-mixed-as-markets-await-the-us-cpi-report-0/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US August CPI 3.4% vs 3.4% expected",
+      "link": "https://investinglive.com/news/us-august-cpi-vs-3-4-expected/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Earnings losses are sticking, but Dell shows why not every pullback is a failure",
+      "link": "https://investinglive.com/stocks/earnings-losses-are-sticking-but-dell-shows-why-not-every-pullback-is-a-failure/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive European news wrap: The calm before the storm?",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-the-calm-before-the-storm/",
+      "date": "2026-09-11"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -148,170 +211,107 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "UK July monthly GDP +0.4% vs 0.0% m/m expected",
-      "link": "https://investinglive.com/news/uk-july-monthly-gdp-xx-vs-0-0-m-m-expected/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "FX option expiries for 11 September 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-11-september-10am-new-york-cut-0/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-40/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Oil holds near highs",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-highs/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BOJ hike next week is a given, the real question is pace and terminal rate",
-      "link": "https://investinglive.com/central-banks/boj-hike-next-week-is-a-given-the-real-question-is-pace-and-terminal-rate/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Houthis claim total control of Bab el-Mandeb, but wires haven't confirmed it",
-      "link": "https://investinglive.com/commodities/houthis-claim-total-control-of-bab-el-mandeb-but-wires-haven-t-confirmed-it/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ANZ sees ECB hiking again in December, lifting deposit rate to 2.75%",
-      "link": "https://investinglive.com/central-banks/anz-sees-ecb-hiking-again-in-december-lifting-deposit-rate-to-2-75/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Preview: August CPI due Friday to decide odds of first Fed hike since 2023",
-      "link": "https://investinglive.com/stock-market-update/preview-august-cpi-due-friday-to-decide-odds-of-first-fed-hike-since-2023/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Coming up: What Lagarde may say next, two days after the ECB's rate rise",
-      "link": "https://investinglive.com/central-banks/coming-up-what-lagarde-may-say-next-two-days-after-the-ecb-s-rate-rise/",
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average rallies all session as long yields back off",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-all-session-as-long-yields-back-off-202609111614",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Australian Dollar climbs on RBA rate hike expectations as traders await US CPI",
-      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-on-rba-rate-hike-expectations-as-traders-await-us-cpi-202609111100",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US August CPI expected to rise steadily as markets reassess Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/us-core-cpi-data-set-to-ease-in-august-as-markets-reprice-fed-september-rate-decision-202609110830",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold holds ground as markets brace for US CPI data",
+      "title": "Gold rebounds but Fed rate hike bets risks remain a headwind",
       "link": "https://www.fxstreet.com/news/gold-holds-ground-as-markets-brace-for-us-cpi-data-202609111059",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "SNB’s Schlegel: Inflation accelerates in recent months but remains within stability range",
-      "link": "https://www.fxstreet.com/news/snbs-schlegel-inflation-accelerates-in-recent-months-but-remains-within-stability-range-202609111033",
+      "title": "WTI Oil Price Forecast: corrects lower after reaching overbought levels",
+      "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-corrects-lower-after-reaching-overbought-levels-202609111602",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Swiss Franc nears monthly lows as investors brace for US CPI data",
-      "link": "https://www.fxstreet.com/news/swiss-franc-nears-monthly-lows-as-investors-brace-for-us-cpi-data-202609111032",
+      "title": "British Pound shakes off US CPI jolt as UK growth steals spotlight",
+      "link": "https://www.fxstreet.com/news/british-pound-shakes-off-us-cpi-jolt-as-uk-growth-steals-spotlight-202609111531",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "British Pound: Support at 1.3495 under pressure against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-support-at-13495-under-pressure-against-us-dollar-uob-202609110958",
+      "title": "Australian Dollar holds firm as hotter US inflation fails to cement Greenback's advantage",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-as-hotter-us-inflation-fails-to-cement-greenbacks-advantage-202609111519",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Australian Dollar steadies vs Japanese Yen as hawkish RBA signals offset JPY strength",
-      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-vs-japanese-yen-as-hawkish-rba-signals-offset-jpy-strength-202609110945",
+      "title": "China: Exports support output as property drags – DBS",
+      "link": "https://www.fxstreet.com/news/china-exports-support-output-as-property-drags-dbs-202609111502",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Czech Koruna: CZK faces downside risks against Euro into CNB – ING",
-      "link": "https://www.fxstreet.com/news/czech-koruna-czk-faces-downside-risks-against-euro-into-cnb-ing-202609110943",
+      "title": "Taiwan: AI boom sustains trade surplus – Commerzbank",
+      "link": "https://www.fxstreet.com/news/taiwan-ai-boom-sustains-trade-surplus-commerzbank-202609111449",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Gold Price Forecast: XAU/USD clings to a key support area around $4,300",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-clings-to-a-key-support-area-around-4-300-202609110939",
+      "title": "Japan: BoJ tightening path in focus – ING",
+      "link": "https://www.fxstreet.com/news/japan-boj-tightening-path-in-focus-ing-202609111436",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609110932",
+      "title": "Swiss Franc struggles even as US Dollar gives back CPI-led gains",
+      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-even-as-us-dollar-gives-back-cpi-led-gains-202609111435",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro: Hawkish ECB fails to lift Euro – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-hawkish-ecb-fails-to-lift-euro-commerzbank-202609110930",
+      "title": "India: Inflation pressures point to tighter bias – DBS",
+      "link": "https://www.fxstreet.com/news/india-inflation-pressures-point-to-tighter-bias-dbs-202609111421",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Indian Rupee extends downtrend ahead of US CPI data",
-      "link": "https://www.fxstreet.com/news/indian-rupee-extends-decline-on-fresh-escalation-in-hawkish-fed-bets-202609110534",
+      "title": "Canadian Dollar slides with Oil prices, US CPI fails to keep US Dollar higher",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-with-oil-prices-us-cpi-fails-to-keep-us-dollar-higher-202609111409",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Canadian Dollar underperforms as Oil prices correct significantly",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-underperforms-as-oil-prices-correct-significantly-202609110923",
+      "title": "United Kingdom: Growth outlook strengthens with AI-driven services – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/united-kingdom-growth-outlook-strengthens-with-ai-driven-services-deutsche-bank-202609111408",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Swedish Krona: Higher Oil and ECB stance pressure currency – Danske Bank",
-      "link": "https://www.fxstreet.com/news/swedish-krona-higher-oil-and-ecb-stance-pressure-currency-danske-bank-202609110916",
+      "title": "US UoM Consumer Sentiment Index is seen at 47.8 in September",
+      "link": "https://www.fxstreet.com/news/us-uom-consumer-sentiment-index-is-seen-at-478-in-september-202609111405",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Dollar: CPI outcome to steer rate expectations – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-outcome-to-steer-rate-expectations-mufg-202609110902",
+      "title": "Polish Zloty: Dovish stance leaves PLN vulnerable against Euro – ING",
+      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-stance-leaves-pln-vulnerable-against-euro-ing-202609111343",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "European Central Bank: Hawkish rate path supports Euro – UOB",
+      "link": "https://www.fxstreet.com/news/european-central-bank-hawkish-rate-path-supports-euro-uob-202609111326",
       "date": "2026-09-11"
     }
   ]
