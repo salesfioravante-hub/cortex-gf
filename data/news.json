@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-10",
+  "asof": "2026-09-11",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -35,6 +35,13 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Corporate Goods Price Index (Aug.)",
+      "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2608.pdf",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Basic Figures on Fails (Aug.)",
       "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2608.pdf",
       "date": "2026-09-10"
@@ -58,13 +65,6 @@
       "source": "BoJ",
       "title": "Regular Derivatives Market Statistics in Japan",
       "link": "http://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
-      "date": "2026-09-09"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Warning against Scams Using the Bank of Japan's Name",
-      "link": "http://www.boj.or.jp/en/about/organization/notice/index.htm",
       "date": "2026-09-09"
     },
     {
@@ -104,6 +104,62 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan wholesale inflation stays hot in August, cements case for BOJ hike",
+      "link": "https://investinglive.com/news/japan-wholesale-inflation-stays-hot-in-august-cements-case-for-boj-hike/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7174 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7174-reuters-estimate/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nikkei, Kospi fall as US bond yields and inflation data spook markets",
+      "link": "https://investinglive.com/stock-market-update/nikkei-kospi-fall-as-us-bond-yields-and-inflation-data-spook-markets/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro flatlines above 1.1600 despite ECB hawkish hike, traders brace for US CPI data",
+      "link": "https://www.fxstreet.com/news/euro-flatlines-above-11600-despite-ecb-hawkish-hike-traders-brace-for-us-cpi-data-202609110042",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan August PPI surges +7.6% y/y (expected +7.4%, prior +7.2%)",
+      "link": "https://investinglive.com/news/japan-august-ppi-surges-7-6-y-y-expected-7-4-prior-7-2/",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FARTCOIN selloff - Here's what most traders miss about 'exchange inflow' selling signals",
+      "link": "https://investinglive.com/education/fartcoin-selloff-here-s-what-most-traders-miss-about-exchange-inflow-selling-signals/",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nvidia's Huang rejects circular financing claims as investment scrutiny grows",
+      "link": "https://investinglive.com/stocks/nvidia-s-huang-rejects-circular-financing-claims-as-investment-scrutiny-grows/",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "NZ manufacturing growth slows in August but stays above long-term average",
+      "link": "https://investinglive.com/news/nz-manufacturing-growth-slows-in-august-but-stays-above-long-term-average/",
+      "date": "2026-09-10"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -162,51 +218,23 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Watch out below!  Copper, Gold and the AUDUSD are all tumbling to the downside today.",
-      "link": "https://investinglive.com/technical-analysis/watch-out-below-copper-gold-and-the-audusd-are-all-tumbling-to-the-downside-today/",
+      "source": "FXStreet",
+      "title": "Australian Dollar slides as US yields jump before pivotal CPI",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slides-as-us-yields-jump-before-pivotal-cpi-202609102348",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The US Treasury bought $5.187 billion in 10-20 year notes",
-      "link": "https://investinglive.com/news/the-us-treasury-bought-5-187-billion-in-10-20-year-notes/",
+      "source": "FXStreet",
+      "title": "Gold falls below $4,350 as rising oil prices, US PPI reinforces Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-falls-below-4-350-as-rising-oil-prices-us-ppi-reinforces-fed-hike-bets-202609102336",
       "date": "2026-09-10"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The oil market is suddenly a huge problem",
-      "link": "https://investinglive.com/commodities/the-oil-market-is-suddenly-a-huge-problem/",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US treasury sells $22 billion of 30 year bonds at a high yield of 5.308%",
-      "link": "https://investinglive.com/news/us-treasury-sells-22-billion-of-30-year-bonds-at-a-high-yield-of-5-308/",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil extends the gains for the day reaching $102. Iran reportedly are producing ballistic missiles again",
-      "link": "https://investinglive.com/commodities/crude-oil-extends-the-gains-for-the-day-reaching-102-iran-reportedly-are-producing-ballistic-missiles-again/",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "EURUSD Technicals: The EURUSD bounces and retraces the declines from the PPI",
-      "link": "https://investinglive.com/technical-analysis/eurusd-technicals-the-eurusd-bounces-and-retraces-the-declines-from-the-ppi/",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "EIA weekly US crude oil inventories -391K vs -1554K expected",
-      "link": "https://investinglive.com/commodities/eia-weekly-us-crude-oil-inventories-391k-vs-1554k-expected/",
+      "source": "FXStreet",
+      "title": "AUD/JPY Price Forecast: Yen strength keeps 110.00 in sight",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-yen-strength-keeps-11000-in-sight-202609102252",
       "date": "2026-09-10"
     },
     {
@@ -284,34 +312,6 @@
       "source": "FXStreet",
       "title": "Euro steadies against the Yen after ECB lifts rates",
       "link": "https://www.fxstreet.com/news/euro-steadies-against-the-yen-after-ecb-lifts-rates-202609101727",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "ECB recap: A hawkish hike despite downside growth risks",
-      "link": "https://www.fxstreet.com/news/ecb-recap-a-hawkish-hike-despite-downside-growth-risks-202609101721",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen: Defensive Yen as BoJ turns hawkish – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-defensive-yen-as-boj-turns-hawkish-scotiabank-202609101637",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canadian Dollar firms as US Dollar loses momentum, Oil prices extend rally",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trades-under-pressure-as-us-ppi-data-supports-fed-hike-bets-202609101551",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Copper: Tariff uncertainty and max CTA length – TD Securities",
-      "link": "https://www.fxstreet.com/news/copper-tariff-uncertainty-and-max-cta-length-td-securities-202609101551",
       "date": "2026-09-10"
     }
   ]
