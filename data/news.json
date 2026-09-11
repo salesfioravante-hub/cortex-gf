@@ -107,6 +107,27 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "investingLive Americas FX news wrap 11 Sept: US CPI raises odds for Fed rate hike",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-sept-us-cpi-keeps-fed-raises-odds-for-fed-rate-hike/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US stocks rebound sharply, but major indices still close lower for the week",
+      "link": "https://investinglive.com/stocks/us-stocks-rebound-sharply-but-major-indices-still-close-lower-for-the-week/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin sellers regain the short-term advantage ahead of weekend trading",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-sellers-regain-the-short-term-advantage-ahead-of-weekend-trading/",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "USDCAD Technicals: USDCAD extends higher but stalls at key trendline resistance",
       "link": "https://investinglive.com/technical-analysis/usdcad-technicals-usdcad-extends-higher-but-stalls-at-key-trendline-resistance/",
       "date": "2026-09-11"
@@ -190,23 +211,58 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Forex Kickstart: USD mixed as markets await the US CPI report",
-      "link": "https://investinglive.com/technical-analysis/forex-kickstart-usd-mixed-as-markets-await-the-us-cpi-report-0/",
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-doji-high-guards-bulls-as-fed-bets-bite-202609112201",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US August CPI 3.4% vs 3.4% expected",
-      "link": "https://investinglive.com/news/us-august-cpi-vs-3-4-expected/",
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Downside bias capped with 1.2705 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-downside-bias-capped-with-12705-against-us-dollar-uob-202609112121",
       "date": "2026-09-11"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Earnings losses are sticking, but Dell shows why not every pullback is a failure",
-      "link": "https://investinglive.com/stocks/earnings-losses-are-sticking-but-dell-shows-why-not-every-pullback-is-a-failure/",
+      "source": "FXStreet",
+      "title": "USD/CHF Price Forecast: Bulls break 0.8150 as CPI fuels Fed bets",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-break-08150-as-cpi-fuels-fed-bets-202609112101",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Taiwan Dollar: CBC seen on hold before December hike – DBS",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-cbc-seen-on-hold-before-december-hike-dbs-202609112041",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Crude Oil buckles early and grinds back on talk of a Hormuz arrangement",
+      "link": "https://www.fxstreet.com/news/crude-oil-buckles-early-and-grinds-back-on-talk-of-a-hormuz-arrangement-202609112019",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Bullish bias fades against dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-bullish-bias-fades-against-dollar-uob-202609111956",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: Neckline failure keeps bears in control",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-neckline-failure-keeps-bears-in-control-202609111953",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Forecasting the upcoming week: Fed, BoE and BoJ headline a central bank triple-header",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-headline-a-central-bank-triple-header-202609111952",
       "date": "2026-09-11"
     },
     {
@@ -219,7 +275,7 @@
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Treasury yields ease after CPI, but Fed hike risks linger",
+      "title": "US Treasury yields ease after CPI as Fed hike risks linger",
       "link": "https://www.fxstreet.com/news/us-treasury-yields-ease-after-cpi-but-fed-hike-risks-linger-202609111852",
       "date": "2026-09-11"
     },
@@ -256,62 +312,6 @@
       "source": "FXStreet",
       "title": "British Pound shakes off US CPI jolt as UK growth steals spotlight",
       "link": "https://www.fxstreet.com/news/british-pound-shakes-off-us-cpi-jolt-as-uk-growth-steals-spotlight-202609111531",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "ECB rate hike gives Euro little to work with as Pound holds firm",
-      "link": "https://www.fxstreet.com/news/ecb-rate-hike-gives-euro-little-to-work-with-as-pound-holds-firm-202609111642",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Silver erases post-CPI slump, rebounds from three-week low",
-      "link": "https://www.fxstreet.com/news/silver-erases-post-cpi-slump-rebounds-from-three-week-low-202609111622",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average rallies all session as long yields back off",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-all-session-as-long-yields-back-off-202609111614",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold rebounds but Fed rate hike bets risks remain a headwind",
-      "link": "https://www.fxstreet.com/news/gold-holds-ground-as-markets-brace-for-us-cpi-data-202609111059",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "WTI Oil Price Forecast: corrects lower after reaching overbought levels",
-      "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-corrects-lower-after-reaching-overbought-levels-202609111602",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Australian Dollar holds firm as hotter US inflation fails to cement Greenback's advantage",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-as-hotter-us-inflation-fails-to-cement-greenbacks-advantage-202609111519",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "China: Exports support output as property drags – DBS",
-      "link": "https://www.fxstreet.com/news/china-exports-support-output-as-property-drags-dbs-202609111502",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Taiwan: AI boom sustains trade surplus – Commerzbank",
-      "link": "https://www.fxstreet.com/news/taiwan-ai-boom-sustains-trade-surplus-commerzbank-202609111449",
       "date": "2026-09-11"
     }
   ]
