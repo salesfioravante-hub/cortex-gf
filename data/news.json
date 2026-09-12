@@ -7,6 +7,13 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "Christine Lagarde: Interview with Ouest-France",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+      "date": "2026-09-12"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "Christine Lagarde: Europe seen from Normandy",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
       "date": "2026-09-12"
@@ -51,13 +58,6 @@
       "source": "BCE",
       "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
       "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
-      "date": "2026-09-10"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Monetary policy decisions",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
       "date": "2026-09-10"
     },
     {
