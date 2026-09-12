@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Christine Lagarde: Europe seen from Normandy",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+      "date": "2026-09-12"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
@@ -73,13 +80,6 @@
       "title": "Basic Figures on Fails (Aug.)",
       "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2608.pdf",
       "date": "2026-09-10"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Christine Lagarde: The choice facing Europeans",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
-      "date": "2026-09-09"
     },
     {
       "cur": "USD",
