@@ -7,13 +7,33 @@
     "FRED: 1 releases (EUA) — 2026-09-16 Advance Monthly Sales for Retail and Food Services",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 0 eventos"
+    "ForexFactory: 16 eventos"
   ],
   "byCurrency": {
     "USD": {
       "date": "2026-09-16",
       "title": "Advance Monthly Sales for Retail and Food Services",
       "forecast": ""
+    },
+    "CAD": {
+      "date": "2026-09-14",
+      "title": "CPI m/m",
+      "forecast": "-0.1%"
+    },
+    "GBP": {
+      "date": "2026-09-15",
+      "title": "Claimant Count Change",
+      "forecast": "8.3K"
+    },
+    "NZD": {
+      "date": "2026-09-16",
+      "title": "GDP q/q",
+      "forecast": "0.1%"
+    },
+    "JPY": {
+      "date": "2026-09-18",
+      "title": "BOJ Policy Rate",
+      "forecast": "<1.25%"
     }
   }
 }
