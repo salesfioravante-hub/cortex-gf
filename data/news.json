@@ -33,6 +33,20 @@
       "date": "2026-09-11"
     },
     {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Central Bank Digital Currency Experiments: Progress Report on the Pilot Program (June 2026)",
+      "link": "http://www.boj.or.jp/en/paym/digital/dig260911a.pdf",
+      "date": "2026-09-11"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Sixth General Meeting of the CBDC Forum",
+      "link": "http://www.boj.or.jp/en/paym/digital/d_forum/dfo260911a.pdf",
+      "date": "2026-09-11"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
@@ -51,6 +65,20 @@
       "source": "BoE",
       "title": "Announcement of the publication of the Governor's interview transcript",
       "link": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Corporate Goods Price Index (Aug.)",
+      "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2608.pdf",
+      "date": "2026-09-10"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Basic Figures on Fails (Aug.)",
+      "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2608.pdf",
       "date": "2026-09-10"
     },
     {
