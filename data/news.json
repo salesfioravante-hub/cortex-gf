@@ -29,21 +29,21 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260910.xlsx",
+      "link": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260910.xlsx",
       "date": "2026-09-14"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "IMES Discussion Paper Series (2026)",
-      "link": "http://www.boj.or.jp/en/research/imes/dps/dps26.htm",
+      "link": "https://www.boj.or.jp/en/research/imes/dps/dps26.htm",
       "date": "2026-09-14"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Bank of Japan Accounts (September 10)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260910.htm",
+      "link": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260910.htm",
       "date": "2026-09-14"
     },
     {
@@ -64,7 +64,7 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Central Bank Digital Currency Experiments: Progress Report on the Pilot Program (June 2026)",
-      "link": "http://www.boj.or.jp/en/paym/digital/dig260911a.pdf",
+      "link": "https://www.boj.or.jp/en/paym/digital/dig260911a.pdf",
       "date": "2026-09-11"
     },
     {
@@ -104,6 +104,69 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "WSJ: Oil executives warn a global fuel crisis has arrived as Hormuz closure bites",
+      "link": "https://investinglive.com/commodities/wsj-oil-executives-warn-a-global-fuel-crisis-has-arrived-as-hormuz-closure-bites/",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump-Iran war: Costco nearly doubles motor oil price and imposes purchase caps",
+      "link": "https://investinglive.com/commodities/trump-iran-war-costco-nearly-doubles-motor-oil-price-and-imposes-purchase-caps/",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Ethereum hits record 203.9 million transactions in Q2 as active users slide",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-hits-record-203-9-million-transactions-in-q2-as-active-users-slide/",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Preview: Goldman Sachs sees yen and Nikkei risk building on faster BoJ rate path",
+      "link": "https://investinglive.com/central-banks/preview-goldman-sachs-sees-yen-and-nikkei-risk-building-on-faster-boj-rate-path/",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas FX news wrap 14 Sept: It’s a Wrap: Oil tops $100 as higher yields and AI worries pressure stocks",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-14-sept-it-s-a-wrap-oil-tops-100-as-higher-yields-and-ai-worries-pressure-stocks/",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Oil catch-up: Iran says tanker hit mine in Hormuz; Centcom says drone struck it instead",
+      "link": "https://investinglive.com/commodities/oil-catch-up-iran-says-tanker-hit-mine-in-hormuz-centcom-says-drone-struck-it-instead/",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Economic & event calendar Asia Tuesday, September 15, 2026: China set to report August activity",
+      "link": "https://investinglive.com/news/economic-event-calendar-asia-tuesday-september-15-2026-china-set-to-report-august-activity/",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "AI and chip stocks tumble as weekend warnings challenge the sector’s growth assumptions",
+      "link": "https://investinglive.com/stocks/ai-and-chip-stocks-tumble-as-weekend-warnings-challenge-the-sector-s-growth-assumptions/",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "AUDUSD and NZDUSD rebound after sellers fail to sustain key technical breaks",
+      "link": "https://investinglive.com/technical-analysis/audusd-and-nzdusd-rebound-after-sellers-fail-to-sustain-key-technical-breaks/",
+      "date": "2026-09-14"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -148,65 +211,72 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Zelensky says Trump's deal to stop energy strikes is just a proposal",
-      "link": "https://investinglive.com/commodities/zelensky-says-trump-s-deal-to-stop-energy-strikes-is-just-a-proposal/",
+      "source": "FXStreet",
+      "title": "Australian Dollar gets caught between AI selloff and 5% US yields",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gets-caught-between-ai-selloff-and-5-us-yields-202609142246",
       "date": "2026-09-14"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "NASDAQ composite and NASDAQ 100 indices are telling a slightly different story technically",
-      "link": "https://investinglive.com/stocks/nasdaq-composite-and-nasdaq-100-indices-are-telling-a-slightly-different-story-technically/",
+      "source": "FXStreet",
+      "title": "The Euro breaks both its moving averages as the Fed's hike becomes certain",
+      "link": "https://www.fxstreet.com/news/the-euro-breaks-both-its-moving-averages-as-the-feds-hike-becomes-certain-202609142226",
       "date": "2026-09-14"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump: Ukraine and Russia have agreed not to hit energy targets",
-      "link": "https://investinglive.com/commodities/trump-ukraine-and-russia-have-agreed-not-to-hit-energy-targets/",
+      "source": "FXStreet",
+      "title": "The Pound tests an August low on the Fed's hike odds",
+      "link": "https://www.fxstreet.com/news/the-pound-tests-an-august-low-on-the-feds-hike-odds-202609142206",
       "date": "2026-09-14"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Is Institutional Money Rotating From Bitcoin to Ethereum?",
-      "link": "https://investinglive.com/cryptocurrency/is-institutional-money-rotating-from-bitcoin-to-ethereum/",
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Bears circle 207.00 as RSI rebounds",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bears-circle-20700-as-rsi-rebounds-202609142156",
       "date": "2026-09-14"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US 10-year yield hits 5% for the first time since 2023",
-      "link": "https://investinglive.com/forex/us-10-year-yield-hits-5-for-the-first-time-since-2023/",
+      "source": "FXStreet",
+      "title": "New Zealand Dollar sinks to two-month low as Greenback firms",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-sinks-to-two-month-low-as-greenback-firms-202609142139",
       "date": "2026-09-14"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The 'house' is losing, USD/JPY rises over 155.00",
-      "link": "https://investinglive.com/forex/the-house-is-losing-usd-jpy-rises-over-155-00/",
+      "source": "FXStreet",
+      "title": "Japanese Yen recedes as Fed and BoJ decisions loom",
+      "link": "https://www.fxstreet.com/news/japanese-yen-recedes-as-fed-and-boj-decisions-loom-202609142100",
       "date": "2026-09-14"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump: The only guradrail that AI needs is a high IQ President",
-      "link": "https://investinglive.com/news/trump-the-only-guradrail-that-ai-needs-is-a-high-iq-president/",
+      "source": "FXStreet",
+      "title": "USD/CHF Price Forecast: Shooting star warns bulls below 0.8200",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-shooting-star-warns-bulls-below-08200-202609142048",
       "date": "2026-09-14"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil Analysis: Technicals and the fundamentals are in synch.  Move higher nears $105",
-      "link": "https://investinglive.com/technical-analysis/crude-oil-analysis-technicals-and-the-fundamentals-are-in-synch-move-higher-nears-105/",
+      "source": "FXStreet",
+      "title": "Crude Oil spikes on a shut Saudi pipeline and unwinds on Trump's posts",
+      "link": "https://www.fxstreet.com/news/crude-oil-spikes-on-a-shut-saudi-pipeline-and-unwinds-on-trumps-posts-202609142014",
       "date": "2026-09-14"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Saudi east-west pipeline will be out of service for 3-5 weeks - report",
-      "link": "https://investinglive.com/news/saudi-east-west-pipeline-will-be-out-of-service-for-3-5-weeks-report/",
+      "source": "FXStreet",
+      "title": "Forex Today: US Dollar firms ahead of UK jobs and a midweek Fed decision",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-uk-jobs-and-a-midweek-fed-decision-202609141929",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: Neckline rejection keeps $60 in sight",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-neckline-rejection-keeps-60-in-sight-202609141925",
       "date": "2026-09-14"
     },
     {
@@ -242,76 +312,6 @@
       "source": "FXStreet",
       "title": "Euro slides against the Pound as a UK jobs test looms",
       "link": "https://www.fxstreet.com/news/euro-slides-against-the-pound-as-a-uk-jobs-test-looms-202609141702",
-      "date": "2026-09-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound buckles as US yields rise puts Fed in command",
-      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-the-us-yields-rise-puts-fed-in-command-202609141655",
-      "date": "2026-09-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro falls as higher Oil prices support Canadian Dollar amid mixed inflation data",
-      "link": "https://www.fxstreet.com/news/euro-falls-as-higher-oil-prices-support-canadian-dollar-amid-mixed-inflation-data-202609141637",
-      "date": "2026-09-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "The Dollar Index climbs on Fed hike bets and stalls at its usual ceiling",
-      "link": "https://www.fxstreet.com/news/the-dollar-index-climbs-on-fed-hike-bets-and-stalls-at-its-usual-ceiling-202609141622",
-      "date": "2026-09-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen weakens at the start of a central bank-heavy week",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-against-us-dollar-at-the-start-of-a-central-bank-heavy-week-202609141607",
-      "date": "2026-09-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average loses another round to rising bond yields",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-loses-another-round-to-rising-bond-yields-202609141557",
-      "date": "2026-09-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold falls as Fed rate hike bets, rising Oil push Treasury yields to 5%",
-      "link": "https://www.fxstreet.com/news/gold-starts-the-week-lower-as-traders-await-fed-verdict-202609141130",
-      "date": "2026-09-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro area: Supply chain risks and core goods outlook – Societe Generale",
-      "link": "https://www.fxstreet.com/news/euro-area-supply-chain-risks-and-core-goods-outlook-societe-generale-202609141547",
-      "date": "2026-09-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Australian Dollar slides to monthly low as Fed hike odds firm",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slides-to-monthly-low-as-fed-hike-odds-firm-202609141528",
-      "date": "2026-09-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen: JPY underperforms into BoJ – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-jpy-underperforms-into-boj-scotiabank-202609141524",
-      "date": "2026-09-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Federal Reserve: Forward guidance impact – Commerzbank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-forward-guidance-impact-commerzbank-202609141515",
       "date": "2026-09-14"
     }
   ]
