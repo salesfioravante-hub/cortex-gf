@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-13",
+  "asof": "2026-09-14",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -107,6 +107,76 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "CICC warns $100 oil could bring demand destruction into view",
+      "link": "https://investinglive.com/commodities/cicc-warns-100-oil-could-bring-demand-destruction-into-view/",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7083 – Reuters estimate",
+      "link": "https://investinglive.com/forex/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7083-reuters-estimate/",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Musk highly confident SpaceX will launch Nvidia AI computers into orbit in 2027",
+      "link": "https://investinglive.com/stocks/musk-highly-confident-spacex-will-launch-nvidia-ai-computers-into-orbit-in-2027/",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro softens below 1.1600 as markets price in Fed rate hike",
+      "link": "https://www.fxstreet.com/news/euro-softens-below-11600-as-markets-price-in-fed-rate-hike-202609140047",
+      "date": "2026-09-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Carney explores Canada as EU associate member, WSJ reports",
+      "link": "https://investinglive.com/news/carney-explores-canada-as-eu-associate-member-wsj-reports/",
+      "date": "2026-09-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump wants future Iran talks focused on nuclear file, not Hormuz, sources say",
+      "link": "https://investinglive.com/commodities/trump-wants-future-iran-talks-focused-on-nuclear-file-not-hormuz-sources-say/",
+      "date": "2026-09-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "NZ services sector expands for third month as PSI rises to 51.2",
+      "link": "https://investinglive.com/news/nz-services-sector-expands-for-third-month-as-psi-rises-to-51-2/",
+      "date": "2026-09-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Weekend: Tanker hit by projectile in Hormuz as fresh attacks reported at sea",
+      "link": "https://investinglive.com/commodities/weekend-tanker-hit-by-projectile-in-hormuz-as-fresh-attacks-reported-at-sea/",
+      "date": "2026-09-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Oil gap higher: Saudi pipeline shut after drone attack as Hormuz meeting is postponed",
+      "link": "https://investinglive.com/commodities/oil-gap-higher-saudi-pipeline-shut-after-drone-attack-as-hormuz-meeting-is-postponed/",
+      "date": "2026-09-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Globex is open and oil has jumped higher while stocks have slumped.",
+      "link": "https://investinglive.com/commodities/globex-is-open-and-oil-has-jumped-higher-while-stocks-have-slumped/",
+      "date": "2026-09-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Tesla's flying Roadster demo to land after years of missed reveal dates",
       "link": "https://investinglive.com/stocks/tesla-s-flying-roadster-demo-to-land-after-years-of-missed-reveal-dates/",
       "date": "2026-09-13"
@@ -148,66 +218,24 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 11 Sept: US CPI raises odds for Fed rate hike",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-sept-us-cpi-keeps-fed-raises-odds-for-fed-rate-hike/",
-      "date": "2026-09-11"
+      "source": "FXStreet",
+      "title": "Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-to-near-07150-as-hot-us-inflation-data-boost-case-for-fed-rate-hike-202609132339",
+      "date": "2026-09-13"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US stocks rebound sharply, but major indices still close lower for the week",
-      "link": "https://investinglive.com/stocks/us-stocks-rebound-sharply-but-major-indices-still-close-lower-for-the-week/",
-      "date": "2026-09-11"
+      "source": "FXStreet",
+      "title": "Iran says commercial vessel struck in Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/iran-says-commercial-vessel-struck-in-strait-of-hormuz-202609132306",
+      "date": "2026-09-13"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin sellers regain the short-term advantage ahead of weekend trading",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-sellers-regain-the-short-term-advantage-ahead-of-weekend-trading/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USDCAD Technicals: USDCAD extends higher but stalls at key trendline resistance",
-      "link": "https://investinglive.com/technical-analysis/usdcad-technicals-usdcad-extends-higher-but-stalls-at-key-trendline-resistance/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Why the Saudi Arabian pipeline strike is such a big deal",
-      "link": "https://investinglive.com/commodities/why-the-saudi-arabian-pipeline-strike-is-such-a-big-deal/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "JPMorgan now sees the Fed hiking in September and December",
-      "link": "https://investinglive.com/central-banks/jpmorgan-now-sees-the-fed-hiking-in-september-and-december/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US August Federal budget deficit $167 billion vs $404 billion expected",
-      "link": "https://investinglive.com/news/us-august-federal-budget-deficit-167-billion-vs-404-billion-expected/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ECB's Lane: If the rise in energy prices persists, maybe it will hit consumption",
-      "link": "https://investinglive.com/central-banks/ecb-s-lane-if-the-rise-in-energy-prices-persists-maybe-it-will-hit-consumption/",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Oil falls despite fresh attacks on Saudi energy infrastructure",
-      "link": "https://investinglive.com/commodities/oil-falls-despite-fresh-attacks-on-saudi-energy-infrastructure/",
-      "date": "2026-09-11"
+      "source": "FXStreet",
+      "title": "Oman meeting between Gulf states and Iran delayed — Reuters",
+      "link": "https://www.fxstreet.com/news/oman-meeting-between-gulf-states-and-iran-delayed-reuters-202609132229",
+      "date": "2026-09-13"
     },
     {
       "cur": "MKT",
@@ -284,34 +312,6 @@
       "source": "FXStreet",
       "title": "Asia FX: Resilience at risk as US yields climb – MUFG",
       "link": "https://www.fxstreet.com/news/asia-fx-resilience-at-risk-as-us-yields-climb-mufg-202609111840",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen rises as the Greenback's inflation bounce fades",
-      "link": "https://www.fxstreet.com/news/japanese-yen-rises-as-the-greenbacks-inflation-bounce-fades-202609111837",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "United States Dollar Index retreats from post-CPI high, all eyes on Fed",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-retreats-from-post-cpi-high-all-eyes-on-fed-202609111808",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold price dodges CPI shock as US yields hand bulls lifeline",
-      "link": "https://www.fxstreet.com/news/gold-price-dodges-cpi-shock-as-us-yields-hand-bulls-lifeline-202609111731",
-      "date": "2026-09-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound shakes off US CPI jolt as UK growth steals spotlight",
-      "link": "https://www.fxstreet.com/news/british-pound-shakes-off-us-cpi-jolt-as-uk-growth-steals-spotlight-202609111531",
       "date": "2026-09-11"
     }
   ]
