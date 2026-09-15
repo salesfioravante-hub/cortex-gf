@@ -1,24 +1,19 @@
 {
-  "asof": "2026-09-14",
+  "asof": "2026-09-15",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 1 releases (EUA) — 2026-09-16 Advance Monthly Sales for Retail and Food Services",
+    "FRED: 2 releases (EUA) — 2026-09-16 Advance Monthly Sales for Retail and Food Services; 2026-09-29 Job Openings and Labor Turnover Survey",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 16 eventos"
+    "ForexFactory: 13 eventos"
   ],
   "byCurrency": {
     "USD": {
       "date": "2026-09-16",
       "title": "Advance Monthly Sales for Retail and Food Services",
       "forecast": ""
-    },
-    "CAD": {
-      "date": "2026-09-14",
-      "title": "CPI m/m",
-      "forecast": "-0.1%"
     },
     "GBP": {
       "date": "2026-09-15",
