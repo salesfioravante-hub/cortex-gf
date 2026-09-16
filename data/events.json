@@ -1,13 +1,13 @@
 {
-  "asof": "2026-09-15",
+  "asof": "2026-09-16",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 2 releases (EUA) — 2026-09-16 Advance Monthly Sales for Retail and Food Services; 2026-09-29 Job Openings and Labor Turnover Survey",
+    "FRED: 6 releases (EUA) — 2026-09-16 Advance Monthly Sales for Retail and Food Services; 2026-09-29 Job Openings and Labor Turnover Survey; 2026-09-30 Gross Domestic Product; 2026-09-30 Gross Domestic Product by Industry",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 13 eventos"
+    "ForexFactory: 12 eventos"
   ],
   "byCurrency": {
     "USD": {
@@ -16,9 +16,9 @@
       "forecast": ""
     },
     "GBP": {
-      "date": "2026-09-15",
-      "title": "Claimant Count Change",
-      "forecast": "8.3K"
+      "date": "2026-09-16",
+      "title": "CPI y/y",
+      "forecast": "3.1%"
     },
     "NZD": {
       "date": "2026-09-16",
