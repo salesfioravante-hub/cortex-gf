@@ -5,10 +5,31 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+      "link": "",
+      "date": "2026-09-16"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Chancellor announces Bank of England appointments",
+      "link": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
       "date": "2026-09-16"
     },
     {
@@ -94,30 +115,86 @@
       "title": "Announcement of the publication of the Governor's interview transcript",
       "link": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
       "date": "2026-09-10"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "link": "",
-      "date": "2026-09-04"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
-      "link": "",
-      "date": "2026-08-27"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Delay to the November 2026 RTGS standards release",
-      "link": "https://www.bankofengland.co.uk/news/2026/august/delay-to-the-november-2026-rtgs-standards-release",
-      "date": "2026-08-27"
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "BOC summary of deliberations: Governing Council agreed near-term inflation likely to stay elevated",
+      "link": "https://investinglive.com/central-banks/boc-summary-of-deliberations-governing-council-agreed-near-term-inflation-likely-to-stay-elevated/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "For reference: The July 29 FOMC statement",
+      "link": "https://investinglive.com/central-banks/for-reference-the-july-29-fomc-statement/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Atlanta Fed GDPNow estimate for Q3 growth jumps to 5.1% from 4.4%",
+      "link": "https://investinglive.com/central-banks/atlanta-fed-gdpnow-estimate-for-q3-growth-jumps-to-5-1-from-4-4/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Dell trades at a record high but nears channel resistance. What happens at $584?  Subtitle",
+      "link": "https://investinglive.com/stocks/dell-trades-at-a-record-high-but-nears-channel-resistance-what-happens-at-584-subtitle/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Meta tests major resistance after its trendline break. Can buyers push through $690?",
+      "link": "https://investinglive.com/stocks/meta-tests-major-resistance-after-its-trendline-break-can-buyers-push-through-690/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "S&P and Nasdaq rebound from support, but buyers still have work to do",
+      "link": "https://investinglive.com/stocks/s-p-and-nasdaq-rebound-from-support-but-buyers-still-have-work-to-do/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "AUDUSD holds key support ahead of the FOMC. What must buyers and sellers do next?",
+      "link": "https://investinglive.com/technical-analysis/audusd-holds-key-support-ahead-of-the-fomc-what-must-buyers-and-sellers-do-next/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US July business inventories +0.8% vs +0.3% expected",
+      "link": "https://investinglive.com/news/us-july-business-inventories-0-8-vs-0-3-expected/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "NAHB Housing market index for September 32 vs 34 estimate",
+      "link": "https://investinglive.com/news/nahb-housing-market-index-for-september-32-vs-34-estimate/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FOMC preview: Warsh's credibility is on the line but there's a 91% chance it doesn't matter",
+      "link": "https://investinglive.com/central-banks/fomc-preview-warsh-s-credibility-is-on-the-line-but-there-s-a-91-chance-it-doesn-t-matter/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "USDCAD breaks above a key confluence area. Can buyers stay above it through the FOMC decision today?",
+      "link": "https://investinglive.com/technical-analysis/usdcad-breaks-above-a-key-confluence-area-can-buyers-stay-above-it-through-the-fomc-decision-today/",
+      "date": "2026-09-16"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -148,184 +225,107 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Morning Kickstart: Fed rate decision takes center stage. What are the technicals telling traders in the 3 key forex pairs?",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-fed-rate-decision-takes-center-stage-what-are-the-technicals-telling-traders-in-the-3-key-forex-pairs/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin price action forecast after Clarity Act and ahead of Federal Reserve decision",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-price-action-forecast-after-clarity-act-and-ahead-of-federal-reserve-decision/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European markets wrap: Oil prices, bond yields ease slightly ahead of Fed decision",
-      "link": "https://investinglive.com/news/investinglive-european-markets-wrap-oil-prices-bond-yields-ease-slightly-ahead-of-fed-decision/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US and Houthis held secret Oman talks over the weekend as Yemen conflict escalates",
-      "link": "https://investinglive.com/news/us-and-houthis-held-secret-oman-talks-over-the-weekend-as-yemen-conflict-escalates/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The S&P 500 reached its pain threshold with oil above $100; a hawkish Fed could exacerbate the losses",
-      "link": "https://investinglive.com/stocks/the-s-p-500-reached-its-pain-threshold-with-oil-above-100-a-hawkish-fed-could-exacerbate-the-losses/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed rate decision: Warsh walks credibility tightrope as markets brace for rate hike",
-      "link": "https://investinglive.com/central-banks/fed-rate-decision-warsh-walks-credibility-tightrope-as-markets-brace-for-rate-hike/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "After the failed Clarity Act vote, Bitcoin could extend losses if the FOMC delivers a hawkish surprise",
-      "link": "https://investinglive.com/cryptocurrency/after-the-failed-clarity-act-vote-bitcoin-could-extend-losses-if-the-fomc-delivers-a-hawkish-surprise/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold traders await the FOMC decision for the next direction. What details to watch?",
-      "link": "https://investinglive.com/commodities/gold-traders-await-the-fomc-decision-for-the-next-direction-what-details-to-watch/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Canada could become the first 'associate member' of the EU, says EU chief von der Leyen",
-      "link": "https://investinglive.com/news/canada-could-become-the-first-associate-member-of-the-eu-says-eu-chief-von-der-leyen/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Oil prices climb again as Saudi Arabia cancels crude cargoes after pipeline closure",
-      "link": "https://investinglive.com/commodities/oil-prices-climb-again-as-saudi-arabia-cancels-crude-cargoes-after-pipeline-closure/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "This Gold Analysis Looks Bullish Ahead of the Fed: What to Watch",
-      "link": "https://investinglive.com/commodities/this-gold-analysis-looks-bullish-ahead-of-the-fed-what-to-watch-0/",
+      "source": "FXStreet",
+      "title": "Breaking: Federal Reserve raises interest rates to 3.75%-4.00%",
+      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-raise-interest-rate-after-five-meetings-on-hold-202609161400",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Bank of England: Hawkish hold risks and November hike – MUFG",
-      "link": "https://www.fxstreet.com/news/bank-of-england-hawkish-hold-risks-and-november-hike-mufg-202609161319",
+      "title": "WTI pulls back below $100 as Saudi Arabia steps up efforts to restore Oil flows",
+      "link": "https://www.fxstreet.com/news/wti-pulls-back-below-100-as-saudi-arabia-steps-up-efforts-to-restore-oil-flows-202609161652",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro: Markets test ECB reaction function – Rabobank",
-      "link": "https://www.fxstreet.com/news/euro-markets-test-ecb-reaction-function-rabobank-202609161300",
+      "title": "New Zealand Dollar steadies as markets await Fed decision",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-against-us-dollar-as-markets-await-fed-decision-202609161617",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "United States Retail Sales rose by 1.2% MoM in August",
-      "link": "https://www.fxstreet.com/news/united-states-retail-sales-rose-by-12-mom-in-august-202609161258",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound: Sterling stability challenged by narrowing carry – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-stability-challenged-by-narrowing-carry-deutsche-bank-202609161245",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold rebounds as traders position for Fed interest rate decision",
+      "title": "Gold consolidates gains as traders brace for Fed interest rate decision",
       "link": "https://www.fxstreet.com/news/gold-rebounds-as-traders-position-for-fed-interest-rate-decision-202609161128",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Dollar: Modestly bearish path under gridlock – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-modestly-bearish-path-under-gridlock-td-securities-202609161229",
+      "title": "The Pound sells its own inflation spike ahead of a Fed hike",
+      "link": "https://www.fxstreet.com/news/the-pound-sells-its-own-inflation-spike-ahead-of-a-fed-hike-202609161532",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "British Pound extends losses against Euro with BoE decision in focus",
-      "link": "https://www.fxstreet.com/news/british-pound-extends-losses-against-euro-with-boe-decision-in-focus-202609161224",
+      "title": "Dow Jones Industrial Average huddles ahead of Fed action",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-huddles-ahead-of-fed-action-202609161514",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro: Recovery does not justify stronger EUR – BNY",
-      "link": "https://www.fxstreet.com/news/euro-recovery-does-not-justify-stronger-eur-bny-202609161212",
+      "title": "Euro: Consolidation with downside risks against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-consolidation-with-downside-risks-against-us-dollar-scotiabank-202609161509",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "British Pound: Data back Bank of England pause – Rabobank",
-      "link": "https://www.fxstreet.com/news/british-pound-data-back-bank-of-england-pause-rabobank-202609161158",
+      "title": "US Dollar: Fed repricing risk caps downside – Rabobank",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-risk-caps-downside-rabobank-202609161501",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Canadian Dollar tests monthly lows against US Dollar ahead of Fed decision",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-tests-monthly-lows-against-us-dollar-ahead-of-fed-decision-202609161155",
+      "title": "British Pound: BoE repricing risk grows – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-repricing-risk-grows-bbh-202609161453",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Australian Dollar holds its ground ahead of highly anticipated Fed decision",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-its-ground-ahead-of-highly-anticipated-fed-decision-202609161147",
+      "title": "Australian Dollar holds ground as Fed decision looms",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-ground-against-us-dollar-as-fed-decision-looms-202609161453",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Dollar: Fed path and credibility in focus – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-path-and-credibility-in-focus-commerzbank-202609161144",
+      "title": "Canadian Dollar: BoC hawkish tilt and key levels – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hawkish-tilt-and-key-levels-scotiabank-202609161441",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Indian Rupee remains close to seven-week low on Wednesday, Fed's policy in focus",
-      "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-recent-losses-ahead-of-feds-policy-202609160531",
+      "title": "United Kingdom: BoE hold view reinforced – Nomura",
+      "link": "https://www.fxstreet.com/news/united-kingdom-boe-hold-view-reinforced-nomura-202609161418",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "New Zealand Dollar: Growth risks temper RBNZ pricing – ING",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-growth-risks-temper-rbnz-pricing-ing-202609161130",
+      "title": "Eurozone: Manufacturing outlook steadies as year-end hopes build – ING",
+      "link": "https://www.fxstreet.com/news/eurozone-manufacturing-outlook-steadies-as-year-end-hopes-build-ing-202609161357",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro trades with caution against US Dollar ahead of Fed’s policy meeting",
-      "link": "https://www.fxstreet.com/news/euro-trades-with-caution-against-us-dollar-ahead-of-feds-policy-meeting-202609161120",
+      "title": "Euro trades cautiously against US Dollar ahead of expected Fed rate hike",
+      "link": "https://www.fxstreet.com/news/euro-trades-cautiously-against-us-dollar-ahead-of-expected-fed-rate-hike-202609161345",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Silver price rebounds ahead of expected Fed rate hike, Warsh press conference",
+      "link": "https://www.fxstreet.com/news/silver-price-rebounds-ahead-of-expected-fed-rate-hike-warsh-press-conference-202609161341",
       "date": "2026-09-16"
     }
   ]
