@@ -4,21 +4,21 @@
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 6 releases (EUA) — 2026-09-16 Advance Monthly Sales for Retail and Food Services; 2026-09-29 Job Openings and Labor Turnover Survey; 2026-09-30 Gross Domestic Product; 2026-09-30 Gross Domestic Product by Industry",
+    "FRED: HTTP 504",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
     "ForexFactory: 12 eventos"
   ],
   "byCurrency": {
-    "USD": {
-      "date": "2026-09-16",
-      "title": "Advance Monthly Sales for Retail and Food Services",
-      "forecast": ""
-    },
     "GBP": {
       "date": "2026-09-16",
       "title": "CPI y/y",
       "forecast": "3.1%"
+    },
+    "USD": {
+      "date": "2026-09-16",
+      "title": "Federal Funds Rate",
+      "forecast": "4.00%"
     },
     "NZD": {
       "date": "2026-09-16",
