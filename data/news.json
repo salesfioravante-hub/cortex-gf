@@ -7,22 +7,15 @@
     {
       "cur": "GBP",
       "source": "BoE",
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+      "title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
+      "link": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
       "date": "2026-09-17"
     },
     {
       "cur": "GBP",
       "source": "BoE",
-      "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
+      "title": "Monetary Policy Committee dates for 2027",
+      "link": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
       "date": "2026-09-17"
     },
     {
@@ -30,6 +23,13 @@
       "source": "BoE",
       "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
       "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
+      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
       "date": "2026-09-17"
     },
     {
@@ -121,6 +121,69 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Trump says he faces a “big decision” on whether to launch new attacks on Iran",
+      "link": "https://investinglive.com/news/trump-says-he-faces-a-big-decision-on-whether-to-launch-new-attacks-on-iran/",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Silver races to the upside as lower yields add fuel",
+      "link": "https://investinglive.com/commodities/silver-races-to-the-upside-as-lower-yields-add-fuel/",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "WTI crude oil lower on but holds key support. Can buyers retake the 100-hour moving average?",
+      "link": "https://investinglive.com/commodities/wti-crude-oil-lower-on-but-holds-key-support-can-buyers-retake-the-100-hour-moving-average/",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Former Atlanta Fed President: The inflation portion of the Fed mandate is far more concerning",
+      "link": "https://investinglive.com/central-banks/former-atlanta-fed-president-the-inflation-portion-of-the-fed-mandate-is-far-more-concerning/",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The smallest hiking cycle the Fed has ever done is 137 basis points",
+      "link": "https://investinglive.com/central-banks/the-smallest-hiking-cycle-the-fed-has-ever-done-is-137-basis-points/",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "USDCAD breaks higher after the Fed. Can buyers hold the breakout? Or will sellers take back control?",
+      "link": "https://investinglive.com/technical-analysis/usdcad-breaks-higher-after-the-fed-can-buyers-hold-the-breakout-or-will-sellers-take-back-control/",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nasdaq Composite and Nasdaq 100 rebound from support. Can buyers clear the moving averages?",
+      "link": "https://investinglive.com/stocks/nasdaq-composite-and-nasdaq-100-rebound-from-support-can-buyers-clear-the-moving-averages/",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US August pending home sales +0.3% vs -0.6% expected",
+      "link": "https://investinglive.com/news/us-august-pending-home-sales-0-3-vs-0-6-expected/",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "BOE's Bailey: Decision on rates will get more difficult the longer the Iran conflict continues",
+      "link": "https://investinglive.com/central-banks/boe-s-bailey-decision-on-rates-will-get-more-difficult-the-longer-the-iran-conflict-continues/",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Bitcoin buyers defend key support, but the hourly moving averages remain the next hurdle",
       "link": "https://investinglive.com/cryptocurrency/bitcoin-buyers-defend-key-support-but-the-hourly-moving-averages-remain-the-next-hurdle/",
       "date": "2026-09-17"
@@ -162,86 +225,37 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "China privately asks Iran to help rein in Houthis after Saudi appeal, sources say",
-      "link": "https://investinglive.com/news/china-privately-asks-iran-to-help-rein-in-houthis-after-saudi-appeal-sources-say/",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European session wrap: Markets rise as oil and bond yields ease after Fed, BOE holds rates",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-markets-rise-as-oil-and-bond-yields-ease-after-fed-boe-holds-rates/",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Solana resists bearish pressures coming from failed Clarity Act vote and Fed rate hike. What's next?",
-      "link": "https://investinglive.com/cryptocurrency/solana-resists-bearish-pressures-coming-from-failed-clarity-act-vote-and-fed-rate-hike-what-s-next/",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BOE leaves bank rate unchanged at 3.75% in 6-3 vote",
-      "link": "https://investinglive.com/central-banks/boe-leaves-bank-rate-unchanged-at-3-75-in-6-3-vote/",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Stock sector rotation with the Fed decision: Healthcare attracts fresh interest as Consumer Staples lose support",
-      "link": "https://investinglive.com/stocks/stock-sector-rotation-with-the-fed-decision-healthcare-attracts-fresh-interest-as-consumer-staples-lose-support/",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Oil prices ease as Saudi Arabia projects to restore half pipeline capacity within days and Trump plans meeting with Gulf leaders",
-      "link": "https://investinglive.com/commodities/oil-prices-ease-as-saudi-arabia-projects-to-restore-half-pipeline-capacity-within-days-and-trump-plans-meeting-with-gulf-leaders/",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "S&P 500 looks for a technical bounce as 100-day moving average holds after the Fed",
-      "link": "https://investinglive.com/stocks/s-p-500-looks-for-a-technical-bounce-as-100-day-moving-average-holds-after-the-fed/",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold (XAU/USD) analysis: The market overreacts to Fed decision; Middle East and data now in focus",
-      "link": "https://investinglive.com/commodities/gold-xau-usd-analysis-the-market-overreacts-to-fed-decision-middle-east-and-data-now-in-focus/",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Could Bitcoin Treasury Companies Become Forced Sellers?",
-      "link": "https://investinglive.com/education/could-bitcoin-treasury-companies-become-forced-sellers/",
+      "source": "FXStreet",
+      "title": "Brazilian Real: 200-DMA capping losses against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/brazilian-real-200-dma-capping-losses-against-us-dollar-societe-generale-202609171800",
       "date": "2026-09-17"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "British Pound: BoE stance leaves Pound exposed – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-stance-leaves-pound-exposed-bbh-202609171310",
+      "title": "Japanese Yen awaits fresh direction from Bank of Japan interest rate decision",
+      "link": "https://www.fxstreet.com/news/japanese-yen-awaits-fresh-direction-from-bank-of-japan-interest-rate-decision-202609171748",
       "date": "2026-09-17"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Japanese Yen: Faster BoJ tightening supports gains against US Dollar - MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-faster-boj-tightening-supports-gains-against-us-dollar-mufg-202609171259",
+      "title": "Federal Reserve: Higher-for-longer path reshapes cuts – Rabobank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-higher-for-longer-path-reshapes-cuts-rabobank-202609171725",
       "date": "2026-09-17"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Swiss National Bank: Inflation pressures build – Nomura",
-      "link": "https://www.fxstreet.com/news/swiss-national-bank-inflation-pressures-build-nomura-202609171242",
+      "title": "USD/CHF Price Forecast: RSI nears overbought territory",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rsi-nears-overbought-territory-202609171641",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average rebounds as Crude Oil and bond yields fall",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rebounds-as-crude-oil-and-bond-yields-fall-202609171616",
       "date": "2026-09-17"
     },
     {
@@ -254,78 +268,64 @@
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Initial Jobless Claims dropped to 196K last week",
-      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-196k-last-week-202609171234",
+      "title": "New Zealand Dollar gains ground as GDP growth beats expectations",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-ground-as-gdp-growth-beats-expectations-202609171555",
       "date": "2026-09-17"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Bank of Japan: Market-priced hike to 1.25% – Danske Bank",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-market-priced-hike-to-125-danske-bank-202609171216",
+      "title": "British Pound loses its footing as BoE hold meets Fed hike",
+      "link": "https://www.fxstreet.com/news/british-pound-loses-its-footing-as-boe-holds-meet-fed-tightening-202609171543",
       "date": "2026-09-17"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "British Pound weakens against Japanese Yen as BoE leaves rates unchanged",
-      "link": "https://www.fxstreet.com/news/british-pound-weakens-against-japanese-yen-as-boe-leaves-rates-unchanged-202609171206",
+      "title": "Japanese Yen: Further weakness could target 157.30 against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-further-weakness-could-target-15730-against-us-dollar-uob-202609171506",
       "date": "2026-09-17"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Federal Reserve: Hawkish path extends into year-end – Commerzbank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-path-extends-into-year-end-commerzbank-202609171158",
+      "title": "Euro: Stabilizing with policy support – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-stabilizing-with-policy-support-scotiabank-202609171454",
       "date": "2026-09-17"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Silver price rebounds on softer Oil but Fed tightening caps recovery",
-      "link": "https://www.fxstreet.com/news/silver-price-rebounds-on-softer-oil-but-fed-tightening-caps-recovery-202609171150",
+      "title": "Australian Dollar rebound offsets the hawkish Fed hike",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rebound-offsets-the-hawkish-fed-hike-202609171451",
       "date": "2026-09-17"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro jumps against British Pound as BoE leaves rates on hold",
-      "link": "https://www.fxstreet.com/news/euro-jumps-against-british-pound-as-boe-leaves-rates-on-hold-202609171146",
+      "title": "1.25%: Why the Bank of Japan hike is a done deal and the Japanese Yen now hinges on Ueda's guidance",
+      "link": "https://www.fxstreet.com/news/125-why-the-bank-of-japan-hike-is-a-done-deal-and-the-japanese-yen-now-hinges-on-uedas-guidance-202609171451",
       "date": "2026-09-17"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: 20-day EMA acts as key barrier near 156.45",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-20-day-acts-key-barrier-near-15645-202609171146",
+      "title": "Bank of England: Cautious hold with upside risks – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-england-cautious-hold-with-upside-risks-td-securities-202609171446",
       "date": "2026-09-17"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Dollar: Hawkish Fed supports Dollar near term – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-supports-dollar-near-term-ocbc-202609171143",
+      "title": "US Dollar: Fed hike keeps upside risks – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-hike-keeps-upside-risks-bbh-202609171434",
       "date": "2026-09-17"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Australian Dollar: Short-term downside toward 0.7050 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-short-term-downside-toward-07050-against-us-dollar-uob-202609171131",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Massive selloff: Swiss Franc plunges 2% in five days amid growing SNB-Fed divergence",
-      "link": "https://www.fxstreet.com/news/massive-selloff-swiss-franc-plunges-2-in-five-days-amid-growing-snb-fed-divergence-202609171129",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro: Fair value falls on oil and Fed pressure against US Dollar - ING",
-      "link": "https://www.fxstreet.com/news/euro-fair-value-falls-on-oil-and-fed-pressure-against-us-dollar-ing-202609171120",
+      "title": "Euro gains against US Dollar as post-Fed rally loses momentum",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-us-dollar-as-post-fed-rally-loses-momentum-202609171424",
       "date": "2026-09-17"
     }
   ]
