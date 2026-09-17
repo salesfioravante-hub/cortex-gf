@@ -5,7 +5,7 @@
   "fred_ok": "2/2",
   "notes": [
     "USD: FRED DFEDTARU = 3.75% (2026-09-16)",
-    "EUR: FRED ECBDFR = 2.5% (2026-09-16)"
+    "EUR: FRED ECBDFR = 2.5% (2026-09-17)"
   ],
   "nota": "rate = taxa de política oficial (%). Verifica o input do carry; não o substitui. Curadas: conferir quando o BC decidir (ver cbcalendar.json).",
   "byCurrency": {
@@ -19,7 +19,7 @@
       "rate": 2.5,
       "src": "BCE — taxa de depósito (FRED ECBDFR)",
       "auto": true,
-      "asof": "2026-09-16"
+      "asof": "2026-09-17"
     },
     "GBP": {
       "rate": 4,
