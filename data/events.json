@@ -1,29 +1,24 @@
 {
-  "asof": "2026-09-16",
+  "asof": "2026-09-17",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: HTTP 504",
+    "FRED: 5 releases (EUA) — 2026-09-29 Job Openings and Labor Turnover Survey; 2026-09-30 Gross Domestic Product; 2026-09-30 Gross Domestic Product by Industry; 2026-09-30 Gross Domestic Product by State",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 12 eventos"
+    "ForexFactory: 6 eventos"
   ],
   "byCurrency": {
-    "GBP": {
-      "date": "2026-09-16",
-      "title": "CPI y/y",
-      "forecast": "3.1%"
-    },
     "USD": {
-      "date": "2026-09-16",
-      "title": "Federal Funds Rate",
-      "forecast": "4.00%"
+      "date": "2026-09-29",
+      "title": "Job Openings and Labor Turnover Survey",
+      "forecast": ""
     },
-    "NZD": {
-      "date": "2026-09-16",
-      "title": "GDP q/q",
-      "forecast": "0.1%"
+    "GBP": {
+      "date": "2026-09-17",
+      "title": "Monetary Policy Summary",
+      "forecast": ""
     },
     "JPY": {
       "date": "2026-09-18",

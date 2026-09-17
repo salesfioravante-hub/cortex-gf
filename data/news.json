@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-16",
+  "asof": "2026-09-17",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -30,6 +30,13 @@
       "source": "BoE",
       "title": "Chancellor announces Bank of England appointments",
       "link": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Flow of Funds Accounts (2nd Quarter 2026, Preliminary Figures)",
+      "link": "http://www.boj.or.jp/en/statistics/sj/sj.htm",
       "date": "2026-09-16"
     },
     {
@@ -89,13 +96,6 @@
       "date": "2026-09-14"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "IMES Discussion Paper Series (2026)",
-      "link": "http://www.boj.or.jp/en/research/imes/dps/dps26.htm",
-      "date": "2026-09-14"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
@@ -121,6 +121,118 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "IMF says RBA may need more hikes as it urges Australia to cut spending",
+      "link": "https://investinglive.com/central-banks/imf-says-rba-may-need-more-hikes-as-it-urges-australia-to-cut-spending/",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "NZ Q2 GDP beats forecasts at 2.6% y/y, easing RBNZ growth concerns",
+      "link": "https://investinglive.com/central-banks/nz-q2-gdp-beats-forecasts-at-2-6-y-y-easing-rbnz-growth-concerns/",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7241 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7-reuters-estimate-8/",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7580 vs. 6.7628 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67580-vs-67628-previous-202609170115",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "British Pound languishes near late July lows as hawkish Fed underpins USD ahead of BoE",
+      "link": "https://www.fxstreet.com/news/british-pound-languishes-near-late-july-lows-as-hawkish-fed-underpins-usd-ahead-of-boe-202609170104",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US President Donald Trump to hold Iran talks with Gulf leaders next week — Reuters",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-to-hold-iran-talks-with-gulf-leaders-next-week-reuters-202609170015",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "New Zealand Dollar remains weak below 0.5750 despite better-than-expected GDP data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-weak-below-05750-despite-better-than-expected-gdp-data-202609170006",
+      "date": "2026-09-17"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "OpenAI discloses six new AI safety incidents, unveils disclosure framework",
+      "link": "https://investinglive.com/stocks/openai-discloses-six-new-ai-safety-incidents-unveils-disclosure-framework/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump to meet Gulf leaders on Iran war \"endgame\" at UN next week",
+      "link": "https://investinglive.com/commodities/trump-to-meet-gulf-leaders-on-iran-war-endgame-at-un-next-week/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "BoE preview: Bank Rate seen on hold as Iran-driven energy shock stirs hike talk",
+      "link": "https://investinglive.com/central-banks/boe-preview-bank-rate-seen-on-hold-as-iran-driven-energy-shock-stirs-hike-talk/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed dot plot backs hawks as Warsh tone rattles markets more than the hike",
+      "link": "https://investinglive.com/central-banks/fed-dot-plot-backs-hawks-as-warsh-tone-rattles-markets-more-than-the-hike/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "So, how are the bitcoin HODL'ers doing after the Fed's rate hike?",
+      "link": "https://investinglive.com/cryptocurrency/so-how-are-the-bitcoin-hodl-ers-doing-after-the-fed-s-rate-hike/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nike shares fall to 12-year low near $36 on China, tariffs, turnaround doubts",
+      "link": "https://investinglive.com/stocks/nike-shares-fall-to-12-year-low-near-36-on-china-tariffs-turnaround-doubts/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "New Zealand dollar pops a little on better than expected GDP data",
+      "link": "https://investinglive.com/news/new-zealand-dollar-pops-a-little-on-better-than-expected-gdp-data/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Xi-Trump summit set for September 24, but Taiwan arms sale threat looms over it",
+      "link": "https://investinglive.com/news/xi-trump-summit-set-for-september-24-but-taiwan-arms-sale-threat-looms-over-it/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Wells Fargo cut its S&P 500 target even ahead of the Fed rate hike, cited valuation risk",
+      "link": "https://investinglive.com/stock-market-update/wells-fargo-cut-its-s-p-500-target-even-ahead-of-the-fed-rate-hike-cited-valuation-risk/",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Another pillar of support for crypto is being put in place as Deutsche Bank plans BTC, ETH custody",
       "link": "https://investinglive.com/cryptocurrency/another-pillar-of-support-for-crypto-is-being-put-in-place-as-deutsche-bank-plans-btc-eth-custody/",
       "date": "2026-09-16"
@@ -141,86 +253,23 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "NZD/USD braces for NZ GDP data: Three scenarios for the Kiwi",
-      "link": "https://investinglive.com/forex/nzd-usd-braces-for-nz-gdp-three-scenarios-for-the-kiwi/",
+      "source": "FXStreet",
+      "title": "Gold falls to near $4,250 after Fed delivers rate hike",
+      "link": "https://www.fxstreet.com/news/gold-falls-to-near-4-250-after-fed-delivers-rate-hike-202609162325",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "New Zealand Q2 GDP preview as RBNZ weighs timing of its next rate hike",
-      "link": "https://investinglive.com/news/new-zealand-q2-gdp-preview-as-rbnz-weighs-timing-of-its-next-rate-hike/",
+      "source": "FXStreet",
+      "title": "0.2%: New Zealand’s Gross Domestic Product grows more than expected in Q2",
+      "link": "https://www.fxstreet.com/news/02-new-zealands-gross-domestic-product-grows-more-than-expected-in-q2-202609162246",
       "date": "2026-09-16"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Dow Sheds 630 Points as Fed's First Hike in Three Years Rattles Wall Street",
-      "link": "https://investinglive.com/stocks/dow-sheds-630-points-as-fed-s-first-hike-in-three-years-rattles-wall-street/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Economic and event calendar in Asia Thursday, September 17, 2026. FOMC done, moving on!",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-september-17-2026-fomc-done-moving-on/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Americas market news wrap: Fed hikes rates for the first time in three years",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-fed-hikes-rates-for-the-first-time-in-three-years/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The technical levels in play for the EURUSD, USDJPY, GBPUSD and USDCAD following the Fed hike",
-      "link": "https://investinglive.com/technical-analysis/the-technical-levels-in-play-for-the-eurusd-usdjpy-gbpusd-and-usdcad-following-the-fed-hike/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Warsh: The economy appears to be strengthening",
-      "link": "https://investinglive.com/central-banks/fed-s-warsh-the-economy-appears-to-be-strengthening/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Markets react to the Fed: US dollar rises and front-end yields jump",
-      "link": "https://investinglive.com/central-banks/markets-react-to-the-fed-us-dollar-rises-and-front-end-yields-jump/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed dot plot signals another 2026 rate hike as growth strengthens and inflation remains elevated",
-      "link": "https://investinglive.com/central-banks/fed-dot-plot-signals-another-2026-rate-hike-as-growth-strengthens-and-inflation-remains-elevated/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The full statement from the Federal Reserve Board for September 2026",
-      "link": "https://investinglive.com/central-banks/the-full-statement-from-the-federal-reserve-board-for-september-2026/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "FOMC rate decision: Fed hikes for the first time in three years",
-      "link": "https://investinglive.com/central-banks/fomc-rate-decision-fed-hikes-for-the-first-time-in-three-years/",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BOC summary of deliberations: Governing Council agreed near-term inflation likely to stay elevated",
-      "link": "https://investinglive.com/central-banks/boc-summary-of-deliberations-governing-council-agreed-near-term-inflation-likely-to-stay-elevated/",
+      "source": "FXStreet",
+      "title": "The Pound drops below its long-run average as the Fed's rate passes Britain's",
+      "link": "https://www.fxstreet.com/news/the-pound-drops-below-its-long-run-average-as-the-feds-rate-passes-britains-202609162219",
       "date": "2026-09-16"
     },
     {
@@ -277,55 +326,6 @@
       "source": "FXStreet",
       "title": "The Euro breaks lower once the Fed raises rates",
       "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-six-days-after-the-ecb-202609161808",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "The Pound sinks as the Fed overtakes the BoE",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-back-above-britains-375-202609161809",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Fed rate hike bolsters US Dollar Index above 100.00",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-into-a-dollar-index-basket-that-also-raised-rates-202609161815",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "The Canadian Dollar slips to a summer low on the Fed's rate hike",
-      "link": "https://www.fxstreet.com/news/fed-hike-sends-the-loonie-to-a-six-week-low-202609161841",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average slides behind a Federal Reserve hike",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-raises-rates-on-the-dow-jones-30-corporate-borrowers-202609161815",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Silver slides as hawkish Fed lifts US Dollar and Treasury yields",
-      "link": "https://www.fxstreet.com/news/silver-slides-as-hawkish-fed-lifts-us-dollar-and-treasury-yields-202609161916",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Forex Today: Investors now look at the BoE",
-      "link": "https://www.fxstreet.com/news/forex-today-investors-now-look-at-the-boe-202609161909",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Federal Reserve Chair Warsh: Inflation trends were not passing the test",
-      "link": "https://www.fxstreet.com/news/federal-reserve-chair-warsh-inflation-trends-were-not-passing-the-test-202609161900",
       "date": "2026-09-16"
     }
   ]
