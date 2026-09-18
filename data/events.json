@@ -1,23 +1,18 @@
 {
-  "asof": "2026-09-17",
+  "asof": "2026-09-18",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 5 releases (EUA) — 2026-09-29 Job Openings and Labor Turnover Survey; 2026-09-30 Gross Domestic Product; 2026-09-30 Gross Domestic Product by Industry; 2026-09-30 Gross Domestic Product by State",
+    "FRED: 6 releases (EUA) — 2026-09-29 Job Openings and Labor Turnover Survey; 2026-09-30 Gross Domestic Product; 2026-09-30 Gross Domestic Product by Industry; 2026-09-30 Gross Domestic Product by State",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 6 eventos"
+    "ForexFactory: 3 eventos"
   ],
   "byCurrency": {
     "USD": {
       "date": "2026-09-29",
       "title": "Job Openings and Labor Turnover Survey",
-      "forecast": ""
-    },
-    "GBP": {
-      "date": "2026-09-17",
-      "title": "Monetary Policy Summary",
       "forecast": ""
     },
     "JPY": {
