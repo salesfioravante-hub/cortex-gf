@@ -226,6 +226,27 @@
     {
       "cur": "MKT",
       "source": "FXStreet",
+      "title": "Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-strong-nodx-but-usd-still-drives-usd-sgd-ocbc-202609182149",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-after-07100-break-202609182116",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Pre-summit support and firmer bias – DBS",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-pre-summit-support-and-firmer-bias-dbs-202609182112",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
       "title": "NZD/USD Price Forecast: Kiwi reversal puts 0.5700 under pressure",
       "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-reversal-puts-05700-under-pressure-202609182044",
       "date": "2026-09-18"
@@ -305,27 +326,6 @@
       "source": "FXStreet",
       "title": "Dow Jones Industrial Average gives back its bounce as factory output stalls",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-gives-back-its-bounce-as-factory-output-stalls-202609181656",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen weakens despite BoJ hike as US Dollar remains firm",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-despite-boj-hike-as-us-dollar-remains-firm-202609181554",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Fed’s Schmid supports rate hike as inflation broadens beyond 3%",
-      "link": "https://www.fxstreet.com/news/feds-schmid-supports-rate-hike-as-inflation-broadens-beyond-3-202609181541",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound gives back UK sales pop as Oil shock returns",
-      "link": "https://www.fxstreet.com/news/british-pound-gives-back-uk-sales-pop-as-oil-shock-returns-202609181527",
       "date": "2026-09-18"
     }
   ]
