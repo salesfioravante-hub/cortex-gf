@@ -84,8 +84,8 @@
     {
       "cur": "GBP",
       "source": "BoE",
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
+      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
       "date": "2026-09-17"
     },
     {
@@ -118,6 +118,34 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas market news wrap: Bonds slump again, yen rate check adds intrigue after BOJ",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-bonds-slump-again-yen-rate-check-adds-intrigue-after-boj/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Oil finishes lower as the market sniffs out a TACO",
+      "link": "https://investinglive.com/news/oil-finishes-lower-as-the-market-sniffs-out-a-taco/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan conducted an FX rate check earlier - report",
+      "link": "https://investinglive.com/forex/japan-conducted-an-fx-rate-check-earlier-report/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Beware of intervention:  USDJPY retraces earlier gains, but is stalling at a key retracement target.",
+      "link": "https://investinglive.com/forex/beware-of-intervention-usdjpy-retraces-earlier-gains-but-is-stalling-at-a-key-retracement-target/",
+      "date": "2026-09-18"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -197,30 +225,79 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ECB president Lagarde pushes back on automatic rate hikes as energy prices cloud outlook",
-      "link": "https://investinglive.com/central-banks/ecb-president-lagarde-pushes-back-on-automatic-rate-hikes-as-energy-prices-cloud-outlook/",
+      "source": "FXStreet",
+      "title": "NZD/USD Price Forecast: Kiwi reversal puts 0.5700 under pressure",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-reversal-puts-05700-under-pressure-202609182044",
       "date": "2026-09-18"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Ethereum is approaching the key $2,560 resistance again: Will it finally break out of the range?",
-      "link": "https://investinglive.com/cryptocurrency/ethereum-is-approaching-the-key-2-560-resistance-again-will-it-finally-break-out-of-the-range/",
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Range trade persists against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-persists-against-us-dollar-uob-202609182038",
       "date": "2026-09-18"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ECB president Lagarde fuels early exit speculation with 'we'll see' response",
-      "link": "https://investinglive.com/central-banks/ecb-president-lagarde-fuels-early-exit-speculation-with-we-ll-see-response/",
+      "source": "FXStreet",
+      "title": "Malaysian Ringgit: External pressure but scope for reversal – OCBC",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-external-pressure-but-scope-for-reversal-ocbc-202609181954",
       "date": "2026-09-18"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Silver soars by more than 7% as the Fed's dot plot shows low appetite for rate hikes",
-      "link": "https://investinglive.com/commodities/silver-soars-by-more-than-7-as-the-fed-s-dot-plot-shows-low-appetite-for-rate-hikes/",
+      "source": "FXStreet",
+      "title": "British Pound: Limited upside after hawkish BoE hold – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-limited-upside-after-hawkish-boe-hold-scotiabank-202609181919",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "10-year Treasury yield rises back to 5% as global tightening wave pushes",
+      "link": "https://www.fxstreet.com/news/us-10-year-back-at-5-as-global-tightening-wave-pushes-202609181903",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Eurozone: Energy shock reshapes outlook – Rabobank",
+      "link": "https://www.fxstreet.com/news/eurozone-energy-shock-reshapes-outlook-rabobank-202609181858",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro: Stabilization after FOMC volatility – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-stabilization-after-fomc-volatility-scotiabank-202609181844",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: Mild bullish bias holds, but trend strength stays weak",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-mild-bullish-bias-holds-but-trend-strength-stays-weak-202609181757",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Gold reclaims its footing as Oil retreat blunts Fed shock",
+      "link": "https://www.fxstreet.com/news/gold-reclaims-its-footing-as-oil-retreat-blunts-fed-shock-202609181744",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Swiss Franc gains against US Dollar, but Fed-SNB divergence weighs",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-against-us-dollar-but-fed-snb-divergence-weighs-202609181736",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Dollar Index nudges to a fresh high and slips back as Japan raises rates",
+      "link": "https://www.fxstreet.com/news/dollar-index-nudges-to-a-fresh-high-and-slips-back-as-japan-raises-rates-202609181725",
       "date": "2026-09-18"
     },
     {
@@ -249,83 +326,6 @@
       "source": "FXStreet",
       "title": "British Pound gives back UK sales pop as Oil shock returns",
       "link": "https://www.fxstreet.com/news/british-pound-gives-back-uk-sales-pop-as-oil-shock-returns-202609181527",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold outlook hinges on Oil prices and shifting Fed expectations",
-      "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Dollar Index Price Forecast: Technical setup favours further gains above 100",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-technical-setup-favours-further-gains-above-100-202609181516",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Swiss Franc: Policy rate seen on hold – ING",
-      "link": "https://www.fxstreet.com/news/swiss-franc-policy-rate-seen-on-hold-ing-202609181504",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound: Retail rebound but BoE risks – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-retail-rebound-but-boe-risks-bbh-202609181443",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canadian Dollar dips as Fed, US yields support the US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-fed-us-yields-support-the-us-dollar-202609181443",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canadian Dollar: Pressure builds near 1.40 against US Dollar - Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-pressure-builds-near-140-against-us-dollar-scotiabank-202609181426",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Bank of Canada: Rate path risks tilt earlier – RBC",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-rate-path-risks-tilt-earlier-rbc-202609181404",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "European Central Bank: Quarterly hikes still baseline – Nordea",
-      "link": "https://www.fxstreet.com/news/european-central-bank-quarterly-hikes-still-baseline-nordea-202609181350",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro heads for weekly loss against US Dollar on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/euro-heads-for-weekly-loss-against-us-dollar-on-hawkish-fed-outlook-202609181344",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen: BoJ hike fails to lift JPY against US Dollar – Danske Bank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hike-fails-to-lift-jpy-against-us-dollar-danske-bank-202609181329",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound: QT overhaul supports Gilt curve and Pound – MUFG",
-      "link": "https://www.fxstreet.com/news/british-pound-qt-overhaul-supports-gilt-curve-and-pound-mufg-202609181303",
       "date": "2026-09-18"
     }
   ]
