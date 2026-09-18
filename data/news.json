@@ -7,8 +7,22 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "ECB Consumer Expectations Survey results – August 2026",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "Boris Vujčić: Interview with Reuters",
       "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
       "date": "2026-09-18"
     },
     {
@@ -56,15 +70,8 @@
     {
       "cur": "GBP",
       "source": "BoE",
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
       "date": "2026-09-17"
     },
     {
@@ -96,13 +103,6 @@
       "date": "2026-09-14"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html",
-      "date": "2026-09-14"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
@@ -121,212 +121,212 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "NA Morning TGIF Kickstart Video: USDJPY surges as the BOJ hike disappoints yen buyers",
+      "link": "https://investinglive.com/technical-analysis/na-morning-tgif-kickstart-video-usdjpy-surges-as-the-boj-hike-disappoints-yen-buyers/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive European session wrap: Yen slides after BOJ hike as markets stay on edge",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-yen-slides-after-boj-hike-as-markets-stay-on-edge/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "How have interest rate expectations changed after this week's events?",
+      "link": "https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-3/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "This simple ETH technical analysis today shows bulls are still good",
+      "link": "https://investinglive.com/cryptocurrency/this-simple-eth-technical-analysis-today-shows-bulls-are-still-good/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold (XAU/USD) extends gains as focus shifts to Trump meeting with Gulf leaders to discuss Iran war",
+      "link": "https://investinglive.com/commodities/gold-xau-usd-extends-gains-as-focus-shifts-to-trump-meeting-with-gulf-leaders-to-discuss-iran-war/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ECB president Lagarde pushes back on automatic rate hikes as energy prices cloud outlook",
+      "link": "https://investinglive.com/central-banks/ecb-president-lagarde-pushes-back-on-automatic-rate-hikes-as-energy-prices-cloud-outlook/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Ethereum is approaching the key $2,560 resistance again: Will it finally break out of the range?",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-is-approaching-the-key-2-560-resistance-again-will-it-finally-break-out-of-the-range/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ECB president Lagarde fuels early exit speculation with 'we'll see' response",
+      "link": "https://investinglive.com/central-banks/ecb-president-lagarde-fuels-early-exit-speculation-with-we-ll-see-response/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Silver soars by more than 7% as the Fed's dot plot shows low appetite for rate hikes",
+      "link": "https://investinglive.com/commodities/silver-soars-by-more-than-7-as-the-fed-s-dot-plot-shows-low-appetite-for-rate-hikes/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold price claws back toward $4,400 after dodging a deeper technical breakdown - what's next?",
+      "link": "https://investinglive.com/commodities/gold-price-claws-back-toward-4-400-after-dodging-a-deeper-technical-breakdown-what-s-next/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Alpari Invites Traders and Partners to Connect at Forex Expo Dubai",
+      "link": "https://investinglive.com/education/alpari-invites-traders-and-partners-to-connect-at-forex-expo-dubai/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Zcash surges by more than 45% this week as the $12 billion firm Paradigm discloses ZEC stake",
+      "link": "https://investinglive.com/cryptocurrency/zcash-surges-by-more-than-45-this-week-as-the-12-billion-firm-paradigm-discloses-zec-stake/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The next phase for Bitcoin miners may have less to do with Bitcoin and more to do with power",
+      "link": "https://investinglive.com/cryptocurrency/the-next-phase-for-bitcoin-miners-may-have-less-to-do-with-bitcoin-and-more-to-do-with-power/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "European stock market open: Stocks slip as investors take a breather after post-Fed rebound",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-slip-as-investors-take-a-breather-after-post-fed-rebound/",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "BOJ governor Ueda says spring wage talks key to judging inflation trend",
       "link": "https://investinglive.com/central-banks/boj-governor-ueda-says-spring-wage-talks-key-to-judging-inflation-trend/",
       "date": "2026-09-18"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BOJ governor Ueda says will continue to tighten policy in response to economic, price developments",
-      "link": "https://investinglive.com/central-banks/boj-governor-ueda-says/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "RaiseMyFunds Scraps Every Prop Trading Rule But One: Instant Funding Up to $400,000",
-      "link": "https://investinglive.com/education/raisemyfunds-scraps-every-prop-trading-rule-but-one-instant-funding-up-to-400-000/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-45/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "UK retail sales unexpectedly rise in August, backed by recovery in department stores, non-store retailers",
-      "link": "https://investinglive.com/news/uk-retail-sales-unexpectedly-rise-in-august-backed-by-recovery-in-department-stores-non-store-retailers/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "FX option expiries for 18 September 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-18-september-10am-new-york-cut/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BOJ press conference preview: Ueda in focus after dovish dissents on 1.25% rate hike",
-      "link": "https://investinglive.com/central-banks/boj-press-conference-preview-ueda-in-focus-after-dovish-dissents-on-1-25-rate-hike/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USD/JPY jumps to 157 after BOJ rate hike as dovish dissents weigh on yen",
-      "link": "https://investinglive.com/forex/usd-jpy-jumps-to-157-after-boj-rate-hike-as-dovish-dissents-weigh-on-yen/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: BoJ hike and RBA hawkish tilt",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-boj-hike-and-rba-hawkish-tilt/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Yen weakens on BoJ hike as two dissents temper hawkish read  Alt headlines:",
-      "link": "https://investinglive.com/central-banks/yen-weakens-on-boj-hike-as-two-dissents-temper-hawkish-read-alt-headlines/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bank of Japan (BOJ) raises policy rate by 25bp, as expected",
-      "link": "https://investinglive.com/central-banks/bank-of-japan-boj-raises-policy-rate-by-25bp-as-expected/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Re Airbus, Pratt & Whitney: French airline has grounded a newly upgraded aircraft",
-      "link": "https://investinglive.com/stocks/re-airbus-pratt-whitney-french-airline-has-grounded-a-newly-upgraded-aircraft/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Goldman keeps $5,400 gold forecast intact despite Fed hike",
-      "link": "https://investinglive.com/commodities/goldman-keeps-5-400-gold-forecast-intact-despite-fed-hike/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "UBS sees two more RBA hikes to 4.85% terminal rate after Bullock's comments",
-      "link": "https://investinglive.com/central-banks/ubs-sees-two-more-rba-hikes-to-4-85-terminal-rate-after-bullock-s-comments/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bullock: RBA weighing whether policy is tight enough as oil pressures build",
-      "link": "https://investinglive.com/central-banks/bullock-rba-weighing-whether-policy-is-tight-enough-as-oil-pressures-build/",
+      "source": "FXStreet",
+      "title": "European Central Bank: One more hike then pause – Rabobank",
+      "link": "https://www.fxstreet.com/news/european-central-bank-one-more-hike-then-pause-rabobank-202609181249",
       "date": "2026-09-18"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Japanese Yen: Dovish BoJ hike keeps Yen vulnerable – ING",
-      "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-keeps-yen-vulnerable-ing-202609180711",
+      "title": "New Zealand Dollar falls as hawkish Fed stance supports US Dollar",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-falls-as-hawkish-fed-stance-supports-us-dollar-202609181243",
       "date": "2026-09-18"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Indian Rupee gets relief from pause in US yields and oil price rally",
+      "title": "Gold eyes weekly gain, but hawkish Fed outlook limits upside",
+      "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Federal Reserve: Further hikes supported by resilient economy – Nordea",
+      "link": "https://www.fxstreet.com/news/federal-reserve-further-hikes-supported-by-resilient-economy-nordea-202609181233",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro trades flat against British Pound as UK Retail Sales beat forecasts",
+      "link": "https://www.fxstreet.com/news/euro-trades-flat-against-british-pound-as-uk-retail-sales-beat-forecasts-202609181233",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Japanese Yen: Cautious BoJ tilt weighs on JPY against US Dollar – BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-cautious-boj-tilt-weighs-on-jpy-against-us-dollar-bbh-202609181210",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: XAG/USD extends recovery above $67.00 as yields fall",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-recovery-above-6700-as-yields-fall-202609181201",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Fresh downside likely if sustain below 1.1455",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-fresh-downside-likely-if-sustain-below-11455-202609181152",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US Dollar: Oil drives Dollar upside risks – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-oil-drives-dollar-upside-risks-ing-202609181142",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "British Pound: BoE holds but inflation risks linger – OCBC",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-holds-but-inflation-risks-linger-ocbc-202609181125",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Indian Rupee gets slight relief as rally in US yields and oil price hits pause",
       "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
       "date": "2026-09-18"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Japanese Yen struggles near two-week low vs USD after BoJ Governor Ueda’s comments",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-near-two-week-low-vs-usd-after-boj-governor-uedas-comments-202609180708",
+      "title": "Australian Dollar strengthens as RBA maintains hawkish stance",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-as-rba-maintains-hawkish-stance-202609181107",
       "date": "2026-09-18"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: Holds gains near 1.4000, bullish signals support upside",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-holds-gains-near-14000-bullish-signals-support-upside-202609180708",
+      "title": "USD/JPY Price Forecast: Yen plummets after BoJ’s policy outcome",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-yen-plummets-after-bojs-policy-outcome-202609181100",
       "date": "2026-09-18"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "British Pound: Downside risk extends toward 1.3300 – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-downside-risk-extends-toward-13300-uob-202609180701",
+      "title": "Swiss Franc consolidates losses weighed by adverse monetary policy divergence",
+      "link": "https://www.fxstreet.com/news/swiss-franc-consolidates-losses-weighed-by-adverse-monetary-policy-divergence-202609181023",
       "date": "2026-09-18"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD rallies to near $66.80 amid correction in oil prices, US yields",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rallies-to-near-6680-amid-correction-in-oil-prices-us-yields-202609180657",
+      "title": "Bank of Japan: Hawkish path with FX doubts – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-hawkish-path-with-fx-doubts-td-securities-202609181002",
       "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro declines against British Pound following UK Retail Sales, German Producer Price data",
-      "link": "https://www.fxstreet.com/news/euro-declines-against-british-pound-following-uk-retail-sales-german-producer-price-data-202609180649",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound languishes at seven-week lows despite bright UK Retail Sales data",
-      "link": "https://www.fxstreet.com/news/british-pound-languishes-at-seven-week-lows-despite-bright-uk-retail-sales-data-202609180639",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Equities: Strong rebound supported by earnings growth – Danske Bank",
-      "link": "https://www.fxstreet.com/news/equities-strong-rebound-supported-by-earnings-growth-danske-bank-202609180639",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Oil: Prices fall as supply risks reassessed – MUFG",
-      "link": "https://www.fxstreet.com/news/oil-prices-fall-as-supply-risks-reassessed-mufg-202609180628",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold advances to fresh weekly top; eyes $$4,400 as softer US bond yields cap USD gains",
-      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-hawkish-fed-and-middle-east-jitters-limit-usd-downside-202609180321",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro: Downtrend extends toward 1.1400 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-downtrend-extends-toward-11400-against-us-dollar-uob-202609180611",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "United Kingdom Retail Sales unexpectedly rise 0.5% MoM in August vs. -0.2% estimates",
-      "link": "https://www.fxstreet.com/news/united-kingdom-retail-sales-unexpectedly-rise-05-mom-in-august-vs-02-estimates-202609180602",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah gains ground as crude oil prices retreat",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-ground-as-crude-oil-prices-retreat-202609180600",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Ueda Speech: BoJ Governor sheds lights policy outlook after the expected interest rate hike",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-is-expected-to-deliver-a-hawkish-hike-pressured-by-rising-inflation-202609172200",
-      "date": "2026-09-17"
     }
   ]
 }
