@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-18",
+  "asof": "2026-09-19",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -84,8 +84,8 @@
     {
       "cur": "GBP",
       "source": "BoE",
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
       "date": "2026-09-17"
     },
     {
@@ -226,6 +226,27 @@
     {
       "cur": "MKT",
       "source": "FXStreet",
+      "title": "Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-mildly-hawkish-cbc-but-flows-drive-ocbc-202609182355",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Taiwan Dollar: CBC holds rates but flags inflation risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-cbc-holds-rates-but-flags-inflation-risks-commerzbank-202609182332",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/south-korean-won-foreign-equity-flows-keep-krw-heavy-against-us-dollar-ocbc-202609182327",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
       "title": "Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank",
       "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-202609182307",
       "date": "2026-09-18"
@@ -305,27 +326,6 @@
       "source": "FXStreet",
       "title": "Silver Price Forecast: Mild bullish bias holds, but trend strength stays weak",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-mild-bullish-bias-holds-but-trend-strength-stays-weak-202609181757",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold reclaims its footing as Oil retreat blunts Fed shock",
-      "link": "https://www.fxstreet.com/news/gold-reclaims-its-footing-as-oil-retreat-blunts-fed-shock-202609181744",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Swiss Franc gains against US Dollar, but Fed-SNB divergence weighs",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-against-us-dollar-but-fed-snb-divergence-weighs-202609181736",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Dollar Index nudges to a fresh high and slips back as Japan raises rates",
-      "link": "https://www.fxstreet.com/news/dollar-index-nudges-to-a-fresh-high-and-slips-back-as-japan-raises-rates-202609181725",
       "date": "2026-09-18"
     }
   ]
