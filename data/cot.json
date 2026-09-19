@@ -1,76 +1,7 @@
 {
-  "asof": "2026-09-15",
+  "asof": "2026-09-19",
   "source": "CFTC Commitments of Traders (Legacy Futures-Only)",
-  "status": "ok",
+  "status": "erro",
   "report": "noncommercial net (large speculators)",
-  "byAsset": {
-    "EURUSD": {
-      "pts": -1,
-      "index": 19
-    },
-    "GBPUSD": {
-      "pts": -1,
-      "index": 19
-    },
-    "AUDUSD": {
-      "pts": -1,
-      "index": 36
-    },
-    "NZDUSD": {
-      "pts": 0,
-      "index": 79
-    },
-    "USDCAD": {
-      "pts": 0,
-      "index": 69
-    },
-    "USDJPY": {
-      "pts": 0,
-      "index": 69
-    },
-    "USDCHF": {
-      "pts": 1,
-      "index": 69
-    },
-    "AUDJPY": {
-      "pts": -1,
-      "index": 36
-    },
-    "NZDJPY": {
-      "pts": 0,
-      "index": 79
-    },
-    "AUDCAD": {
-      "pts": -1,
-      "index": 36
-    },
-    "EURCHF": {
-      "pts": 0,
-      "index": 19
-    },
-    "XAUUSD": {
-      "pts": 1,
-      "index": 65
-    },
-    "XAGUSD": {
-      "pts": -1,
-      "index": 24
-    },
-    "USOIL": {
-      "pts": -1,
-      "index": 31
-    },
-    "US500": {
-      "pts": -1,
-      "index": 39
-    },
-    "USTEC": {
-      "pts": 1,
-      "index": 76
-    },
-    "US30": {
-      "pts": 1,
-      "index": 85
-    }
-  }
+  "byAsset": {}
 }
