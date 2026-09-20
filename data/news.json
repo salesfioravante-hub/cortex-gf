@@ -5,20 +5,6 @@
   "provider": "RSS BC",
   "items": [
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-      "link": "",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "link": "",
-      "date": "2026-09-18"
-    },
-    {
       "cur": "EUR",
       "source": "BCE",
       "title": "ECB Consumer Expectations Survey results – August 2026",
@@ -89,20 +75,6 @@
       "date": "2026-09-17"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve issues FOMC statement",
-      "link": "",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "link": "",
-      "date": "2026-09-16"
-    },
-    {
       "cur": "EUR",
       "source": "BCE",
       "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
@@ -118,6 +90,41 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Weeeknd - Fed's Kashkari says inflation still too high across US economy, not just energy",
+      "link": "https://investinglive.com/central-banks/weeeknd-fed-s-kashkari-says-inflation-still-too-high-across-us-economy-not-just-energy/",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Weekend - Ukraine hits Moscow oil refinery in largest drone attack on the region, diesel in focus",
+      "link": "https://investinglive.com/commodities/ukraine-hits-moscow-oil-refinery-in-largest-drone-attack-on-the-region-diesel-in-focus/",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US military says Hormuz oil and LNG shipments hit six-month high, cite mine clearance",
+      "link": "https://investinglive.com/commodities/us-military-says-hormuz-oil-and-lng-shipments-hit-six-month-high-cite-mine-clearance/",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan market holidays this week raise speculation of intervention to prop up the yen",
+      "link": "https://investinglive.com/forex/japan-market-holidays-this-week-raise-speculation-of-intervention-to-prop-up-the-yen/",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Monday open indicative forex prices, September 21, 2026",
+      "link": "https://investinglive.com/forex/monday-open-indicative-forex-prices-september-21-2026/",
+      "date": "2026-09-20"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -186,41 +193,6 @@
       "source": "ForexLive",
       "title": "EUR/USD remains skewed to the downside as focus shifts to Trump meeting with Gulf leaders",
       "link": "https://investinglive.com/forex/eur-usd-remains-skewed-to-the-downside-as-focus-shifts-to-trump-meeting-with-gulf-leaders/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US industrial production 0.0% versus 0.3% expected",
-      "link": "https://investinglive.com/news/us-industrial-production-0-0-versus-0-3-expected/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "NA Morning TGIF Kickstart Video: USDJPY surges as the BOJ hike disappoints yen buyers",
-      "link": "https://investinglive.com/technical-analysis/na-morning-tgif-kickstart-video-usdjpy-surges-as-the-boj-hike-disappoints-yen-buyers/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European session wrap: Yen slides after BOJ hike as markets stay on edge",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-yen-slides-after-boj-hike-as-markets-stay-on-edge/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "How have interest rate expectations changed after this week's events?",
-      "link": "https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-3/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "This simple ETH technical analysis today shows bulls are still good",
-      "link": "https://investinglive.com/cryptocurrency/this-simple-eth-technical-analysis-today-shows-bulls-are-still-good/",
       "date": "2026-09-18"
     },
     {
