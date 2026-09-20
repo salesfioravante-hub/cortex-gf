@@ -43,28 +43,28 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Change in the Guideline for Money Market Operations",
-      "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf",
       "date": "2026-09-18"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Amendment to \"Principal Terms and Conditions of Complementary Deposit Facility\"",
-      "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918b.pdf",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918b.pdf",
       "date": "2026-09-18"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Amendment to \"Principal Terms and Conditions of the Funds-Supplying Operations to Support Financing for Climate Change Responses\"",
-      "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918a.pdf",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918a.pdf",
       "date": "2026-09-18"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "(Reference) Change in the Guideline for Money Market Operations (September 2026 MPM)",
-      "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918b.pdf",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918b.pdf",
       "date": "2026-09-18"
     },
     {
@@ -118,6 +118,13 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "AI risks are real. So is human ingenuity.",
+      "link": "https://investinglive.com/education/ai-risks-are-real-so-is-human-ingenuity/",
+      "date": "2026-09-20"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -214,13 +221,6 @@
       "source": "ForexLive",
       "title": "This simple ETH technical analysis today shows bulls are still good",
       "link": "https://investinglive.com/cryptocurrency/this-simple-eth-technical-analysis-today-shows-bulls-are-still-good/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold (XAU/USD) extends gains as focus shifts to Trump meeting with Gulf leaders to discuss Iran war",
-      "link": "https://investinglive.com/commodities/gold-xau-usd-extends-gains-as-focus-shifts-to-trump-meeting-with-gulf-leaders-to-discuss-iran-war/",
       "date": "2026-09-18"
     },
     {
