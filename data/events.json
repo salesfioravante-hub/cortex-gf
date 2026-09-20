@@ -7,12 +7,27 @@
     "FRED: 6 releases (EUA) — 2026-09-29 Job Openings and Labor Turnover Survey; 2026-09-30 Gross Domestic Product; 2026-09-30 Gross Domestic Product by Industry; 2026-09-30 Gross Domestic Product by State",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 0 eventos"
+    "ForexFactory: 7 eventos"
   ],
   "byCurrency": {
     "USD": {
       "date": "2026-09-29",
       "title": "Job Openings and Labor Turnover Survey",
+      "forecast": ""
+    },
+    "AUD": {
+      "date": "2026-09-22",
+      "title": "RBA Gov Bullock Speaks",
+      "forecast": ""
+    },
+    "CHF": {
+      "date": "2026-09-24",
+      "title": "SNB Monetary Policy Assessment",
+      "forecast": ""
+    },
+    "GBP": {
+      "date": "2026-09-25",
+      "title": "BOE Gov Bailey Speaks",
       "forecast": ""
     }
   }
