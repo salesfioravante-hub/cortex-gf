@@ -1,9 +1,23 @@
 {
-  "asof": "2026-09-20",
+  "asof": "2026-09-21",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "link": "",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "link": "",
+      "date": "2026-09-18"
+    },
     {
       "cur": "EUR",
       "source": "BCE",
@@ -75,6 +89,20 @@
       "date": "2026-09-17"
     },
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "",
+      "date": "2026-09-16"
+    },
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+      "link": "",
+      "date": "2026-09-16"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
@@ -90,6 +118,62 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Hedge funds turn bullish on yen for first time since July 2025, CFTC data show",
+      "link": "https://investinglive.com/forex/hedge-funds-turn-bullish-on-yen-for-first-time-since-july-2025-cftc-data-show/",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed's first hike since 2023: what history says about the S&P 500 over the next year",
+      "link": "https://investinglive.com/education/fed-s-first-hike-since-2023-what-history-says-about-the-s-p-500-over-the-next-year/",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nvidia CEO Huang rejects AI doomsday fears, says 0% chance of world ending by 2030",
+      "link": "https://investinglive.com/stocks/nvidia-ceo-huang-rejects-ai-doomsday-fears-says-0-chance-of-world-ending-by-2030/",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed, ECB and Japan neutral rate estimates rise: what it means for bonds and borrowers",
+      "link": "https://investinglive.com/education/fed-ecb-and-japan-neutral-rate-estimates-rise-what-it-means-for-bonds-and-borrowers/",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Oil opens higher on Globex as traders weigh Houthi missile attack on Riyadh",
+      "link": "https://investinglive.com/commodities/oil-opens-higher-on-globex-as-traders-weigh-houthi-missile-attack-on-riyadh/",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "China holds loan prime rates for 16th month as Fed hike narrows room to ease",
+      "link": "https://investinglive.com/central-banks/china-holds-loan-prime-rates-for-16th-month-as-fed-hike-narrows-room-to-ease/",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Axios: Trump reportedly presses Zelensky to halt Russian refinery strikes over diesel prices",
+      "link": "https://investinglive.com/commodities/axios-trump-reportedly-presses-zelensky-to-halt-russian-refinery-strikes-over-diesel-prices/",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ECB's Stournaras does not rule out October ECB hike if energy costs or inflation surge",
+      "link": "https://investinglive.com/central-banks/ecb-s-stournaras-does-not-rule-out-october-ecb-hike-if-energy-costs-or-inflation-surge/",
+      "date": "2026-09-20"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -134,65 +218,37 @@
     },
     {
       "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Fed’s Kashkari: Inflation is still too high in “all aspects” of US economy",
+      "link": "https://www.fxstreet.com/news/feds-kashkari-inflation-is-still-too-high-in-all-aspects-of-us-economy-202609202357",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US, China open high-level talks ahead of Trump-Xi summit",
+      "link": "https://www.fxstreet.com/news/us-china-open-high-level-talks-ahead-of-trump-xi-summit-202609202343",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Australian Dollar edges lower as Fed hike bets grow ahead of Trump-Xi summit",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-lower-as-fed-hike-bets-grow-ahead-of-trump-xi-summit-202609202332",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Qatar’s Prime Minister says Gulf states have to act together on Iran",
+      "link": "https://www.fxstreet.com/news/qatars-prime-minister-says-gulf-states-have-to-act-together-on-iran-202609202229",
+      "date": "2026-09-20"
+    },
+    {
+      "cur": "MKT",
       "source": "ForexLive",
       "title": "investingLive Americas market news wrap: Bonds slump again, yen rate check adds intrigue after BOJ",
       "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-bonds-slump-again-yen-rate-check-adds-intrigue-after-boj/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Oil finishes lower as the market sniffs out a TACO",
-      "link": "https://investinglive.com/news/oil-finishes-lower-as-the-market-sniffs-out-a-taco/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Japan conducted an FX rate check earlier - report",
-      "link": "https://investinglive.com/forex/japan-conducted-an-fx-rate-check-earlier-report/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Beware of intervention:  USDJPY retraces earlier gains, but is stalling at a key retracement target.",
-      "link": "https://investinglive.com/forex/beware-of-intervention-usdjpy-retraces-earlier-gains-but-is-stalling-at-a-key-retracement-target/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin technicals: The price breaks above 100/200 hour MAs and buyers overwhelm the sellers.",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-technicals-the-price-breaks-above-100-200-hour-mas-and-buyers-overwhelm-the-sellers/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Kansas City Fed's Schmid: recent data suggest inflation trending above 3%",
-      "link": "https://investinglive.com/central-banks/kansas-city-fed-s-schmid-recent-data-suggest-inflation-trending-above-3/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Nasdaq composite index finds support buyers against the 100/200 hour MAs",
-      "link": "https://investinglive.com/stocks/nasdaq-composite-index-finds-support-buyers-against-the-100-200-hour-mas/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold Tests Crucial Technical Confluence. What Must Buyers and Sellers Do Next?",
-      "link": "https://investinglive.com/technical-analysis/gold-tests-crucial-technical-confluence-what-must-buyers-and-sellers-do-next/",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "EUR/USD remains skewed to the downside as focus shifts to Trump meeting with Gulf leaders",
-      "link": "https://investinglive.com/forex/eur-usd-remains-skewed-to-the-downside-as-focus-shifts-to-trump-meeting-with-gulf-leaders/",
       "date": "2026-09-18"
     },
     {
@@ -270,34 +326,6 @@
       "source": "FXStreet",
       "title": "British Pound: Limited upside after hawkish BoE hold – Scotiabank",
       "link": "https://www.fxstreet.com/news/british-pound-limited-upside-after-hawkish-boe-hold-scotiabank-202609181919",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "10-year Treasury yield rises back to 5% as global tightening wave pushes",
-      "link": "https://www.fxstreet.com/news/us-10-year-back-at-5-as-global-tightening-wave-pushes-202609181903",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Eurozone: Energy shock reshapes outlook – Rabobank",
-      "link": "https://www.fxstreet.com/news/eurozone-energy-shock-reshapes-outlook-rabobank-202609181858",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro: Stabilization after FOMC volatility – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-stabilization-after-fomc-volatility-scotiabank-202609181844",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: Mild bullish bias holds, but trend strength stays weak",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-mild-bullish-bias-holds-but-trend-strength-stays-weak-202609181757",
       "date": "2026-09-18"
     }
   ]
