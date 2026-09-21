@@ -5,6 +5,34 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Eurosystem brings central bank money to tokenised finance",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Bank of England announces new office space in Leeds",
+      "link": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
+      "date": "2026-09-21"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
@@ -75,20 +103,6 @@
       "date": "2026-09-17"
     },
     {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Monetary Policy Committee dates for 2027",
-      "link": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
-      "date": "2026-09-17"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-      "date": "2026-09-17"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve issues FOMC statement",
@@ -101,232 +115,218 @@
       "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
       "link": "",
       "date": "2026-09-16"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260916~7bc58ebef4.en.html",
-      "date": "2026-09-16"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
-      "date": "2026-09-14"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 21 September 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-21-september-10am-new-york-cut/",
+      "title": "Yemen President spoke to Trump but Trump made no pledge of military support",
+      "link": "https://investinglive.com/news/yemen-president-spoke-to-trump-but-trump-made-no-pledge-of-military-support/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China holds its ground as markets eye trade truce ahead of Trump-Xi summit",
-      "link": "https://investinglive.com/news/china-holds-its-ground-as-markets-eye-trade-truce-ahead-of-trump-xi-summit/",
+      "title": "USDCAD buyers get a second shot as 1.4000 support comes into focus",
+      "link": "https://investinglive.com/technical-analysis/usdcad-buyers-get-a-second-shot-as-1-4000-support-comes-into-focus/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Brent crude cools from recent highs, but $100 oil keeps bond markets on edge",
-      "link": "https://investinglive.com/commodities/brent-crude-cools-from-recent-highs-but-100-oil-keeps-bond-markets-on-edge/",
+      "title": "The Indian Rupee's slide pauses ahead of the UN General Assembly as hopes for de-escalation grow",
+      "link": "https://investinglive.com/forex/the-indian-rupee-s-slide-pauses-ahead-of-the-un-general-assembly-as-hopes-for-de-escalation-grow/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Oil gapped higher at open but soon fell",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-gapped-higher-at-open-but-soon-fell/",
+      "title": "Morning Kickstart: Oil slides as Middle East supply fears ease and risk appetite improves",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-oil-slides-as-middle-east-supply-fears-ease-and-risk-appetite-improves/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trump flips twice on Houthi airstrikes after call with Saudi crown prince",
-      "link": "https://investinglive.com/commodities/trump-flips-twice-on-houthi-airstrikes-after-call-with-saudi-crown-prince/",
+      "title": "investingLive European session wrap: Oil extends fall, Bitcoin jumps to highest since January",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-extends-fall-bitcoin-jumps-to-highest-since-january/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ICYMI: JPMorgan says Middle East oil flows holding up despite Saudi pipeline outage",
-      "link": "https://investinglive.com/commodities/icymi-jpmorgan-says-middle-east-oil-flows-holding-up-despite-saudi-pipeline-outage/",
+      "title": "The S&P 500 extends gains as traders fade the FOMC overreaction and hopes for a Middle East de-escalation grow",
+      "link": "https://investinglive.com/stocks/the-s-p-500-extends-gains-as-traders-fade-the-fomc-overreaction-and-hopes-for-a-middle-east-de-escalation-grow/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Blackstone's Gray says India is its best private equity market, nearing a tipping point",
-      "link": "https://investinglive.com/stock-market-update/blackstone-s-gray-says-india-is-its-best-private-equity-market-nearing-a-tipping-point/",
+      "title": "Solana outperforms large-cap cryptocurrencies on positive regulatory developments and ETF inflows",
+      "link": "https://investinglive.com/cryptocurrency/solana-outperforms-large-cap-cryptocurrencies-on-positive-regulatory-developments-and-etf-inflows/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "All four major Australian banks now forecast RBA hike to 4.60% on September 29",
-      "link": "https://investinglive.com/central-banks/all-four-major-australian-banks-now-forecast-rba-hike-to-4-60-on-september-29/",
+      "title": "Fed policymaker Goolsbee warns strong demand may be fueling US inflation as rate hike outlook hardens",
+      "link": "https://investinglive.com/central-banks/fed-policymaker-goolsbee-warns-strong-demand-may-be-fueling-us-inflation-as-rate-hike-outlook-hardens/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US urges Americans to leave Iran as Trump weighs response to Tehran's war-ending terms",
-      "link": "https://investinglive.com/commodities/us-urges-americans-to-leave-iran-as-trump-weighs-response-to-tehran-s-war-ending-terms/",
+      "title": "Crude oil falls on de-escalation hopes as focus shifts to the US General Assembly. What's next?",
+      "link": "https://investinglive.com/commodities/crude-oil-falls-on-de-escalation-hopes-as-focus-shifts-to-the-us-general-assembly-what-s-next/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ICYMI: BofA keeps call for Fed hikes in October and December as spending runs hot",
-      "link": "https://investinglive.com/central-banks/icymi-bofa-keeps-call-for-fed-hikes-in-october-and-december-as-spending-runs-hot/",
+      "title": "USD/JPY intervention risk grows as Japan holiday leaves yen exposed in thin liquidity",
+      "link": "https://investinglive.com/forex/usd-jpy-intervention-risk-grows-as-japan-holiday-leaves-yen-exposed-in-thin-liquidity/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman warns TTF and JKM gas could hit 105 euros and $35 if Gulf LNG stays constrained",
-      "link": "https://investinglive.com/commodities/goldman-warns-ttf-and-jkm-gas-could-hit-105-euros-and-35-if-gulf-lng-stays-constrained/",
+      "title": "Ethereum finally breaks out of the month-long range as CFTC moves forward without Congress",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-finally-breaks-out-of-the-month-long-range-as-cftc-moves-forward-without-congress/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7487 (vs. estimate at 6.6951)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-vs-estimate-at/",
+      "title": "ECB inflation headache could worsen as gas prices feed through faster than before",
+      "link": "https://investinglive.com/central-banks/ecb-inflation-headache-could-worsen-as-gas-prices-feed-through-faster-than-before/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bessent calls US-China talks very successful, Board of Trade operational ahead of summit",
-      "link": "https://investinglive.com/news/bessent-calls-us-china-talks-very-successful-board-of-trade-operational-ahead-of-summit/",
+      "title": "Gold (XAU/USD) analysis: Consolidation ahead of key talks on the Iran war at the UN General Assembly",
+      "link": "https://investinglive.com/commodities/gold-xau-usd-analysis-consolidation-ahead-of-key-talks-on-the-iran-war-at-the-un-general-assembly/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6951 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7-reuters-estimate-9/",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "WTI Price Forecast: Drops to over one-week low, below $94.00 but bullish bias stays intact",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-drops-to-over-one-week-low-below-9400-but-bullish-bias-stays-intact-202609210556",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Iran’s IRGC warns any new strike will prompt Tehran to alter war geography and armaments",
-      "link": "https://www.fxstreet.com/news/irans-irgc-warns-any-new-strike-will-prompt-tehran-to-alter-war-geography-and-armaments-202609210549",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "USD/JPY Price Forecast: Signs of stabilization above 20-day EMA back more upside",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-signs-of-stabilization-above-20-day-ema-back-more-upside-202609210547",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "GBP/USD Price Forecast: Declines below 1.3400 as bearish momentum persists below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-declines-below-13400-as-bearish-momentum-persists-below-100-day-sma-202609210542",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold drifts lower as Fed hike bets and geopolitics lift USD ahead of Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-fed-hike-bets-and-geopolitics-lift-usd-ahead-of-trump-xi-summit-202609210536",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Indian Rupee starts positive as oil prices fall further",
-      "link": "https://www.fxstreet.com/news/indian-rupee-starts-positive-as-oil-prices-fall-further-202609210526",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US President Donald Trump says was ready to strike Houthis in Yemen, then pulled back",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-was-ready-to-strike-houthis-in-yemen-then-pulled-back-202609210508",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Indonesian Rupiah declines as US Dollar remains stronger amid hawkish Fed tone",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-as-us-dollar-remains-stronger-amid-hawkish-fed-tone-202609210504",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609210444",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro flatlines against Japanese Yen as intervention risks rise",
-      "link": "https://www.fxstreet.com/news/euro-flatlines-against-japanese-yen-as-intervention-risks-rise-202609210428",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro stays defensive vs USD amid geopolitical risks as traders await Lagarde's speech",
-      "link": "https://www.fxstreet.com/news/euro-stays-defensive-vs-usd-amid-geopolitical-risks-as-traders-await-lagardes-speech-202609210355",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Swiss Franc weakens as US Dollar gain support on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-gain-support-on-hawkish-fed-outlook-202609210346",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD consolidates near $66.35 at the start of the week",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-near-6635-at-the-start-of-the-week-202609210328",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "United States Dollar Index holds firm on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-firm-on-hawkish-fed-outlook-202609210317",
-      "date": "2026-09-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "AUD/USD Price Forecast: Holds comfortably above 0.7100 as bulls await Trump-Xi meeting",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-comfortably-above-07100-as-bulls-await-trump-xi-meeting-202609210309",
+      "title": "Market outlook for the week of 21st-25th September",
+      "link": "https://investinglive.com/forex/market-outlook-for-the-week-of-21st-25th-september/",
       "date": "2026-09-21"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Hedge funds turn bullish on yen for first time since July 2025, CFTC data show",
-      "link": "https://investinglive.com/forex/hedge-funds-turn-bullish-on-yen-for-first-time-since-july-2025-cftc-data-show/",
-      "date": "2026-09-20"
+      "title": "European stock market open: Stocks rally as oil retreats and US futures climb",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-rally-as-oil-retreats-and-us-futures-climb/",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro steadies vs British Pound as German political uncertainty, PMIs cap direction",
+      "link": "https://www.fxstreet.com/news/euro-steadies-vs-british-pound-as-german-political-uncertainty-pmis-cap-direction-202609211342",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Indian Rupee: AI imports add pressure against US Dollar – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/indian-rupee-ai-imports-add-pressure-against-us-dollar-standard-chartered-202609211339",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Gold: CTA whipsaws but support holds – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-cta-whipsaws-but-support-holds-td-securities-202609211314",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Gold struggles for direction as traders weigh Fed outlook and falling Oil prices",
+      "link": "https://www.fxstreet.com/news/gold-starts-week-on-the-back-foot-as-us-dollar-holds-firm-oil-decline-limits-losses-202609211110",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Canadian Dollar remains under pressure as hawkish Fed contrasts with steady BoC",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-as-hawkish-fed-contrasts-with-steady-boc-202609211253",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US Dollar: Oil-driven support as Fed seen hiking – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-oil-driven-support-as-fed-seen-hiking-ing-202609211248",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Japanese Yen: BoJ hike underwhelms as yields drive JPY against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hike-underwhelms-as-yields-drive-jpy-against-us-dollar-ocbc-202609211222",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Experts agree: Further US Dollar’s upside hinges on upcoming data and not hawkish Fed prospects",
+      "link": "https://www.fxstreet.com/news/experts-agree-further-us-dollars-upside-hinges-on-upcoming-data-and-not-hawkish-fed-prospects-202609211209",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Silver price edges up as lower Oil, guarded Fed stance temper upside",
+      "link": "https://www.fxstreet.com/news/silver-price-edges-up-as-lower-oil-guarded-fed-stance-temper-upside-202609211158",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecasts: Bears remain in control with 1.1450 support eyed",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecasts-bears-remain-in-control-with-11450-support-eyed-202609211158",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Mexican Peso: Sideways range against US Dollar intact – Rabobank",
+      "link": "https://www.fxstreet.com/news/mexican-peso-sideways-range-against-us-dollar-intact-rabobank-202609211151",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "GBP/JPY Price Forecast: Momentum stabilizes, but lacks bullish conviction",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-momentum-stabilizes-but-lacks-bullish-conviction-202609211150",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Brent: Diesel signals higher prices – Societe Generale",
+      "link": "https://www.fxstreet.com/news/brent-diesel-signals-higher-prices-societe-generale-202609211130",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "New Zealand Dollar wavers near two-month lows despite a brighter market mood",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-wavers-near-two-month-lows-despite-a-brighter-market-mood-202609211118",
+      "date": "2026-09-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Gold: Range-bound outlook with Fed headwinds – ING",
+      "link": "https://www.fxstreet.com/news/gold-range-bound-outlook-with-fed-headwinds-ing-202609211116",
+      "date": "2026-09-21"
     }
   ]
 }
