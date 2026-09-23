@@ -121,6 +121,55 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "AUD is the biggest mover vs the USD at -1.02%.  What next technically?",
+      "link": "https://investinglive.com/technical-analysis/aud-is-the-biggest-mover-vs-the-usd-at-1-02-what-next-technically/",
+      "date": "2026-09-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas market news wrap: Strong US services PMI leads to a big breakdown in bonds",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-strong-us-services-pmi-leads-to-a-big-breakdown-in-bonds/",
+      "date": "2026-09-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Big breakout: US 10-year yields up 16 basis points to the highest since 2007",
+      "link": "https://investinglive.com/forex/big-breakout-us-10-year-yields-up-16-basis-points-to-the-highest-since-2007/",
+      "date": "2026-09-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "White House denies report saying it's considering a diesel export ban",
+      "link": "https://investinglive.com/commodities/white-house-denies-report-saying-it-s-considering-a-diesel-export-ban/",
+      "date": "2026-09-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin pulls back as US yields surge. Are the buyers still in control?",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-pulls-back-as-us-yields-surge-are-the-buyers-still-in-control/",
+      "date": "2026-09-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US treasury sells $70 billion of 5 year notes at a high yield of 5.033%",
+      "link": "https://investinglive.com/news/us-treasury-sells-70-billion-of-5-year-notes-at-a-high-yield-of-5-033/",
+      "date": "2026-09-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US yields move to multi year highs as the wall of worry is growing.",
+      "link": "https://investinglive.com/news/us-yields-move-to-multi-year-highs-as-the-wall-of-worry-is-growing/",
+      "date": "2026-09-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "European stocks close lower as rising yields weigh on markets",
       "link": "https://investinglive.com/stocks/european-stocks-close-lower-as-rising-yields-weigh-on-markets/",
       "date": "2026-09-23"
@@ -176,51 +225,37 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Morning Kickstart: Dollar rises across the board as stocks retreat",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-rises-across-the-board-as-stocks-retreat/",
+      "source": "FXStreet",
+      "title": "USD/CHF Price Forecast: Bulls retake control, eye 0.8300 break",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-retake-control-eye-08300-break-202609231936",
       "date": "2026-09-23"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European session wrap: Brent crude retakes $100 as dollar rises, yields climb and stocks slip",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-brent-crude-retakes-100-as-dollar-rises-yields-climb-and-stocks-slip/",
+      "source": "FXStreet",
+      "title": "Gold buckles as 5% yields and Fed hawks take control",
+      "link": "https://www.fxstreet.com/news/gold-buckles-as-5-yields-and-fed-hawks-take-control-202609231837",
       "date": "2026-09-23"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "As Pokémon cards sell for millions, are collectibles an investment bubble or a new frontier?",
-      "link": "https://investinglive.com/education/as-pokemon-cards-sell-for-millions-are-collectibles-an-investment-bubble-or-a-new-frontier/",
+      "source": "FXStreet",
+      "title": "Silver Price Forecast: Fed hawks knock XAG/USD toward $64 support",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-fed-hawks-knock-xag-usd-toward-64-support-202609231823",
       "date": "2026-09-23"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold falls back to the major $4,300 support ahead of key US data as traders await new US-Iran developments",
-      "link": "https://investinglive.com/commodities/gold-falls-back-to-the-major-4-300-support-ahead-of-key-us-data-as-traders-await-new-us-iran-developments/",
+      "source": "FXStreet",
+      "title": "Forex Today: Australia’s jobs report comes to the fore",
+      "link": "https://www.fxstreet.com/news/forex-today-australias-jobs-report-comes-to-the-fore-202609231809",
       "date": "2026-09-23"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Ethereum pulls back into a key trendline as risk sentiment takes a hit after Trump's remarks on Iran",
-      "link": "https://investinglive.com/cryptocurrency/ethereum-pulls-back-into-a-key-trendline-as-risk-sentiment-takes-a-hit-after-trump-s-remarks-on-iran/",
-      "date": "2026-09-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "AI rally defies 5% Treasury yields, but stocks may be closer to the limit than they look",
-      "link": "https://investinglive.com/stocks/ai-rally-defies-5-treasury-yields-but-stocks-may-be-closer-to-the-limit-than-they-look/",
-      "date": "2026-09-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The selloff in oil prices stalls as Trump pours cold water on expectations of an earlier end to the conflict",
-      "link": "https://investinglive.com/commodities/the-selloff-in-oil-prices-stalls-as-trump-pours-cold-water-on-expectations-of-an-earlier-end-to-the-conflict/",
+      "source": "FXStreet",
+      "title": "Japanese Yen declines as upbeat US PMI lifts the US Dollar and yields",
+      "link": "https://www.fxstreet.com/news/japanese-yen-declines-as-upbeat-us-pmi-lifts-the-us-dollar-yields-202609231808",
       "date": "2026-09-23"
     },
     {
@@ -291,41 +326,6 @@
       "source": "FXStreet",
       "title": "Fed's Barr: Further rate hikes needed for timely return to 2% inflation",
       "link": "https://www.fxstreet.com/news/feds-barr-further-rate-hikes-needed-for-timely-return-to-2-inflation-202609231443",
-      "date": "2026-09-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Australian Dollar tumbles amid stronger US PMIs, softer Australian data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-amid-stronger-us-pmis-softer-australian-data-202609231440",
-      "date": "2026-09-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "WTI: Headline risk rises as positioning stays elevated - TD Securities",
-      "link": "https://www.fxstreet.com/news/wti-headline-risk-rises-as-positioning-stays-elevated-td-securities-202609231432",
-      "date": "2026-09-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "India: Russian dependence and security focus – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/india-russian-dependence-and-security-focus-standard-chartered-202609231409",
-      "date": "2026-09-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Breaking: US S&P Global Composite PMI came in at 58.4 in September",
-      "link": "https://www.fxstreet.com/news/sp-global-pmis-expected-to-show-resilient-us-economic-growth-in-september-202609230845",
-      "date": "2026-09-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canadian Dollar: Bearish trend targets 1.4125 – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bearish-trend-targets-14125-scotiabank-202609231346",
       "date": "2026-09-23"
     }
   ]
