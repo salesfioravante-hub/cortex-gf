@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-22",
+  "asof": "2026-09-23",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,6 +121,69 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6971 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6971-reuters-estimate/",
+      "date": "2026-09-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "WTI slumps to near $89.00 as markets weigh Trump’s UN speech",
+      "link": "https://www.fxstreet.com/news/wti-slumps-to-near-8900-as-markets-weigh-trumps-un-speech-202609230012",
+      "date": "2026-09-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Apollo caps private credit fund withdrawals again, but redemption queue starts to shrink",
+      "link": "https://investinglive.com/stock-market-update/apollo-caps-private-credit-fund-withdrawals-again-but-redemption-queue-starts-to-shrink/",
+      "date": "2026-09-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump weighs a US diesel export ban: how it would work and why analysts are wary",
+      "link": "https://investinglive.com/commodities/trump-weighs-a-us-diesel-export-ban-how-it-would-work-and-why-analysts-are-wary/",
+      "date": "2026-09-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Australia flash PMI: growth slows to Q3 low as factories contract and firms cut jobs",
+      "link": "https://investinglive.com/news/australia-flash-pmi-growth-slows-to-q3-low-as-factories-contract-and-firms-cut-jobs/",
+      "date": "2026-09-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Canada's Big Six banks explore tokenized deposits: what it is and what it isn't",
+      "link": "https://investinglive.com/cryptocurrency/canada-s-big-six-banks-explore-tokenized-deposits-what-it-is-and-what-it-isn-t/",
+      "date": "2026-09-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ECB says China's industrial rise is squeezing German manufacturers out of global markets",
+      "link": "https://investinglive.com/news/ecb-says-china-s-industrial-rise-is-squeezing-german-manufacturers-out-of-global-markets/",
+      "date": "2026-09-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "BlackRock Ethereum ETF buying slows by a third in a week, even as ETH rallies",
+      "link": "https://investinglive.com/cryptocurrency/blackrock-ethereum-etf-buying-slows-by-a-third-in-a-week-even-as-eth-rallies/",
+      "date": "2026-09-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Crypto open interest jumped as $650m of shorts were squeezed: where the data comes from",
+      "link": "https://investinglive.com/education/crypto-open-interest-jumped-as-650m-of-shorts-were-squeezed-where-the-data-comes-from/",
+      "date": "2026-09-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Recap: Oil settles lower as Saudi flows recover and US, Iran hold talks",
       "link": "https://investinglive.com/commodities/recap-oil-settles-lower-as-saudi-flows-recover-and-us-iran-hold-talks/",
       "date": "2026-09-22"
@@ -169,58 +232,58 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Recap: US and Iran meet in New York on UNGA sidelines, Hormuz conditions on the table",
-      "link": "https://investinglive.com/commodities/recap-us-and-iran-meet-in-new-york-on-unga-sidelines-hormuz-conditions-on-the-table/",
+      "source": "FXStreet",
+      "title": "Explosion heard near Iran’s Qeshm Island",
+      "link": "https://www.fxstreet.com/news/explosion-heard-near-irans-qeshm-island-202609222337",
       "date": "2026-09-22"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trader education: Risking a little to make more than a little",
-      "link": "https://investinglive.com/education/trader-education-risking-a-little-to-make-more-than-a-little/",
+      "source": "FXStreet",
+      "title": "Gold recovers above $4,350 on US–Iran diplomacy hopes",
+      "link": "https://www.fxstreet.com/news/gold-recovers-above-4-350-on-us-iran-diplomacy-hopes-202609222322",
       "date": "2026-09-22"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trading Education: USDJPY consolidates in a pennant: The next break should provide the trading clue",
-      "link": "https://investinglive.com/education/trading-education-usdjpy-consolidates-in-a-pennant-the-next-break-should-provide-the-trading-clue/",
+      "source": "FXStreet",
+      "title": "49.3: Australia’s S&P Global Manufacturing PMI declines in September",
+      "link": "https://www.fxstreet.com/news/493-australias-sp-global-manufacturing-pmi-declines-in-september-202609222301",
       "date": "2026-09-22"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump and Bessent talk about a diesel export ban. Also says spoke with Iran for 3 hours",
-      "link": "https://investinglive.com/commodities/trump-and-bessent-talk-about-a-diesel-export-ban-also-says-spoke-with-iran-for-3-hours/",
+      "source": "FXStreet",
+      "title": "The New Zealand Dollar dips to a new low and bounces as Crude Oil gets cheaper",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-dips-to-a-new-low-and-bounces-as-crude-oil-gets-cheaper-202609222254",
       "date": "2026-09-22"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Barkin says he thinks the hiking cycle could be like the Greenspan \"mid-cycle adjustment\"",
-      "link": "https://investinglive.com/central-banks/fed-s-barkin-says-he-thinks-the-hiking-cycle-could-be-like-the-greenspan-mid-cycle-adjustment/",
+      "source": "FXStreet",
+      "title": "Australian Dollar remains subdued as Fed and RBA hawks collide",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-subdued-as-fed-and-rba-hawks-collide-202609222249",
       "date": "2026-09-22"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USDCAD buyers remain in control as price tests 1.4080 resistance",
-      "link": "https://investinglive.com/forex/usdcad-buyers-remain-in-control-as-price-tests-1-4080-resistance/",
+      "source": "FXStreet",
+      "title": "The Japanese Yen spikes and unwinds as Iran offers to reopen Hormuz",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-spikes-and-unwinds-as-iran-offers-to-reopen-hormuz-202609222245",
       "date": "2026-09-22"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US treasury sells $69 billion of two-year notes at a high yield of 4.787%",
-      "link": "https://investinglive.com/news/us-treasury-sells-69-billion-of-two-year-notes-at-a-high-yield-of-4-787/",
+      "source": "FXStreet",
+      "title": "The Euro drops to its lowest since July as the Dollar keeps climbing",
+      "link": "https://www.fxstreet.com/news/the-euro-drops-to-its-lowest-since-july-as-the-dollar-keeps-climbing-202609222219",
       "date": "2026-09-22"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Richmond Fed’s Barkin says inflation risks outweighed employment risks in last week’s rate hike",
-      "link": "https://investinglive.com/central-banks/richmond-fed-s-barkin-says-inflation-risks-outweighed-employment-risks-in-last-week-s-rate-hike/",
+      "source": "FXStreet",
+      "title": "The British Pound sets a new September low as Fed officials argue for more",
+      "link": "https://www.fxstreet.com/news/the-british-pound-sets-a-new-september-low-as-fed-officials-argue-for-more-202609222204",
       "date": "2026-09-22"
     },
     {
@@ -263,69 +326,6 @@
       "source": "FXStreet",
       "title": "South Korean Won: Export surge supports BoK stance – Commerzbank",
       "link": "https://www.fxstreet.com/news/south-korean-won-export-surge-supports-bok-stance-commerzbank-202609222026",
-      "date": "2026-09-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Taiwan Dollar: Equity inflows support TWD againt US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-equity-inflows-support-twd-againt-us-dollar-ocbc-202609221951",
-      "date": "2026-09-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold losses altitude as peace hopes meet hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/gold-losses-altitude-as-peace-hopes-meet-hawkish-fed-bets-202609221936",
-      "date": "2026-09-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Asia FX: AI-driven support for regional currencies – MUFG",
-      "link": "https://www.fxstreet.com/news/asia-fx-ai-driven-support-for-regional-currencies-mufg-202609221917",
-      "date": "2026-09-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Forex Today: Advanced PMIs in the limelight, but what about the UN General Assembly?",
-      "link": "https://www.fxstreet.com/news/forex-today-advanced-pmis-in-the-limelight-but-what-about-the-un-general-assembly-202609221854",
-      "date": "2026-09-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Chinese Yuan: Gradual decline within tight bands – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-decline-within-tight-bands-uob-202609221839",
-      "date": "2026-09-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "WTI extends decline as Trump signals progress in talks with Iran",
-      "link": "https://www.fxstreet.com/news/wti-extends-decline-as-trump-signals-progress-in-talks-with-iran-202609221825",
-      "date": "2026-09-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Trump signals diplomatic push on Ukraine and Iran as diesel ban looms",
-      "link": "https://www.fxstreet.com/news/trump-signals-diplomatic-push-on-ukraine-and-iran-as-diesel-ban-looms-202609221809",
-      "date": "2026-09-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "South Korean Won: Export surge supports KRW recovery – OCBC",
-      "link": "https://www.fxstreet.com/news/south-korean-won-export-surge-supports-krw-recovery-ocbc-202609221759",
-      "date": "2026-09-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Dollar Index pushes higher on the case for another Fed increase",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-pushes-higher-on-the-case-for-another-fed-increase-202609221759",
       "date": "2026-09-22"
     }
   ]
