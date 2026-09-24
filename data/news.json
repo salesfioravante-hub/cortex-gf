@@ -7,6 +7,13 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "Philip R. Lane: The outlook for the euro area economy",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
       "date": "2026-09-23"
@@ -37,13 +44,6 @@
       "source": "Fed",
       "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
       "link": "",
-      "date": "2026-09-22"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Philip R. Lane: Interview with Le Temps",
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
       "date": "2026-09-22"
     },
     {
@@ -91,13 +91,6 @@
     {
       "cur": "JPY",
       "source": "BoJ",
-      "title": "Change in the Guideline for Money Market Operations",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
       "title": "Amendment to \"Principal Terms and Conditions of Complementary Deposit Facility\"",
       "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918b.pdf",
       "date": "2026-09-18"
@@ -107,6 +100,13 @@
       "source": "BoJ",
       "title": "Amendment to \"Principal Terms and Conditions of the Funds-Supplying Operations to Support Financing for Climate Change Responses\"",
       "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918a.pdf",
+      "date": "2026-09-18"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "(Reference) Change in the Guideline for Money Market Operations (September 2026 MPM)",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918b.pdf",
       "date": "2026-09-18"
     },
     {
@@ -121,212 +121,212 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Fed policymaker Williams says another rate hike this year is \"reasonable\" as inflation is the main obstacle",
+      "link": "https://investinglive.com/central-banks/fed-williams/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Zcash rises to new highs on first European ETP, but erases gains as oil prices and rate hike bets bite",
+      "link": "https://investinglive.com/cryptocurrency/zcash-rises-to-new-highs-on-first-european-etp-but-erases-gains-as-oil-prices-and-rate-hike-bets-bite/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Germany business sentiment improves further in September despite price concerns - Ifo",
+      "link": "https://investinglive.com/news/germany-business-sentiment-improves-further-in-september-despite-price-concerns-ifo/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "SNB leaves policy rate unchanged at 0% in September meeting, as widely expected",
+      "link": "https://investinglive.com/central-banks/snb-leaves-policy-rate-unchanged-at-0-in-september-meeting-as-widely-expected/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "European stock market open: Stocks open lower as surging bond yields weigh on risk sentiment",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-open-lower-as-surging-bond-yields-weigh-on-risk-sentiment/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Why strong economic data isn't always good for the stock market",
+      "link": "https://investinglive.com/education/why-strong-economic-data-isn-t-always-good-for-the-stock-market/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "France confidence stays weak in September as inflation pressures cloud the outlook",
+      "link": "https://investinglive.com/news/france-confidence-stays-weak-in-september-as-inflation-pressures-cloud-the-outlook/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "USD/JPY races to three-week high above 158 as buyers eye a technical break higher",
+      "link": "https://investinglive.com/forex/usd-jpy-races-to-three-week-high-above-158-as-buyers-eye-a-technical-break-higher/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-49/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "SNB preview: Why Switzerland is still worrying about deflation while the world fights inflation",
+      "link": "https://investinglive.com/central-banks/snb-preview-why-switzerland-is-still-worrying-about-deflation-while-the-world-fights-inflation/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FX option expiries for 24 September 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-24-september-10am-new-york-cut/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "How to trade Nasdaq today: Three areas worth watching while you wait for opportunity",
+      "link": "https://investinglive.com/technical-analysis/how-to-trade-nasdaq-today-three-areas-worth-watching-while-you-wait-for-opportunity/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Thin Strait of Hormuz traffic shows why oil’s risk premium is proving sticky",
+      "link": "https://investinglive.com/commodities/thin-strait-of-hormuz-traffic-shows-why-oil-s-risk-premium-is-proving-sticky/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Brent crude above $100 and 10-year Treasury yields above 5% give markets a double test",
+      "link": "https://investinglive.com/news/brent-crude-above-100-and-10-year-treasury-yields-above-5-give-markets-a-double-test/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "India's Nifty 50 slipped almost 1% in pre-open trade",
       "link": "https://investinglive.com/stocks/india-s-nifty-50-slipped-almost-1-in-pre-open-trade/",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Xi lands for Trump summit",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-xi-lands-for-trump-summit/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "From 500 jets to salvage mode: Boeing's China hopes shrink ahead of summit",
-      "link": "https://investinglive.com/stocks/from-500-jets-to-salvage-mode-boeing-s-china-hopes-shrink-ahead-of-summit/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Google readies Gemini 4 launch as it seeks to regain ground in the AI model race",
-      "link": "https://investinglive.com/stocks/google-readies-gemini-4-launch-as-it-seeks-to-regain-ground-in-the-ai-model-race/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "AUD little changed: Australia jobless rate hits 4.6%, highest since 2021, participation outpaces jobs beat",
-      "link": "https://investinglive.com/news/aud-little-changed-australia-jobless-rate-hits-4-6-highest-since-2021-participation-outpaces-jobs-beat/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Australian jobs data for August 2026. Unemployment rate 4.6% (expected 4.5%, prior 4.5%)",
-      "link": "https://investinglive.com/news/australian-jobs-data-for-august-2026-unemployment-rate-4-6-expected-4-5-prior-4-5/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Heads up: China markets shut Friday for Mid-Autumn Festival, with week-long Golden Week break ahead",
-      "link": "https://investinglive.com/news/heads-up-china-markets-shut-friday-for-mid-autumn-festival-with-week-long-golden-week-break-ahead/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7489 vs. estimate at 6.7184)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7489-vs-estimate-at-6-7184/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Japan flash PMI: growth slows to four-month low as price pressures stay intense",
-      "link": "https://investinglive.com/news/japan-flash-pmi-growth-slows-to-four-month-low-as-price-pressures-stay-intense/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bangladesh orders 11 more Boeing jets as Dhaka courts US to ease tariff risk",
-      "link": "https://investinglive.com/stocks/bangladesh-orders-11-more-boeing-jets-as-dhaka-courts-us-to-ease-tariff-risk/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Explainer: why Japan may trim bond supply as scarcity in the JGB market eases",
-      "link": "https://investinglive.com/education/explainer-why-japan-may-trim-bond-supply-as-scarcity-in-the-jgb-market-eases/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7184 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7184-reuters-estimate/",
+      "source": "FXStreet",
+      "title": "PBoC vows to maintain loose monetary policy, keep Chinese Yuan stable",
+      "link": "https://www.fxstreet.com/news/pboc-vows-to-maintain-loose-monetary-policy-keep-chinese-yuan-stable-202609240946",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "New Zealand Dollar consolidates around 0.5675 vs USD as bears await Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-consolidates-around-05675-vs-usd-as-bears-await-trump-xi-summit-202609240408",
+      "title": "Euro: Downside risks start to shrink against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-start-to-shrink-against-us-dollar-ing-202609240942",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "EUR/JPY Price Forecast: Softens below 180.00, bearish bias persists below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-softens-below-18000-bearish-bias-persists-below-100-day-sma-202609240407",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609240930",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Gold struggles below $4,300, one-week low as Fed hike bets and Iran risks underpin USD",
-      "link": "https://www.fxstreet.com/news/gold-struggles-below-4-300-one-week-low-as-fed-hike-bets-and-iran-risks-underpin-usd-202609240351",
+      "title": "US Dollar: Higher yields support currency – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-support-currency-mufg-202609240928",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Canadian Dollar holds steady amid oil uncertainties, hawkish Fed sentiment",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-steady-amid-oil-uncertainties-hawkish-fed-sentiment-202609240324",
+      "title": "Euro jumps vs Swiss Franc after SNB decision, German IFO data supports",
+      "link": "https://www.fxstreet.com/news/euro-jumps-vs-swiss-franc-after-snb-decision-german-ifo-data-supports-202609240928",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "United States Dollar Index holds gains slightly above 101 amid strong US growth prospects",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-gains-slightly-above-101-amid-strong-us-growth-prospects-202609240324",
+      "title": "Indian Rupee declines significantly due to oil price recovery, surging US yields",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-regain-ground-202609240538",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD falls to near $64.00 amid rising Fed rate hike odds",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6400-amid-rising-fed-rate-hike-odds-202609240305",
+      "title": "United States Dollar Index gains ahead of weekly Initial Jobless Claims data",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gains-ahead-of-weekly-initial-jobless-claims-data-202609240919",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Japanese Yen gathers strength amid surging 10-year JGB yields",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gathers-strength-amid-surging-10-year-jgb-yields-202609240216",
+      "title": "Brazilian Real: Exchange rate seen weaker into year-end – Rabobank",
+      "link": "https://www.fxstreet.com/news/brazilian-real-exchange-rate-seen-weaker-into-year-end-rabobank-202609240915",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Australian Dollar declines against Japanese Yen following mixed jobs data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-against-japanese-yen-following-mixed-jobs-data-202609240204",
+      "title": "Euro holds form against British Pound amid strong Eurozone data, hawkish BoE comments",
+      "link": "https://www.fxstreet.com/news/euro-holds-form-against-british-pound-amid-strong-eurozone-data-hawkish-boe-comments-202609240909",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Japan’s Katayama: Principles on FX established since coordinated intervention remain in effect",
-      "link": "https://www.fxstreet.com/news/japans-katayama-principles-on-fx-established-since-coordinated-intervention-remain-in-effect-202609240153",
+      "title": "EUR/USD comes under pressure as Fed’s Williams warns of more interest rate hikes",
+      "link": "https://www.fxstreet.com/news/eur-usd-comes-under-pressure-as-feds-williams-warns-of-more-interest-rate-hikes-202609240908",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Australian Dollar hangs near August 7 low after weak jobs data, ahead of Trump-Xi summit",
-      "link": "https://www.fxstreet.com/news/australian-dollar-hangs-near-august-7-low-after-weak-jobs-data-ahead-of-trump-xi-summit-202609240145",
+      "title": "Swiss Franc: SNB intervention bias dialed down – Societe Generale",
+      "link": "https://www.fxstreet.com/news/swiss-franc-snb-intervention-bias-dialed-down-societe-generale-202609240902",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "WTI slips below $91.00 despite rising US-Iran friction",
-      "link": "https://www.fxstreet.com/news/wti-slips-below-9100-despite-rising-us-iran-friction-202609240129",
+      "title": "Euro gains against Canadian Dollar on upbeat German IFO Business Index",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-on-upbeat-german-ifo-business-index-202609240846",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "British Pound bears retain control near July lows amid Fed-BoE divergence",
-      "link": "https://www.fxstreet.com/news/british-pound-bears-retain-control-near-july-lows-amid-fed-boe-divergence-202609240118",
+      "title": "Silver Price Forecast: XAG/USD plummets to near $63.60 after Fed Williams’ hawkish remarks",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plummets-to-near-6360-after-fed-williams-hawkish-remarks-202609240846",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "PBOC sets USD/CNY reference rate at 6.7489 vs. 6.7468 previous",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67489-vs-67468-previous-202609240115",
+      "title": "South African Rand: SARB hikes again but environment stays tough – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-african-rand-sarb-hikes-again-but-environment-stays-tough-commerzbank-202609240844",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro weakens below 1.1400 as Fed rate hike expectations reinforce US Dollar strength",
-      "link": "https://www.fxstreet.com/news/euro-weakens-below-11400-as-fed-rate-hike-expectations-reinforce-us-dollar-strength-202609240057",
+      "title": "Euro: Fiscal risks point lower against US Dollar - MUFG",
+      "link": "https://www.fxstreet.com/news/euro-fiscal-risks-point-lower-against-us-dollar-mufg-202609240833",
       "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US weighs joint ventures to push dollar stablecoins overseas, Bloomberg reports",
-      "link": "https://investinglive.com/cryptocurrency/us-weighs-joint-ventures-to-push-dollar-stablecoins-overseas-bloomberg-reports/",
-      "date": "2026-09-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Anthropic's Claude uncovers CRISPR-like enzyme system after scanning 200,000 enzymes",
-      "link": "https://investinglive.com/stocks/anthropic-s-claude-uncovers-crispr-like-enzyme-system-after-scanning-200-000-enzymes/",
-      "date": "2026-09-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ICYMI: Goldman trims end-2026 gold forecast to $4,650 but holds $5,400 target for 2027",
-      "link": "https://investinglive.com/commodities/icymi-goldman-trims-end-2026-gold-forecast-to-4-650-but-holds-5-400-target-for-2027/",
-      "date": "2026-09-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Australia’s Unemployment Rate rises to 4.6% in August, vs 4.5% expected",
-      "link": "https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-remain-unchanged-at-45-in-august-202609232130",
-      "date": "2026-09-23"
     }
   ]
 }
