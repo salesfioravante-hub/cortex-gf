@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "link": "",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+      "link": "",
+      "date": "2026-09-24"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
@@ -75,13 +89,6 @@
       "date": "2026-09-18"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-      "link": "",
-      "date": "2026-09-18"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
@@ -108,16 +115,51 @@
       "title": "(Reference) Change in the Guideline for Money Market Operations (September 2026 MPM)",
       "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918b.pdf",
       "date": "2026-09-18"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve issues FOMC statement",
-      "link": "",
-      "date": "2026-09-16"
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "USDCAD moves up to topside swing area resistance and finds willing sellers",
+      "link": "https://investinglive.com/technical-analysis/usdcad-moves-up-to-topside-swing-area-resistance-and-finds-willing-sellers/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US treasury sells $44 billion of 7 year notes at a high yield of 5.085%",
+      "link": "https://investinglive.com/news/us-treasury-sells-44-billion-of-7-year-notes-at-a-high-yield-of-5-085/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "S&P, Nasdaq Composite, Nasdaq 100 erase declines",
+      "link": "https://investinglive.com/stocks/s-p-nasdaq-composite-nasdaq-100-erase-declines/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US/Iran discussed phasing in a deal to reopen Hormuz and end the US blockade",
+      "link": "https://investinglive.com/news/us-iran-discussed-phasing-in-a-deal-to-reopen-hormuz-and-end-the-us-blockade/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin trades lower but holds support near the high of a swing area target. What next?",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-trades-lower-but-holds-support-near-the-high-of-a-swing-area-target-what-next/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Broader US stock indices are pushing to the downside with each testing support targets",
+      "link": "https://investinglive.com/stocks/broader-us-stock-indices-are-pushing-to-the-downside-with-each-testing-support-targets/",
+      "date": "2026-09-24"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -183,149 +225,107 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Canada retail sales for the month of July -0.7% vs -0.8% estimate",
-      "link": "https://investinglive.com/news/canada-retail-sales-for-the-month-of-july-0-7-vs-0-8-estimate/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US initial jobless claims 197K vs 201K expected",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-197k-vs-201k-expected/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Morning Kickstart: Dollar rises as global bond yields pressure stocks ahead of Trump–Xi talks",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-rises-as-global-bond-yields-pressure-stocks-ahead-of-trump-xi-talks/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Silver falls back to the key $63 support as real yields surge amid rising oil prices and strong US PMIs",
-      "link": "https://investinglive.com/commodities/silver-falls-back-to-the-key-63-support-as-real-yields-surge-amid-rising-oil-prices-and-strong-us-pmis/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European session wrap: Higher oil prices, bond yields continue to pressure markets",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-higher-oil-prices-bond-yields-continue-to-pressure-markets/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Nasdaq risks erasing all post-FOMC gains amid increasing oil prices and Fed rate hike bets",
-      "link": "https://investinglive.com/stocks/nasdaq-risks-erasing-all-post-fomc-gains-amid-increasing-oil-prices-and-fed-rate-hike-bets/",
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Inflation keeps MAS cautious – Commerzbank",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-inflation-keeps-mas-cautious-commerzbank-202609241838",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Dollar: Fed resilience supports gains – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-resilience-supports-gains-bbh-202609241448",
+      "title": "Forex Today: Fedspeak takes centre stage",
+      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-takes-centre-stage-202609241832",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Fed's Paulson warns more hikes possible as inflation fight hardens",
-      "link": "https://www.fxstreet.com/news/feds-paulson-warns-more-hikes-possible-as-inflation-fight-hardens-202609241447",
+      "title": "Japanese Yen struggles as Fed rate hike bets drive US yields higher",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-fed-rate-hike-bets-drive-us-yields-higher-202609241803",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Gold bears tighten their grip as Fed rate hike bets rise",
+      "title": "Swiss Franc: SNB on hold keeps upside in crosses – BBH",
+      "link": "https://www.fxstreet.com/news/swiss-franc-snb-on-hold-keeps-upside-in-crosses-bbh-202609241758",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro: Decline nears support zone against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-decline-nears-support-zone-against-us-dollar-scotiabank-202609241721",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US-Iran talks eye phased Hormuz deal, but leverage stalls progress – Reuters",
+      "link": "https://www.fxstreet.com/news/us-iran-talks-eye-phased-hormuz-deal-but-leverage-stalls-progress-202609241651",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "British Pound four-day slide deepens as US yields fuel US Dollar rally",
+      "link": "https://www.fxstreet.com/news/british-pound-four-day-slide-deepens-as-us-yields-fuel-us-dollar-rally-202609241639",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average tests fresh lows as long bond yields climb",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-tests-fresh-lows-as-long-bond-yields-climb-202609241638",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "New Zealand Dollar remains under pressure, RBNZ rate hike bets cushion losses",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-under-pressure-rbnz-rate-hike-bets-cushion-losses-202609241608",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Gold hits one-week low as hawkish Fed outlook drives yields to multi-year highs",
       "link": "https://www.fxstreet.com/news/gold-bears-tighten-their-grip-as-fed-rate-hike-bets-rise-202609241054",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro hovers near two-month low as hawkish Fed outlook weighs",
-      "link": "https://www.fxstreet.com/news/euro-hovers-near-two-month-low-as-hawkish-fed-outlook-weighs-202609241424",
+      "title": "Europe: Rightward risks build – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/europe-rightward-risks-build-standard-chartered-202609241528",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Australian Dollar remains under pressure despite stronger-than-expected jobs data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-under-pressure-despite-stronger-than-expected-jobs-data-202609241422",
+      "title": "Canadian Dollar falls to two-month low as higher US yields outweigh Oil support",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-two-month-low-as-higher-us-yields-outweigh-oil-support-202609241528",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "“You can’t wait too long”: BoE’s Breeden warns on rate hikes amid energy shock",
-      "link": "https://www.fxstreet.com/news/you-cant-wait-too-long-boes-breeden-warns-on-rate-hikes-amid-energy-shock-202609241418",
+      "title": "Germany: Resilient but modest recovery – Commerzbank",
+      "link": "https://www.fxstreet.com/news/germany-resilient-but-modest-recovery-commerzbank-202609241519",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro: Weak as Fed credibility supports Dollar near term – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-weak-as-fed-credibility-supports-dollar-near-term-commerzbank-202609241415",
+      "title": "Xi pitches cooperation, friendship, and fairness amid overhanging trade war truce",
+      "link": "https://www.fxstreet.com/news/xi-pitches-cooperation-friendship-and-fairness-amid-overhanging-trade-war-truce-202609241516",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Canada: Revised demographics reshape growth view – RBC",
-      "link": "https://www.fxstreet.com/news/canada-revised-demographics-reshape-growth-view-rbc-202609241355",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Fed’s Hammack warns persistent inflation could make return to target harder",
-      "link": "https://www.fxstreet.com/news/feds-hammack-warns-persistent-inflation-could-make-return-to-target-harder-202609241323",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Germany: Cyclical resilience versus structural risks – ING",
-      "link": "https://www.fxstreet.com/news/germany-cyclical-resilience-versus-structural-risks-ing-202609241322",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "USD/CHF Price Forecast: RSI nears overbought territory as bulls remain in control",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rsi-nears-overbought-territory-as-bulls-remain-in-control-202609241302",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro: Downside risks for EUR against US Dollar – Rabobank",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-for-eur-against-us-dollar-rabobank-202609241255",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Silver price falls as Fed hawkish outlook drives US yields higher",
-      "link": "https://www.fxstreet.com/news/silver-price-falls-as-fed-hawkish-outlook-drives-us-yields-higher-202609241245",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Swedish Krona: Riksbank hawkish hold backs currency – BBH",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-hawkish-hold-backs-currency-bbh-202609241237",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Initial Jobless Claims dropped to 197K last week",
-      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-197k-last-week-202609241235",
+      "title": "United States: Bifurcated revival with advanced sectors – ING",
+      "link": "https://www.fxstreet.com/news/united-states-bifurcated-revival-with-advanced-sectors-ing-202609241505",
       "date": "2026-09-24"
     }
   ]
