@@ -121,6 +121,76 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Trump will meet with Xi again in November",
+      "link": "https://investinglive.com/news/trump-will-meet-with-xi-again-in-november/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Plan for your new trading week ahead in the forex with a technical look at some of the major pairs",
+      "link": "https://investinglive.com/forex/kickstart-your-new-trading-week-ahead-in-the-forex-with-a-technical-look-at-some-of-the-major-pairs/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Crude oil breaks below short-term support. Can sellers keep control?",
+      "link": "https://investinglive.com/commodities/crude-oil-breaks-below-short-term-support-can-sellers-keep-control/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Tehran describes talks atmosphere as increasingly positive - report",
+      "link": "https://investinglive.com/news/tehran-describes-talks-atmosphere-as-increasingly-positive-report/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Xi: US-China relationship will be one of strategic stability based on respect, fairness and reciprocity",
+      "link": "https://investinglive.com/news/xi-us-china-relationship-will-be-one-of-strategic-stability-based-on-respect-fairness-and-reciprocity/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin continues to hold support near key swing area.",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-continues-to-hold-support-near-key-swing-area/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US stocks opened higher but is giving up gains. What levels should you eye going forward?",
+      "link": "https://investinglive.com/stocks/us-stocks-opened-higher-but-is-giving-up-gains-what-levels-should-you-eye-going-forward/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "USD/JPY falls as US and Japanese officials say yen weakness \"a matter of concern\"",
+      "link": "https://investinglive.com/forex/usd-jpy-falls-as-us-and-japanese-officials-say-yen-weakness-a-matter-of-concern/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "September final UMich consumer sentiment 48.1 vs 47.6 expected",
+      "link": "https://investinglive.com/news/september-final-umich-consumer-sentiment-48-1-vs-47-6-expected/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "AUDUSD breaks below the 200 day MA for the first time since November 2025, but cannot sustain downside momentum",
+      "link": "https://investinglive.com/technical-analysis/audusd-breaks-below-the-200-day-ma-for-the-first-time-since-november-2025-but-cannot-sustain-downside-momentum/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "USTR's Greer: We have reached agreements with China on a sub-set of goods we can trade",
       "link": "https://investinglive.com/news/ustr-s-greer-we-have-reached-agreements-with-china-on-a-sub-set-of-goods-we-can-trade/",
       "date": "2026-09-25"
@@ -155,177 +225,107 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "How have interest rate expectations changed after this week's events?",
-      "link": "https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-4/",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Month-end FX flows point to yen and pound selling, euro buying – BofA",
-      "link": "https://investinglive.com/orders/month-end-fx-flows-point-to-yen-and-pound-selling-euro-buying-bofa/",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Williams: Persistent supply shocks are making the inflation fight harder",
-      "link": "https://investinglive.com/central-banks/fed-s-williams-persistent-supply-shocks-are-making-the-inflation-fight-harder/",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil falls on reports of potential phased US-Iran deal that would reopen the Strait of Hormuz",
-      "link": "https://investinglive.com/commodities/crude-oil-falls-on-reports-of-potential-phased-us-iran-deal-that-would-reopen-the-strait-of-hormuz/",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USD/JPY falls below 158.00 as Takaichi says Trump flagged weak yen pressure",
-      "link": "https://investinglive.com/forex/usd-jpy-falls-below-158-00-as-takaichi-says-trump-flagged-weak-yen-pressure/",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Ethereum struggles amid macro headwinds, but renewed US-Iran hopes limit the downside",
-      "link": "https://investinglive.com/cryptocurrency/ethereum-struggles-amid-macro-headwinds-but-renewed-us-iran-hopes-limit-the-downside/",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Europe wants finance on the blockchain, but it also wants the euro at the centre of it",
-      "link": "https://investinglive.com/cryptocurrency/europe-wants-finance-on-the-blockchain-but-it-also-wants-the-euro-at-the-centre-of-it/",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold (XAU/USD) analysis: Renewed hopes for US-Iran deal avert a collapse. What to watch?",
-      "link": "https://investinglive.com/commodities/gold-xau-usd-analysis-renewed-hopes-for-us-iran-deal-avert-a-collapse-what-to-watch/",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Why did crypto surge?",
-      "link": "https://investinglive.com/education/why-did-crypto-surge/",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USD/JPY falls back toward 158.00 as yen intervention risk threatens bullish breakout",
-      "link": "https://investinglive.com/forex/usd-jpy-falls-back-toward-158-00-as-yen-intervention-risk-threatens-bullish-breakout/",
+      "source": "FXStreet",
+      "title": "Asian FX: Higher yields and Oil weigh – OCBC",
+      "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
       "date": "2026-09-25"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Canadian Dollar set for second weekly decline despite pullback in US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-set-for-second-weekly-decline-despite-pullback-in-us-dollar-202609251331",
+      "title": "Fed’s Hammack warns inflation mindset is the biggest risk",
+      "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
       "date": "2026-09-25"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Indian Rupee: RBI interventions cap losses against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-interventions-cap-losses-against-us-dollar-societe-generale-202609251316",
+      "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-lacks-direction-as-rsi-adx-signal-weak-momentum-202609251805",
       "date": "2026-09-25"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Dollar: Back-end yields support USD consolidation – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-back-end-yields-support-usd-consolidation-ing-202609251305",
+      "title": "Gold finds a pulse as WTI slump takes the edge off US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-finds-a-pulse-as-wti-slump-takes-the-edge-off-us-dollar-202609251758",
       "date": "2026-09-25"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Japanese Yen: Range-bound against US Dollar as intervention risk looms – BBH",
-      "link": "https://www.fxstreet.com/news/japanese-yen-range-bound-against-us-dollar-as-intervention-risk-looms-bbh-202609251252",
+      "title": "Swiss Franc remains under pressure as Fed-SNB interest rate gap widens",
+      "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-as-fed-snb-interest-rate-gap-widens-202609251743",
       "date": "2026-09-25"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Gold finds support as US Dollar and yields ease, weekly loss still in sight",
+      "title": "Swiss Franc: Further losses seem capped against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-further-losses-seem-capped-against-us-dollar-uob-202609251738",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "New Zealand Dollar holds steady as US Dollar retreats",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-as-us-dollar-retreats-202609251658",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average bounces on Iran's latest Hormuz offer",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-bounces-on-irans-latest-hormuz-offer-202609251628",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "British Pound finds relief as USD pauses, but inflation risks linger",
+      "link": "https://www.fxstreet.com/news/british-pound-finds-relief-as-usd-pauses-but-inflation-risks-linger-202609251536",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Canadian Dollar: Undervalued near 1.41 against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-undervalued-near-141-against-us-dollar-scotiabank-202609251514",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Gold struggles below $4,300, heads for weekly decline on hawkish Fed outlook",
       "link": "https://www.fxstreet.com/news/gold-gains-as-us-dollar-and-yields-pause-but-weekly-loss-remains-in-sight-202609251106",
       "date": "2026-09-25"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Australian Dollar: Weakness may extend toward 0.6970 against US Dollar - UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakness-may-extend-toward-06970-against-us-dollar-uob-202609251234",
+      "title": "Euro: Correction seen near key averages against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/euro-correction-seen-near-key-averages-against-us-dollar-societe-generale-202609251501",
       "date": "2026-09-25"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Swedish Krona: Riksbank facing delayed inflation rebound – Commerzbank",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-facing-delayed-inflation-rebound-commerzbank-202609251223",
+      "title": "Euro set for third weekly decline as hawkish Federal Reserve outlook weighs",
+      "link": "https://www.fxstreet.com/news/euro-set-for-third-weekly-decline-as-hawkish-federal-reserve-outlook-weighs-202609251451",
       "date": "2026-09-25"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "EUR/GBP Price Forecast: Bulls challenge 0.8600 resistance after weeks of consolidation",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-bulls-challenge-08600-resistance-after-weeks-of-consolidation-202609251216",
+      "title": "Australian Dollar: RBA hike expectations shape outlook – ING",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-expectations-shape-outlook-ing-202609251433",
       "date": "2026-09-25"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "CEE FX: Regional currencies weaken against Euro on policy risks - Societe Generale",
-      "link": "https://www.fxstreet.com/news/cee-fx-regional-currencies-weaken-against-euro-on-policy-risks-societe-generale-202609251207",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen extends recovery as Tokyo officials defend BoJ independence",
-      "link": "https://www.fxstreet.com/news/japanese-yen-extends-recovery-as-tokyo-officials-defend-boj-independence-202609251157",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro: France spreads weigh on EUR – ING",
-      "link": "https://www.fxstreet.com/news/euro-france-spreads-weigh-on-eur-ing-202609251149",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Dollar: Rate differentials support but upside constrained – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-rate-differentials-support-but-upside-constrained-bbh-202609251139",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Indian Rupee gets cushioned by RBI’s likely intervention on Friday",
-      "link": "https://www.fxstreet.com/news/indian-rupee-cushioned-by-rbis-likely-intervention-outlook-remain-fragile-202609250528",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD reclaims $65 as rally in bond yields, US Dollar hits pause",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-reclaims-65-as-rally-in-bond-yields-us-dollar-hits-pause-202609251116",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound: Risk of test of 1.3140 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-risk-of-test-of-13140-against-us-dollar-uob-202609251115",
+      "title": "US Dollar: Yields support Greenback strength – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-yields-support-greenback-strength-ocbc-202609251417",
       "date": "2026-09-25"
     }
   ]
