@@ -1,9 +1,16 @@
 {
-  "asof": "2026-09-24",
+  "asof": "2026-09-25",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Bank of Japan Accounts (September 20)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260920.htm",
+      "date": "2026-09-25"
+    },
     {
       "cur": "USD",
       "source": "Fed",
@@ -30,6 +37,13 @@
       "source": "BCE",
       "title": "Philip R. Lane: The outlook for the euro area economy",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Results of BIS International Locational Banking Statistics and International Consolidated Banking Statistics in Japan",
+      "link": "http://www.boj.or.jp/en/statistics/bis/ibs/index.htm",
       "date": "2026-09-24"
     },
     {
@@ -101,23 +115,93 @@
       "title": "Amendment to \"Principal Terms and Conditions of Complementary Deposit Facility\"",
       "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918b.pdf",
       "date": "2026-09-18"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Amendment to \"Principal Terms and Conditions of the Funds-Supplying Operations to Support Financing for Climate Change Responses\"",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918a.pdf",
-      "date": "2026-09-18"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(Reference) Change in the Guideline for Money Market Operations (September 2026 MPM)",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918b.pdf",
-      "date": "2026-09-18"
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Goldman cuts USD/JPY forecasts, sees 150 in a year as BOJ tightening boosts yen case",
+      "link": "https://investinglive.com/forex/goldman-cuts-usd-jpy-forecasts-sees-150-in-a-year-as-boj-tightening-boosts-yen-case/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Tokenised deposits, stablecoins and CBDCs: three kinds of digital money explained",
+      "link": "https://investinglive.com/education/tokenised-deposits-stablecoins-and-cbdcs-three-kinds-of-digital-money-explained/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitget loses $351.6 million to hackers, so why is BGB barely flinching? Follow up.",
+      "link": "https://investinglive.com/cryptocurrency/bitget-loses-351-6-million-to-hackers-so-why-is-bgb-barely-flinching-follow-up/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Daiwa sees next BOJ rate hike in December as Ueda signals shift in policy phase",
+      "link": "https://investinglive.com/central-banks/daiwa-sees-next-boj-rate-hike-in-december-as-ueda-signals-shift-in-policy-phase/",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "WTI drops to near $92.50 on potential US-Iran deal",
+      "link": "https://www.fxstreet.com/news/wti-drops-to-near-9250-on-potential-us-iran-deal-202609250106",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "China's President Xi says Beijing and US should seek new ways for major countries to coexist",
+      "link": "https://www.fxstreet.com/news/chinas-president-xi-says-beijing-and-us-should-seek-new-ways-for-major-countries-to-coexist-202609250023",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Saudi Civil Defence issues warning over possible threat in Jazan",
+      "link": "https://www.fxstreet.com/news/saudi-civil-defence-issues-warning-over-possible-threat-in-jazan-202609250006",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US 30-year Treasury yield nears 5.5%, highest since 2004, as global bond rout deepens",
+      "link": "https://investinglive.com/stock-market-update/us-30-year-treasury-yield-nears-5-5-highest-since-2004-as-global-bond-rout-deepens/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Morgan Stanley says it's time to look beyond chips as AI benefits spread to Airbnb, Home Depot and more",
+      "link": "https://investinglive.com/stocks/morgan-stanley-says-it-s-time-to-look-beyond-chips-as-ai-benefits-spread-to-airbnb-home-depot-and-more/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump, Johnson to meet tech CEOs on AI September 29 as pressure to regulate builds",
+      "link": "https://investinglive.com/stocks/trump-johnson-to-meet-tech-ceos-on-ai-september-29-as-pressure-to-regulate-builds/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Hackers drain $351.6 million from Bitget in possibly 2026's biggest crypto heist",
+      "link": "https://investinglive.com/cryptocurrency/hackers-drain-351-6-million-from-bitget-in-possibly-2026-s-biggest-crypto-heist/",
+      "date": "2026-09-24"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "China shuts for Mid-Autumn Festival holiday today, a preview of the week-long National Day gap to come",
+      "link": "https://investinglive.com/news/china-shuts-for-mid-autumn-festival-holiday-today-a-preview-of-the-week-long-national-day-gap-to-come/",
+      "date": "2026-09-24"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -162,65 +246,44 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US stocks finish mixed as Meta’s Muse rally helps mask the losers.",
-      "link": "https://investinglive.com/stocks/us-stocks-finish-mixed-as-meta-s-muse-rally-helps-mask-the-losers/",
+      "source": "FXStreet",
+      "title": "Iran’s President says US ‘must choose’ whether to end war",
+      "link": "https://www.fxstreet.com/news/irans-president-says-us-must-choose-whether-to-end-war-202609242353",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Sticky core inflation pushes RBA towards its highest cash rate since 2011",
-      "link": "https://investinglive.com/central-banks/sticky-core-inflation-pushes-rba-towards-its-highest-cash-rate-since-2011/",
+      "source": "FXStreet",
+      "title": "Gold declines below $4,300 as rising oil prices and hawkish Fed stance dampen appeal",
+      "link": "https://www.fxstreet.com/news/gold-declines-below-4-300-as-rising-oil-prices-and-hawkish-fed-stance-dampen-appeal-202609242323",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Iran’s Pezeshkian wants a deal with the US before the midterm elections, NBC reports",
-      "link": "https://investinglive.com/news/iran-s-pezeshkian-wants-a-deal-with-the-us-before-the-midterm-elections-nbc-reports-4/",
+      "source": "FXStreet",
+      "title": "Japanese Yen keeps sliding as Tokyo repeats its warning and holds fire",
+      "link": "https://www.fxstreet.com/news/japanese-yen-keeps-sliding-as-tokyo-repeats-its-warning-and-holds-fire-202609242300",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Meta shares approach all-time highs as the Muse rally begins yet another leg higher",
-      "link": "https://investinglive.com/education/meta-shares-approach-all-time-highs-as-the-muse-rally-begins-yet-another-leg-higher/",
+      "source": "FXStreet",
+      "title": "Australian Dollar tests 200-day SMA amid soaring US yields",
+      "link": "https://www.fxstreet.com/news/australian-dollar-tests-200-day-sma-amid-soaring-us-yields-202609242255",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USDCAD moves up to topside swing area resistance and finds willing sellers",
-      "link": "https://investinglive.com/technical-analysis/usdcad-moves-up-to-topside-swing-area-resistance-and-finds-willing-sellers/",
+      "source": "FXStreet",
+      "title": "Mexican Peso : Range view with downside risks against US Dollar – Rabobank",
+      "link": "https://www.fxstreet.com/news/mexican-peso-range-view-with-downside-risks-against-us-dollar-rabobank-202609242239",
       "date": "2026-09-24"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US treasury sells $44 billion of 7 year notes at a high yield of 5.085%",
-      "link": "https://investinglive.com/news/us-treasury-sells-44-billion-of-7-year-notes-at-a-high-yield-of-5-085/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "S&P, Nasdaq Composite, Nasdaq 100 erase declines",
-      "link": "https://investinglive.com/stocks/s-p-nasdaq-composite-nasdaq-100-erase-declines/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US/Iran discussed phasing in a deal to reopen Hormuz and end the US blockade",
-      "link": "https://investinglive.com/news/us-iran-discussed-phasing-in-a-deal-to-reopen-hormuz-and-end-the-us-blockade/",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin trades lower but holds support near the high of a swing area target. What next?",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-trades-lower-but-holds-support-near-the-high-of-a-swing-area-target-what-next/",
+      "source": "FXStreet",
+      "title": "New Zealand Dollar grinds lower as US bond yields climb to new highs",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-grinds-lower-as-us-bond-yields-climb-to-new-highs-202609242230",
       "date": "2026-09-24"
     },
     {
@@ -263,69 +326,6 @@
       "source": "FXStreet",
       "title": "Mexican Peso slides to April lows as Banxico shrugs off Fed gap",
       "link": "https://www.fxstreet.com/news/mexican-peso-slides-to-april-lows-as-banxico-shrugs-off-fed-gap-202609242012",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Banxico unanimously holds benchmark rate at 6.50%",
-      "link": "https://www.fxstreet.com/news/banxico-holds-rates-unchanged-at-650-unanimously-202609241901",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Dollar Index extends its winning streak as Fed speakers line up behind hikes",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-extends-its-winning-streak-as-fed-speakers-line-up-behind-hikes-202609241904",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Singapore Dollar: Inflation keeps MAS cautious – Commerzbank",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-inflation-keeps-mas-cautious-commerzbank-202609241838",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Forex Today: Fedspeak takes centre stage",
-      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-takes-centre-stage-202609241832",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen struggles as Fed rate hike bets drive US yields higher",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-fed-rate-hike-bets-drive-us-yields-higher-202609241803",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Swiss Franc: SNB on hold keeps upside in crosses – BBH",
-      "link": "https://www.fxstreet.com/news/swiss-franc-snb-on-hold-keeps-upside-in-crosses-bbh-202609241758",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro: Decline nears support zone against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-decline-nears-support-zone-against-us-dollar-scotiabank-202609241721",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US-Iran talks eye phased Hormuz deal, but leverage stalls progress – Reuters",
-      "link": "https://www.fxstreet.com/news/us-iran-talks-eye-phased-hormuz-deal-but-leverage-stalls-progress-202609241651",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound four-day slide deepens as US yields fuel US Dollar rally",
-      "link": "https://www.fxstreet.com/news/british-pound-four-day-slide-deepens-as-us-yields-fuel-us-dollar-rally-202609241639",
       "date": "2026-09-24"
     }
   ]
