@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "link": "",
+      "date": "2026-09-25"
+    },
+    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
@@ -108,16 +115,16 @@
       "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
       "date": "2026-09-21"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "link": "",
-      "date": "2026-09-18"
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas market news wrap: Iran hopes spring eternal",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-iran-hopes-spring-eternal/",
+      "date": "2026-09-25"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -218,9 +225,58 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Massive crypto options expiries settle today: how they can impact the market?",
-      "link": "https://investinglive.com/education/massive-crypto-options-expiries-settle-today-how-they-impact-the-market/",
+      "source": "FXStreet",
+      "title": "South Korean Won: Export strength supports KRW – Societe Generale",
+      "link": "https://www.fxstreet.com/news/south-korean-won-export-strength-supports-krw-societe-generale-202609252141",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Chinese Yuan: Consolidation with downside risk toward 6.7330 – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-consolidation-with-downside-risk-toward-67330-uob-202609252056",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US Treasury yields rise as 30-year bond hits 22-year high",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "South Korean Won: Trade surplus seen widening – ING",
+      "link": "https://www.fxstreet.com/news/south-korean-won-trade-surplus-seen-widening-ing-202609252012",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Chinese Yuan: PBoC keeps yuan broadly stable – Societe Generale",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-keeps-yuan-broadly-stable-societe-generale-202609251931",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
+      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-still-isnt-restrictive-despite-high-inflation-202609251900",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854",
+      "date": "2026-09-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "ECB’s Vujcic warns energy shock could keep inflation hot",
+      "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834",
       "date": "2026-09-25"
     },
     {
@@ -270,62 +326,6 @@
       "source": "FXStreet",
       "title": "New Zealand Dollar holds steady as US Dollar retreats",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-as-us-dollar-retreats-202609251658",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Dow Jones Industrial Average bounces on Iran's latest Hormuz offer",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-bounces-on-irans-latest-hormuz-offer-202609251628",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound finds relief as USD pauses, but inflation risks linger",
-      "link": "https://www.fxstreet.com/news/british-pound-finds-relief-as-usd-pauses-but-inflation-risks-linger-202609251536",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canadian Dollar: Undervalued near 1.41 against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-undervalued-near-141-against-us-dollar-scotiabank-202609251514",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold struggles below $4,300, heads for weekly decline on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/gold-gains-as-us-dollar-and-yields-pause-but-weekly-loss-remains-in-sight-202609251106",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro: Correction seen near key averages against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/euro-correction-seen-near-key-averages-against-us-dollar-societe-generale-202609251501",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro set for third weekly decline as hawkish Federal Reserve outlook weighs",
-      "link": "https://www.fxstreet.com/news/euro-set-for-third-weekly-decline-as-hawkish-federal-reserve-outlook-weighs-202609251451",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Australian Dollar: RBA hike expectations shape outlook – ING",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-expectations-shape-outlook-ing-202609251433",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Dollar: Yields support Greenback strength – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-yields-support-greenback-strength-ocbc-202609251417",
       "date": "2026-09-25"
     }
   ]
