@@ -1,9 +1,23 @@
 {
-  "asof": "2026-09-27",
+  "asof": "2026-09-28",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
+      "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260731.pdf",
+      "date": "2026-09-27"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Services Producer Price Index (Aug.)",
+      "link": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2608.pdf",
+      "date": "2026-09-27"
+    },
     {
       "cur": "USD",
       "source": "Fed",
@@ -30,20 +44,6 @@
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260918.xlsx",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(BOJ Review)The Expansion and Diversification of Private Credit Funds",
-      "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e13.htm",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(BOJ Review) Granular Insights into Depositor Dynamics and Deposit Spreads in Japanese G-SIBs' Foreign Currency Deposits",
-      "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e12.htm",
       "date": "2026-09-25"
     },
     {
@@ -121,6 +121,104 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7399 (vs. estimate at 6.7085)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7399-vs-estimate-at-6-7085/",
+      "date": "2026-09-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold breaks key support, slides below $4,230 as danger zone gives way",
+      "link": "https://investinglive.com/commodities/gold-breaks-key-support-slides-below-4-230-as-danger-zone-gives-way/",
+      "date": "2026-09-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan services producer prices rise 3.7% in August, fastest pace in over two years",
+      "link": "https://investinglive.com/central-banks/japan-services-producer-prices-rise-3-7-in-august-fastest-pace-in-over-two-years/",
+      "date": "2026-09-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "OpenAI agents used aggressive techniques (\"borderline hacking\") to reach U.N. data site, report find",
+      "link": "https://investinglive.com/stocks/openai-agents-used-aggressive-techniques-borderline-hacking-to-reach-u-n-data-site-report-find/",
+      "date": "2026-09-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7085 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7085-reuters-estimate/",
+      "date": "2026-09-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "BOJ minutes show dissent for faster hikes as price risks skew higher",
+      "link": "https://investinglive.com/central-banks/boj-minutes-show-dissent-for-faster-hikes-as-price-risks-skew-higher/",
+      "date": "2026-09-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "British Pound gains as US Dollar weakens despite hawkish Fed, geopolitical tensions",
+      "link": "https://www.fxstreet.com/news/british-pound-gains-as-us-dollar-weakens-despite-hawkish-fed-geopolitical-tensions-202609280119",
+      "date": "2026-09-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "PBOC sets USD/CNY reference rate at 6.7399 vs. 6.7489 previous",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67399-vs-67489-previous-202609280115",
+      "date": "2026-09-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Japanese Yen drifts lower vs bullish USD after BoJ Minutes as intervention risks loom",
+      "link": "https://www.fxstreet.com/news/japanese-yen-drifts-lower-vs-bullish-usd-after-boj-minutes-as-intervention-risks-loom-202609280110",
+      "date": "2026-09-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro declines below 1.1400 on hawkish Fed stance, ongoing Middle East tensions",
+      "link": "https://www.fxstreet.com/news/euro-declines-below-11400-on-hawkish-fed-stance-ongoing-middle-east-tensions-202609280053",
+      "date": "2026-09-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "US President Donald Trump says he will not rule out more Iran strikes",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-he-will-not-rule-out-more-iran-strikes-202609280019",
+      "date": "2026-09-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "SNB's Schlegel says Switzerland in comfortable spot on inflation",
+      "link": "https://investinglive.com/central-banks/snb-s-schlegel-says-switzerland-in-comfortable-spot-on-inflation/",
+      "date": "2026-09-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Anthropic CEO Amodei to attend White House dinner with Trump amid AI tensions",
+      "link": "https://investinglive.com/stocks/anthropic-ceo-amodei-to-attend-white-house-dinner-with-trump-amid-ai-tensions/",
+      "date": "2026-09-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold slips as oil holds gains on Hormuz standoff and inflation risk",
+      "link": "https://investinglive.com/commodities/gold-slips-as-oil-holds-gains-on-hormuz-standoff-and-inflation-risk/",
+      "date": "2026-09-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Tether's $84 million question: whose money did the US actually seize?",
       "link": "https://investinglive.com/cryptocurrency/tether-s-84-million-question-whose-money-did-the-us-actually-seize/",
       "date": "2026-09-27"
@@ -162,37 +260,16 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Apollo's Slok warns AI agents could trigger a bank run (\"agentic bank run\" is still a run ...)",
-      "link": "https://investinglive.com/stocks/apollo-s-slok-warns-ai-agents-could-trigger-a-bank-run-agentic-bank-run-is-still-a-run/",
+      "source": "FXStreet",
+      "title": "BoJ Minutes: Members agree financial conditions remain accommodative",
+      "link": "https://www.fxstreet.com/news/boj-minutes-members-agree-financial-conditions-remain-accommodative-202609272353",
       "date": "2026-09-27"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US bank failures in 2026, 6 now. California seizes Nano Banc.",
-      "link": "https://investinglive.com/stock-market-update/us-bank-failures-in-2026-6-now-california-seizes-nano-banc/",
-      "date": "2026-09-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "China may let Alibaba, ByteDance buy new Nvidia chips, The Information reports",
-      "link": "https://investinglive.com/stocks/china-may-let-alibaba-bytedance-buy-new-nvidia-chips-the-information-reports/",
-      "date": "2026-09-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Monday open indicative forex prices, September 28, 2026",
-      "link": "https://investinglive.com/forex/monday-open-indicative-forex-prices-september-28-2026/",
-      "date": "2026-09-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Iran holds line on diplomacy as Hormuz missile strike raises risk before open",
-      "link": "https://investinglive.com/commodities/iran-holds-line-on-diplomacy-as-hormuz-missile-strike-raises-risk-before-open/",
+      "source": "FXStreet",
+      "title": "Australian Dollar softens to near 0.7000 on hawkish Fed signals, RBA rate decision looms",
+      "link": "https://www.fxstreet.com/news/australian-dollar-softens-to-near-07000-on-hawkish-fed-signals-rba-rate-decision-looms-202609272323",
       "date": "2026-09-27"
     },
     {
@@ -201,34 +278,6 @@
       "title": "Middle East War updates: Trump says he expects renewed Iran talks this week",
       "link": "https://www.fxstreet.com/news/middle-east-war-updates-trump-says-he-expects-renewed-iran-talks-this-week-202609272231",
       "date": "2026-09-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Americas market news wrap: Iran hopes spring eternal",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-iran-hopes-spring-eternal/",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump will meet with Xi again in November",
-      "link": "https://investinglive.com/news/trump-will-meet-with-xi-again-in-november/",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Plan for your new trading week ahead in the forex with a technical look at some of the major pairs",
-      "link": "https://investinglive.com/forex/kickstart-your-new-trading-week-ahead-in-the-forex-with-a-technical-look-at-some-of-the-major-pairs/",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil breaks below short-term support. Can sellers keep control?",
-      "link": "https://investinglive.com/commodities/crude-oil-breaks-below-short-term-support-can-sellers-keep-control/",
-      "date": "2026-09-25"
     },
     {
       "cur": "MKT",
@@ -277,55 +326,6 @@
       "source": "FXStreet",
       "title": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "ECB’s Vujcic warns energy shock could keep inflation hot",
-      "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Asian FX: Higher yields and Oil weigh – OCBC",
-      "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Fed’s Hammack warns inflation mindset is the biggest risk",
-      "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-lacks-direction-as-rsi-adx-signal-weak-momentum-202609251805",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold finds a pulse as WTI slump takes the edge off US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-finds-a-pulse-as-wti-slump-takes-the-edge-off-us-dollar-202609251758",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Swiss Franc remains under pressure as Fed-SNB interest rate gap widens",
-      "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-as-fed-snb-interest-rate-gap-widens-202609251743",
-      "date": "2026-09-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Swiss Franc: Further losses seem capped against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-further-losses-seem-capped-against-us-dollar-uob-202609251738",
       "date": "2026-09-25"
     }
   ]
