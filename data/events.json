@@ -4,21 +4,21 @@
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 6 releases (EUA) — 2026-09-29 Job Openings and Labor Turnover Survey; 2026-09-30 Gross Domestic Product; 2026-09-30 Gross Domestic Product by Industry; 2026-09-30 Gross Domestic Product by State",
+    "FRED: HTTP 504",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
     "ForexFactory: 10 eventos"
   ],
   "byCurrency": {
-    "USD": {
-      "date": "2026-09-29",
-      "title": "Job Openings and Labor Turnover Survey",
-      "forecast": ""
-    },
     "AUD": {
       "date": "2026-09-29",
       "title": "Cash Rate",
       "forecast": "4.60%"
+    },
+    "USD": {
+      "date": "2026-09-30",
+      "title": "Core PCE Price Index m/m",
+      "forecast": "0.3%"
     }
   }
 }

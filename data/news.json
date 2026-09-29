@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+      "link": "",
+      "date": "2026-09-29"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "ECB amends monetary policy implementation guidelines as part of regular review",
@@ -89,13 +96,6 @@
       "date": "2026-09-24"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-      "link": "",
-      "date": "2026-09-22"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Foreign Currency Reserves 2026 – Market Notice 22 September 2026",
@@ -121,6 +121,90 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "US-Iran talks stall as Qatar mediation yields little, raising risk of renewed combat",
+      "link": "https://investinglive.com/commodities/us-iran-talks-stall-as-qatar-mediation-yields-little-raising-risk-of-renewed-combat/",
+      "date": "2026-09-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Boeing shares rise on $20 billion Navy fighter win as Northrop Grumman slips",
+      "link": "https://investinglive.com/stocks/boeing-shares-rise-on-20-billion-navy-fighter-win-as-northrop-grumman-slips/",
+      "date": "2026-09-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "RECAP: Oil slides as Middle East exports recover and US moves to add supply",
+      "link": "https://investinglive.com/commodities/recap-oil-slides-as-middle-east-exports-recover-and-us-moves-to-add-supply/",
+      "date": "2026-09-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump, tech leaders sign voluntary \"morally binding\" AI accord at White House",
+      "link": "https://investinglive.com/stock-market-update/trump-tech-leaders-sign-voluntary-morally-binding-ai-accord-at-white-house/",
+      "date": "2026-09-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed officials lean hawkish, though Williams sees no urgency for another hike",
+      "link": "https://investinglive.com/central-banks/fed-officials-lean-hawkish-though-williams-sees-no-urgency-for-another-hike/",
+      "date": "2026-09-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Australia CPI preview: headline inflation seen at 4.0% after RBA hike",
+      "link": "https://investinglive.com/news/australia-cpi-preview-headline-inflation-seen-at-4-0-after-rba-hike/",
+      "date": "2026-09-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Oil: Private survey of inventory shows a headline crude oil build vs. draw expected",
+      "link": "https://investinglive.com/commodities/oil-private-survey-of-inventory-shows-a-headline-crude-oil/",
+      "date": "2026-09-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "China PMIs preview: official manufacturing seen back above 50 before holiday",
+      "link": "https://investinglive.com/news/china-pmis-preview-official-manufacturing-seen-back-above-50-before-holiday/",
+      "date": "2026-09-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US stocks close mixed as chip shares rally and Nasdaq 100 outperforms",
+      "link": "https://investinglive.com/stocks/us-stocks-close-mixed-as-chip-shares-rally-and-nasdaq-100-outperforms/",
+      "date": "2026-09-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Economic and event calendar in Asia Wednesday, September 30, 2026: 6 PMIs from China and CPI from Australia.",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-september-30-2026-6-pmis-from-china-and-cpi-from-australia/",
+      "date": "2026-09-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas market news wrap: US 30-year yields hit the highest since 2002",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-us-30-year-yields-hit-the-highest-since-2002/",
+      "date": "2026-09-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "S&P and Nasdaq technicals: Both indices are trading little changed after moves higher and lower each stalled",
+      "link": "https://investinglive.com/stocks/s-p-and-nasdaq-technicals-both-indices-are-trading-little-changed-after-moves-higher-and-lower-each-stalled/",
+      "date": "2026-09-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Fed's Williams: One more hike likely this year is likely enough",
       "link": "https://investinglive.com/central-banks/fed-s-williams-one-more-hike-likely-this-year-is-likely-enough/",
       "date": "2026-09-29"
@@ -141,86 +225,51 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BoE’s Taylor questions whether a single “insurance hike” would be seen as the start of a series",
-      "link": "https://investinglive.com/central-banks/boe-s-taylor-questions-whether-a-single-insurance-hike-would-be-seen-as-the-start-of-a-series/",
+      "source": "FXStreet",
+      "title": "The Pound slips to its lowest since June as a BoE hold voter pushes back",
+      "link": "https://www.fxstreet.com/news/the-pound-slips-to-its-lowest-since-june-as-a-boe-hold-voter-pushes-back-202609292255",
       "date": "2026-09-29"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed’s Barr expects GDP growth to pick up in the second half of the year",
-      "link": "https://investinglive.com/central-banks/fed-s-barr-expects-gdp-growth-to-pick-up-in-the-second-half-of-the-year/",
+      "source": "FXStreet",
+      "title": "Dow Jones Industrial Average retests its floor as consumer confidence sinks",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-retests-its-floor-as-consumer-confidence-sinks-202609292254",
       "date": "2026-09-29"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil futures: Sellers push the price away from its 200 hour MA. Sellers are in control.",
-      "link": "https://investinglive.com/commodities/crude-oil-futures-sellers-push-the-price-away-from-its-200-hour-ma-sellers-are-in-control/",
+      "source": "FXStreet",
+      "title": "Mexican Peso breaks 18.00 as carry trade loses its edge",
+      "link": "https://www.fxstreet.com/news/mexican-peso-breaks-1800-as-carry-trade-loses-its-edge-202609292224",
       "date": "2026-09-29"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US offers up to 40 million barrels from the SPR",
-      "link": "https://investinglive.com/commodities/us-offers-up-to-40-million-barrels-from-the-spr/",
+      "source": "FXStreet",
+      "title": "Gold springs from $4,110 as Oil rout eases inflation heat",
+      "link": "https://www.fxstreet.com/news/gold-springs-from-4-110-as-oil-rout-eases-inflation-heat-202609291957",
       "date": "2026-09-29"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USDCAD Technicals: The buyers continue to trend the USDCAD higher and higher",
-      "link": "https://investinglive.com/technical-analysis/usdcad-technicals-the-buyers-continue-to-trend-the-usdcad-higher-and-higher/",
+      "source": "FXStreet",
+      "title": "The Canadian Dollar round-trips as Fed officials differ on hike timing",
+      "link": "https://www.fxstreet.com/news/the-canadian-dollar-round-trips-as-fed-officials-differ-on-hike-timing-202609291943",
       "date": "2026-09-29"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Market mood dims as US 30-year borrowing rates hit the highest since 2002",
-      "link": "https://investinglive.com/forex/market-mood-dims-as-us-30-year-borrowing-rates-hit-the-highest-since-2002/",
+      "source": "FXStreet",
+      "title": "Fed’s Williams says worst inflation shocks have passed",
+      "link": "https://www.fxstreet.com/news/feds-williams-says-worst-inflation-shocks-have-passed-202609291918",
       "date": "2026-09-29"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Deutsche Bank sees a copper crunch coming — and says $10/lb may be needed to fix it",
-      "link": "https://investinglive.com/commodities/deutsche-bank-sees-a-copper-crunch-coming-and-says-10-lb-may-be-needed-to-fix-it/",
-      "date": "2026-09-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "AUDUSD Technicals: The sellers remain in control in the AUDUSD despite the RBA rate hike",
-      "link": "https://investinglive.com/technical-analysis/audusd-technicals-the-sellers-remain-in-control-in-the-audusd-despite-the-rba-rate-hike/",
-      "date": "2026-09-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "JOLTS job openings 7.079M vs 7.225M estimate",
-      "link": "https://investinglive.com/news/jolts-job-openings-7-079m-vs-7-225m-estimate/",
-      "date": "2026-09-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Sept US consumer confidence 81.9 vs 89.2 expected",
-      "link": "https://investinglive.com/news/sept-us-consumer-confidence-81-9-vs-89-2-expected/",
-      "date": "2026-09-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin Technicals: Key support area continues to hold.  Getting below $81,500 would swing bias lower.",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-technicals-key-support-area-continues-to-hold-getting-below-81-500-would-swing-bias-lower/",
-      "date": "2026-09-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US July CaseShiller 20-city house price index +2.5% vs 2.2% expected",
-      "link": "https://investinglive.com/news/us-july-caseshiller-20-city-house-price-index-2-5-vs-2-2-expected/",
+      "source": "FXStreet",
+      "title": "Fed’s Musalem says policy still accommodative as demand fuels inflation",
+      "link": "https://www.fxstreet.com/news/musalem-says-fed-must-explain-decisions-without-policy-pledges-202609291748",
       "date": "2026-09-29"
     },
     {
@@ -254,13 +303,6 @@
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Musalem says Fed must explain decisions without policy pledges",
-      "link": "https://www.fxstreet.com/news/musalem-says-fed-must-explain-decisions-without-policy-pledges-202609291748",
-      "date": "2026-09-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
       "title": "Fed’s Barr calls economy “strikingly” resilient, defends last hike",
       "link": "https://www.fxstreet.com/news/feds-barr-calls-economy-strikingly-resilient-defends-last-hike-202609291735",
       "date": "2026-09-29"
@@ -284,48 +326,6 @@
       "source": "FXStreet",
       "title": "ECB’s DeMarco backs October hike as core inflation stays firm",
       "link": "https://www.fxstreet.com/news/ecbs-demarco-backs-october-hike-as-core-inflation-stays-firm-202609291622",
-      "date": "2026-09-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound slips as 2004-era US yields lift the US Dollar",
-      "link": "https://www.fxstreet.com/news/british-pound-slips-to-132-as-2004-era-us-yields-lift-the-us-dollar-202609291611",
-      "date": "2026-09-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "BoE’s Taylor says prolonged energy shock could cement case for hikes",
-      "link": "https://www.fxstreet.com/news/boes-taylor-says-prolonged-energy-shock-could-cement-case-for-hikes-202609291556",
-      "date": "2026-09-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Gold steadies after sharp drop as traders assess Fed outlook, Middle East risks",
-      "link": "https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-assess-fed-outlook-middle-east-risks-202609291058",
-      "date": "2026-09-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro falls to three-month low as hawkish Fed outlook weighs",
-      "link": "https://www.fxstreet.com/news/euro-falls-to-three-month-low-as-hawkish-fed-outlook-weighs-202609291543",
-      "date": "2026-09-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canada: GDP growth moderates in July but stays on track for solid quarter – NBC",
-      "link": "https://www.fxstreet.com/news/canada-gdp-growth-moderates-in-july-but-stays-on-track-for-solid-quarter-nbc-202609291513",
-      "date": "2026-09-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canadian Dollar: Rates reaction follows GDP – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-rates-reaction-follows-gdp-td-securities-202609291506",
       "date": "2026-09-29"
     }
   ]
