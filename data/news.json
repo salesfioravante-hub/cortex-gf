@@ -5,10 +5,31 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "link": "",
+      "date": "2026-09-30"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930_1~7c6c120482.en.html",
+      "date": "2026-09-30"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
+      "date": "2026-09-30"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Financial Policy Committee Record – September 2026",
+      "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
       "date": "2026-09-30"
     },
     {
@@ -82,20 +103,6 @@
       "date": "2026-09-24"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-      "link": "",
-      "date": "2026-09-24"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
-      "date": "2026-09-24"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Foreign Currency Reserves 2026 – Market Notice 22 September 2026",
@@ -108,224 +115,217 @@
       "title": "Bank of England announces new office space in Leeds",
       "link": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
       "date": "2026-09-21"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
-      "date": "2026-09-21"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "German state CPI readings point to inflation climbing back above 3% in September",
-      "link": "https://investinglive.com/news/german-state-cpi-readings-point-to-inflation-climbing-back-above-3-in-september/",
+      "title": "US August Dallas Fed Trimmed mean PCE inflation at 1.9% vs 2.2% expected",
+      "link": "https://investinglive.com/central-banks/us-august-dallas-fed-trimmed-mean-pce-inflation-at-1-9-vs-2-2-expected/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "German labour market softens in September as autumn pickup fails to kick into gear",
-      "link": "https://investinglive.com/news/german-labour-market-softens-in-september-as-autumn-pickup-fails-to-kick-into-gear/",
+      "title": "Nvidia postpones Skynet?",
+      "link": "https://investinglive.com/education/nvidia-postpones-skynet/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "European stock market open: Stocks push higher as bond yields ease from recent highs",
-      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-push-higher-as-bond-yields-ease-from-recent-highs/",
+      "title": "Atlanta Fed GDPNow cuts Q3 US growth estimate to 3.7% from 5.0%",
+      "link": "https://investinglive.com/central-banks/atlanta-fed-gdpnow-cuts-q3-us-growth-estimate-to-3-7-from-5-0/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Why central bank members' comments and speeches matter for markets",
-      "link": "https://investinglive.com/education/why-central-bank-members-comments-and-speeches-matter-for-markets/",
+      "title": "Crude oil futures are trading within a defined trading range between $88.75 and $91.50",
+      "link": "https://investinglive.com/commodities/crude-oil-futures-are-trading-within-a-defined-trading-range-between-88-75-and-91-50/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "French inflation jumps in September as HICP rises to 3.4%",
-      "link": "https://investinglive.com/news/french-inflation-jumps-in-september-as-hicp-rises-to-3-4/",
+      "title": "US crude oil inventories +0.922M versus -0.264 million estimate",
+      "link": "https://investinglive.com/commodities/us-crude-oil-inventories-0-922m-versus-0-264-million-estimate/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-53/",
+      "title": "S&P and Nasdaq get their upside shove. Can buyers keep control?",
+      "link": "https://investinglive.com/stocks/s-p-and-nasdaq-get-their-upside-shove-can-buyers-keep-control/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Germany retail sales rebound 1.3% in August after July slump",
-      "link": "https://investinglive.com/news/germany-retail-sales-rebound-1-3-in-august-after-july-slump/",
+      "title": "Bitcoin breaks above its hourly moving averages. Can buyers keep control?",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-breaks-above-its-hourly-moving-averages-can-buyers-keep-control/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "German import prices jump 1.0% in August as cost pressures build",
-      "link": "https://investinglive.com/news/german-import-prices-jump-1-0-in-august-as-cost-pressures-build/",
+      "title": "US GDP Final for Q2 2.2% vs 1.5% estimate",
+      "link": "https://investinglive.com/news/us-gdp-final-for-q2-2-2-vs-1-5-estimate/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "UK Q2 GDP revised higher to 0.5% q/q from 0.4%",
-      "link": "https://investinglive.com/news/uk-q2-gdp-revised-higher-to-0-5-q-q-from-0-4/",
+      "title": "US advance goods trade balance for August -$132.6 billion vs -$115.00 billion expected",
+      "link": "https://investinglive.com/news/us-advance-goods-trade-balance-for-august-132-6-billion-vs-115-00-billion-expected/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 30 September 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-30-september-10am-new-york-cut/",
+      "title": "US July core PCE 3.0% y/y vs 3.3% expected",
+      "link": "https://investinglive.com/news/us-july-core-pce-3-0-y-y-vs-3-3-expected/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Heads up: Germany September CPI expected to show inflation back above 3%",
-      "link": "https://investinglive.com/news/heads-up-germany-september-cpi-expected-to-show-inflation-back-above-3/",
+      "title": "Morning Kickstart: Dollar mixed as yields ease and oil supply improves",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-mixed-as-yields-ease-and-oil-supply-improves/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Month-end FX flows could add to volatility with quarter-end rebalancing also in play",
-      "link": "https://investinglive.com/orders/month-end-fx-flows-could-add-to-volatility-with-quarter-end-rebalancing-also-in-play/",
+      "title": "Solana consolidates at a key trendline as US-Iran talks and Alpenglow mainnet activation remain in focus",
+      "link": "https://investinglive.com/cryptocurrency/solana-consolidates-at-a-key-trendline-as-us-iran-talks-and-alpenglow-mainnet-activation-remain-in-focus/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Yen, Nikkei firmer",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-yen-nikkei-firmer/",
+      "title": "US ADP national employment +90K vs +70K expected",
+      "link": "https://investinglive.com/news/us-adp-national-employment-vs-70k-expected/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman: Persian Gulf oil exports back at 2025 average after doubling in September",
-      "link": "https://investinglive.com/commodities/goldman-persian-gulf-oil-exports-back-at-2025-average-after-doubling-in-september/",
+      "title": "How PrimeXBT Trading Costs Change as Activity Grows: From Competitive Entry Pricing to Volume-Based Benefits",
+      "link": "https://investinglive.com/education/how-primexbt-trading-costs-change-as-activity-grows-from-competitive-entry-pricing-to-volume-based-benefits/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "USD/JPY slips to around 156.4 as half-year-end flows and Fed comments weigh",
-      "link": "https://investinglive.com/forex/usd-jpy-slips-to-around-156-4-as-half-year-end-flows-and-fed-comments-weigh/",
+      "title": "investingLive European session wrap: Equities retreat as oil rebounds and bond yields stay elevated",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-equities-retreat-as-oil-rebounds-and-bond-yields-stay-elevated/",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "New Zealand Dollar gains as US Dollar declines on easing Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-us-dollar-declines-on-easing-fed-rate-hike-bets-202609300819",
+      "title": "Australian Dollar reverses post-PCE rebound as US Dollar recovers",
+      "link": "https://www.fxstreet.com/news/australian-dollar-reverses-post-pce-rebound-as-us-dollar-recovers-202609301545",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Japanese Yen trims part of intraday gains vs retreating USD as traders await US PCE data",
-      "link": "https://www.fxstreet.com/news/japanese-yen-trims-part-of-intraday-gains-vs-retreating-usd-as-traders-await-us-pce-data-202609300815",
+      "title": "Silver Price Forecast: XAG/USD remains vulnerable near $60",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-vulnerable-near-60-202609301526",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Brent: Geopolitics and cracks drive Q3 surge – Rabobank",
-      "link": "https://www.fxstreet.com/news/brent-geopolitics-and-cracks-drive-q3-surge-rabobank-202609300813",
+      "title": "The British Pound catches second wind as soft PCE knocks Fed hike bets",
+      "link": "https://www.fxstreet.com/news/the-british-pound-catches-second-wind-as-soft-pce-knocks-fed-hike-bets-202609301521",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro: EUR/USD risk reversal long setup – TD Securities",
-      "link": "https://www.fxstreet.com/news/euro-eur-usd-risk-reversal-long-setup-td-securities-202609300811",
+      "title": "Gold loses momentum as the initial reaction to softer US PCE inflation fades",
+      "link": "https://www.fxstreet.com/news/gold-struggles-for-direction-ahead-of-feds-preferred-pce-inflation-data-202609301104",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD trades flat around $61.50, US data awaited",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-flat-around-6150-us-data-awaited-202609300800",
+      "title": "China: Targeted support and cautious stabilization signs – Societe Generale",
+      "link": "https://www.fxstreet.com/news/china-targeted-support-and-cautious-stabilization-signs-societe-generale-202609301423",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Australian Dollar: RBA tailwind seen fading – Commerzbank",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-tailwind-seen-fading-commerzbank-202609300753",
+      "title": "EUR/USD: Measured ECB tightening to support Euro – TD Securities",
+      "link": "https://www.fxstreet.com/news/eur-usd-measured-ecb-tightening-to-support-euro-td-securities-202609301419",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro holds gains against Canadian Dollar despite weak German Retail Sales data",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-against-canadian-dollar-despite-weak-german-retail-sales-data-202609300740",
+      "title": "Japanese Yen advances as US PCE shifts Fed rate hike bets toward December",
+      "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-us-pce-shifts-fed-rate-hike-bets-toward-december-202609301410",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Inflation: PCE revision seen as data clean-up – BNY",
-      "link": "https://www.fxstreet.com/news/us-inflation-pce-revision-seen-as-data-clean-up-bny-202609300736",
+      "title": "Euro finds support as softer US PCE data prompts traders to trim Fed rate-hike bets",
+      "link": "https://www.fxstreet.com/news/euro-finds-support-as-softer-us-pce-data-prompts-traders-to-trim-fed-rate-hike-bets-202609301408",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "British Pound moves away from two-month low after UK Q2 GDP as USD retreats ahead of PCE",
-      "link": "https://www.fxstreet.com/news/british-pound-moves-away-from-two-month-low-after-uk-q2-gdp-as-usd-retreats-ahead-of-pce-202609300731",
+      "title": "China: PMIs point to manufacturing and services improvement – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/china-pmis-point-to-manufacturing-and-services-improvement-deutsche-bank-202609301321",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "GBP/JPY Price Forecast: Bright UK data helps the Pound to extend its recovery",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bright-uk-data-helps-the-pound-to-extend-its-recovery-202609300725",
+      "title": "Canadian Dollar gains as US inflation cools Fed October rate hike bets",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-us-inflation-cools-fed-october-rate-hike-bets-202609301316",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Forex Today: Market focus shifts to critical US inflation and employment data",
-      "link": "https://www.fxstreet.com/news/forex-today-market-focus-shifts-to-critical-us-inflation-and-employment-data-202609300725",
+      "title": "EUR/GBP: Range set to persist – Rabobank",
+      "link": "https://www.fxstreet.com/news/eur-gbp-range-set-to-persist-rabobank-202609301258",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Indian Rupee remains supported due to RBI's provisional support",
-      "link": "https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543",
+      "title": "Euro: France fiscal risks to have limited drag – BBH",
+      "link": "https://www.fxstreet.com/news/euro-france-fiscal-risks-to-have-limited-drag-bbh-202609301256",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "USD/CAD Price Forecast: Declines below 1.4200, while staying technically bullish above 100-day SMA",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-declines-below-14200-while-staying-technically-bullish-above-100-day-sma-202609300707",
+      "title": "Breaking: US core PCE inflation stays unchanged at 3% in August vs. 3.3% expected",
+      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro recovers strongly against Japanese Yen, German HICP in focus",
-      "link": "https://www.fxstreet.com/news/euro-recovers-strongly-against-japanese-yen-german-hicp-in-focus-202609300705",
+      "title": "British Pound rebounds against Japanese Yen as UK growth beats expectations",
+      "link": "https://www.fxstreet.com/news/british-pound-rebounds-against-japanese-yen-as-uk-growth-beats-expectations-202609301227",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Gold flat lines below $4,200 as traders await US PCE data for Fed rate cues",
-      "link": "https://www.fxstreet.com/news/gold-holds-steady-below-4-200-as-retreating-bond-yields-and-softer-usd-lend-support-202609300349",
+      "title": "Breaking: United States private sector employment rises by 90K in September vs. 70K expected",
+      "link": "https://www.fxstreet.com/news/adp-employment-report-expected-to-confirm-a-tight-labour-market-in-september-202609300830",
       "date": "2026-09-30"
     }
   ]
