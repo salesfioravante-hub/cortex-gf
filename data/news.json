@@ -14,6 +14,13 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "Christine Lagarde: Interview with La Croix",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
+      "date": "2026-09-30"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930_1~7c6c120482.en.html",
       "date": "2026-09-30"
@@ -68,13 +75,6 @@
       "date": "2026-09-29"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
-      "date": "2026-09-28"
-    },
-    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
@@ -121,6 +121,69 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "US stocks close mixed; Dow trades to lowest level since June.",
+      "link": "https://investinglive.com/stocks/us-stocks-close-mixed-dow-trades-to-lowest-level-since-june/",
+      "date": "2026-09-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Micron beats on revenue and EPS, guides first-quarter revenue well above estimates",
+      "link": "https://investinglive.com/stocks/micron-beats-on-revenue-and-eps-guides-first-quarter-revenue-well-above-estimates/",
+      "date": "2026-09-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump calls for Powell to resign over Fed renovation, asks attorney general to review report",
+      "link": "https://investinglive.com/news/trump-calls-for-powell-to-resign-over-fed-renovation-asks-attorney-general-to-review-report/",
+      "date": "2026-09-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The USDCAD reverses back higher after the sellers failed to take short term control",
+      "link": "https://investinglive.com/technical-analysis/the-usdcad-reverses-back-higher-after-the-sellers-failed-to-take-short-term-control/",
+      "date": "2026-09-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump: US has almost total control of the Strait of Hormuz",
+      "link": "https://investinglive.com/news/trump-us-has-almost-total-control-of-the-strait-of-hormuz/",
+      "date": "2026-09-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "USDCHF is up for the 6th straight day and trading near the highest level since May 2025",
+      "link": "https://investinglive.com/technical-analysis/usdchf-is-up-for-the-6th-straight-day-and-trading-near-the-highest-level-since-may-2025/",
+      "date": "2026-09-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Goldman Sachs moves its call for the next Fed rate hike to December from October",
+      "link": "https://investinglive.com/central-banks/goldman-sachs-moves-its-call-for-the-next-fed-rate-hike-to-december-from-october/",
+      "date": "2026-09-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "European stocks close lower as Wall Street gains; oil rises and silver slides",
+      "link": "https://investinglive.com/stocks/european-stocks-close-lower-as-wall-street-gains-oil-rises-and-silver-slides/",
+      "date": "2026-09-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ECB’s Schnabel: High costs passed through to consumers more quickly when economy resilient",
+      "link": "https://investinglive.com/central-banks/ecb-s-schnabel-high-costs-passed-through-to-consumers-more-quickly-when-economy-resilient/",
+      "date": "2026-09-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "US August Dallas Fed Trimmed mean PCE inflation at 1.9% vs 2.2% expected",
       "link": "https://investinglive.com/central-banks/us-august-dallas-fed-trimmed-mean-pce-inflation-at-1-9-vs-2-2-expected/",
       "date": "2026-09-30"
@@ -162,65 +225,58 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin breaks above its hourly moving averages. Can buyers keep control?",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-breaks-above-its-hourly-moving-averages-can-buyers-keep-control/",
+      "source": "FXStreet",
+      "title": "Fed’s Cook says inflation has stayed too high for too long",
+      "link": "https://www.fxstreet.com/news/feds-cook-says-inflation-has-stayed-too-high-for-too-long-202609302020",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US GDP Final for Q2 2.2% vs 1.5% estimate",
-      "link": "https://investinglive.com/news/us-gdp-final-for-q2-2-2-vs-1-5-estimate/",
+      "source": "FXStreet",
+      "title": "Mexican Peso pain deepens above 18.00 as carry appeal fades",
+      "link": "https://www.fxstreet.com/news/mexican-peso-pain-deepens-above-1800-as-carry-appeal-fades-202609301919",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US advance goods trade balance for August -$132.6 billion vs -$115.00 billion expected",
-      "link": "https://investinglive.com/news/us-advance-goods-trade-balance-for-august-132-6-billion-vs-115-00-billion-expected/",
+      "source": "FXStreet",
+      "title": "Forex Today: Fedspeak, Jobless Claims and ISM data steal the show",
+      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-claims-and-the-ism-data-steal-the-show-202609301830",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US July core PCE 3.0% y/y vs 3.3% expected",
-      "link": "https://investinglive.com/news/us-july-core-pce-3-0-y-y-vs-3-3-expected/",
+      "source": "FXStreet",
+      "title": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-monthly-outlook-mixed-daily-chart-remains-bearish-202609301810",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Morning Kickstart: Dollar mixed as yields ease and oil supply improves",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-mixed-as-yields-ease-and-oil-supply-improves/",
+      "source": "FXStreet",
+      "title": "Gold can’t catch a PCE break as long US yields keep climbing",
+      "link": "https://www.fxstreet.com/news/gold-cant-catch-a-pce-break-as-long-us-yields-keep-climbing-202609301802",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Solana consolidates at a key trendline as US-Iran talks and Alpenglow mainnet activation remain in focus",
-      "link": "https://investinglive.com/cryptocurrency/solana-consolidates-at-a-key-trendline-as-us-iran-talks-and-alpenglow-mainnet-activation-remain-in-focus/",
+      "source": "FXStreet",
+      "title": "WTI set for monthly gain amid US-Iran stalemate",
+      "link": "https://www.fxstreet.com/news/wti-set-for-monthly-gain-amid-us-iran-stalemate-202609301730",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US ADP national employment +90K vs +70K expected",
-      "link": "https://investinglive.com/news/us-adp-national-employment-vs-70k-expected/",
+      "source": "FXStreet",
+      "title": "ECB’s Lagarde warns France needs a credible path to rein in debt",
+      "link": "https://www.fxstreet.com/news/ecbs-lagarde-warns-france-needs-a-credible-path-to-rein-in-debt-202609301625",
       "date": "2026-09-30"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "How PrimeXBT Trading Costs Change as Activity Grows: From Competitive Entry Pricing to Volume-Based Benefits",
-      "link": "https://investinglive.com/education/how-primexbt-trading-costs-change-as-activity-grows-from-competitive-entry-pricing-to-volume-based-benefits/",
-      "date": "2026-09-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European session wrap: Equities retreat as oil rebounds and bond yields stay elevated",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-equities-retreat-as-oil-rebounds-and-bond-yields-stay-elevated/",
+      "source": "FXStreet",
+      "title": "ECB’s Schnabel says yields surge could cool inflation pressures",
+      "link": "https://www.fxstreet.com/news/ecbs-schnabel-says-yield-surge-could-cool-inflation-pressures-202609301619",
       "date": "2026-09-30"
     },
     {
@@ -240,7 +296,7 @@
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "The British Pound catches second wind as soft PCE knocks Fed hike bets",
+      "title": "British Pound catches second wind as soft PCE knocks Fed hike bets",
       "link": "https://www.fxstreet.com/news/the-british-pound-catches-second-wind-as-soft-pce-knocks-fed-hike-bets-202609301521",
       "date": "2026-09-30"
     },
@@ -270,62 +326,6 @@
       "source": "FXStreet",
       "title": "Japanese Yen advances as US PCE shifts Fed rate hike bets toward December",
       "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-us-pce-shifts-fed-rate-hike-bets-toward-december-202609301410",
-      "date": "2026-09-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro finds support as softer US PCE data prompts traders to trim Fed rate-hike bets",
-      "link": "https://www.fxstreet.com/news/euro-finds-support-as-softer-us-pce-data-prompts-traders-to-trim-fed-rate-hike-bets-202609301408",
-      "date": "2026-09-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "China: PMIs point to manufacturing and services improvement – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/china-pmis-point-to-manufacturing-and-services-improvement-deutsche-bank-202609301321",
-      "date": "2026-09-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canadian Dollar gains as US inflation cools Fed October rate hike bets",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-us-inflation-cools-fed-october-rate-hike-bets-202609301316",
-      "date": "2026-09-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "EUR/GBP: Range set to persist – Rabobank",
-      "link": "https://www.fxstreet.com/news/eur-gbp-range-set-to-persist-rabobank-202609301258",
-      "date": "2026-09-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro: France fiscal risks to have limited drag – BBH",
-      "link": "https://www.fxstreet.com/news/euro-france-fiscal-risks-to-have-limited-drag-bbh-202609301256",
-      "date": "2026-09-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Breaking: US core PCE inflation stays unchanged at 3% in August vs. 3.3% expected",
-      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830",
-      "date": "2026-09-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "British Pound rebounds against Japanese Yen as UK growth beats expectations",
-      "link": "https://www.fxstreet.com/news/british-pound-rebounds-against-japanese-yen-as-uk-growth-beats-expectations-202609301227",
-      "date": "2026-09-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Breaking: United States private sector employment rises by 90K in September vs. 70K expected",
-      "link": "https://www.fxstreet.com/news/adp-employment-report-expected-to-confirm-a-tight-labour-market-in-september-202609300830",
       "date": "2026-09-30"
     }
   ]
