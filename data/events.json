@@ -1,24 +1,24 @@
 {
-  "asof": "2026-09-29",
+  "asof": "2026-09-30",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: HTTP 504",
+    "FRED: 6 releases (EUA) — 2026-09-30 Gross Domestic Product; 2026-09-30 Gross Domestic Product by Industry; 2026-09-30 Gross Domestic Product by State; 2026-09-30 Personal Income and Outlays",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 10 eventos"
+    "ForexFactory: 8 eventos"
   ],
   "byCurrency": {
-    "AUD": {
-      "date": "2026-09-29",
-      "title": "Cash Rate",
-      "forecast": "4.60%"
-    },
     "USD": {
       "date": "2026-09-30",
-      "title": "Core PCE Price Index m/m",
-      "forecast": "0.3%"
+      "title": "Gross Domestic Product",
+      "forecast": ""
+    },
+    "AUD": {
+      "date": "2026-09-30",
+      "title": "CPI m/m",
+      "forecast": "0.5%"
     }
   }
 }
