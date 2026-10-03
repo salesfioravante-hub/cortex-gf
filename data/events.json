@@ -1,18 +1,18 @@
 {
-  "asof": "2026-10-02",
+  "asof": "2026-10-03",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 4 releases (EUA) — 2026-10-02 Employment Situation; 2026-10-14 Consumer Price Index; 2026-10-15 Advance Monthly Sales for Retail and Food Services; 2026-10-15 Producer Price Index",
+    "FRED: 3 releases (EUA) — 2026-10-14 Consumer Price Index; 2026-10-15 Advance Monthly Sales for Retail and Food Services; 2026-10-15 Producer Price Index",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 3 eventos"
+    "ForexFactory: 0 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-10-02",
-      "title": "Employment Situation",
+      "date": "2026-10-14",
+      "title": "Consumer Price Index",
       "forecast": ""
     }
   }
