@@ -1,9 +1,30 @@
 {
-  "asof": "2026-10-04",
+  "asof": "2026-10-05",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
+      "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261005a.htm",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "8th Conference on Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics (ECONDAT 2026 Fall Meeting)",
+      "link": "http://www.boj.or.jp/en/research/conf/conf2610a.htm",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Sources of Changes in Current Account Balances (Projections for Oct.)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2610.xlsx",
+      "date": "2026-10-04"
+    },
     {
       "cur": "USD",
       "source": "Fed",
@@ -54,13 +75,6 @@
       "date": "2026-10-02"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Collateral Accepted by the Bank of Japan (End of Sept.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2609.xlsx",
-      "date": "2026-10-02"
-    },
-    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Isabel Schnabel: Central banks on-chain",
@@ -79,20 +93,6 @@
       "source": "BoE",
       "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
       "link": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
-      "date": "2026-10-01"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Average Contract Interest Rates on Loans and Discounts (Aug.)",
-      "link": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2608.pdf",
-      "date": "2026-10-01"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Monetary Base (Sept.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
       "date": "2026-10-01"
     },
     {
@@ -118,6 +118,104 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "More: Russia says no lab pathogen found in plague institute death, 189 under observation",
+      "link": "https://investinglive.com/news/more-russia-says-no-lab-pathogen-found-in-plague-institute-death-189-under-observation/",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin ETF inflows fuelled September's rebound, but the momentum has faded",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-etf-inflows-fuelled-september-s-rebound-but-the-momentum-has-faded/",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan services PMI eases to 51.3 as hiring picks up and price pressures stay intense",
+      "link": "https://investinglive.com/news/japan-services-pmi-eases-to-51-3-as-hiring-picks-up-and-price-pressures-stay-intense/",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ANZ commodity index rises 0.6% in September as oil surge lifts milk powder and aluminium",
+      "link": "https://investinglive.com/news/anz-commodity-index-rises-0-6-in-september-as-oil-surge-lifts-milk-powder-and-aluminium/",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "BOJ's Uchida says AI is a big demand shock lifting prices, warns of correction risk",
+      "link": "https://investinglive.com/central-banks/boj-s-uchida-says-ai-is-a-big-demand-shock-lifting-prices-warns-of-correction-risk/",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Deutsche Bank's Ghali says gold oversold and underowned, urges buying in interview",
+      "link": "https://investinglive.com/commodities/deutsche-bank-s-ghali-says-gold-oversold-and-underowned-urges-buying-in-interview/",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "MUFG recommends short EUR/JPY, targets 172 as French bond stress and BoJ hikes weigh",
+      "link": "https://investinglive.com/forex/mufg-recommends-short-eur-jpy-targets-172-as-french-bond-stress-and-boj-hikes-weigh/",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "BoJ’s Uchida: AI has become a major focus among central banks, including at BoJ policy meetings",
+      "link": "https://www.fxstreet.com/news/bojs-uchida-ai-has-become-a-major-focus-among-central-banks-including-at-boj-policy-meetings-202610050148",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Japanese Yen bulls seem hesitant as USD reverses post-NFP slide amid geopolitical tensions",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bulls-seem-hesitant-as-usd-reverses-post-nfp-slide-amid-geopolitical-tensions-202610050115",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "British Pound softens as US Dollar gains despite easing Fed rate hike odds",
+      "link": "https://www.fxstreet.com/news/british-pound-softens-as-us-dollar-gains-despite-easing-fed-rate-hike-odds-202610050114",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro softens below 1.1250 on France’s fiscal risk",
+      "link": "https://www.fxstreet.com/news/euro-softens-below-11250-on-frances-fiscal-risk-202610050043",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Russia vows to step up strikes on Ukraine",
+      "link": "https://www.fxstreet.com/news/russia-vows-to-step-up-strikes-on-ukraine-202610050014",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "OPEC+ agrees to keep oil output policy unchanged for November",
+      "link": "https://www.fxstreet.com/news/opec-agrees-to-keep-oil-output-policy-unchanged-for-november-202610050002",
+      "date": "2026-10-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Australia's Chalmers calls Iran war an economic disaster, says rising yields will cost billions",
+      "link": "https://investinglive.com/news/australia-s-chalmers-calls-iran-war-an-economic-disaster-says-rising-yields-will-cost-billions/",
+      "date": "2026-10-04"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -169,23 +267,9 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Risks for $1 trillion-a-week gold market as rule-setter LBMA fights for survival",
-      "link": "https://investinglive.com/commodities/risks-for-1-trillion-a-week-gold-market-as-rule-setter-lbma-fights-for-survival/",
-      "date": "2026-10-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "All B-1 bombers returning to U.S. from U.K. base (not what you think)",
-      "link": "https://investinglive.com/commodities/all-b-1-bombers-returning-to-u-s-from-u-k-base-not-what-you-think/",
-      "date": "2026-10-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Monday open indicative forex prices, October 5, 2026",
-      "link": "https://investinglive.com/forex/monday-open-indicative-forex-prices-october-5-2026/",
+      "source": "FXStreet",
+      "title": "Australian Dollar drifts higher above 0.6950 on soft US jobs data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-drifts-higher-above-06950-on-soft-us-jobs-data-202610042321",
       "date": "2026-10-04"
     },
     {
@@ -194,41 +278,6 @@
       "title": "Middle East War updates: Iran says Strait of Hormuz main focus of talks to end war with US",
       "link": "https://www.fxstreet.com/news/middle-east-war-updates-iran-says-strait-of-hormuz-main-focus-of-talks-to-end-war-with-us-202610042238",
       "date": "2026-10-04"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "S&P 500 technical analysis as week ended less than 1% lower than ATH just shy of 7850",
-      "link": "https://investinglive.com/stocks/s-p-500-technical-analysis-as-week-ended-less-than-1-lower-than-ath-just-shy-of-7850/",
-      "date": "2026-10-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Intel stock outlook: A failed rebound raises questions for traders and shareholders",
-      "link": "https://investinglive.com/stocks/intel-stock-outlook-a-failed-rebound-raises-questions-for-traders-and-shareholders/",
-      "date": "2026-10-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 2 Oct: Nasdaq 100 closes at a record after soft US jobs; Treasury yields reverse higher",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-oct-nasdaq-100-closes-at-a-record-after-soft-us-jobs-treasury-yields-reverse-higher/",
-      "date": "2026-10-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US stocks close higher as the Nasdaq 100 finish at records",
-      "link": "https://investinglive.com/stocks/us-stocks-close-higher-as-the-nasdaq-100-finish-at-records/",
-      "date": "2026-10-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin sellers defend $87,334. Key support comes into focus ahead of the weekend",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-sellers-defend-87-334-key-support-comes-into-focus-ahead-of-the-weekend/",
-      "date": "2026-10-02"
     },
     {
       "cur": "MKT",
@@ -277,55 +326,6 @@
       "source": "FXStreet",
       "title": "British Pound rebounds as NFP knocks out October Fed hike bets",
       "link": "https://www.fxstreet.com/news/british-pound-rebounds-as-nfp-knocks-out-october-fed-hike-bets-202610021556",
-      "date": "2026-10-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Dollar: Fading rallies as Fed pricing peaks – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-fading-rallies-as-fed-pricing-peaks-td-securities-202610021502",
-      "date": "2026-10-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US Dollar: FOMC minutes to offer limited fresh clues – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-fomc-minutes-to-offer-limited-fresh-clues-td-securities-202610021435",
-      "date": "2026-10-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen gives back post-NFP gains despite US Dollar weakness",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gives-back-post-nfp-gains-despite-us-dollar-weakness-202610021431",
-      "date": "2026-10-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canada labour market: Tariff effects assessed – RBC",
-      "link": "https://www.fxstreet.com/news/canada-labour-market-tariff-effects-assessed-rbc-202610021429",
-      "date": "2026-10-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "RBI to keep tightening risks alive – MUFG",
-      "link": "https://www.fxstreet.com/news/rbi-to-keep-tightening-risks-alive-mufg-202610021428",
-      "date": "2026-10-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "US labour market: Softer jobs ease Fed hike risk – ABN Amro",
-      "link": "https://www.fxstreet.com/news/us-labour-market-softer-jobs-ease-fed-hike-risk-abn-amro-202610021423",
-      "date": "2026-10-02"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro rebounds above 1.1250 after weak US jobs data weighs on US Dollar",
-      "link": "https://www.fxstreet.com/news/euro-rebounds-above-11250-after-weak-us-jobs-data-weighs-on-us-dollar-202610021318",
       "date": "2026-10-02"
     }
   ]
