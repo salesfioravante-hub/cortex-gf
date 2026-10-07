@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-06",
+  "asof": "2026-10-07",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
@@ -7,17 +7,12 @@
     "FRED: 3 releases (EUA) — 2026-10-14 Consumer Price Index; 2026-10-15 Advance Monthly Sales for Retail and Food Services; 2026-10-15 Producer Price Index",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 5 eventos"
+    "ForexFactory: 4 eventos"
   ],
   "byCurrency": {
     "USD": {
       "date": "2026-10-07",
       "title": "FOMC Meeting Minutes",
-      "forecast": ""
-    },
-    "JPY": {
-      "date": "2026-10-06",
-      "title": "BOJ Gov Ueda Speaks",
       "forecast": ""
     },
     "GBP": {
@@ -28,7 +23,7 @@
     "CAD": {
       "date": "2026-10-09",
       "title": "Employment Change",
-      "forecast": "6.2K"
+      "forecast": "6.3K"
     }
   }
 }
