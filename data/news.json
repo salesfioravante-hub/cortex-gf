@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "link": "",
+      "date": "2026-10-07"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
@@ -108,16 +115,93 @@
       "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
       "link": "",
       "date": "2026-10-02"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-      "link": "",
-      "date": "2026-10-02"
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Goldman Sachs: Four takeaways as AI's challenge shifts from demand to delivery",
+      "link": "https://investinglive.com/stock-market-update/goldman-sachs-four-takeaways-as-ai-s-challenge-shifts-from-demand-to-delivery/",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "War escalation: Tanker hit by multiple projectiles 51 nautical miles off Qatar, casualties reported",
+      "link": "https://investinglive.com/commodities/war-escalation-tanker-hit-by-multiple-projectiles-51-nautical-miles-off-qatar-casualties-reported/",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US stocks retreat after record closes",
+      "link": "https://investinglive.com/stocks/us-stocks-retreat-after-record-closes/",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Economic and event calendar in Asia Thursday, October 8, 2026 - Chinese markets reopen",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-october-8-2026-chinese-markets-reopen/",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas market news wrap: Fed officials prepared to hike again this year",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-fed-officials-prepared-to-hike-again-this-year/",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "USDCHF shows signs of life above its hourly moving averages. Can buyers build momentum?",
+      "link": "https://investinglive.com/technical-analysis/usdchf-shows-signs-of-life-above-its-hourly-moving-averages-can-buyers-build-momentum/",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FOMC Minutes: Most participants assessed another hike would likely be appropriate by year end",
+      "link": "https://investinglive.com/central-banks/fomc-minutes-most-participants-assessed-another-hike-would-likely-be-appropriate-by-year-end/",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The USDCAD buyers survive the correction by bouncing off the 200 hour MA",
+      "link": "https://investinglive.com/technical-analysis/the-usdcad-buyers-survive-the-correction-by-bouncing-off-the-200-hour-ma/",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The US treasury sells $39 billion of 10 year notes at a high yield of 5.300% versus WI level of 5.317%",
+      "link": "https://investinglive.com/news/the-us-treasury-sells-39-billion-of-10-year-notes-at-a-high-yield-of-5-300-versus-wi-level-of-5-317/",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Tropical Storm Isaias spins up in the Gulf",
+      "link": "https://investinglive.com/commodities/tropical-storm-isaias-spins-up-in-the-gulf/",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The Bitcoin ups and downs continue but with the sellers taking back short term control",
+      "link": "https://investinglive.com/cryptocurrency/the-bitcoin-ups-and-downs-continue-but-with-the-sellers-taking-back-short-term-control/",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The USD is mostly higher.  What are the technicals telling traders for the EURUSD, USDJPY & GBPUSD?",
+      "link": "https://investinglive.com/technical-analysis/the-usd-is-mostly-higher-what-are-the-technicals-telling-traders-for-the-eurusd-usdjpy-gbpusd/",
+      "date": "2026-10-07"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -141,128 +225,86 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Soaring bond yields continue to hit new highs. Seven things driving the moves",
-      "link": "https://investinglive.com/forex/soaring-bond-yields-continue-to-hit-new-highs-seven-things-driving-the-moves/",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "What are credit spreads and why they can lead the stock market?",
-      "link": "https://investinglive.com/education/what-are-credit-spreads-and-why-they-can-lead-the-stock-market/",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The S&P 500 reached a new record high, but the gains are vulnerable to a sharp reversal",
-      "link": "https://investinglive.com/stocks/the-s-p-500-reached-a-new-record-high-but-the-gains-are-vulnerable-to-a-sharp-reversal/",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European session wrap: Treasury yields surge, stocks slide as risk mood sours",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-treasury-yields-surge-stocks-slide-as-risk-mood-sours/",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Hyperliquid tests a key trendline as macro headwinds drag the crypto market down. What's next?",
-      "link": "https://investinglive.com/cryptocurrency/hyperliquid-tests-a-key-trendline-as-macro-headwinds-drag-the-crypto-market-down-what-s-next/",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil rebounds as persistent supply risks continue to outweigh improving physical exports",
-      "link": "https://investinglive.com/commodities/crude-oil-rebounds-as-persistent-supply-risks-continue-to-outweigh-improving-physical-exports/",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Treasury yields continue to break higher as 30-year hits 5.70%, putting markets on edge",
-      "link": "https://investinglive.com/news/treasury-yields-continue-to-break-higher-as-30-year-hits-5-70-putting-markets-on-edge/",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin dips as over $400 million in crypto longs are liquidated in just one hour",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-dips-as-over-400-million-in-crypto-longs-are-liquidated-in-just-one-hour/",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Market playbook: Why sovereign yield spreads matter even if you never trade bonds",
-      "link": "https://investinglive.com/education/market-playbook-why-sovereign-yield-spreads-matter-even-if-you-never-trade-bonds/",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Macro pulse: How a stronger US dollar could become part of the tightening cycle",
-      "link": "https://investinglive.com/education/macro-pulse-how-a-stronger-us-dollar-could-become-part-of-the-tightening-cycle/",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold (XAU/USD) analysis: Traders await new US-Iran developments, remain cautious of US CPI risk",
-      "link": "https://investinglive.com/commodities/gold-xau-usd-analysis-traders-await-new-us-iran-developments-remain-cautious-of-us-cpi-risk/",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Why aren’t stocks falling?",
-      "link": "https://investinglive.com/education/why-aren-t-stocks-falling/",
+      "source": "FXStreet",
+      "title": "Vietnamese Dong: Constructive but upside constrained – Commerzbank",
+      "link": "https://www.fxstreet.com/news/vietnamese-dong-constructive-but-upside-constrained-commerzbank-202610072033",
       "date": "2026-10-07"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro struggles as French fiscal risks, strong US Dollar weigh ahead of Fed Minutes",
-      "link": "https://www.fxstreet.com/news/euro-struggles-as-french-fiscal-risks-strong-us-dollar-weigh-ahead-of-fed-minutes-202610071459",
+      "title": "Silver Price Forecast: XAG/USD cracks $60 as bears eye $56",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-cracks-60-as-bears-eye-56-202610072011",
       "date": "2026-10-07"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Treasury yields hit 24-year highs as 10-year tests 5.35%",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-hit-24-year-highs-as-10-year-tests-535-202610071450",
+      "title": "South Korean Won: Upside risks with key levels in focus against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/south-korean-won-upside-risks-with-key-levels-in-focus-against-us-dollar-ocbc-202610071951",
       "date": "2026-10-07"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Swiss Franc: Safe haven status versus funding role – Rabobank",
-      "link": "https://www.fxstreet.com/news/swiss-franc-safe-haven-status-versus-funding-role-rabobank-202610071447",
+      "title": "Gold slides below $4,100 as FOMC Minutes signal further Fed hikes",
+      "link": "https://www.fxstreet.com/news/gold-slides-below-4-100-as-fomc-minutes-signal-further-fed-hikes-202610071929",
       "date": "2026-10-07"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Gold: Dip buying case builds into 2027 – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-dip-buying-case-builds-into-2027-td-securities-202610071432",
+      "title": "Thai Baht: Inflation rise and THB downside risks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/thai-baht-inflation-rise-and-thb-downside-risks-commerzbank-202610071912",
       "date": "2026-10-07"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Australian Dollar declines as RBA hike bets fade, US yields climb ahead Fed Minutes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-as-rba-hike-bets-fade-us-yields-climb-ahead-fed-minutes-202610071425",
+      "title": "Fed Minutes: Officials saw inflation risks worsening before September hike",
+      "link": "https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400",
       "date": "2026-10-07"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Dollar: Energy risks support USD strength – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-energy-risks-support-usd-strength-bbh-202610071423",
+      "title": "Forex Today: Weekly Claims and Fedspeak on top of the agenda",
+      "link": "https://www.fxstreet.com/news/forex-today-weekly-claims-and-fedspeak-on-top-of-the-agenda-202610071842",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "China: Targeted stimulus supports growth – Societe Generale",
+      "link": "https://www.fxstreet.com/news/china-targeted-stimulus-supports-growth-societe-generale-202610071836",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "WTI reverses earlier gains as recovering Middle East exports weigh",
+      "link": "https://www.fxstreet.com/news/wti-turns-lower-as-recovering-middle-east-exports-weigh-202610071822",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Thailand: BoT policy risks balanced – Standard Chartered",
+      "link": "https://www.fxstreet.com/news/thailand-bot-policy-risks-balanced-standard-chartered-202610071751",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "British Pound buckles as 30-year Gilts top 6%, US yields soar",
+      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-30-year-gilts-tops-6-us-yields-soar-202610071736",
+      "date": "2026-10-07"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "USD/JPY Price Forecast: Pair consolidates below key moving averages",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-pair-consolidates-below-key-moving-averages-202610071705",
       "date": "2026-10-07"
     },
     {
@@ -275,57 +317,15 @@
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Canadian Dollar: Political risks weigh against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-political-risks-weigh-against-us-dollar-scotiabank-202610071403",
+      "title": "US Dollar Index climbs back near its 18-month high as yields rise",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-climbs-back-near-its-18-month-high-as-yields-rise-202610071542",
       "date": "2026-10-07"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Fed Minutes set to provide some insight into the timing of next rate hikes",
-      "link": "https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canadian Dollar loses ground ahead of Fed Minutes",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-loses-ground-ahead-of-fed-minutes-202610071351",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro: Recovery holds as currency softens – BNY",
-      "link": "https://www.fxstreet.com/news/euro-recovery-holds-as-currency-softens-bny-202610071345",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Japanese Yen: Funding appeal eroded by BoJ hikes – Rabobank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-funding-appeal-eroded-by-boj-hikes-rabobank-202610071318",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Hungarian Forint: HUF strength and euro adoption outlook – Societe Generale",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-huf-strength-and-euro-adoption-outlook-societe-generale-202610071310",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Swedish Krona: Riksbank tightening supports SEK against US Dollar - BBH",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-tightening-supports-sek-against-us-dollar-bbh-202610071259",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Indian Rupee: Gradual tightening path after RBI hike – ING",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gradual-tightening-path-after-rbi-hike-ing-202610071250",
+      "title": "NY Fed September survey shows households bracing for higher prices",
+      "link": "https://www.fxstreet.com/news/ny-fed-survey-of-consumers-shows-households-bracing-for-higher-prices-202610071539",
       "date": "2026-10-07"
     }
   ]
