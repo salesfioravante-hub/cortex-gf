@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "link": "",
+      "date": "2026-10-08"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Meeting of 9-10 September 2026",
@@ -108,224 +115,217 @@
       "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
       "link": "",
       "date": "2026-10-02"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-      "link": "",
-      "date": "2026-10-02"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What you see, is what you get. I see patterns in the gold price action. Do you?",
-      "link": "https://investinglive.com/education/what-you-see-is-what-you-get-i-see-patterns-in-the-gold-price-action-do-you/",
+      "title": "US commanders ready to hit Iran’s energy sites and missiles within days, if Trump says go",
+      "link": "https://investinglive.com/commodities/us-commanders-ready-to-hit-iran-s-energy-sites-and-missiles-within-days-if-trump-says-go/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Atlanta Fed GDPNow Q3 tracker 3.6% vs 3.7% prior",
-      "link": "https://investinglive.com/news/atlanta-fed-gdpnow-q3-tracker-3-6-vs-3-7-prior/",
+      "title": "SpaceX just officially announced two massive milestones for Starlink Mobile  Starlink is on its way to becoming a major mobile carrier in the US  SpaceX is acquiring nationwide 800 MHz spectrum  SpaceX agreed to acquire a nationwide low-band spectrum license portfolio of up to 14 MHz of paired spectrum in the 800 MHz band  this fills one of the key remaining technical gaps before Starlink Mobile can become a major US carrier  Why low-band spectrum matters  Lower frequencies travel farther and pass through obstacles much better  • Starlink Mobile's global 2 GHz mid-band spectrum delivers the high-bandwidth capacity • The new 800 MHz low-band spectrum adds a coverage layer that gets through walls and reaches phones inside buildings • Most phones people already own support this band  One network, satellites plus towers  Once the FCC gives final approval, Starlink Mobile will combine its satellite-to-mobile constellation in space with an advanced ground network, so devices connect seamlessly everywhere  That makes Starlink Mobile the first network operator to deploy both satellite and terrestrial spectrum  One network that works indoors, outdoors, in cellular dead zones, and everywhere in between  The FCC also approved 15,000 next-gen satellites  This week the FCC also approved Starlink Mobile's Gen2 constellation, authorizing SpaceX to launch 15,000 satellites optimized for 2 GHz spectrum worldwide  • The V2 Starlink Mobile satellites will deliver more than 100x the bandwidth of the current generation • High-speed service goes directly to regular, unmodified phones anywhere in the world • The FCC also authorized the full range of backhaul bands (Ka/V/E/W) for Starlink's V3 broadband satellites, so they can work with Starlink's existing gateway network  From dense cities to the most remote rural towns, Starlink Mobile is building a network that keeps Americans connected no matter where they are",
+      "link": "https://investinglive.com/stocks/spacex-just-officially-announced-two-massive-milestones-for-starlink-mobile-starlink-is-on-its-way-to-becoming-a-major-mobile-carrier-in-the-us-spacex-is-acquiring-nationwide-800-mhz-spectrum-spacex-agreed-to-acquire-a-nationwide-low-band-spectrum-license-portfolio-of-up-to-14-mhz-of-paired-spectrum-in-the-800-mhz-band-this-fills-one-of-the-key-remaining-technical-gaps-before-starlink-mobile-can-become-a-major-us-carrier-why-low-band-spectrum-matters-lower-frequencies-travel-farther-and-pass-through-obstacles-much-better-starlink-mobile-s-global-2-ghz-mid-band-spectrum-delivers-the-high-bandwidth-capacity-the-new-800-mhz-low-band-spectrum-adds-a-coverage-layer-that-gets-through-walls-and-reaches-phones-inside-buildings-most-phones-people-already-own-support-this-band-one-network-satellites-plus-towers-once-the-fcc-gives-final-approval-starlink-mobile-will-combine-its-satellite-to-mobile-constellation-in-space-with-an-advanced-ground-network-so-devices-connect-seamlessly-everywhere-that/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Silver Miners vs. the Metal: Why Equity Exposure Is Not Metal Exposure",
-      "link": "https://investinglive.com/education/silver-miners-vs-the-metal-why-equity-exposure-is-not-metal-exposure/",
+      "title": "Oil settles circa 4% higher as two supply threats collide: Iran strike fears and Hurricane Isaias",
+      "link": "https://investinglive.com/commodities/oil-settles-circa-4-higher-as-two-supply-threats-collide-iran-strike-fears-and-hurricane-isaias/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Crude oil short: Crude oil tests a key swing area: A place to define risk",
-      "link": "https://investinglive.com/education/crude-oil-short-crude-oil-tests-a-key-swing-area-a-place-to-define-risk/",
+      "title": "investingLive Americas market news wrap: Trump says no attacks on Iran before the midterms",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-trump-says-no-attacks-on-iran-before-the-midterms/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US August wholesale inventories +0.5% vs +0.7% expected",
-      "link": "https://investinglive.com/news/us-august-wholesale-inventories-0-5-vs-0-7-expected/",
+      "title": "It's a very sparse economic and event calendar in Asia, Friday, October 9, 2026",
+      "link": "https://investinglive.com/news/it-s-a-very-sparse-economic-and-event-calendar-in-asia-friday-october-9-2026/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bitcoin short video.  The price of Bitcoin is near the low of a swing area.  Are you a buyer or seller?",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-short-video-the-price-of-bitcoin-is-near-the-low-of-a-swing-area-are-you-a-buyer-or-seller/",
+      "title": "TD Cowen lifts 2026 Bitcoin projection to about $109,000, reversing September cut",
+      "link": "https://investinglive.com/cryptocurrency/td-cowen-lifts-2026-bitcoin-projection-to-about-109-000-reversing-september-cut/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Silver extends the losses as oil prices surge amid renewed US-Iran escalation. What's next?",
-      "link": "https://investinglive.com/commodities/silver-extends-the-losses-as-oil-prices-surge-amid-renewed-us-iran-escalation-what-s-next/",
+      "title": "Nasdaq indices lead the slide as AI stocks tumble",
+      "link": "https://investinglive.com/stocks/nasdaq-indices-lead-the-slide-as-ai-stocks-tumble/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US weekly initial jobless claims 197K vs 200K expected",
-      "link": "https://investinglive.com/news/us-weekly-initial-jobless-claims-197k-vs-200k-expected-0/",
+      "title": "USDCAD sellers secure some short term victories as price tests the 200-hour moving average",
+      "link": "https://investinglive.com/technical-analysis/usdcad-sellers-secure-some-short-term-victories-as-price-tests-the-200-hour-moving-average/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US initial jobless claims for the week is modestly stronger at 197K vs 200K est.",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-for-the-week-is-modestly-stronger-at-197k-vs-200k-est/",
+      "title": "Delta earnings will be a test of the US consumer strength",
+      "link": "https://investinglive.com/stocks/delta-earnings-will-be-a-test-of-the-us-consumer-strength/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BOE's Bailey: Mon pol needs an unwavering commitment to returning inflation to target",
-      "link": "https://investinglive.com/central-banks/boe-s-bailey-mon-pol-needs-an-unwavering-commitment-to-returning-inflation-to-target/",
+      "title": "S&P and Nasdaq break below old record highs. Sellers regain control.",
+      "link": "https://investinglive.com/stocks/s-p-and-nasdaq-break-below-old-record-highs-sellers-regain-control/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Morning Kickstart: Stocks fall as oil and yields rise; USD edges higher",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-stocks-fall-as-oil-and-yields-rise-usd-edges-higher/",
+      "title": "Stock Market Sector Rotation: Earnings Risks and Opportunities",
+      "link": "https://investinglive.com/stocks/stock-market-sector-rotation-earnings-risks-and-opportunities/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive European session wrap: Yields continue to soar as oil surges and stocks tumble",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-yields-continue-to-soar-as-oil-surges-and-stocks-tumble/",
+      "title": "Fed's Musalem says more monetary policy firming will be required",
+      "link": "https://investinglive.com/central-banks/fed-s-musalem-says-more-monetary-policy-firming-will-be-required/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The Indian rupee collapses to new record lows as surging oil prices outweigh RBI rate hikes",
-      "link": "https://investinglive.com/forex/the-indian-rupee-collapses-to-new-record-lows-as-surging-oil-prices-outweigh-rbi-rate-hikes/",
+      "title": "Heavy selling hits US stock markets on OpenAI revenue weakness",
+      "link": "https://investinglive.com/stocks/heavy-selling-hits-us-stock-markets-on-openai-revenue-weakness/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Tron vs Ethereum: Which Network Is Winning USDT Transfers in 2026?",
-      "link": "https://investinglive.com/education/tron-vs-ethereum-which-network-is-winning-usdt-transfers-in-2026/",
+      "title": "US treasury sells $22 billion of 30 year bonds at a high yield of 5.618%",
+      "link": "https://investinglive.com/news/us-treasury-sells-22-billion-of-30-year-bonds-at-a-high-yield-of-5-618/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Zcash is now down almost 30% from September peak as crypto market selloff extends",
-      "link": "https://investinglive.com/cryptocurrency/zcash-is-now-down-almost-30-from-september-peak-as-crypto-market-selloff-extends/",
+      "title": "Arab sources: Several severe explosions have occurred in the Strait of Hormuz",
+      "link": "https://investinglive.com/news/arab-sources-several-severe-explosions-have-occurred-in-the-strait-of-hormuz/",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Silver Price Forecast: XAG/USD slides below $60 as sellers retain control",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slides-below-60-as-sellers-retain-control-202610081518",
+      "title": "GBP/JPY Price Forecast: Struggles at 209.00 as bearish-engulfing looms",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-struggles-at-20900-as-bearish-engulfing-looms-202610082123",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Mexican Peso: Watching support for reversal signal against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/mexican-peso-watching-support-for-reversal-signal-against-us-dollar-societe-generale-202610081442",
+      "title": "Gold gains on geopolitics as Fed hike bets shift to December",
+      "link": "https://www.fxstreet.com/news/gold-gains-on-geopolitics-as-fed-hike-bets-shift-to-december-202610082105",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Gold gains modestly as US Treasury yields ease, Fed hike risks linger",
-      "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-yields-and-hawkish-fed-signals-weigh-202610081055",
+      "title": "Chinese Yuan: Upside bias within defined band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-upside-bias-within-defined-band-against-us-dollar-uob-202610081921",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro steadies as US yields retreat, traders assess Fed and ECB signals",
-      "link": "https://www.fxstreet.com/news/euro-steadies-as-us-yields-retreat-traders-assess-fed-and-ecb-signals-202610081419",
+      "title": "Mexican Peso dives on solid US data despite rising inflation",
+      "link": "https://www.fxstreet.com/news/mexican-peso-dives-on-solid-us-data-despite-high-inflation-202610081845",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Germany: Gradual recovery with energy risks – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/germany-gradual-recovery-with-energy-risks-deutsche-bank-202610081409",
+      "title": "Taiwan Dollar: Trade boom contrasts FX stability – ING",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-trade-boom-contrasts-fx-stability-ing-202610081841",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Canadian Dollar: Consolidation near 1.42s against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidation-near-142s-against-us-dollar-scotiabank-202610081346",
+      "title": "Fed's Musalem signals more tightening as inflation stays elevated",
+      "link": "https://www.fxstreet.com/news/feds-musalem-signals-more-tightening-as-inflation-stays-elevated-202610081757",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "European Central Bank: Neutral communication with upside inflation risks – Nordea",
-      "link": "https://www.fxstreet.com/news/european-central-bank-neutral-communication-with-upside-inflation-risks-nordea-202610081326",
+      "title": "Forex Today: US flash Consumer Sentiment and Canadian jobs in the limelight",
+      "link": "https://www.fxstreet.com/news/forex-today-us-flash-consumer-sentiment-and-canadian-jobs-in-the-limelight-202610081803",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Federal Reserve: More hikes ahead after October pause - UOB",
-      "link": "https://www.fxstreet.com/news/federal-reserve-more-hikes-ahead-after-october-pause-uob-202610081303",
+      "title": "Malaysian Ringgit: Fiscal anchor case – MUFG",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-fiscal-anchor-case-mufg-202610081757",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "BoE’s Bailey calls for stronger financial markets to absorb future shocks",
-      "link": "https://www.fxstreet.com/news/boes-bailey-calls-for-stronger-financial-markets-to-absorb-future-shocks-202610081249",
+      "title": "Japanese Yen finds relief as Trump rules out Iran strikes before midterms",
+      "link": "https://www.fxstreet.com/news/japanese-yen-finds-relief-as-trump-rules-out-iran-strikes-before-midterms-202610081744",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro: French debt risk weighs on EUR against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-french-debt-risk-weighs-on-eur-against-us-dollar-ing-202610081243",
+      "title": "Singapore Dollar: Further weakness possible against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-further-weakness-possible-against-us-dollar-uob-202610081710",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "ECB expected to pause in October before hiking rates in December – Reuters poll",
-      "link": "https://www.fxstreet.com/news/ecb-expected-to-pause-in-october-before-hiking-rates-in-december-reuters-poll-202610081239",
+      "title": "US President Trump rules out Iran strike before midterms, talks resume",
+      "link": "https://www.fxstreet.com/news/us-president-trump-rules-out-iran-strike-before-midterms-talks-resume-202610081642",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "US Initial Jobless Claims dropped to 197K last week",
-      "link": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-197k-last-week-202610081232",
+      "title": "Dollar Index flatlines as Fed Governor Waller puts no date on more hikes",
+      "link": "https://www.fxstreet.com/news/dollar-index-flatlines-as-fed-governor-waller-puts-no-date-on-more-hikes-202610081618",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Europe: Sovereign stress and China trade tensions – Rabobank",
-      "link": "https://www.fxstreet.com/news/europe-sovereign-stress-and-china-trade-tensions-rabobank-202610081221",
+      "title": "Crude Oil grinds higher on record tanker attacks and Houthi missiles",
+      "link": "https://www.fxstreet.com/news/crude-oil-grinds-higher-on-record-tanker-attacks-and-houthi-missiles-202610081614",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Euro slips against British Pound on France’s fiscal concerns, central bank signals",
-      "link": "https://www.fxstreet.com/news/euro-slips-against-british-pound-on-frances-fiscal-concerns-central-bank-signals-202610081216",
+      "title": "Banxico minutes flag upside inflation risks despite 6.50% rate hold",
+      "link": "https://www.fxstreet.com/news/banxico-minutes-flags-upside-inflation-risks-despite-650-rate-hold-202610081602",
       "date": "2026-10-08"
     },
     {
       "cur": "MKT",
       "source": "FXStreet",
-      "title": "Canadian Dollar nears 18-month lows as risk aversion buoys the US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-nears-18-month-lows-as-risk-aversion-buoys-the-us-dollar-202610081202",
+      "title": "Australian Dollar slips as hawkish Fed, elevated US yields sustain USD",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-hawkish-fed-elevated-us-yields-sustain-usd-202610081551",
       "date": "2026-10-08"
     }
   ]
