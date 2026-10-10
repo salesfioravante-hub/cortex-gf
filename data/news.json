@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-09",
+  "asof": "2026-10-10",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -226,6 +226,13 @@
     {
       "cur": "MKT",
       "source": "FXStreet",
+      "title": "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
+      "link": "https://www.fxstreet.com/news/aussie-extends-weekly-gains-as-fed-pause-bets-offset-hawkish-rhetoric-202610092218",
+      "date": "2026-10-09"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
       "title": "Chinese Yuan: PBoC defends yuan narrative – Commerzbank",
       "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-defends-yuan-narrative-commerzbank-202610092121",
       "date": "2026-10-09"
@@ -319,13 +326,6 @@
       "source": "FXStreet",
       "title": "Singapore: Policy slope tightening view – DBS",
       "link": "https://www.fxstreet.com/news/singapore-policy-slope-tightening-view-dbs-202610091636",
-      "date": "2026-10-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Canada loses 68.3K jobs and the Loonie falls to an 18-month low",
-      "link": "https://www.fxstreet.com/news/canada-loses-683k-jobs-and-the-loonie-falls-to-an-18-month-low-202610091617",
       "date": "2026-10-09"
     }
   ]
