@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-10",
+  "asof": "2026-10-11",
   "source": "TradingView — Recommend.MA (tendência) × Recommend.Other (momentum), peso pelo ADX",
   "status": "ok",
   "count": "17/17",
@@ -11,7 +11,7 @@
     "vixVal": 14.85,
     "vixChg1h": 0.2,
     "tf": "1H",
-    "asof": "2026-10-10T23:27:49.318Z"
+    "asof": "2026-10-11T05:25:59.678Z"
   },
   "byAsset": {
     "EURUSD": {
@@ -455,15 +455,15 @@
       "perfW": 0.04537541258679214,
       "rsi": 61,
       "atr": 375.4380907714222,
-      "atr4": 230.817249981034,
+      "atr4": 231.22121823684694,
       "adx": 14,
       "regime": "lateral",
       "ema50": 29893.80659281248,
       "ext": 2.64,
       "stopMult": 2,
       "stopTf": "4H",
-      "stop": 461.63,
-      "stopPct": 1.49,
+      "stop": 462.44,
+      "stopPct": 1.5,
       "trend": {
         "W1": 2,
         "D1": 2,
