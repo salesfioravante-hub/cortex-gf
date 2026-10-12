@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-11",
+  "asof": "2026-10-12",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,6 +121,83 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "China’s growth stocks lose their shine as CICC tilts towards dividend payers",
+      "link": "https://investinglive.com/stock-market-update/china-s-growth-stocks-lose-their-shine-as-cicc-tilts-towards-dividend-payers/",
+      "date": "2026-10-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "MUFG: US CPI seen at 3.6%, core must surprise to revive an October Fed hike",
+      "link": "https://investinglive.com/news/mufg-us-cpi-seen-at-3-6-core-must-surprise-to-revive-an-october-fed-hike/",
+      "date": "2026-10-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6977 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6977-reuters-estimate/",
+      "date": "2026-10-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Deutsche Bank’s CEO warns wins for AfD and Left in 3 state votes risk deterring investors",
+      "link": "https://investinglive.com/stocks/deutsche-bank-s-ceo-warns-wins-for-afd-and-left-in-3-state-votes-risk-deterring-investors/",
+      "date": "2026-10-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UBS: AI demand holds firm, with hyperscaler cloud growth tipped to hit 58%",
+      "link": "https://investinglive.com/stocks/ubs-ai-demand-holds-firm-with-hyperscaler-cloud-growth-tipped-to-hit-58/",
+      "date": "2026-10-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Weeeknd: EU plans 350,000 annual cap on Chinese hybrids after Beijing agrees 16-point deal",
+      "link": "https://investinglive.com/news/weeeknd-eu-plans-350-000-annual-cap-on-chinese-hybrids-after-beijing-agrees-16-point-deal/",
+      "date": "2026-10-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US CPI preview: energy set to lift inflation to 3.7%, core seen steady at 2.4%",
+      "link": "https://investinglive.com/stocks/us-cpi-preview-energy-set-to-lift-inflation-to-3-7-core-seen-steady-at-2-4/",
+      "date": "2026-10-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "IEA urges faster diesel releases as 400m-barrel March pledge lags, board meets Oct 15",
+      "link": "https://investinglive.com/commodities/iea-urges-faster-diesel-releases-as-400m-barrel-march-pledge-lags-board-meets-oct-15/",
+      "date": "2026-10-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Preview: RBA minutes and jobs data headline Australia’s week ahead, with unemployment seen at 4.6%",
+      "link": "https://investinglive.com/news/preview-rba-minutes-and-jobs-data-headline-australia-s-week-ahead-with-unemployment-seen-at-4-6/",
+      "date": "2026-10-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Goldman: Gulf oil exports back at 22-23 mb/d, but Dated Brent stays very high",
+      "link": "https://investinglive.com/commodities/goldman-gulf-oil-exports-back-at-22-23-mb-d-but-dated-brent-stays-very-high/",
+      "date": "2026-10-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Weekend: Musk says $15 billion Terrafab can make chips better than anyone, given time",
+      "link": "https://investinglive.com/stocks/weekend-musk-says-15-billion-terrafab-can-make-chips-better-than-anyone-given-time/",
+      "date": "2026-10-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "More on Russia’s diesel U-turn: 500,000 tons cleared for export after Trump-Putin deal",
       "link": "https://investinglive.com/commodities/more-on-russia-s-diesel-u-turn-500-000-tons-cleared-for-export-after-trump-putin-deal/",
       "date": "2026-10-11"
@@ -148,80 +225,24 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Delivered crude prices surge back to highs as JPMorgan flags tanker crunch",
-      "link": "https://investinglive.com/commodities/delivered-crude-prices-surge-back-to-highs-as-jpmorgan-flags-tanker-crunch/",
+      "source": "FXStreet",
+      "title": "Australian Dollar edges higher to near 0.7000 on weak US Sentiment",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-to-near-07000-on-weak-us-sentiment-202610112344",
       "date": "2026-10-11"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Monday open indicative forex prices, 12 October 2026",
-      "link": "https://investinglive.com/forex/monday-open-indicative-forex-prices-12-october-2026/",
+      "source": "FXStreet",
+      "title": "US President Donald Trump says Russia and Ukraine agree to an ‘energy ceasefire’",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-russia-and-ukraine-agree-to-an-energy-ceasefire-202610112238",
       "date": "2026-10-11"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Alcohol stocks: bargains, value traps and changing drinking habits",
-      "link": "https://investinglive.com/stocks/alcohol-stocks-bargains-value-traps-and-changing-drinking-habits/",
-      "date": "2026-10-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 9 Oct: It’s a Wrap: Stocks rebound despite weak sentiment; Canadian dollar falls on jobs miss",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-9-oct-it-s-a-wrap-stocks-rebound-despite-weak-sentiment-canadian-dollar-falls-on-jobs-miss/",
-      "date": "2026-10-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US stocks close higher; Nasdaq gains for fourth straight week",
-      "link": "https://investinglive.com/stocks/us-stocks-close-higher-nasdaq-gains-for-fourth-straight-week/",
-      "date": "2026-10-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Week ahead: US inflation and retail sales lead a busy economic calendar. Be aware.",
-      "link": "https://investinglive.com/news/week-ahead-us-inflation-and-retail-sales-lead-a-busy-economic-calendar-be-aware/",
-      "date": "2026-10-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Let's Play... \"More Bullish or More Bearish\".  How would I view the technicals for the Mag 7 stocks.",
-      "link": "https://investinglive.com/stocks/let-s-play-more-bullish-or-more-bearish-how-would-i-view-the-technicals-for-the-mag-7-stocks/",
-      "date": "2026-10-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "This week we got a sneak-peak at the playbook for when the AI bubble bursts",
-      "link": "https://investinglive.com/forex/this-week-we-got-a-sneak-peak-at-the-playbook-for-when-the-ai-bubble-bursts/",
-      "date": "2026-10-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "What's open and closed in US and Canadian markets on Monday",
-      "link": "https://investinglive.com/stocks/what-s-open-and-closed-in-us-and-canadian-markets-on-monday/",
-      "date": "2026-10-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bakers Hughes total rig count +5 to 603",
-      "link": "https://investinglive.com/commodities/bakers-hughes-total-rig-count-5-to-603/",
-      "date": "2026-10-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stocks finish higher Friday, but most post weekly declines",
-      "link": "https://investinglive.com/stocks/european-stocks-finish-higher-friday-but-most-post-weekly-declines/",
-      "date": "2026-10-09"
+      "source": "FXStreet",
+      "title": "Middle East War updates: New attack launched on Saudi airport",
+      "link": "https://www.fxstreet.com/news/middle-east-war-updates-new-attack-launched-on-saudi-airport-202610112228",
+      "date": "2026-10-11"
     },
     {
       "cur": "MKT",
@@ -305,27 +326,6 @@
       "source": "FXStreet",
       "title": "Japanese Yen struggles as wide US-Japan yield gap weighs",
       "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-wide-us-japan-yield-gap-weighs-202610091752",
-      "date": "2026-10-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Chinese Yuan: PBoC stance and valuation debate guide currency path – MUFG",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-stance-and-valuation-debate-guide-currency-path-mufg-202610091738",
-      "date": "2026-10-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Asia FX: Trade negotiations and resilient macro backdrop – MUFG",
-      "link": "https://www.fxstreet.com/news/asia-fx-trade-negotiations-and-resilient-macro-backdrop-mufg-202610091702",
-      "date": "2026-10-09"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Singapore: Policy slope tightening view – DBS",
-      "link": "https://www.fxstreet.com/news/singapore-policy-slope-tightening-view-dbs-202610091636",
       "date": "2026-10-09"
     }
   ]
