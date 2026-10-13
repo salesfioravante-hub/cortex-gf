@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-12",
+  "asof": "2026-10-13",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
@@ -18,7 +18,7 @@
     "AUD": {
       "date": "2026-10-15",
       "title": "Employment Change",
-      "forecast": "20.0K"
+      "forecast": "19.6K"
     },
     "GBP": {
       "date": "2026-10-15",
