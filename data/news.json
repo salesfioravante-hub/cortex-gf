@@ -1,9 +1,16 @@
 {
-  "asof": "2026-10-13",
+  "asof": "2026-10-14",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Bank of Japan Accounts (October 10)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
+      "date": "2026-10-14"
+    },
     {
       "cur": "USD",
       "source": "Fed",
@@ -28,6 +35,13 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Money Stock (Sept.)",
+      "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2609.pdf",
+      "date": "2026-10-13"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Basic Figures on Fails (Sept.)",
       "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2609.pdf",
       "date": "2026-10-13"
@@ -38,20 +52,6 @@
       "title": "Results of the 107th Opinion Survey on the General Public's Views and Behavior",
       "link": "http://www.boj.or.jp/en/research/o_survey/ishiki2610.htm",
       "date": "2026-10-13"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Principal Figures of Financial Institutions (Sept.)",
-      "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2609.pdf",
-      "date": "2026-10-12"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Corporate Goods Price Index (Sept.)",
-      "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
-      "date": "2026-10-12"
     },
     {
       "cur": "USD",
@@ -121,6 +121,90 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "China September CPI 0.9% y/y (expected 1%, prior 0.8%)",
+      "link": "https://investinglive.com/news/china-september-cpi-0-9-y-y-expected-1-prior-0-8/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC sets USD/ CNY mid-point today at 6.7249 (vs. estimate at 6.6922)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7249-vs-estimate-at-6-6922/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump says Taiwan to buy 30% of Alaska pipeline gas, again predicts lower oil prices",
+      "link": "https://investinglive.com/commodities/trump-says-taiwan-to-buy-30-of-alaska-pipeline-gas-again-predicts-lower-oil-prices/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Singapore: MAS could tighten again in 2027 if inflation risks materialise, says ANZ",
+      "link": "https://investinglive.com/central-banks/singapore-mas-could-tighten-again-in-2027-if-inflation-risks-materialise-says-anz/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "How Singapore’s monetary policy works: the S$NEER band explained in three levers",
+      "link": "https://investinglive.com/central-banks/how-singapore-s-monetary-policy-works-the-s-neer-band-explained-in-three-levers/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6922 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6922-reuters-estimate/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Singapore’s MAS holds policy steady, surprising all 10 analysts who expected tightening",
+      "link": "https://investinglive.com/central-banks/singapore-s-mas-holds-policy-steady-surprising-all-10-analysts-who-expected-tightening/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Saylor sees Bitcoin above $100,000, says investors will seek (scarce) assets that robots can’t make",
+      "link": "https://investinglive.com/cryptocurrency/saylor-sees-bitcoin-above-100-000-says-investors-will-seek-scarce-assets-that-robots-can-t-make/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "FXStreet",
+      "title": "Euro edges higher above 1.1200 despite France fiscal risks, US CPI in focus",
+      "link": "https://www.fxstreet.com/news/euro-edges-higher-above-11200-despite-france-fiscal-risks-us-cpi-in-focus-202610140034",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Goldman’s Wilson picks two trades: US megacap tech and German fiscal winners",
+      "link": "https://investinglive.com/stocks/goldman-s-wilson-picks-two-trades-us-megacap-tech-and-german-fiscal-winners/",
+      "date": "2026-10-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UBS sees 28% Q3 S&P 500 earnings growth, says AI and cyclicals can lift US stocks",
+      "link": "https://investinglive.com/stocks/ubs-sees-28-q3-s-p-500-earnings-growth-says-ai-and-cyclicals-can-lift-us-stocks/",
+      "date": "2026-10-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.6%, core held near 0.2%",
+      "link": "https://investinglive.com/news/us-cpi-preview-14-investment-bank-forecasters-see-energy-lifting-headline-to-3-6-core-held-near-0-2/",
+      "date": "2026-10-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "How to read a whale alert: an Ethereum case study and a 5-point checklist",
       "link": "https://investinglive.com/education/how-to-read-a-whale-alert-an-ethereum-case-study-and-a-5-point-checklist/",
       "date": "2026-10-13"
@@ -148,79 +232,30 @@
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Morgan Stanley lifts Brent forecast to $105 as costly freight favours short-haul crude",
-      "link": "https://investinglive.com/commodities/morgan-stanley-lifts-brent-forecast-to-105-as-costly-freight-favours-short-haul-crude/",
+      "source": "FXStreet",
+      "title": "Yemen's Houthis fire missiles at Saudi Arabia; Aramco facility catches fire",
+      "link": "https://www.fxstreet.com/news/yemens-houthis-fire-missiles-at-saudi-arabia-aramco-facility-catches-fire-202610132343",
       "date": "2026-10-13"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Catch up time! Oil settles mixed, Brent near $106; booms reported near Aramco HQ in Dhahran",
-      "link": "https://investinglive.com/commodities/catch-up-time-oil-settles-mixed-brent-near-106-booms-reported-near-aramco-hq-in-dhahran/",
+      "source": "FXStreet",
+      "title": "Australian Dollar climbs as Fed’s Williams push the brakes on rates",
+      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-as-feds-williams-push-the-brakes-on-rates-202610132334",
       "date": "2026-10-13"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed’s Collins says uncertainty is elevated as she watches breadth of inflation pressures",
-      "link": "https://investinglive.com/central-banks/fed-s-collins-says-uncertainty-is-elevated-as-she-watches-breadth-of-inflation-pressures/",
+      "source": "FXStreet",
+      "title": "Gold declines to near $4,150 ahead of US CPI inflation data",
+      "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-150-ahead-of-us-cpi-inflation-data-202610132321",
       "date": "2026-10-13"
     },
     {
       "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US stocks close lower after volatile session",
-      "link": "https://investinglive.com/stocks/us-stocks-close-lower-after-volatile-session/",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Economic and event calendar in Asia Wednesday, October 14, 2026 - China inflation data",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-october-14-2026-china-inflation-data/",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed’s Collins backs another rate hike by year-end, flags three inflation pressures",
-      "link": "https://investinglive.com/central-banks/fed-s-collins-backs-another-rate-hike-by-year-end-flags-three-inflation-pressures/",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US CPI: Energy prices expected to lift headline inflation. Will core stay contained?",
-      "link": "https://investinglive.com/news/us-cpi-energy-prices-expected-to-lift-headline-inflation-will-core-stay-contained/",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil futures are settle up $0.40 at $94.14",
-      "link": "https://investinglive.com/commodities/crude-oil-futures-are-settle-up-0-40-at-94-14/",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed Williams: Sees no need for rate hike in 2027 at this time",
-      "link": "https://investinglive.com/central-banks/fed-williams-sees-no-need-for-rate-hike-in-2027-at-this-time/",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USDCAD sellers regain control, but key swing support stands in the way",
-      "link": "https://investinglive.com/technical-analysis/usdcad-sellers-regain-control-but-key-swing-support-stands-in-the-way/",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stocks close mostly lower as Middle East tensions keep oil elevated",
-      "link": "https://investinglive.com/stocks/european-stocks-close-mostly-lower-as-middle-east-tensions-keep-oil-elevated/",
+      "source": "FXStreet",
+      "title": "Yen trails the majors as the BoJ is said to lean against a hike",
+      "link": "https://www.fxstreet.com/news/yen-trails-the-majors-as-the-boj-is-said-to-lean-against-a-hike-202610132241",
       "date": "2026-10-13"
     },
     {
@@ -291,41 +326,6 @@
       "source": "FXStreet",
       "title": "US Dollar: Fed pricing leg looks stretched – Societe Generale",
       "link": "https://www.fxstreet.com/news/us-dollar-fed-pricing-leg-looks-stretched-societe-generale-202610131857",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Swiss Franc strengthens on dovish Fed rhetoric as US CPI looms",
-      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-on-dovish-feds-rhetoric-us-cpi-looms-202610131856",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Euro: Soft undertone but fair value higher against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-soft-undertone-but-fair-value-higher-against-us-dollar-scotiabank-202610131836",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Fed’s Barkin says persistent inflation warrants policy action",
-      "link": "https://www.fxstreet.com/news/feds-barkin-says-persistent-inflation-warrants-policy-action-202610131831",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "Fed’s Williams sees one final 2026 rate hike, none in 2027",
-      "link": "https://www.fxstreet.com/news/feds-williams-sees-one-final-2026-rate-hike-none-in-2027-202610131821",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "FXStreet",
-      "title": "EUR/USD Price Forecast: RSI signals stretched selling pressure",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-rsi-signals-stretched-selling-pressure-202610131812",
       "date": "2026-10-13"
     }
   ]
