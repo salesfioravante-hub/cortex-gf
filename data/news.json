@@ -15,21 +15,21 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
-      "link": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
+      "link": "https://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
       "date": "2026-10-14"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
+      "link": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
       "date": "2026-10-14"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Bank of Japan Accounts (October 10)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
+      "link": "https://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
       "date": "2026-10-14"
     },
     {
@@ -57,7 +57,7 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Money Stock (Sept.)",
-      "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2609.pdf",
+      "link": "https://www.boj.or.jp/en/statistics/money/ms/ms2609.pdf",
       "date": "2026-10-13"
     },
     {
@@ -121,6 +121,55 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Fed's Beige Book:  Nine of 12 districts report growth as price pressures broaden",
+      "link": "https://investinglive.com/central-banks/fed-s-beige-book-nine-of-12-districts-report-growth-as-price-pressures-broaden/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "S&P 500 decline extends to 100 points with tech hit particularly hard",
+      "link": "https://investinglive.com/stocks/s-p-500-decline-extends-to-95-points-with-tech-hit-particularly-hard/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "European stocks mostly higher, but DAX fails to hold above its 100-day moving average",
+      "link": "https://investinglive.com/stocks/european-stocks-mostly-higher-but-dax-fails-to-hold-above-its-100-day-moving-average/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin sellers defend moving average resistance. What does that teach traders?",
+      "link": "https://investinglive.com/education/bitcoin-sellers-defend-moving-average-resistance-what-does-that-teach-traders/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Canadian dollar touches an 18-month low as the US dollar jumps on hot CPI",
+      "link": "https://investinglive.com/forex/canadian-dollar-touches-an-18-month-low-as-the-us-dollar-jumps-on-hot-cpi/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What technical levels are in play now for the broader US stock indices following the higher CPI data?",
+      "link": "https://investinglive.com/stocks/what-technical-levels-are-in-play-now-for-the-broader-us-stock-indices-following-the-higher-cpi-data/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What are the key levels in play for the US dollar after the hotter than expected CPI",
+      "link": "https://investinglive.com/technical-analysis/what-are-the-key-levels-in-play-for-the-us-dollar-after-the-hotter-than-expected-cpi/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "S&P 500 technical analysis after the CPI selloff",
       "link": "https://investinglive.com/technical-analysis/s-p-500-technical-analysis-after-the-cpi-selloff/",
       "date": "2026-10-14"
@@ -172,55 +221,6 @@
       "source": "ForexLive",
       "title": "Bitcoin consolidates in a tight range ahead of the US CPI. What to watch next?",
       "link": "https://investinglive.com/cryptocurrency/bitcoin-consolidates-in-a-tight-range-ahead-of-the-us-cpi-what-to-watch-next/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Nasdaq analysis today as price is dancing around yesterday's close (but probably not for long)",
-      "link": "https://investinglive.com/technical-analysis/nasdaq-analysis-today-as-price-is-dancing-around-yesterday-s-close-but-probably-not-for-long/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil extends gains as Houthi attacks on Saudi Arabia escalate, raising supply disruption risks",
-      "link": "https://investinglive.com/commodities/crude-oil-extends-gains-as-houthi-attacks-on-saudi-arabia-escalate-raising-supply-disruption-risks/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "China's September lending surprise masks a much deeper slump in credit demand",
-      "link": "https://investinglive.com/news/china-s-september-lending-surprise-masks-a-much-deeper-slump-in-credit-demand/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Ethereum remains under pressure amid intensifying geopolitical and macro risks. What's next?",
-      "link": "https://investinglive.com/cryptocurrency/ethereum-remains-under-pressure-amid-intensifying-geopolitical-and-macro-risks-what-s-next/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Today's oil price analysis shows early signs that bulls are losing steam",
-      "link": "https://investinglive.com/commodities/today-s-oil-price-analysis-shows-early-signs-that-bulls-are-losing-steam/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Connecting the dots: Why strong US bank earnings don't always mean a healthy economy",
-      "link": "https://investinglive.com/education/connecting-the-dots-why-strong-us-bank-earnings-don-t-always-mean-a-healthy-economy/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold gets hit again by a jump in oil prices as the focus turns to US CPI. What to watch?",
-      "link": "https://investinglive.com/commodities/gold-gets-hit-again-by-a-jump-in-oil-prices-as-the-focus-turns-to-us-cpi-what-to-watch/",
       "date": "2026-10-14"
     }
   ]
