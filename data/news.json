@@ -7,6 +7,13 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
+      "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261015a.htm",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Summary of the \"Meeting on Market Operations\" (October 2026)",
       "link": "http://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
       "date": "2026-10-15"
@@ -30,13 +37,6 @@
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Bank of Japan Accounts (October 10)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
       "date": "2026-10-14"
     },
     {
@@ -121,6 +121,90 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Macro pulse: Treasury yields may be falling for now, but borrowing costs are still painfully high",
+      "link": "https://investinglive.com/education/macro-pulse-treasury-yields-may-be-falling-for-now-but-borrowing-costs-are-still-painfully-high/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-64/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FX option expiries for 15 October 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-15-october-10am-new-york-cut/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Chart of the day: Gold rebounds as dollar and yields fall, but $4,200 remains a major hurdle",
+      "link": "https://investinglive.com/technical-analysis/chart-of-the-day-gold-rebounds-as-dollar-and-yields-fall-but-4-200-remains-a-major-hurdle/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US stocks might have a bigger problem than just hotter inflation",
+      "link": "https://investinglive.com/stocks/us-stocks-might-have-a-bigger-problem-than-just-hotter-inflation/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-treasury-rally-sinks-dollar-lifts-gold/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "RBNZ’s Conway says October rate decision completely open, OCR more likely to rise",
+      "link": "https://investinglive.com/central-banks/rbnz-s-conway-says-october-rate-decision-completely-open-ocr-more-likely-to-rise/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ECB’s Santos Pereira says euro zone inflation is not spreading beyond energy",
+      "link": "https://investinglive.com/central-banks/ecb-s-santos-pereira-says-euro-zone-inflation-is-not-spreading-beyond-energy/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "AUD lower: Australian jobs fall 39,300 in September, unemployment at five-year high of 4.7%",
+      "link": "https://investinglive.com/central-banks/aud-lower-australian-jobs-fall-39-300-in-september-unemployment-at-five-year-high-of-4-7/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "BOJ’s Koeda says bank should not be overly cautious about raising rates",
+      "link": "https://investinglive.com/central-banks/boj-s-koeda-says-bank-should-not-be-overly-cautious-about-raising-rates/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold jumps around $40 as Treasury yields retreat from post-CPI high",
+      "link": "https://investinglive.com/commodities/gold-jumps-around-40-as-treasury-yields-retreat-from-post-cpi-high/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
+      "link": "https://investinglive.com/news/talk-grows-that-china-is-routing-us-treasury-holdings-through-canada-bloomberg/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Bolivia overhauls gold export rules to draw in dollars and lift bank deposits",
       "link": "https://investinglive.com/commodities/bolivia-overhauls-gold-export-rules-to-draw-in-dollars-and-lift-bank-deposits/",
       "date": "2026-10-15"
@@ -135,92 +219,8 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Iran’s IRGC orders evacuation of military bases as US strike fears grow: reports",
-      "link": "https://investinglive.com/commodities/iran-s-irgc-orders-evacuation-of-military-bases-as-us-strike-fears-grow-reports/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Australian September 2026 unemployment rate 4.7% (expected 4.6%, prior 4.7%)",
-      "link": "https://investinglive.com/news/australian-september-2026-unemployment-rate-4-7-expected-4-6-prior-4-7/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Australian jobs data due imminently - previews",
-      "link": "https://investinglive.com/news/australian-jobs-data-due-imminently-previews/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6977 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6977-reuters-estimate-0/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "CoreWeave bonds trade like distressed debt as AI spending outpaces balance sheets",
-      "link": "https://investinglive.com/stocks/coreweave-bonds-trade-like-distressed-debt-as-ai-spending-outpaces-balance-sheets/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
       "title": "TMGM Named Official Financial Online Trading Sponsor of BIGBANG 2026–2027 WORLD TOUR  in Sydney",
       "link": "https://investinglive.com/education/tmgm-named-official-financial-online-trading-sponsor-of-bigbang-2026-2027-world-tour-xx-cosmos-in-sydney/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "TSMC set for sixth straight record profit as AI demand lifts Q3 earnings",
-      "link": "https://investinglive.com/stocks/tsmc-set-for-sixth-straight-record-profit-as-ai-demand-lifts-q3-earnings/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ICYMI: Citi now expects a December Fed rate hike after hotter September US inflation",
-      "link": "https://investinglive.com/central-banks/icymi-citi-now-expects-a-december-fed-rate-hike-after-hotter-september-us-inflation/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US inflation is becoming less widespread, and that matters more than the headline rate suggests",
-      "link": "https://investinglive.com/education/us-inflation-is-becoming-less-widespread-and-that-matters-more-than-the-headline-rate-suggests/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ASML says 2027 and 2028 supply will fall short of demand as Q3 sales hit a record",
-      "link": "https://investinglive.com/stocks/asml-says-2027-and-2028-supply-will-fall-short-of-demand-as-q3-sales-hit-a-record/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Anthropic Q3 revenue rises 45% to $16.8 billion ahead of IPO",
-      "link": "https://investinglive.com/stocks/anthropic-q3-revenue-rises-45-to-16-8-billion-ahead-of-ipo/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Stablecoins have stopped growing. So why is usage still rising?",
-      "link": "https://investinglive.com/education/stablecoins-have-stopped-growing-so-why-is-usage-still-rising/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed’s Daly: more rate hikes likely needed, but no urgency to move in October",
-      "link": "https://investinglive.com/central-banks/fed-s-daly-more-rate-hikes-likely-needed-but-no-urgency-to-move-in-october/",
       "date": "2026-10-14"
     }
   ]
