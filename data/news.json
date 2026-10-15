@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
+      "link": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026",
+      "date": "2026-10-15"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
@@ -101,127 +115,113 @@
       "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
       "link": "",
       "date": "2026-10-07"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
-      "link": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
-      "date": "2026-10-07"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
-      "date": "2026-10-07"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Macro pulse: Treasury yields may be falling for now, but borrowing costs are still painfully high",
-      "link": "https://investinglive.com/education/macro-pulse-treasury-yields-may-be-falling-for-now-but-borrowing-costs-are-still-painfully-high/",
+      "title": "US initial jobless claim 199K vs 200K estimate",
+      "link": "https://investinglive.com/news/us-initial-jobless-claim-199k-vs-200k-estimate/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-64/",
+      "title": "Canada August manufacturing sales +1.5% vs +1.1% expected",
+      "link": "https://investinglive.com/news/canada-august-manufacturing-sales-1-5-vs-1-1-expected/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 15 October 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-15-october-10am-new-york-cut/",
+      "title": "US retails sales for September 0.8% MoM vs 0.3% estimate. Prior month 1.3%",
+      "link": "https://investinglive.com/news/us-retails-sales-for-september-0-8-mom-vs-1-1-last-month-0/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Chart of the day: Gold rebounds as dollar and yields fall, but $4,200 remains a major hurdle",
-      "link": "https://investinglive.com/technical-analysis/chart-of-the-day-gold-rebounds-as-dollar-and-yields-fall-but-4-200-remains-a-major-hurdle/",
+      "title": "US September PPI 6.3% vs 5.3% expected",
+      "link": "https://investinglive.com/news/us-september-ppi-6-3-vs-5-3-expected/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US stocks might have a bigger problem than just hotter inflation",
-      "link": "https://investinglive.com/stocks/us-stocks-might-have-a-bigger-problem-than-just-hotter-inflation/",
+      "title": "US October Empire Manufacturing index +25.50 vs +10.25 expected",
+      "link": "https://investinglive.com/news/us-october-empire-manufacturing-index-25-50-vs-10-25-expected/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-treasury-rally-sinks-dollar-lifts-gold/",
+      "title": "US October Philly Fed business index +20.9 vs +28.4 expected",
+      "link": "https://investinglive.com/news/us-october-philly-fed-business-index-20-9-vs-28-4-expected/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "RBNZ’s Conway says October rate decision completely open, OCR more likely to rise",
-      "link": "https://investinglive.com/central-banks/rbnz-s-conway-says-october-rate-decision-completely-open-ocr-more-likely-to-rise/",
+      "title": "Morning Kickstart: Dollar retreats as yields fall, Nasdaq remains under pressure",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-retreats-as-yields-fall-nasdaq-remains-under-pressure/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ECB’s Santos Pereira says euro zone inflation is not spreading beyond energy",
-      "link": "https://investinglive.com/central-banks/ecb-s-santos-pereira-says-euro-zone-inflation-is-not-spreading-beyond-energy/",
+      "title": "Nasdaq’s selloff may have been driven by something more concerning than just rate hike expectations",
+      "link": "https://investinglive.com/stocks/nasdaq-s-selloff-may-have-been-driven-by-something-more-concerning-than-just-rate-hike-expectations/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "AUD lower: Australian jobs fall 39,300 in September, unemployment at five-year high of 4.7%",
-      "link": "https://investinglive.com/central-banks/aud-lower-australian-jobs-fall-39-300-in-september-unemployment-at-five-year-high-of-4-7/",
+      "title": "investingLive European news wrap: Markets consolidate after the US CPI shock",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-after-the-us-cpi-shock/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BOJ’s Koeda says bank should not be overly cautious about raising rates",
-      "link": "https://investinglive.com/central-banks/boj-s-koeda-says-bank-should-not-be-overly-cautious-about-raising-rates/",
+      "title": "Ethereum extends losses after the US CPI as risk sentiment deteriorates further. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-extends-losses-after-the-us-cpi-as-risk-sentiment-deteriorates-further-what-s-next/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold jumps around $40 as Treasury yields retreat from post-CPI high",
-      "link": "https://investinglive.com/commodities/gold-jumps-around-40-as-treasury-yields-retreat-from-post-cpi-high/",
+      "title": "Why do altcoins crash so much harder than Bitcoin?",
+      "link": "https://investinglive.com/cryptocurrency/why-do-altcoins-crash-so-much-harder-than-bitcoin/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
-      "link": "https://investinglive.com/news/talk-grows-that-china-is-routing-us-treasury-holdings-through-canada-bloomberg/",
+      "title": "Oil remains supported amid persistent Middle East tensions as US weighs using \"Mother of All Bombs\"",
+      "link": "https://investinglive.com/commodities/oil-remains-supported-amid-persistent-middle-east-tensions-as-us-weighs-using-mother-of-all-bombs/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bolivia overhauls gold export rules to draw in dollars and lift bank deposits",
-      "link": "https://investinglive.com/commodities/bolivia-overhauls-gold-export-rules-to-draw-in-dollars-and-lift-bank-deposits/",
+      "title": "Bitcoin sinks after the US CPI as markets get increasingly worried about the growth outlook",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-sinks-after-the-us-cpi-as-markets-get-increasingly-worried-about-the-growth-outlook/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US weighs easing shadow fleet sanctions to cut record tanker freight rates",
-      "link": "https://investinglive.com/commodities/us-weighs-easing-shadow-fleet-sanctions-to-cut-record-tanker-freight-rates/",
+      "title": "US inflation worries aren't over yet as PPI and retail sales pose fresh risks for markets",
+      "link": "https://investinglive.com/news/us-inflation-worries-aren-t-over-yet-as-ppi-and-retail-sales-pose-fresh-risks-for-markets/",
       "date": "2026-10-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "TMGM Named Official Financial Online Trading Sponsor of BIGBANG 2026–2027 WORLD TOUR  in Sydney",
-      "link": "https://investinglive.com/education/tmgm-named-official-financial-online-trading-sponsor-of-bigbang-2026-2027-world-tour-xx-cosmos-in-sydney/",
-      "date": "2026-10-14"
+      "title": "Gold whipsaws after US CPI as data falls short of bringing an October rate hike back into play",
+      "link": "https://investinglive.com/commodities/gold-whipsaws-after-us-cpi-as-data-falls-short-of-bringing-an-october-rate-hike-back-into-play/",
+      "date": "2026-10-15"
     }
   ]
 }
