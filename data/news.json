@@ -1,9 +1,16 @@
 {
-  "asof": "2026-10-14",
+  "asof": "2026-10-15",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Summary of the \"Meeting on Market Operations\" (October 2026)",
+      "link": "http://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
+      "date": "2026-10-15"
+    },
     {
       "cur": "EUR",
       "source": "BCE",
@@ -51,13 +58,6 @@
       "source": "BoE",
       "title": "Minutes of the Money Market Committee meeting – September 2026",
       "link": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
-      "date": "2026-10-13"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Money Stock (Sept.)",
-      "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2609.pdf",
       "date": "2026-10-13"
     },
     {
@@ -121,6 +121,55 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Bolivia overhauls gold export rules to draw in dollars and lift bank deposits",
+      "link": "https://investinglive.com/commodities/bolivia-overhauls-gold-export-rules-to-draw-in-dollars-and-lift-bank-deposits/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US weighs easing shadow fleet sanctions to cut record tanker freight rates",
+      "link": "https://investinglive.com/commodities/us-weighs-easing-shadow-fleet-sanctions-to-cut-record-tanker-freight-rates/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Iran’s IRGC orders evacuation of military bases as US strike fears grow: reports",
+      "link": "https://investinglive.com/commodities/iran-s-irgc-orders-evacuation-of-military-bases-as-us-strike-fears-grow-reports/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Australian September 2026 unemployment rate 4.7% (expected 4.6%, prior 4.7%)",
+      "link": "https://investinglive.com/news/australian-september-2026-unemployment-rate-4-7-expected-4-6-prior-4-7/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Australian jobs data due imminently - previews",
+      "link": "https://investinglive.com/news/australian-jobs-data-due-imminently-previews/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6977 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6977-reuters-estimate-0/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "CoreWeave bonds trade like distressed debt as AI spending outpaces balance sheets",
+      "link": "https://investinglive.com/stocks/coreweave-bonds-trade-like-distressed-debt-as-ai-spending-outpaces-balance-sheets/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "TMGM Named Official Financial Online Trading Sponsor of BIGBANG 2026–2027 WORLD TOUR  in Sydney",
       "link": "https://investinglive.com/education/tmgm-named-official-financial-online-trading-sponsor-of-bigbang-2026-2027-world-tour-xx-cosmos-in-sydney/",
       "date": "2026-10-14"
@@ -128,99 +177,50 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "TSMC set for sixth straight record profit as AI demand lifts Q3 earnings",
+      "link": "https://investinglive.com/stocks/tsmc-set-for-sixth-straight-record-profit-as-ai-demand-lifts-q3-earnings/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ICYMI: Citi now expects a December Fed rate hike after hotter September US inflation",
+      "link": "https://investinglive.com/central-banks/icymi-citi-now-expects-a-december-fed-rate-hike-after-hotter-september-us-inflation/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US inflation is becoming less widespread, and that matters more than the headline rate suggests",
+      "link": "https://investinglive.com/education/us-inflation-is-becoming-less-widespread-and-that-matters-more-than-the-headline-rate-suggests/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ASML says 2027 and 2028 supply will fall short of demand as Q3 sales hit a record",
+      "link": "https://investinglive.com/stocks/asml-says-2027-and-2028-supply-will-fall-short-of-demand-as-q3-sales-hit-a-record/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Anthropic Q3 revenue rises 45% to $16.8 billion ahead of IPO",
+      "link": "https://investinglive.com/stocks/anthropic-q3-revenue-rises-45-to-16-8-billion-ahead-of-ipo/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Stablecoins have stopped growing. So why is usage still rising?",
+      "link": "https://investinglive.com/education/stablecoins-have-stopped-growing-so-why-is-usage-still-rising/",
+      "date": "2026-10-14"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Fed’s Daly: more rate hikes likely needed, but no urgency to move in October",
       "link": "https://investinglive.com/central-banks/fed-s-daly-more-rate-hikes-likely-needed-but-no-urgency-to-move-in-october/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed catch up - Goolsbee calls CPI discouraging as Beige Book flags diesel-fuelled price pressure",
-      "link": "https://investinglive.com/central-banks/fed-catch-up-goolsbee-calls-cpi-discouraging-as-beige-book-flags-diesel-fuelled-price-pressure/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Oil catch up - price gains as Houthis strike Aramco and Iran flags new tactics against tankers",
-      "link": "https://investinglive.com/commodities/oil-catch-up-price-gains-as-houthis-strike-aramco-and-iran-flags-new-tactics-against-tankers/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Oil: Private survey of inventory shows a huge headline crude oil draw",
-      "link": "https://investinglive.com/commodities/oil-private-survey-of-inventory-shows-a-huge-headline-crude-oil-draw/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Barclays sees possible Tesla-SpaceX merger announcement before December",
-      "link": "https://investinglive.com/stocks/barclays-sees-possible-tesla-spacex-merger-announcement-before-december/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US stocks sink as AI and chips tumble",
-      "link": "https://investinglive.com/stocks/us-stocks-sink-as-ai-and-chips-tumble/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Australia jobs preview: NAB sees 20,000 gain, unemployment steady at 4.6%",
-      "link": "https://investinglive.com/news/australia-jobs-preview-nab-sees-20-000-gain-unemployment-steady-at-4-6/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Economic and event calendar in Asia - Aussie jobs, BoJ and BoE speakers",
-      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-aussie-jobs-boj-and-boe-speakers/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Americas market news wrap: Hot CPI upends markets",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-hot-cpi-upends-markets/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed’s Goolsbee: CPI was discouraging, more bad months would be unacceptable",
-      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-cpi-was-discouraging-more-bad-months-would-be-unacceptable/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold sellers press toward last week’s low. Can buyers hold support?",
-      "link": "https://investinglive.com/commodities/gold-sellers-press-toward-last-week-s-low-can-buyers-hold-support/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Beige Book:  Nine of 12 districts report growth as price pressures broaden",
-      "link": "https://investinglive.com/central-banks/fed-s-beige-book-nine-of-12-districts-report-growth-as-price-pressures-broaden/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "S&P 500 decline extends to 100 points with tech hit particularly hard",
-      "link": "https://investinglive.com/stocks/s-p-500-decline-extends-to-95-points-with-tech-hit-particularly-hard/",
-      "date": "2026-10-14"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stocks mostly higher, but DAX fails to hold above its 100-day moving average",
-      "link": "https://investinglive.com/stocks/european-stocks-mostly-higher-but-dax-fails-to-hold-above-its-100-day-moving-average/",
       "date": "2026-10-14"
     }
   ]
