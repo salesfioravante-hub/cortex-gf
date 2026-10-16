@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-15",
+  "asof": "2026-10-16",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,6 +121,97 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Trump draws two red lines on Iran but keeps Pickaxe Mountain strike in play",
+      "link": "https://investinglive.com/commodities/trump-draws-two-red-lines-on-iran-but-keeps-pickaxe-mountain-strike-in-play/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6947 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6947-reuters-estimate/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "India curbs gold ETF buying before Diwali, removing a seasonal prop for gold demand",
+      "link": "https://investinglive.com/commodities/india-curbs-gold-etf-buying-before-diwali-removing-a-seasonal-prop-for-gold-demand/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nike’s problem is demand, not tariffs: what Moody’s warning really signals",
+      "link": "https://investinglive.com/stock-market-update/nike-s-problem-is-demand-not-tariffs-what-moody-s-warning-really-signals/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Two AI signals, one week: TSMC’s boom and Dell’s doubts show where demand really is",
+      "link": "https://investinglive.com/stock-market-update/two-ai-signals-one-week-tsmc-s-boom-and-dell-s-doubts-show-where-demand-really-is/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ICYMI: Dell shares slide 17% in two days as Barclays questions enterprise AI demand",
+      "link": "https://investinglive.com/stocks/icymi-dell-shares-slide-17-in-two-days-as-barclays-questions-enterprise-ai-demand/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ICYMI: TSMC profit jumps nearly 70% on AI demand, but margin outlook weighs on shares",
+      "link": "https://investinglive.com/stocks/icymi-tsmc-profit-jumps-nearly-70-on-ai-demand-but-margin-outlook-weighs-on-shares/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Moody’s cuts Nike outlook to negative, sees earnings falling into fiscal 2028",
+      "link": "https://investinglive.com/stocks/moody-s-cuts-nike-outlook-to-negative-sees-earnings-falling-into-fiscal-2028/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "New Zealand card spending falls for second month as food prices hold flat in September",
+      "link": "https://investinglive.com/news/new-zealand-card-spending-falls-for-second-month-as-food-prices-hold-flat-in-september/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed's Hammack questions whether Fed policy is tight enough as inflation risks build",
+      "link": "https://investinglive.com/central-banks/fed-s-hammack-questions-whether-fed-policy-is-tight-enough-as-inflation-risks-build/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion",
+      "link": "https://investinglive.com/news/new-zealand-manufacturing-pmi-jumps-to-56-5-15th-straight-month-of-expansion/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Warsh speaks in Bangkok after hot CPI: is a second Fed hike coming in October?",
+      "link": "https://investinglive.com/central-banks/warsh-speaks-in-bangkok-after-hot-cpi-is-a-second-fed-hike-coming-in-october/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Macklem in Bangkok: oil, tariffs and job losses test the Bank of Canada’s hike case",
+      "link": "https://investinglive.com/central-banks/macklem-in-bangkok-oil-tariffs-and-job-losses-test-the-bank-of-canada-s-hike-case/",
+      "date": "2026-10-15"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Preview: Nagel and Klingbeil in Bangkok: three themes as the ECB weighs a December hike",
       "link": "https://investinglive.com/central-banks/preview-nagel-and-klingbeil-in-bangkok-three-themes-as-the-ecb-weighs-a-december-hike/",
       "date": "2026-10-15"
@@ -130,97 +221,6 @@
       "source": "ForexLive",
       "title": "BOE, Bailey, Bangkok. What could possibly go wrong? Preview and 3 questions for the Governor",
       "link": "https://investinglive.com/central-banks/boe-bailey-bangkok-what-could-possibly-go-wrong-preview-and-3-questions-for-the-governor/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Dow leads US stock rebound. Indices snatch victory from the jaws of defeat.",
-      "link": "https://investinglive.com/stocks/dow-leads-us-stock-rebound-indices-snatch-victory-from-the-jaws-of-defeat/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Economic and event calendar in Asia Friday, October 16, 2026 - Federal Reserve Chair Warsh speaking",
-      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-friday-october-16-2026-federal-reserve-chair-warsh-speaking/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Americas market news wrap: Yields continue to fall even after hot PPI data",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-yields-continue-to-fall-even-after-hot-ppi-data/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil futures settle at $97.97. Highest level since mid- September.",
-      "link": "https://investinglive.com/commodities/crude-oil-futures-settle-at-97-97/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USDCHF backs away from key daily resistance. Sellers push toward an important hourly floor.",
-      "link": "https://investinglive.com/technical-analysis/usdchf-backs-away-from-key-daily-resistance-sellers-push-toward-an-important-hourly-floor/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Short covering is driving price action in markets today",
-      "link": "https://investinglive.com/stocks/short-covering-is-driving-price-action-in-markets-today/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin snaps back after failed downside break. Can buyers take the next step?",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-snaps-back-after-failed-downside-break-can-buyers-take-the-next-step/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Atlanta Fed GDPNow holds at 3.6% for Q3 as consumer spending outlook improves",
-      "link": "https://investinglive.com/central-banks/atlanta-fed-gdpnow-holds-at-3-6-for-q3-as-consumer-spending-outlook-improves/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USDCAD sellers make a break for it and fail. What next technically?",
-      "link": "https://investinglive.com/technical-analysis/usdcad-sellers-make-a-break-for-it-and-fail-what-next-technically/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stocks close mixed. UK leads gains as bond yields retreat",
-      "link": "https://investinglive.com/stocks/european-stocks-close-mixed-uk-leads-gains-as-bond-yields-retreat/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US weekly EIA crude oil inventories -8557K vs -288K expected",
-      "link": "https://investinglive.com/commodities/us-weekly-eia-crude-oil-inventories-k-vs-288k-expected/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Nvidia has gapped to the downside and tested a key technical target area.  What next?",
-      "link": "https://investinglive.com/stocks/nvidia-has-gapped-to-the-downside-and-tested-a-key-technical-target-area-what-next/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Dow Jones today is showing relative strength",
-      "link": "https://investinglive.com/stocks/dow-jones-today-is-showing-relative-strength/",
       "date": "2026-10-15"
     }
   ]

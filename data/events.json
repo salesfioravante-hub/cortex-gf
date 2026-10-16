@@ -1,29 +1,24 @@
 {
-  "asof": "2026-10-15",
+  "asof": "2026-10-16",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 4 releases (EUA) — 2026-10-15 Advance Monthly Sales for Retail and Food Services; 2026-10-15 Producer Price Index; 2026-10-29 Gross Domestic Product; 2026-10-29 Personal Income and Outlays",
+    "FRED: 3 releases (EUA) — 2026-10-29 Gross Domestic Product; 2026-10-29 Personal Income and Outlays; 2026-10-30 Employment Cost Index",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 9 eventos"
+    "ForexFactory: 2 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-10-15",
-      "title": "Advance Monthly Sales for Retail and Food Services",
+      "date": "2026-10-16",
+      "title": "Fed Chairman Warsh Speaks",
       "forecast": ""
     },
-    "AUD": {
-      "date": "2026-10-15",
-      "title": "Employment Change",
-      "forecast": "19.6K"
-    },
     "GBP": {
-      "date": "2026-10-15",
-      "title": "GDP m/m",
-      "forecast": "-0.1%"
+      "date": "2026-10-16",
+      "title": "BOE Gov Bailey Speaks",
+      "forecast": ""
     }
   }
 }
