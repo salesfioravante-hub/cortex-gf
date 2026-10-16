@@ -7,6 +7,20 @@
     {
       "cur": "GBP",
       "source": "BoE",
+      "title": "Banknote imagery advisory group minutes – 15 July 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "BOJ Current Account Balances by Sector (Sept.)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
       "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
       "link": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
       "date": "2026-10-15"
@@ -47,13 +61,6 @@
       "date": "2026-10-14"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
-      "date": "2026-10-14"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
@@ -79,13 +86,6 @@
       "source": "Fed",
       "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
       "link": "",
-      "date": "2026-10-09"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "CMORG holds sector-wide cloud outage simulation exercise",
-      "link": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
       "date": "2026-10-09"
     },
     {
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "investingLive European session wrap: Dollar slips as stocks steady and yields edge a little higher",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-slips-as-stocks-steady-and-yields-edge-a-little-higher/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Ethereum rebounds as dip-buyers pile in around key technical levels. Fundamental improvement or just a dead-cat bounce?",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-rebounds-as-dip-buyers-pile-in-around-key-technical-levels-fundamental-improvement-or-just-a-dead-cat-bounce/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Is EUR/USD finally turning the corner or is this just another false dawn?",
+      "link": "https://investinglive.com/forex/is-eur-usd-finally-turning-the-corner-or-is-this-just-another-false-dawn/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Crude oil remains supported amid Saudi-Houthi conflict and stalled US-Iran negotiations. What's next?",
+      "link": "https://investinglive.com/commodities/crude-oil/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Solana's fundamentals are clouded by negative macro and geopolitical conditions. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/solana-s-fundamentals-are-clouded-by-negative-macro-and-geopolitical-conditions-what-s-next/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Eurozone September final CPI +3.8% vs +3.8% y/y prelim",
+      "link": "https://investinglive.com/news/eurozone-september-final-cpi-vs-3-8-y-y-prelim/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Chart of the day: 10-year Treasury yields hit reverse this week but the real test is still ahead",
+      "link": "https://investinglive.com/technical-analysis/chart-of-the-day-10-year-treasury-yields-hit-reverse-this-week-but-the-real-test-is-still-ahead/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold shrugs off hot inflation data as market focus may be shifting to growth concerns",
+      "link": "https://investinglive.com/commodities/gold-shrugs-off-hot-inflation-data-as-market-focus-may-be-shifting-to-growth-concerns/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Dow Jones futures analysis: Fed risks and key levels for October 16",
+      "link": "https://investinglive.com/stocks/dow-jones-futures-analysis-fed-risks-and-key-levels-for-october-16/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "European stock market open: Equities find some footing after a volatile week",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-equities-find-some-footing-after-a-volatile-week/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Felix Nikolas Prehn on mortgage rates and the 10-year Treasury yield",
+      "link": "https://investinglive.com/education/felix-nikolas-prehn-on-mortgage-rates-and-the-10-year-treasury-yield/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Where do traders get interest rate expectations for central banks?",
+      "link": "https://investinglive.com/education/where-do-traders-get-interest-rate-expectations-for-central-banks/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-65/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "AvaTrade Accelerates Global Growth with Acquisition of Forex Pioneer FXCM",
+      "link": "https://investinglive.com/education/avatrade-accelerates-global-growth-with-acquisition-of-forex-pioneer-fxcm/",
+      "date": "2026-10-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "investingLive Asia-Pacific market news: Warsh stays silent on rates,",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-warsh-stays-silent-on-rates/",
       "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Warsh won’t prejudge rest of 2026, names October and December as decision points",
-      "link": "https://investinglive.com/central-banks/warsh-won-t-prejudge-rest-of-2026-names-october-and-december-as-decision-points/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Tesla unveils thruster-powered Roadster with $50,000 deposit, production slated for 2028",
-      "link": "https://investinglive.com/stocks/tesla-unveils-thruster-powered-roadster-with-50-000-deposit-production-slated-for-2028/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bailey says UK second-round inflation effects subdued so far, too early to judge",
-      "link": "https://investinglive.com/central-banks/bailey-says-uk-second-round-inflation-effects-subdued-so-far-too-early-to-judge/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Ethereum whale’s $13.45M loss reflects a year-long exit, not a fresh ETH dump",
-      "link": "https://investinglive.com/education/ethereum-whale-s-13-45m-loss-reflects-a-year-long-exit-not-a-fresh-eth-dump/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Google’s 40-fold quantum leap: big for Willow, smaller for Alphabet’s share price",
-      "link": "https://investinglive.com/stocks/google-s-40-fold-quantum-leap-big-for-willow-smaller-for-alphabet-s-share-price/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7220 (vs. estimate at 6.6947)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7220-vs-estimate-at-6-6947/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "FX option expiries for 16 October 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-16-october-10am-new-york-cut/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Goldman: Warsh’s quieter Fed: why less guidance could mean more market volatility",
-      "link": "https://investinglive.com/central-banks/goldman-warsh-s-quieter-fed-why-less-guidance-could-mean-more-market-volatility/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump draws two red lines on Iran but keeps Pickaxe Mountain strike in play",
-      "link": "https://investinglive.com/commodities/trump-draws-two-red-lines-on-iran-but-keeps-pickaxe-mountain-strike-in-play/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6947 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6947-reuters-estimate/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "India curbs gold ETF buying before Diwali, removing a seasonal prop for gold demand",
-      "link": "https://investinglive.com/commodities/india-curbs-gold-etf-buying-before-diwali-removing-a-seasonal-prop-for-gold-demand/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Nike’s problem is demand, not tariffs: what Moody’s warning really signals",
-      "link": "https://investinglive.com/stock-market-update/nike-s-problem-is-demand-not-tariffs-what-moody-s-warning-really-signals/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Two AI signals, one week: TSMC’s boom and Dell’s doubts show where demand really is",
-      "link": "https://investinglive.com/stock-market-update/two-ai-signals-one-week-tsmc-s-boom-and-dell-s-doubts-show-where-demand-really-is/",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ICYMI: Dell shares slide 17% in two days as Barclays questions enterprise AI demand",
-      "link": "https://investinglive.com/stocks/icymi-dell-shares-slide-17-in-two-days-as-barclays-questions-enterprise-ai-demand/",
-      "date": "2026-10-15"
     }
   ]
 }
