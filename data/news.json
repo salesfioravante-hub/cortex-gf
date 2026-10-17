@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Christine Lagarde: IMFC Statement",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+      "date": "2026-10-17"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
@@ -107,13 +114,6 @@
       "source": "BCE",
       "title": "Meeting of 9-10 September 2026",
       "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
-      "date": "2026-10-08"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Piero Cipollone: Interview with Corriere della Sera",
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
       "date": "2026-10-08"
     }
   ],
