@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-18",
+  "asof": "2026-10-19",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,6 +121,48 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Microsoft quits Nscale UK data centre deal ahead of planned $3 billion IPO",
+      "link": "https://investinglive.com/stocks/microsoft-quits-nscale-uk-data-centre-deal-ahead-of-planned-3-billion-ipo/",
+      "date": "2026-10-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Only a third of the US data centre pipeline looks credible as AI financing strains build",
+      "link": "https://investinglive.com/news/only-a-third-of-the-us-data-centre-pipeline-looks-credible-as-ai-financing-strains-build/",
+      "date": "2026-10-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Putin floats Trump-Xi summit on Ukraine at APEC, leaving Kyiv out of the room",
+      "link": "https://investinglive.com/commodities/putin-floats-trump-xi-summit-on-ukraine-at-apec-leaving-kyiv-out-of-the-room/",
+      "date": "2026-10-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Oil dips as Trump waives Russia energy sanctions, offsetting Hormuz tanker blast",
+      "link": "https://investinglive.com/commodities/oil-dips-as-trump-waives-russia-energy-sanctions-offsetting-hormuz-tanker-blast/",
+      "date": "2026-10-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "New Zealand trade deficit widens to nearly NZ$2 billion, more than double forecasts",
+      "link": "https://investinglive.com/news/new-zealand-trade-deficit-widens-to-nearly-nz-2-billion-more-than-double-forecasts/",
+      "date": "2026-10-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "China data preview: industry holds up, consumers and property lag ahead of Q3 GDP",
+      "link": "https://investinglive.com/news/china-data-preview-industry-holds-up-consumers-and-property-lag-ahead-of-q3-gdp/",
+      "date": "2026-10-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Economic and event calendar in Asia - China data the focus",
       "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-china-data-the-focus/",
       "date": "2026-10-18"
@@ -179,48 +221,6 @@
       "source": "ForexLive",
       "title": "investingLive Americas market news wrap: Nasdaq sinks and oil jumps",
       "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-nasdaq-sinks-and-oil-jumps/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Oil prices surge higher into the weekend",
-      "link": "https://investinglive.com/commodities/oil-prices-surge-higher-into-the-weekend/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US fiscal 2026 budget deficit was the largest in five years",
-      "link": "https://investinglive.com/news/us-fiscal-2026-budget-deficit-was-the-largest-in-five-years/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "AI names fall as the Nasdaq comes under fresh pressure",
-      "link": "https://investinglive.com/stocks/ai-names-fall-as-the-nasdaq-comes-under-fresh-pressure/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stocks finish higher, posting weekly gains as U.S. technology shares struggle",
-      "link": "https://investinglive.com/stocks/european-stocks-finish-higher-posting-weekly-gains-as-u-s-technology-shares-struggle/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The broader US stock indices are lower but showing different degrees of technical bias",
-      "link": "https://investinglive.com/stocks/the-broader-us-stock-indices-are-lower-but-showing-different-degrees-of-technical-bias/",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Flying car. Grounded stock. The technicals are not leaning to a \"take-off\" for Tesla stock",
-      "link": "https://investinglive.com/education/flying-car-grounded-stock-the-technicals-are-not-leaning-to-a-take-off-for-tesla-stock/",
       "date": "2026-10-16"
     }
   ]
