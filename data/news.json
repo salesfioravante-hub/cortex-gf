@@ -7,6 +7,13 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+      "date": "2026-10-19"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "Christine Lagarde: IMFC Statement",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
       "date": "2026-10-17"
@@ -108,120 +115,113 @@
       "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
       "link": "",
       "date": "2026-10-08"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Meeting of 9-10 September 2026",
-      "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
-      "date": "2026-10-08"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Microsoft quits Nscale UK data centre deal ahead of planned $3 billion IPO",
-      "link": "https://investinglive.com/stocks/microsoft-quits-nscale-uk-data-centre-deal-ahead-of-planned-3-billion-ipo/",
-      "date": "2026-10-18"
+      "title": "Gold eyes another run at $4,200 but the bond market still holds the key",
+      "link": "https://investinglive.com/commodities/gold-eyes-another-run-at-4-200-but-the-bond-market-still-holds-the-key/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Only a third of the US data centre pipeline looks credible as AI financing strains build",
-      "link": "https://investinglive.com/news/only-a-third-of-the-us-data-centre-pipeline-looks-credible-as-ai-financing-strains-build/",
-      "date": "2026-10-18"
+      "title": "Market outlook for the week of 19th-23rd October",
+      "link": "https://investinglive.com/forex/market-outlook-for-the-week-of-19th-23rd-october/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Putin floats Trump-Xi summit on Ukraine at APEC, leaving Kyiv out of the room",
-      "link": "https://investinglive.com/commodities/putin-floats-trump-xi-summit-on-ukraine-at-apec-leaving-kyiv-out-of-the-room/",
-      "date": "2026-10-18"
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-66/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil dips as Trump waives Russia energy sanctions, offsetting Hormuz tanker blast",
-      "link": "https://investinglive.com/commodities/oil-dips-as-trump-waives-russia-energy-sanctions-offsetting-hormuz-tanker-blast/",
-      "date": "2026-10-18"
+      "title": "FX option expiries for 19 October 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-19-october-10am-new-york-cut/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "New Zealand trade deficit widens to nearly NZ$2 billion, more than double forecasts",
-      "link": "https://investinglive.com/news/new-zealand-trade-deficit-widens-to-nearly-nz-2-billion-more-than-double-forecasts/",
-      "date": "2026-10-18"
+      "title": "US futures look to rebound after tech rout but the real test is still ahead",
+      "link": "https://investinglive.com/stocks/us-futures-look-to-rebound-after-tech-rout-but-the-real-test-is-still-ahead/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China data preview: industry holds up, consumers and property lag ahead of Q3 GDP",
-      "link": "https://investinglive.com/news/china-data-preview-industry-holds-up-consumers-and-property-lag-ahead-of-q3-gdp/",
-      "date": "2026-10-18"
+      "title": "investingLive Asia-Pacific market news: China beats, the euro wobbles and oil dips",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-china-beats-the-euro-wobbles-and-oil-dips/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Economic and event calendar in Asia - China data the focus",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-china-data-the-focus/",
-      "date": "2026-10-18"
+      "title": "Crypto: Qubic halts network after weak wallet seeds let attacker drain 1,404 wallets",
+      "link": "https://investinglive.com/cryptocurrency/crypto-qubic-halts-network-after-weak-wallet-seeds-let-attacker-drain-1-404-wallets/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "New Zealand services sector grows for four months straight as PSI holds at 50.9",
-      "link": "https://investinglive.com/news/new-zealand-services-sector-grows-for-four-months-straight-as-psi-holds-at-50-9/",
-      "date": "2026-10-18"
+      "title": "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since March",
+      "link": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Euro slides against Australian dollar as three European headwinds hit early trade",
-      "link": "https://investinglive.com/forex/euro-slides-against-australian-dollar-as-three-european-headwinds-hit-early-trade/",
-      "date": "2026-10-18"
+      "title": "China moves to prop up stocks with selling curbs, buybacks after 10% slide this year",
+      "link": "https://investinglive.com/news/china-moves-to-prop-up-stocks-with-selling-curbs-buybacks-after-10-slide-this-year/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "EUR update, France riots: 2,400 arrested as cost-of-living protests turn to looting and arson",
-      "link": "https://investinglive.com/forex/eur-update-france-riots-2-400-arrested-as-cost-of-living-protests-turn-to-looting-and-arson/",
-      "date": "2026-10-18"
+      "title": "China Q3 GDP beats estimates, as does September retail sales",
+      "link": "https://investinglive.com/news/china-q3-gdp-beats-estimates-as-does-september-retail-sales/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US threatens EU with devastating retaliation if Brussels curbs Starlink spectrum access",
-      "link": "https://investinglive.com/news/us-threatens-eu-with-devastating-retaliation-if-brussels-curbs-starlink-spectrum-access/",
-      "date": "2026-10-18"
+      "title": "China home price declines ease in September, ahead of Q3 GDP seen at 4.4%",
+      "link": "https://investinglive.com/news/china-home-price-declines-ease-in-september-ahead-of-q3-gdp-seen-at-4-4/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesday",
-      "link": "https://investinglive.com/news/romanian-f-16s-shoot-down-two-drones-over-black-sea-nato-council-to-meet-tuesday/",
-      "date": "2026-10-18"
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7208 (vs. estimate at 6.6897)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7208-vs-estimate-at-6-6897/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Monday open indicative forex prices, 19 October 2026",
-      "link": "https://investinglive.com/forex/monday-open-indicative-forex-prices-19-october-2026/",
-      "date": "2026-10-18"
+      "title": "Goldman Sachs sees S&P 500 earnings at $415 in 2027 but warns narrow leadership is a risk",
+      "link": "https://investinglive.com/stock-market-update/goldman-sachs-sees-s-p-500-earnings-at-415-in-2027-but-warns-narrow-leadership-is-a-risk/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "S&P 500 analysis and forecast after the \"AI bubble\" panic",
-      "link": "https://investinglive.com/technical-analysis/s-p-500-analysis-and-forecast-after-the-ai-bubble-panic/",
-      "date": "2026-10-17"
+      "title": "More BoJ’s Ueda names two factors for bond market action, keeps JGB taper plan unchanged",
+      "link": "https://investinglive.com/central-banks/more-boj-s-ueda-names-two-factors-for-bond-market-action-keeps-jgb-taper-plan-unchanged/",
+      "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Americas market news wrap: Nasdaq sinks and oil jumps",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-nasdaq-sinks-and-oil-jumps/",
-      "date": "2026-10-16"
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6897 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6897-reuters-estimate/",
+      "date": "2026-10-19"
     }
   ]
 }
