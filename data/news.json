@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-19",
+  "asof": "2026-10-20",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trump approval falls to record low. Poll shows Republicans losing badly in midterms",
-      "link": "https://investinglive.com/news/trump-approval-falls-to-record-low-poll-shows-republicans-losing-badly-in-midterms/",
+      "title": "JPMorgan brings JPM Coin to Ethereum mainnet: what changes, and what it means for ETH",
+      "link": "https://investinglive.com/cryptocurrency/jpmorgan-brings-jpm-coin-to-ethereum-mainnet-what-changes-and-what-it-means-for-eth/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "USDJPY buyers land the punches, but sellers are still standing",
-      "link": "https://investinglive.com/technical-analysis/usdjpy-buyers-land-the-punches-but-sellers-are-still-standing/",
+      "title": "BlackRock says French bond sell-off is a lesson in selectivity, upgrades US Treasuries",
+      "link": "https://investinglive.com/stock-market-update/blackrock-says-french-bond-sell-off-is-a-lesson-in-selectivity-upgrades-us-treasuries/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "CIBC cuts gold forecasts but still sees $5,500 in 2028",
-      "link": "https://investinglive.com/commodities/cibc-cuts-gold-forecasts-but-still-sees-5-500-in-2028/",
+      "title": "Trump holds up Patriot missiles for Ukraine as Russian strikes intensify, officials say",
+      "link": "https://investinglive.com/commodities/trump-holds-up-patriot-missiles-for-ukraine-as-russian-strikes-intensify-officials-say/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Broader tech focused indices are higher. How are some of the Magnificent 7 fairing technically?",
-      "link": "https://investinglive.com/stocks/broader-tech-focused-indices-are-higher-how-are-some-of-the-magnificent-7-fairing-technically/",
+      "title": "Explainer: China eyes overnight rate as main policy tool, what it means for markets",
+      "link": "https://investinglive.com/education/explainer-china-eyes-overnight-rate-as-main-policy-tool-what-it-means-for-markets/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil reverses course higher after US and Houthi attacks",
-      "link": "https://investinglive.com/commodities/oil-reverses-course-higher-after-us-and-houthi-attacks/",
+      "title": "Goldman Sachs sees $25 war risk premium in Brent, forecasts $90 in December and $80 in 2027",
+      "link": "https://investinglive.com/commodities/goldman-sachs-sees-25-war-risk-premium-in-brent-forecasts-90-in-december-and-80-in-2027/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "European stocks close lower across the board as bond yields climb",
-      "link": "https://investinglive.com/stocks/european-stocks-close-lower-across-the-board-as-bond-yields-climb/",
+      "title": "UBS sees euro recovering to $1.16 by year-end, says slide to $1.11 overshoots fundamentals",
+      "link": "https://investinglive.com/forex/ubs-sees-euro-recovering-to-1-16-by-year-end-says-slide-to-1-11-overshoots-fundamentals/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bank of Canada Q3 business outlook survey -0.33 vs -0.38 prior",
-      "link": "https://investinglive.com/news/bank-of-canada-q3-business-outlook-survey-0-33-vs-0-38-prior/",
+      "title": "UBS says neocloud sell-off does not derail AI boom, favours hyperscalers and chipmakers",
+      "link": "https://investinglive.com/stocks/ubs-says-neocloud-sell-off-does-not-derail-ai-boom-favours-hyperscalers-and-chipmakers/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bitcoin trades in a neutral technical territory as the buyers and sellers continue to resolve their battle",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-trades-in-a-neutral-technical-territory-as-the-buyers-and-sellers-continue-to-resolve-their-battle/",
+      "title": "US strategic oil reserve falls to lowest since 1982 as Iran war release drains stocks",
+      "link": "https://investinglive.com/commodities/us-strategic-oil-reserve-falls-to-lowest-since-1982-as-iran-war-release-drains-stocks/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Stock market shows an interesting hidden hint about investor confidence coming into earnings",
-      "link": "https://investinglive.com/stocks/stock-market-shows-an-interesting-hidden-hint-about-investor-confidence-coming-into-earnings/",
+      "title": "Goldman Sachs estimates central banks bought 79 tonnes of gold in August, led by China",
+      "link": "https://investinglive.com/commodities/goldman-sachs-estimates-central-banks-bought-79-tonnes-of-gold-in-august-led-by-china/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US NAHB housing market index 29 vs 31 prior",
-      "link": "https://investinglive.com/news/us-nahb-housing-market-index-29-vs-31-prior/",
+      "title": "Bank of Canada preview: Scotiabank expects a 25 bp hike next week despite softer core CPI",
+      "link": "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nasdaq leads the rebound as tech stocks find buyers",
-      "link": "https://investinglive.com/stocks/nasdaq-leads-the-rebound-as-tech-stocks-find-buyers/",
+      "title": "Morgan Stanley IM says bond yields are rising for the right reasons, favours US and Japan",
+      "link": "https://investinglive.com/stock-market-update/morgan-stanley-im-says-bond-yields-are-rising-for-the-right-reasons-favours-us-and-japan/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "USDCAD bounces after softer CPI data but they have work to do.",
-      "link": "https://investinglive.com/technical-analysis/usdcad-bounces-after-softer-cpi-data-but-they-have-work-to-do/",
+      "title": "Goldman Sachs says rising global bond yields reflect a growing competition for capital",
+      "link": "https://investinglive.com/stocks/goldman-sachs-says-rising-global-bond-yields-reflect-a-growing-competition-for-capital/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Canada September CPI 3.1% y/y vs 3.2% expected",
-      "link": "https://investinglive.com/news/canada-september-cpi-3-1-y-y-vs-3-2-expected/",
+      "title": "Nasdaq and S&P rebounds; Dow slips",
+      "link": "https://investinglive.com/stocks/nasdaq-and-s-p-rebounds-dow-slips/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Morning Kickstart: Dollar mixed as US–Iran hopes weigh on oil; Nasdaq futures rise",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-mixed-as-us-iran-hopes-weigh-on-oil-nasdaq-futures-rise/",
+      "title": "NZDUSD buyers build momentum as the recovery approaches its next resistance test",
+      "link": "https://investinglive.com/technical-analysis/nzdusd-buyers-build-momentum-as-the-recovery-approaches-its-next-resistance-test/",
       "date": "2026-10-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Why do central banks target 2% inflation instead of 0%?",
-      "link": "https://investinglive.com/education/why-do-central-banks-target-2-inflation-instead-of-0/",
+      "title": "investingLive Americas market news wrap: AI trades rebound but so does oil",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-ai-trades-rebound-but-so-does-oil/",
       "date": "2026-10-19"
     }
   ]

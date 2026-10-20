@@ -1,24 +1,19 @@
 {
-  "asof": "2026-10-19",
+  "asof": "2026-10-20",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 3 releases (EUA) — 2026-10-29 Gross Domestic Product; 2026-10-29 Personal Income and Outlays; 2026-10-30 Employment Cost Index",
+    "FRED: 4 releases (EUA) — 2026-10-29 Gross Domestic Product; 2026-10-29 Personal Income and Outlays; 2026-10-30 Employment Cost Index; 2026-11-03 Job Openings and Labor Turnover Survey",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 5 eventos"
+    "ForexFactory: 2 eventos"
   ],
   "byCurrency": {
     "USD": {
       "date": "2026-10-29",
       "title": "Gross Domestic Product",
       "forecast": ""
-    },
-    "CAD": {
-      "date": "2026-10-19",
-      "title": "CPI m/m",
-      "forecast": "0.2%"
     },
     "GBP": {
       "date": "2026-10-21",
