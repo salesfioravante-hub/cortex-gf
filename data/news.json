@@ -7,6 +7,13 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
       "date": "2026-10-21"
@@ -24,13 +31,6 @@
       "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
       "date": "2026-10-19"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Christine Lagarde: IMFC Statement",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
-      "date": "2026-10-17"
     },
     {
       "cur": "USD",
@@ -121,6 +121,97 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Macro pulse: Is the BOJ about to raise interest rates at the worst possible time?",
+      "link": "https://investinglive.com/education/macro-pulse-is-the-boj-about-to-raise-interest-rates-at-the-worst-possible-time/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Silver whipsaws on conflicting US-Iran deal reports as markets hope for breakthrough ahead of midterms",
+      "link": "https://investinglive.com/commodities/silver-whipsaws-on-conflicting-us-iran-deal-reports-as-markets-hope-for-breakthrough-ahead-of-midterms/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "HOLA PRIME SIMPLIFIES PROP TRADING RULES WITH LAUNCH OF IT’S RULEBOOK",
+      "link": "https://investinglive.com/education/hola-prime-simplifies-prop-trading-rules-with-launch-of-it-s-rulebook/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "European stock market open: Stocks tread cautiously as French bond market keeps the mood in check",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-tread-cautiously-as-french-bond-market-keeps-the-mood-in-check/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Chart of the day: Gold price eyes $4,100 support as $4,200 resistance keeps bulls in check",
+      "link": "https://investinglive.com/technical-analysis/chart-of-the-day-gold-price-eyes-4-100-support-as-4-200-resistance-keeps-bulls-in-check/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Why Treasury yields move together but become more volatile further out the curve",
+      "link": "https://investinglive.com/education/why-treasury-yields-move-together-but-become-more-volatile-further-out-the-curve/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-68/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UK September CPI inflation rises to 3.5%, reinforces BOE November rate hike expectations",
+      "link": "https://investinglive.com/news/uk-september-cpi-inflation-rises-to-3-5-reinforces-boe-november-rate-hike-expectations/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Social unrest pressures European markets",
+      "link": "https://investinglive.com/education/social-unrest-pressures-european-markets/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "GBP/EUR Surge: Can the Rally Continue?",
+      "link": "https://investinglive.com/education/gbp-eur-surge-can-the-rally-continue-0/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FX option expiries for 21 October 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-21-october-10am-new-york-cut/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "BOJ policymaker Himino warns of upside inflation risks as Japan nears 2% target",
+      "link": "https://investinglive.com/central-banks/boj-policymaker-himino-warns-of-upside-inflation-risks-as-japan-nears-2-target/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in",
+      "link": "https://investinglive.com/news/heads-up-uk-september-cpi-inflation-report-due-today-boe-rate-hike-for-november-almost-fully-priced-in/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "investingLive Asia-Pacific market news: RBA’s Hauser puts November hike in play",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-s-hauser-puts-november-hike-in-play/",
       "date": "2026-10-21"
@@ -131,97 +222,6 @@
       "title": "NEXTDC shares plunge 44% as power delays expose AI data centre bottleneck",
       "link": "https://investinglive.com/stocks/nextdc-shares-plunge-44-as-power-delays-expose-ai-data-centre-bottleneck/",
       "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Nvidia in talks to invest hundreds of millions in Firmus after AI cloud firm’s IPO flop",
-      "link": "https://investinglive.com/stocks/nvidia-in-talks-to-invest-hundreds-of-millions-in-firmus-after-ai-cloud-firm-s-ipo-flop/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US intel says Putin ordered NATO sabotage drive, Leipzig drone attack an opening shot",
-      "link": "https://investinglive.com/news/us-intel-says-putin-ordered-nato-sabotage-drive-leipzig-drone-attack-an-opening-shot/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Japan’s Katayama sees no gap with BOJ, says wage-driven inflation is near",
-      "link": "https://investinglive.com/central-banks/japan-s-katayama-sees-no-gap-with-boj-says-wage-driven-inflation-is-near/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY mid-point today at 6.7192 (vs. estimate at 6.6779)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-vs-estimate-at-6-6779/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Japan exports rise 16.7% for 13th straight month on AI chip demand, trade gap narrows",
-      "link": "https://investinglive.com/news/japan-exports-rise-16-7-for-13th-straight-month-on-ai-chip-demand-trade-gap-narrows/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6779 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6779-reuters-estimate/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Citadel’s Griffin says AI “almost certainly” a bubble, even as demand signals stay strong",
-      "link": "https://investinglive.com/stock-market-update/citadel-s-griffin-says-ai-almost-certainly-a-bubble-even-as-demand-signals-stay-strong/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "SpaceX’s Musk says Tesla merger good idea but far from certain, needs 50% of Tesla shares",
-      "link": "https://investinglive.com/stocks/spacex-s-musk-says-tesla-merger-good-idea-but-far-from-certain-needs-50-of-tesla-shares/",
-      "date": "2026-10-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "UBS flags 3 tests for the AI trade as Meta kicks off mega-cap tech earnings",
-      "link": "https://investinglive.com/stocks/ubs-flags-3-tests-for-the-ai-trade-as-meta-kicks-off-mega-cap-tech-earnings/",
-      "date": "2026-10-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Super Micro shares jump 14% as preliminary revenue tops forecast by about $4 billion",
-      "link": "https://investinglive.com/stocks/super-micro-shares-jump-14-as-preliminary-revenue-tops-forecast-by-about-4-billion/",
-      "date": "2026-10-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Goldman Sachs says 6% nominal growth, not 5% yields, is what matters for small caps",
-      "link": "https://investinglive.com/stock-market-update/goldman-sachs-says-6-nominal-growth-not-5-yields-is-what-matters-for-small-caps/",
-      "date": "2026-10-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "More from RBA’s (hawkish) Hauser: Q3 trimmed mean set to run hotter than expected",
-      "link": "https://investinglive.com/central-banks/more-from-rba-s-hawkish-hauser-q3-trimmed-mean-set-to-run-hotter-than-expected/",
-      "date": "2026-10-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BOJ seen lifting rates to 1.50% in December as 69% of economists expect a Q4 hike",
-      "link": "https://investinglive.com/central-banks/boj-seen-lifting-rates-to-1-50-in-december-as-69-of-economists-expect-a-q4-hike/",
-      "date": "2026-10-20"
     }
   ]
 }
