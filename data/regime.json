@@ -1,27 +1,22 @@
 {
-  "asof": "2026-10-19",
+  "asof": "2026-10-21",
   "source": "FRED (Federal Reserve Bank of St. Louis)",
-  "status": "ok",
-  "series_ok": "7/7",
+  "status": "erro",
+  "series_ok": "0/7",
   "regime": {
-    "dxy": "up",
-    "us10y": "up",
+    "dxy": "flat",
+    "us10y": "flat",
     "vix": "normal",
     "growth": "down",
-    "infl": "down"
+    "infl": "up"
   },
   "commodity": {
     "XAUUSD": {
-      "realYield": -2
+      "realYield": 0
     },
     "XAGUSD": {
-      "realYield": -1
+      "realYield": 0
     }
   },
-  "values": {
-    "vix": 18.44,
-    "dxy": 121.4048,
-    "us10y": 5.15,
-    "realyield": 2.8
-  }
+  "values": {}
 }
