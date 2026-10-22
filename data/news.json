@@ -1,9 +1,16 @@
 {
-  "asof": "2026-10-21",
+  "asof": "2026-10-22",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Bank of Japan Accounts (October 20)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
+      "date": "2026-10-22"
+    },
     {
       "cur": "EUR",
       "source": "BCE",
@@ -82,13 +89,6 @@
       "date": "2026-10-15"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
-      "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261015a.htm",
-      "date": "2026-10-15"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
@@ -121,6 +121,97 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "investingLive Asia-Pacific market news: Asian stocks slide, dollar slips",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-stocks-slide-dollar-slips/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Kinder Morgan commits to $4.2B Texas gas pipeline to fuel hyperscale data center power",
+      "link": "https://investinglive.com/stocks/kinder-morgan-commits-to-4-2b-texas-gas-pipeline-to-fuel-hyperscale-data-center-power/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Most analysts now expect the next BOJ rate hike in December, none see October move: Bloomberg",
+      "link": "https://investinglive.com/central-banks/most-analysts-now-expect-the-next-boj-rate-hike-in-december-none-see-october-move-bloomberg/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Musk races to seal $3.7 trillion SpaceX-Tesla merger before Trump exits, Bloomberg says",
+      "link": "https://investinglive.com/stocks/musk-races-to-seal-3-7-trillion-spacex-tesla-merger-before-trump-exits-bloomberg-says/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bank of Korea holds rate at 3% after back-to-back hikes, keeps door open to November move",
+      "link": "https://investinglive.com/central-banks/bank-of-korea-holds-rate-at-3-after-back-to-back-hikes-keeps-door-open-to-november-move/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7195 (vs. estimate at 6.6756)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7195-vs-estimate-at-6-6756/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Iran’s floating oil reserves in Asia run dry under US naval blockade, WSJ reports",
+      "link": "https://investinglive.com/commodities/iran-s-floating-oil-reserves-in-asia-run-dry-under-us-naval-blockade-wsj-reports/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitmine’s 5% hard cap leaves Ether’s biggest corporate buyer weeks from the exit",
+      "link": "https://investinglive.com/cryptocurrency/bitmine-s-5-hard-cap-leaves-ether-s-biggest-corporate-buyer-weeks-from-the-exit/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Ray Dalio warns US bond bear market has a long way to go as debt supply swamps demand",
+      "link": "https://investinglive.com/stocks/ray-dalio-warns-us-bond-bear-market-has-a-long-way-to-go-as-debt-supply-swamps-demand/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6756 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6756-reuters-estimate/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US and Israel plan specific renewed Iran strikes after US midterms, New York Times reports",
+      "link": "https://investinglive.com/commodities/us-and-israel-plan-specific-renewed-iran-strikes-after-us-midterms-new-york-times-reports/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "BoE preview: MUFG expects November rate hike as energy shock pushes UK inflation above 4%",
+      "link": "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on track",
+      "link": "https://investinglive.com/news/new-zealand-inflation-slows-to-3-7-in-q3-below-forecasts-keeping-rbnz-hike-on-track/",
+      "date": "2026-10-21"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Bank of Korea expected to hold rates today after two hikes, tightening cycle seen intact",
       "link": "https://investinglive.com/central-banks/bank-of-korea-expected-to-hold-rates-today-after-two-hikes-tightening-cycle-seen-intact/",
       "date": "2026-10-21"
@@ -130,97 +221,6 @@
       "source": "ForexLive",
       "title": "BlackRock’s Hambro sees gold rising on debt and deficits",
       "link": "https://investinglive.com/commodities/blackrock-s-hambro-sees-gold-rising-on-debt-and-deficits/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "JPMorgan doubles SpaceX target to $500 on AI growth, maps out possible Tesla merger",
-      "link": "https://investinglive.com/stocks/jpmorgan-doubles-spacex-target-to-500-on-ai-growth-maps-out-possible-tesla-merger/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Tesla earnings call: Targets 5 million cars a year by 2030, says 2027 Megapack supply nearly sold out",
-      "link": "https://investinglive.com/stocks/tesla-earnings-call-targets-5-million-cars-a-year-by-2030-says-2027-megapack-supply-nearly-sold-out/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "New Zealand Q3 CPI 3.7% y/y (expected 3.8%, prior 4.1%)",
-      "link": "https://investinglive.com/news/new-zealand-q3-cp-y-y-expected-3-8-prior-4-1/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "More on Meta earnings (call): Plans effective 2-for-1 split via non-voting shares, confirms $9.9B Q3 legal charge",
-      "link": "https://investinglive.com/stocks/more-on-meta-earnings-call-plans-effective-2-for-1-split-via-non-voting-shares-confirms-9-9b-q3-legal-charge/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Reports: US reduces troops and diplomats across Middle East amid threat of military action on Iran",
-      "link": "https://investinglive.com/commodities/reports-us-reduces-troops-and-diplomats-across-middle-east-amid-threat-of-military-action-on-iran/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BlackRock’s Rieder sees historic opportunity in high-grade bonds, including hyperscalers",
-      "link": "https://investinglive.com/stock-market-update/blackrock-s-rieder-sees-historic-opportunity-in-high-grade-bonds-including-hyperscalers/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 21 Oct: Nasdaq leads as AI optimism offsets Gulf oil risks",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-oct-nasdaq-leads-as-ai-optimism-offsets-gulf-oil-risks/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US stocks close higher as tech leads the rally",
-      "link": "https://investinglive.com/stocks/us-stocks-close-higher-as-tech-leads-the-rally/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Tesla Q3 earnings beat as margins and cash flow surprise, revenue narrowly misses",
-      "link": "https://investinglive.com/stocks/tesla-q3-earnings-beat-as-margins-and-cash-flow-surprise-revenue-narrowly-misses/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Meta Q3 beats on revenue and EPS as $9.9B legal charge lifts full-year expense outlook",
-      "link": "https://investinglive.com/stocks/meta-q3-beats-on-revenue-and-eps-as-9-9b-legal-charge-lifts-full-year-expense-outlook/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "New Zealand CPI preview: Q3 inflation seen easing to 3.8% ahead of likely RBNZ hike",
-      "link": "https://investinglive.com/central-banks/new-zealand-cpi-preview-q3-inflation-seen-easing-to-3-8-ahead-of-likely-rbnz-hike/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US State Department is to prepared to issue a order departure at US embassies in the Gulf",
-      "link": "https://investinglive.com/news/us-state-department-is-to-prepared-to-issue-a-order-departure-at-us-embassies-in-the-gulf/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "NZDUSD Technicals: The NZDUSD is stretching to a new high since September 23.",
-      "link": "https://investinglive.com/technical-analysis/nzdusd-technicals-the-nzdusd-is-stretching-to-a-new-high-since-september-23/",
       "date": "2026-10-21"
     }
   ]
