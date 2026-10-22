@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
+      "link": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
+      "date": "2026-10-22"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
@@ -96,13 +103,6 @@
       "date": "2026-10-13"
     },
     {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Minutes of the Money Market Committee meeting – September 2026",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
-      "date": "2026-10-13"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
@@ -121,6 +121,97 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "SK hynix drops US IPO plan for Solidigm, once eyed at up to $150 billion valuation",
+      "link": "https://investinglive.com/stocks/sk-hynix-drops-us-ipo-plan-for-solidigm-once-eyed-at-up-to-150-billion-valuation/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12",
+      "link": "https://investinglive.com/central-banks/ecb-preview-mufg-sees-october-hold-two-hikes-ahead-see-eur-usd-year-end-at-1-12/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Australia flash PMI: private sector shrinks for first time in five months as prices rise",
+      "link": "https://investinglive.com/news/australia-flash-pmi-private-sector-shrinks-for-first-time-in-five-months-as-prices-rise/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "HSBC: Gold no short-term hedge for stocks, but three forces keep long-term case intact",
+      "link": "https://investinglive.com/commodities/hsbc-gold-no-short-term-hedge-for-stocks-but-three-forces-keep-long-term-case-intact/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "JPMorgan sees hedge fund de-risking limiting stock downside, with chips the key gauge",
+      "link": "https://investinglive.com/stock-market-update/jpmorgan-sees-hedge-fund-de-risking-limiting-stock-downside-with-chips-the-key-gauge/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ECB’s Panetta says rising yields a drag on growth, not a crisis, ahead of rate meeting",
+      "link": "https://investinglive.com/central-banks/ecb-s-panetta-says-rising-yields-a-drag-on-growth-not-a-crisis-ahead-of-rate-meeting/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas FX news wrap 22 Oct: Nasdaq sinks as AI worries bite; Treasury yields tumble",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-oct-nasdaq-sinks-as-ai-worries-bite-treasury-yields-tumble/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump invokes Defense Production Act for oil as pump prices bite 12 days before midterms",
+      "link": "https://investinglive.com/commodities/trump-invokes-defense-production-act-for-oil-as-pump-prices-bite-12-days-before-midterms/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "OpenAI close to raising up to $30 billion at $1.25 trillion valuation, UAE investors lead",
+      "link": "https://investinglive.com/stocks/openai-close-to-raising-up-to-30-billion-at-1-25-trillion-valuation-uae-investors-lead/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nasdaq sinks as chip stocks tumble",
+      "link": "https://investinglive.com/stocks/nasdaq-sinks-as-chip-stocks-tumble/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan CPI preview: core seen at 2.1%, topping BoJ target for first time since December",
+      "link": "https://investinglive.com/news/japan-cpi-preview-core-seen-at-2-1-topping-boj-target-for-first-time-since-december/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Economic and event calendar in Asia Friday, October 23, 2026 - Japan inflation data",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-october-23-2026-japan-inflation-data/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Mag 7 under pressure: Apple bucks the selling",
+      "link": "https://investinglive.com/stocks/mag-7-under-pressure-apple-bucks-the-selling/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Bitcoin follows the flows and today that flow is \"risk-off\" and selling.",
       "link": "https://investinglive.com/cryptocurrency/bitcoin-follows-the-flows-and-today-that-flow-is-risk-off-and-selling/",
       "date": "2026-10-22"
@@ -130,97 +221,6 @@
       "source": "ForexLive",
       "title": "The market now sees a 22% chance the Fed doesn't hike again this year",
       "link": "https://investinglive.com/central-banks/the-market-now-sees-a-22-chance-the-fed-doesn-t-hike-again-this-year/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The evidence mounts that the US dollar is leveraged to the AI trade",
-      "link": "https://investinglive.com/forex/the-evidence-mounts-that-the-us-dollar-is-leveraged-to-the-ai-trade/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US stocks are taking on water. What could steady the ships?",
-      "link": "https://investinglive.com/stocks/us-stocks-are-taking-on-water-what-could-steady-the-ships/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US treasury excels $26 billion of five-year tips at a high yield of 2.367%",
-      "link": "https://investinglive.com/news/us-treasury-excels-26-billion-of-five-year-tips-at-a-high-yield-of-2-367/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Meta shares fall 7% on huge spending plans",
-      "link": "https://investinglive.com/stocks/meta-shares-fall-7-on-huge-spending-plans/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US 10-year yields fall, near 5% level but it's for the wrong reasons",
-      "link": "https://investinglive.com/forex/us-10-year-yields-fall-near-5-level/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil buyers remain in control from a technical perspective. What would tilt the bias lower?",
-      "link": "https://investinglive.com/commodities/crude-oil-buyers-remain-in-control-from-a-technical-perspective-what-would-tilt-the-bias-lower/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The market can't shake off the stalemate in the Middle East",
-      "link": "https://investinglive.com/commodities/the-market-can-t-shake-off-the-stalemate-in-the-middle-east/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trading Education: Gold falls despite lower yields: A lesson in trading what the market gives you",
-      "link": "https://investinglive.com/education/trading-education-gold-falls-despite-lower-yields-a-lesson-in-trading-what-the-market-gives-you/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Netflix, Tesla and Meta earnings put Wall Street's cautious mood back in focus",
-      "link": "https://investinglive.com/stocks/netflix-tesla-and-meta-earnings-put-wall-street-s-cautious-mood-back-in-focus/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Canada September PPI +2.0% m/m vs +1.3% prior",
-      "link": "https://investinglive.com/news/canada-september-ppi-2-0-m-m-vs-1-3-prior/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US initial jobless claims 194K vs 200K estimate. Better than expected.",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-194k-vs-200k-estimate-better-than-expected/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Morning Kickstart: Stocks fall as oil rises on Iran risks",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-stocks-fall-as-oil-rises-on-iran-risks/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European session wrap: Dollar, yen and bonds kick it old school",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-yen-and-bonds-kick-it-old-school/",
       "date": "2026-10-22"
     }
   ]
