@@ -1,13 +1,19 @@
 {
   "asof": "2026-10-22",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
-  "status": "erro",
+  "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: Unexpected token '<', \"<!doctype \"... is not valid JSON",
+    "FRED: 4 releases (EUA) — 2026-10-29 Gross Domestic Product; 2026-10-29 Personal Income and Outlays; 2026-10-30 Employment Cost Index; 2026-11-03 Job Openings and Labor Turnover Survey",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
     "ForexFactory: 0 eventos"
   ],
-  "byCurrency": {}
+  "byCurrency": {
+    "USD": {
+      "date": "2026-10-29",
+      "title": "Gross Domestic Product",
+      "forecast": ""
+    }
+  }
 }

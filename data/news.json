@@ -7,6 +7,20 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Developments in Real Exports and Real Imports",
+      "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Bank of Japan Accounts (October 20)",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
       "date": "2026-10-22"
@@ -30,13 +44,6 @@
       "source": "BoJ",
       "title": "Senior Loan Officer Opinion Survey (Oct.)",
       "link": "http://www.boj.or.jp/en/statistics/dl/loan/loos/release/loos2610.pdf",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Statistics on Securities Financing Transactions in Japan",
-      "link": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
       "date": "2026-10-21"
     },
     {
@@ -65,13 +72,6 @@
       "source": "BoE",
       "title": "Banknote imagery advisory group minutes – 15 July 2026",
       "link": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "BOJ Current Account Balances by Sector (Sept.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
       "date": "2026-10-16"
     },
     {
@@ -121,6 +121,97 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Oil rises as hopes for a deal fade amid growing prospects of another US attack on Iran",
+      "link": "https://investinglive.com/commodities/oil-rises-as-hopes-for-a-deal-fade-amid-growing-prospects-of-another-us-attack-on-iran/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "EUR/CHF falls to three-month lows as French bond turmoil raises fresh euro risks",
+      "link": "https://investinglive.com/forex/eur-chf-falls-to-three-month-lows-as-french-bond-turmoil-raises-fresh-euro-risks/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Ethereum tumbles as renewed Middle East tensions weigh on risk sentiment. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-tumbles-as-renewed-middle-east-tensions-weigh-on-risk-sentiment-what-s-next/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US futures tumble as AI rally faces fresh scrutiny despite solid Meta earnings",
+      "link": "https://investinglive.com/stocks/us-futures-tumble-as-ai-rally-faces-fresh-scrutiny-despite-solid-meta-earnings/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "European stock market open: Stocks tumble as French debt worries and bond yields weigh on sentiment",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-tumble-as-french-debt-worries-and-bond-yields-weigh-on-sentiment/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold drops as Middle East tensions escalate, but growth concerns could provide support",
+      "link": "https://investinglive.com/commodities/gold-drops-as-middle-east-tensions-escalate-but-growth-concerns-could-provide-support/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "France business confidence improves in October but cracks remain beneath the surface",
+      "link": "https://investinglive.com/news/france-business-confidence-improves-in-october-but-cracks-remain-beneath-the-surface/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Is EUR/USD giving traders a false sense of security as euro risks mount?",
+      "link": "https://investinglive.com/forex/is-eur-usd-giving-traders-a-false-sense-of-security-as-euro-risks-mount/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-69/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FX option expiries for 22 October 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-22-october-10am-new-york-cut/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Chart of the day: Gold price falls below $4,100 as sellers threaten another breakdown",
+      "link": "https://investinglive.com/technical-analysis/chart-of-the-day-gold-price-falls-below-4-100-as-sellers-threaten-another-breakdown/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US-Iran tensions refuse to fade as fresh Strait of Hormuz attacks keep oil markets on edge",
+      "link": "https://investinglive.com/news/us-iran-tensions-refuse-to-fade-as-fresh-strait-of-hormuz-attacks-keep-oil-markets-on-edge/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The Floor 8 Moves From Launch Into Its Next Phase of Growth",
+      "link": "https://investinglive.com/education/the-floor-8-moves-from-launch-into-its-next-phase-of-growth-0/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "investingLive Asia-Pacific market news: Asian stocks slide, dollar slips",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-stocks-slide-dollar-slips/",
       "date": "2026-10-22"
@@ -131,97 +222,6 @@
       "title": "Kinder Morgan commits to $4.2B Texas gas pipeline to fuel hyperscale data center power",
       "link": "https://investinglive.com/stocks/kinder-morgan-commits-to-4-2b-texas-gas-pipeline-to-fuel-hyperscale-data-center-power/",
       "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Most analysts now expect the next BOJ rate hike in December, none see October move: Bloomberg",
-      "link": "https://investinglive.com/central-banks/most-analysts-now-expect-the-next-boj-rate-hike-in-december-none-see-october-move-bloomberg/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Musk races to seal $3.7 trillion SpaceX-Tesla merger before Trump exits, Bloomberg says",
-      "link": "https://investinglive.com/stocks/musk-races-to-seal-3-7-trillion-spacex-tesla-merger-before-trump-exits-bloomberg-says/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bank of Korea holds rate at 3% after back-to-back hikes, keeps door open to November move",
-      "link": "https://investinglive.com/central-banks/bank-of-korea-holds-rate-at-3-after-back-to-back-hikes-keeps-door-open-to-november-move/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7195 (vs. estimate at 6.6756)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7195-vs-estimate-at-6-6756/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Iran’s floating oil reserves in Asia run dry under US naval blockade, WSJ reports",
-      "link": "https://investinglive.com/commodities/iran-s-floating-oil-reserves-in-asia-run-dry-under-us-naval-blockade-wsj-reports/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitmine’s 5% hard cap leaves Ether’s biggest corporate buyer weeks from the exit",
-      "link": "https://investinglive.com/cryptocurrency/bitmine-s-5-hard-cap-leaves-ether-s-biggest-corporate-buyer-weeks-from-the-exit/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Ray Dalio warns US bond bear market has a long way to go as debt supply swamps demand",
-      "link": "https://investinglive.com/stocks/ray-dalio-warns-us-bond-bear-market-has-a-long-way-to-go-as-debt-supply-swamps-demand/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6756 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6756-reuters-estimate/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US and Israel plan specific renewed Iran strikes after US midterms, New York Times reports",
-      "link": "https://investinglive.com/commodities/us-and-israel-plan-specific-renewed-iran-strikes-after-us-midterms-new-york-times-reports/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BoE preview: MUFG expects November rate hike as energy shock pushes UK inflation above 4%",
-      "link": "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on track",
-      "link": "https://investinglive.com/news/new-zealand-inflation-slows-to-3-7-in-q3-below-forecasts-keeping-rbnz-hike-on-track/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bank of Korea expected to hold rates today after two hikes, tightening cycle seen intact",
-      "link": "https://investinglive.com/central-banks/bank-of-korea-expected-to-hold-rates-today-after-two-hikes-tightening-cycle-seen-intact/",
-      "date": "2026-10-21"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BlackRock’s Hambro sees gold rising on debt and deficits",
-      "link": "https://investinglive.com/commodities/blackrock-s-hambro-sees-gold-rising-on-debt-and-deficits/",
-      "date": "2026-10-21"
     }
   ]
 }
