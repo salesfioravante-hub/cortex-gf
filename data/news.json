@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-22",
+  "asof": "2026-10-23",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-stocks-slide-as-chip-rout-spreads/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "HSBC’s RedCoin stablecoin goes live in Hong Kong: what the launch answers, and what it still doesn’t",
+      "link": "https://investinglive.com/cryptocurrency/hsbc-s-redcoin-stablecoin-goes-live-in-hong-kong-what-the-launch-answers-and-what-it-still-doesn-t/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold drops below $4,000 for first time since July as yields and dollar weigh",
+      "link": "https://investinglive.com/commodities/gold-drops-below-4-000-for-first-time-since-july-as-yields-and-dollar-weigh/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Three AI listings stalled in a month: the money behind the AI boom is getting pickier",
+      "link": "https://investinglive.com/stock-market-update/three-ai-listings-stalled-in-a-month-the-money-behind-the-ai-boom-is-getting-pickier/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan’s 2.4% underlying inflation puts a higher BoJ terminal rate in play",
+      "link": "https://investinglive.com/central-banks/japan-s-2-4-underlying-inflation-puts-a-higher-boj-terminal-rate-in-play/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7180 (vs. estimate at 6.6758)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-vs-estimate-at-6-6758/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan flash PMI holds at 52.3 as services gain offsets factory slowdown before BoJ",
+      "link": "https://investinglive.com/news/japan-flash-pmi-holds-at-52-3-as-services-gain-offsets-factory-slowdown-before-boj/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6758 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6758-reuters-estimate/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What is blockchain finality? Why Bitcoin, Ethereum and Solana settle at very different speeds",
+      "link": "https://investinglive.com/cryptocurrency/what-is-blockchain-finality-why-bitcoin-ethereum-and-solana-settle-at-very-different-speeds/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan core inflation tops BoJ’s 2% target for first time since December, yen firms",
+      "link": "https://investinglive.com/forex/japan-core-inflation-tops-boj-s-2-target-for-first-time-since-december-yen-firms/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Solana’s Alpenglow upgrade cuts settlement to under a second: what it changes, and what it doesn’t, for SOL",
+      "link": "https://investinglive.com/cryptocurrency/solana-s-alpenglow-upgrade-cuts-settlement-to-under-a-second-what-it-changes-and-what-it-doesn-t-for-sol/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan September 2026 Headline CPI 2.1% y/y (expected 2.1%)",
+      "link": "https://investinglive.com/news/japan-september-2026-headline-cpi-2-1-y-y-expected-2-1/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Rosneft stretches refinery repairs from days to months as Ukraine strikes bite",
+      "link": "https://investinglive.com/commodities/rosneft-stretches-refinery-repairs-from-days-to-months-as-ukraine-strikes-bite/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Western Digital CEO says AI data beats compute as long-term bet after 55% revenue jump",
+      "link": "https://investinglive.com/stocks/western-digital-ceo-says-ai-data-beats-compute-as-long-term-bet-after-55-revenue-jump/",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "SK hynix drops US IPO plan for Solidigm, once eyed at up to $150 billion valuation",
       "link": "https://investinglive.com/stocks/sk-hynix-drops-us-ipo-plan-for-solidigm-once-eyed-at-up-to-150-billion-valuation/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12",
-      "link": "https://investinglive.com/central-banks/ecb-preview-mufg-sees-october-hold-two-hikes-ahead-see-eur-usd-year-end-at-1-12/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Australia flash PMI: private sector shrinks for first time in five months as prices rise",
-      "link": "https://investinglive.com/news/australia-flash-pmi-private-sector-shrinks-for-first-time-in-five-months-as-prices-rise/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "HSBC: Gold no short-term hedge for stocks, but three forces keep long-term case intact",
-      "link": "https://investinglive.com/commodities/hsbc-gold-no-short-term-hedge-for-stocks-but-three-forces-keep-long-term-case-intact/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "JPMorgan sees hedge fund de-risking limiting stock downside, with chips the key gauge",
-      "link": "https://investinglive.com/stock-market-update/jpmorgan-sees-hedge-fund-de-risking-limiting-stock-downside-with-chips-the-key-gauge/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ECB’s Panetta says rising yields a drag on growth, not a crisis, ahead of rate meeting",
-      "link": "https://investinglive.com/central-banks/ecb-s-panetta-says-rising-yields-a-drag-on-growth-not-a-crisis-ahead-of-rate-meeting/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 22 Oct: Nasdaq sinks as AI worries bite; Treasury yields tumble",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-oct-nasdaq-sinks-as-ai-worries-bite-treasury-yields-tumble/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump invokes Defense Production Act for oil as pump prices bite 12 days before midterms",
-      "link": "https://investinglive.com/commodities/trump-invokes-defense-production-act-for-oil-as-pump-prices-bite-12-days-before-midterms/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "OpenAI close to raising up to $30 billion at $1.25 trillion valuation, UAE investors lead",
-      "link": "https://investinglive.com/stocks/openai-close-to-raising-up-to-30-billion-at-1-25-trillion-valuation-uae-investors-lead/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Nasdaq sinks as chip stocks tumble",
-      "link": "https://investinglive.com/stocks/nasdaq-sinks-as-chip-stocks-tumble/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Japan CPI preview: core seen at 2.1%, topping BoJ target for first time since December",
-      "link": "https://investinglive.com/news/japan-cpi-preview-core-seen-at-2-1-topping-boj-target-for-first-time-since-december/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Economic and event calendar in Asia Friday, October 23, 2026 - Japan inflation data",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-october-23-2026-japan-inflation-data/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Mag 7 under pressure: Apple bucks the selling",
-      "link": "https://investinglive.com/stocks/mag-7-under-pressure-apple-bucks-the-selling/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin follows the flows and today that flow is \"risk-off\" and selling.",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-follows-the-flows-and-today-that-flow-is-risk-off-and-selling/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The market now sees a 22% chance the Fed doesn't hike again this year",
-      "link": "https://investinglive.com/central-banks/the-market-now-sees-a-22-chance-the-fed-doesn-t-hike-again-this-year/",
       "date": "2026-10-22"
     }
   ]
