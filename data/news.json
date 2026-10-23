@@ -5,10 +5,31 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "ECB Consumer Expectations Survey results – September 2026",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Financial System Report (October 2026)",
+      "link": "http://www.boj.or.jp/en/research/brp/fsr/fsr261023.htm",
+      "date": "2026-10-23"
+    },
+    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
       "link": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
+      "date": "2026-10-22"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Minutes of the Securities Lending Committee meeting – September 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
       "date": "2026-10-22"
     },
     {
@@ -47,25 +68,11 @@
       "date": "2026-10-21"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Senior Loan Officer Opinion Survey (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/dl/loan/loos/release/loos2610.pdf",
-      "date": "2026-10-21"
-    },
-    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Frank Elderson: Interview with Die Presse",
       "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
       "date": "2026-10-20"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-      "date": "2026-10-19"
     },
     {
       "cur": "USD",
@@ -86,13 +93,6 @@
       "source": "BoE",
       "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
       "link": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
-      "date": "2026-10-15"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026",
       "date": "2026-10-15"
     },
     {
@@ -121,6 +121,97 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Gold gets caught in market liquidation despite falling real yields supporting higher prices",
+      "link": "https://investinglive.com/commodities/gold-gets-caught-in-market-liquidation-despite-falling-real-yields-supporting-higher-prices/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dilemma alive",
+      "link": "https://investinglive.com/news/eurozone-october-pmi-misses-estimates-as-growth-slows-keeping-ecb-rate-hike-dilemma-alive/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trading Sphere is brewing something wicked this Halloween",
+      "link": "https://investinglive.com/education/trading-sphere-is-brewing-something-wicked-this-halloween/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "European stock market open: Stocks slip as weak French PMI adds to economic worries",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-slip-as-weak-french-pmi-adds-to-economic-worries/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "France October PMI slumps back into contraction as political uncertainty weighs on demand",
+      "link": "https://investinglive.com/news/france-october-pmi-slumps-back-into-contraction-as-political-uncertainty-weighs-on-demand/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UK October flash services PMI 53.1 vs 51.8 expected",
+      "link": "https://investinglive.com/news/uk-october-flash-services-pmi-53-1-vs-51-8-expected/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Germany October flash manufacturing PMI 54.2 vs 53.5 expected",
+      "link": "https://investinglive.com/news/germany-october-flash-manufacturing-pmi-54-2-vs-53-5-expected/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-70/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UK retail sales fall more than expected in September, complicating BOE rate hike outlook",
+      "link": "https://investinglive.com/news/uk-retail-sales-fall-more-than-expected-in-september-complicating-boe-rate-hike-outlook/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Falling Treasury yields may be hiding a darker story about the AI boom",
+      "link": "https://investinglive.com/education/falling-treasury-yields-may-be-hiding-a-darker-story-about-the-ai-boom/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trade Tech Solutions Launches Perpetual Futures Prop Firm Technology as Platform Surpasses 2 Million Users",
+      "link": "https://investinglive.com/education/trade-tech-solutions-launches-perpetual-futures-prop-firm-technology-as-platform-surpasses-2-million-users/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FX option expiries for 23 October 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-23-october-10am-new-york-cut/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Heads up: UK retail sales to test the case for further BOE rate hikes",
+      "link": "https://investinglive.com/news/heads-up-uk-retail-sales-to-test-the-case-for-further-boe-rate-hikes/",
+      "date": "2026-10-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-stocks-slide-as-chip-rout-spreads/",
       "date": "2026-10-23"
@@ -131,97 +222,6 @@
       "title": "HSBC’s RedCoin stablecoin goes live in Hong Kong: what the launch answers, and what it still doesn’t",
       "link": "https://investinglive.com/cryptocurrency/hsbc-s-redcoin-stablecoin-goes-live-in-hong-kong-what-the-launch-answers-and-what-it-still-doesn-t/",
       "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold drops below $4,000 for first time since July as yields and dollar weigh",
-      "link": "https://investinglive.com/commodities/gold-drops-below-4-000-for-first-time-since-july-as-yields-and-dollar-weigh/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Three AI listings stalled in a month: the money behind the AI boom is getting pickier",
-      "link": "https://investinglive.com/stock-market-update/three-ai-listings-stalled-in-a-month-the-money-behind-the-ai-boom-is-getting-pickier/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Japan’s 2.4% underlying inflation puts a higher BoJ terminal rate in play",
-      "link": "https://investinglive.com/central-banks/japan-s-2-4-underlying-inflation-puts-a-higher-boj-terminal-rate-in-play/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7180 (vs. estimate at 6.6758)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-vs-estimate-at-6-6758/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Japan flash PMI holds at 52.3 as services gain offsets factory slowdown before BoJ",
-      "link": "https://investinglive.com/news/japan-flash-pmi-holds-at-52-3-as-services-gain-offsets-factory-slowdown-before-boj/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6758 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6758-reuters-estimate/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "What is blockchain finality? Why Bitcoin, Ethereum and Solana settle at very different speeds",
-      "link": "https://investinglive.com/cryptocurrency/what-is-blockchain-finality-why-bitcoin-ethereum-and-solana-settle-at-very-different-speeds/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Japan core inflation tops BoJ’s 2% target for first time since December, yen firms",
-      "link": "https://investinglive.com/forex/japan-core-inflation-tops-boj-s-2-target-for-first-time-since-december-yen-firms/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Solana’s Alpenglow upgrade cuts settlement to under a second: what it changes, and what it doesn’t, for SOL",
-      "link": "https://investinglive.com/cryptocurrency/solana-s-alpenglow-upgrade-cuts-settlement-to-under-a-second-what-it-changes-and-what-it-doesn-t-for-sol/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Japan September 2026 Headline CPI 2.1% y/y (expected 2.1%)",
-      "link": "https://investinglive.com/news/japan-september-2026-headline-cpi-2-1-y-y-expected-2-1/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Rosneft stretches refinery repairs from days to months as Ukraine strikes bite",
-      "link": "https://investinglive.com/commodities/rosneft-stretches-refinery-repairs-from-days-to-months-as-ukraine-strikes-bite/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Western Digital CEO says AI data beats compute as long-term bet after 55% revenue jump",
-      "link": "https://investinglive.com/stocks/western-digital-ceo-says-ai-data-beats-compute-as-long-term-bet-after-55-revenue-jump/",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "SK hynix drops US IPO plan for Solidigm, once eyed at up to $150 billion valuation",
-      "link": "https://investinglive.com/stocks/sk-hynix-drops-us-ipo-plan-for-solidigm-once-eyed-at-up-to-150-billion-valuation/",
-      "date": "2026-10-22"
     }
   ]
 }
