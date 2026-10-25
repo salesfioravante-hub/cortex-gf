@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-24",
+  "asof": "2026-10-25",
   "source": "TradingView — Recommend.MA (tendência) × Recommend.Other (momentum), peso pelo ADX",
   "status": "ok",
   "count": "17/17",
@@ -11,7 +11,7 @@
     "vixVal": 19.44,
     "vixChg1h": -1.67,
     "tf": "1H",
-    "asof": "2026-10-24T23:03:13.951Z"
+    "asof": "2026-10-25T04:19:36.404Z"
   },
   "byAsset": {
     "EURUSD": {
