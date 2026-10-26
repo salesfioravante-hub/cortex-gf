@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-25",
+  "asof": "2026-10-26",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,6 +121,48 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Bank of Canada preview: 81% chance of first hike in a year to 2.50%, economists split",
+      "link": "https://investinglive.com/central-banks/bank-of-canada-preview-81-chance-of-first-hike-in-a-year-to-2-50-economists-split/",
+      "date": "2026-10-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Standard Chartered sees debt-funded share of AI capex rising to 40% in 2027 from 25%",
+      "link": "https://investinglive.com/stocks/standard-chartered-sees-debt-funded-share-of-ai-capex-rising-to-40-in-2027-from-25/",
+      "date": "2026-10-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "BOJ preview: Daiwa sees hold, but 2% inflation call could open door to December hike",
+      "link": "https://investinglive.com/central-banks/boj-preview-daiwa-sees-hold-but-2-inflation-call-could-open-door-to-december-hike/",
+      "date": "2026-10-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Strategy bitcoin purchases shrink as buybacks take priority ahead of earnings",
+      "link": "https://investinglive.com/cryptocurrency/strategy-bitcoin-purchases-shrink-as-buybacks-take-priority-ahead-of-earnings/",
+      "date": "2026-10-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin buyers are fighting back, but sellers aren't finished. Here are the two prices swing traders should watch",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-buyers-are-fighting-back-but-sellers-aren-t-finished-here-are-the-two-prices-swing-traders-should-watch/",
+      "date": "2026-10-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Preview: RBNZ set to lift OCR to 3% ahead of election as oil and weak kiwi fuel inflation",
+      "link": "https://investinglive.com/central-banks/preview-rbnz-set-to-lift-ocr-to-3-ahead-of-election-as-oil-and-weak-kiwi-fuel-inflation/",
+      "date": "2026-10-25"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech",
       "link": "https://investinglive.com/news/weekend-china-warns-of-countermeasures-as-us-treasury-widens-tech-investment-curbs-to-biotech/",
       "date": "2026-10-25"
@@ -179,48 +221,6 @@
       "source": "ForexLive",
       "title": "investingLive Americas market news wrap: War worries boost oil to the highest since May",
       "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump: We may do another operation against Iran",
-      "link": "https://investinglive.com/news/trump-we-may-do-another-operation-against-iran/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "NZDUSD buyers are trying to make a play. The 38.2% retracement remains the next hurdle.",
-      "link": "https://investinglive.com/technical-analysis/nzdusd-buyers-are-trying-to-make-a-play-the-38-2-retracement-remains-the-next-hurdle/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Earnings macro week ahead: The Fed and Big Tech report on the same day",
-      "link": "https://investinglive.com/stocks/earnings-macro-week-ahead-the-fed-and-big-tech-report-on-the-same-day/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US expected to remove 50% tariffs on some Canadian products as soon as today - report",
-      "link": "https://investinglive.com/news/us-expected-to-remove-50-tariffs-on-some-canadian-products-as-soon-as-today-report/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Baker Hughes US oil rig count rises 1 to  460. Total rigs unchanged at 603",
-      "link": "https://investinglive.com/commodities/baker-hughes-us-oil-rig-count-rises-1-to-460-total-rigs-unchanged-at-603/",
-      "date": "2026-10-23"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Biggest earnings week ahead: Can Microsoft, Alphabet and Amazon turn the Nasdaq tide? Or will the ships sink?",
-      "link": "https://investinglive.com/stocks/biggest-earnings-week-ahead-can-microsoft-alphabet-and-amazon-turn-the-nasdaq-tide-or-will-the-ships-sink/",
       "date": "2026-10-23"
     }
   ]
