@@ -7,6 +7,13 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "date": "2026-10-26"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
       "date": "2026-10-26"
@@ -68,13 +75,6 @@
       "date": "2026-10-22"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
-      "date": "2026-10-21"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Brazil ETF slumps on Lula win",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-brazil-etf-slumps-on-lula-win/",
+      "title": "Solana edges higher amid improved risk sentiment as immediate US-Iran escalation fears fade",
+      "link": "https://investinglive.com/cryptocurrency/solana-edges-higher-amid-improved-risk-sentiment-as-immediate-us-iran-escalation-fears-fade/",
       "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Brazil ETF tumbles nearly 15% in Tokyo after Lula’s comeback runoff win",
-      "link": "https://investinglive.com/news/brazil-etf-tumbles-nearly-15-in-tokyo-after-lula-s-comeback-runoff-win/",
+      "title": "Connecting the dots: Why are Treasury yields falling as AI credit risks rise?",
+      "link": "https://investinglive.com/education/connecting-the-dots-why-are-treasury-yields-falling-as-ai-credit-risks-rise/",
       "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Saudi Arabia to store crude in Singapore caverns from 2027 as Hormuz disruption bites",
-      "link": "https://investinglive.com/commodities/saudi-arabia-to-store-crude-in-singapore-caverns-from-2027-as-hormuz-disruption-bites/",
+      "title": "UK autumn budget preview: Can Healey calm markets and change BOE rate hike bets?",
+      "link": "https://investinglive.com/news/uk-autumn-budget-preview-can-healey-calm-markets-and-change-boe-rate-hike-bets/",
       "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman’s 79-tonne central bank gold estimate goes mainstream as reserves shift to London",
-      "link": "https://investinglive.com/commodities/goldman-s-79-tonne-central-bank-gold-estimate-goes-mainstream-as-reserves-shift-to-london/",
+      "title": "Oil retreats as Trump refrains from striking Iran over the weekend; risk of attacks keeps the market supported",
+      "link": "https://investinglive.com/commodities/oil-retreats-as-trump-refrains-from-striking-iran-over-the-weekend-risk-of-attacks-keeps-the-market-supported/",
       "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BOJ to hold at 1.25%, but Ueda signals further hikes toward neutral",
-      "link": "https://investinglive.com/central-banks/boj-to-hold-at-1-25-but-ueda-signals-further-hikes-toward-neutral/",
+      "title": "PrimeXBT’s PXTrader 2.0 platform: 5 Features to Check Out Before Your Next Trade",
+      "link": "https://investinglive.com/education/primexbt-s-pxtrader-2-0-platform-5-features-to-check-out-before-your-next-trade/",
       "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7162 (vs. estimate at 6.6691)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7162-vs-estimate-at-6-6691/",
+      "title": "Ethereum recovers some losses as fears of US-Iran strikes fade; macro headwinds limit the upside",
+      "link": "https://investinglive.com/commodities/ethereum-recovers-some-losses-as-fears-of-us-iran-strikes-fade-macro-headwinds-limit-the-upside/",
       "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold dips below $4,000 as long liquidation swamps ETF buying, Saxo Bank says",
-      "link": "https://investinglive.com/commodities/gold-dips-below-4-000-as-long-liquidation-swamps-etf-buying-saxo-bank-says/",
+      "title": "Germany Ifo business confidence improves in October as expectations surprise higher",
+      "link": "https://investinglive.com/news/germany-ifo-business-confidence-improves-in-october-as-expectations-surprise-higher/",
       "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Musk says SpaceX closed $40 billion GPU debt deal, predicts neocloud shakeout",
-      "link": "https://investinglive.com/stocks/musk-says-spacex-closed-40-billion-gpu-debt-deal-predicts-neocloud-shakeout/",
+      "title": "What is the FOMC blackout period and why do central banks have one",
+      "link": "https://investinglive.com/education/what-is-the-fomc-blackout-period-and-why-do-central-banks-have-one/",
       "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ECB set to hold at 2.50% as Morgan Stanley sees December as natural moment for next hike",
-      "link": "https://investinglive.com/central-banks/ecb-set-to-hold-at-2-50-as-morgan-stanley-sees-december-as-natural-moment-for-next-hike/",
+      "title": "Market outlook for the week of 26th-30th October",
+      "link": "https://investinglive.com/forex/market-outlook-for-the-week-of-26th-30th-october/",
       "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nikkei slips, bounces, as Iran oil fears weigh; ING sees BOJ holding at 1.25%, two hikes in 2027",
-      "link": "https://investinglive.com/stock-market-update/nikkei-slips-bounces-as-iran-oil-fears-weigh-ing-sees-boj-holding-at-1-25-two-hikes-in-2027/",
+      "title": "European stock market open: Stocks push higher as French bond market tensions ease",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-push-higher-as-french-bond-market-tensions-ease/",
       "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6691 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6691-reuters-estimate/",
+      "title": "Stock earnings pick of the week: Can Microsoft's AI growth still justify its spending spree?",
+      "link": "https://investinglive.com/stocks/stock-earnings-pick-of-the-week-can-microsoft-s-ai-growth-still-justify-its-spending-spree/",
       "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold dips below $4,000 in worst week in four months as oil fuels Fed hike fears",
-      "link": "https://investinglive.com/commodities/gold-dips-below-4-000-in-worst-week-in-four-months-as-oil-fuels-fed-hike-fears/",
-      "date": "2026-10-25"
+      "title": "Gold could rebound in the near-term as growth and US strikes fears subside; eyes on the FOMC next",
+      "link": "https://investinglive.com/commodities/gold-could-rebound-in-the-near-term-as-growth-and-us-strikes-fears-subside-eyes-on-the-fomc-next/",
+      "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bitcoin ETF inflows fade as price pressure tests ETF buyers’ $81,300 cost basis",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-etf-inflows-fade-as-price-pressure-tests-etf-buyers-81-300-cost-basis/",
-      "date": "2026-10-25"
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-71/",
+      "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bank of Canada preview: 81% chance of first hike in a year to 2.50%, economists split",
-      "link": "https://investinglive.com/central-banks/bank-of-canada-preview-81-chance-of-first-hike-in-a-year-to-2-50-economists-split/",
-      "date": "2026-10-25"
+      "title": "Chart of the day: Gold price tests $4,000 support, is a deeper correction looming?",
+      "link": "https://investinglive.com/technical-analysis/chart-of-the-day-gold-price-tests-4-000-support-is-a-deeper-correction-looming/",
+      "date": "2026-10-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Standard Chartered sees debt-funded share of AI capex rising to 40% in 2027 from 25%",
-      "link": "https://investinglive.com/stocks/standard-chartered-sees-debt-funded-share-of-ai-capex-rising-to-40-in-2027-from-25/",
-      "date": "2026-10-25"
+      "title": "Heads up: European daylight saving time has ended, here's what traders need to know",
+      "link": "https://investinglive.com/news/heads-up-european-daylight-saving-time-has-ended-here-s-what-traders-need-to-know/",
+      "date": "2026-10-26"
     }
   ]
 }
