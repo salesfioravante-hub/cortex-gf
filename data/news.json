@@ -7,6 +7,20 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "October 2026 euro area bank lending survey",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Indicators for Core CPI",
+      "link": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
       "date": "2026-10-26"
@@ -31,13 +45,6 @@
       "title": "Piero Cipollone: Interview with Milano Finanza",
       "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
       "date": "2026-10-24"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "ECB Consumer Expectations Survey results – September 2026",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
-      "date": "2026-10-23"
     },
     {
       "cur": "JPY",
@@ -65,13 +72,6 @@
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Developments in Real Exports and Real Imports",
-      "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
       "date": "2026-10-22"
     },
     {
@@ -121,6 +121,97 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Oil consolidates around recent highs as fears of imminent US strikes ease. What's next?",
+      "link": "https://investinglive.com/commodities/oil-consolidates-around-recent-highs-as-fears-of-imminent-us-strikes-ease-what-s-next/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ECB rate outlook grows more complicated as bank lending conditions tighten",
+      "link": "https://investinglive.com/central-banks/ecb-rate-outlook-grows-more-complicated-as-bank-lending-conditions-tighten/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin at risk of a big correction after breaking below the major $80K support. What to watch next?",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-at-risk-of-a-big-correction-after-breaking-below-the-major-80k-support-what-to-watch-next/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "European stock market open: Stocks retreat as caution returns, UK leads losses",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-retreat-as-caution-returns-uk-leads-losses/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold gets stuck in a consolidation around the $4,000 level as traders await the FOMC decision, US-Iran developments",
+      "link": "https://investinglive.com/commodities/gold-gets-stuck-in-a-consolidation-around-the-4-000-level-as-traders-await-the-fomc-decision-us-iran-developments/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "France consumer confidence plunges to lowest since 2013 as fiscal worries deepen",
+      "link": "https://investinglive.com/news/france-consumer-confidence-plunges-to-lowest-since-2013-as-fiscal-worries-deepen/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "China tech stocks plunge as AI trade cracks deepen, is Wall Street next?",
+      "link": "https://investinglive.com/stocks/china-tech-stocks-plunge-as-ai-trade-cracks-deepen-is-wall-street-next/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-72/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Chart of the day: Gold price hangs by a thread at $4,000 as bond market risks loom",
+      "link": "https://investinglive.com/technical-analysis/chart-of-the-day-gold-price-hangs-by-a-thread-at-4-000-as-bond-market-risks-loom/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FX option expiries for 27 October 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-27-october-10am-new-york-cut/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan finance minister Katayama warns of decisive action as yen intervention risks linger",
+      "link": "https://investinglive.com/forex/japan-finance-minister-katayama-warns-of-decisive-action-as-yen-intervention-risks-linger/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bond market tensions ease but Treasury yields near 5% and France's debt risks keep investors on edge",
+      "link": "https://investinglive.com/news/bond-market-tensions-ease-but-treasury-yields-near-5-and-france-s-debt-risks-keep-investors-on-edge/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "European markets face a quiet calendar today as central banks and big tech earnings loom",
+      "link": "https://investinglive.com/news/european-markets-face-a-quiet-calendar-today-as-central-banks-and-big-tech-earnings-loom/",
+      "date": "2026-10-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "investingLive Asia-Pacific market news: Regional stocks mostly rose",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-regional-stocks-mostly-rose/",
       "date": "2026-10-27"
@@ -131,97 +222,6 @@
       "title": "Asia firms into Tokyo lunch: Japan and Korea stocks rise, AUD and NZD gain after Nasdaq lead",
       "link": "https://investinglive.com/stock-market-update/asia-firms-into-tokyo-lunch-japan-and-korea-stocks-rise-aud-and-nzd-gain-after-nasdaq-lead/",
       "date": "2026-10-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Ethereum Foundation “dump” is a $6.4m treasury sale, not a crisis",
-      "link": "https://investinglive.com/cryptocurrency/ethereum-foundation-dump-is-a-6-4m-treasury-sale-not-a-crisis/",
-      "date": "2026-10-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "South Korea Q3 GDP grows 1.0%, beating forecasts as AI chip boom lifts exports",
-      "link": "https://investinglive.com/stock-market-update/south-korea-q3-gdp-grows-1-0-beating-forecasts-as-ai-chip-boom-lifts-exports/",
-      "date": "2026-10-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "China September industrial profits jump 14.4% y/y, rebounding from 4.2% in August",
-      "link": "https://investinglive.com/news/china-september-industrial-profits-jump-14-4-y-y-rebounding-from-4-2-in-august/",
-      "date": "2026-10-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Japan services PPI picks up to 3.7% as August revised lower, backing BoJ hike path",
-      "link": "https://investinglive.com/central-banks/japan-services-ppi-picks-up-to-3-7-as-august-revised-lower-backing-boj-hike-path/",
-      "date": "2026-10-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY central rate at 6.7171 (vs. estimate at 6.6731)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-vs-estimate-at-6-6731/",
-      "date": "2026-10-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Moody’s Zandi says a Fed hike this week would be a mistake as 5% yields do the tightening",
-      "link": "https://investinglive.com/central-banks/moody-s-zandi-says-a-fed-hike-this-week-would-be-a-mistake-as-5-yields-do-the-tightening/",
-      "date": "2026-10-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6731 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6731-reuters-estimate/",
-      "date": "2026-10-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Japan September services PPI holds at 3.7% y/y, in line with forecast, before BoJ",
-      "link": "https://investinglive.com/news/japan-september-services-ppi-holds-at-3-7-y-y-in-line-with-forecast-before-boj/",
-      "date": "2026-10-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Greer warns $3.4 billion EU loan to Airbus may breach US-EU aircraft trade truce  Alt headlines:",
-      "link": "https://investinglive.com/news/greer-warns-3-4-billion-eu-loan-to-airbus-may-breach-us-eu-aircraft-trade-truce-alt-headlines/",
-      "date": "2026-10-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Australia CPI preview: banks see 1.0% core rise, above the RBA’s 0.8% forecast",
-      "link": "https://investinglive.com/news/australia-cpi-preview-banks-see-1-0-core-rise-above-the-rba-s-0-8-forecast/",
-      "date": "2026-10-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "RBA is talking more but promising nothing: Westpac’s Ellis says read the data calls",
-      "link": "https://investinglive.com/central-banks/rba-is-talking-more-but-promising-nothing-westpac-s-ellis-says-read-the-data-calls/",
-      "date": "2026-10-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ROADMAP: Morgan Stanley sees three catalysts ending the correction to ~7150, then S&P 500 to 8,000",
-      "link": "https://investinglive.com/stock-market-update/roadmap-morgan-stanley-sees-three-catalysts-ending-the-correction-to-~7150-then-s-p-500-to-8-000/",
-      "date": "2026-10-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BoJ preview: MUFG sees hold but a 2% inflation call, with two dissenters the key yen risk",
-      "link": "https://investinglive.com/central-banks/boj-preview-mufg-sees-hold-but-a-2-inflation-call-with-two-dissenters-the-key-yen-risk/",
-      "date": "2026-10-26"
     }
   ]
 }
