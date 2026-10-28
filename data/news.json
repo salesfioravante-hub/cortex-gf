@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Remit for the Monetary Policy Committee - October 2026",
+      "link": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
+      "date": "2026-10-28"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "October 2026 euro area bank lending survey",
@@ -89,13 +96,6 @@
       "date": "2026-10-16"
     },
     {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
-      "link": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
-      "date": "2026-10-15"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Germany's trade struggles with China set to put Asia-Pacific deficit on course for record high",
-      "link": "https://investinglive.com/news/germany-s-trade-struggles-with-china-set-to-put-asia-pacific-deficit-on-course-for-record-high/",
+      "title": "BOC's Macklem: Our surveys show businesses are planning to pass on more of these cost increases",
+      "link": "https://investinglive.com/central-banks/boc-s-macklem-our-surveys-show-businesses-are-planning-to-pass-on-more-of-these-cost-increases/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-73/",
+      "title": "The weekly oil inventory data shows a drawdown of -1.892M vs expectations of a 0.015M build.",
+      "link": "https://investinglive.com/commodities/the-weekly-oil-inventory-data-shows-a-drawdown-of-1-892m-vs-expectations-of-a-0-015m-build/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Germany consumer sentiment remains weak ahead of November as inflation fears cloud recovery outlook",
-      "link": "https://investinglive.com/news/germany-consumer-sentiment-remains-weak-ahead-of-november-as-inflation-fears-cloud-recovery-outlook/",
+      "title": "The full statement from the Bank of Canada rate decision for October 2026. Hikes by 25 basis points",
+      "link": "https://investinglive.com/central-banks/the-full-statement-from-the-bank-of-canada-rate-decision-for-october-2026-hikes-by-25-basis-points/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Chart of the day: Gold faces a make-or-break moment near $4,000 as Fed and market risks converge",
-      "link": "https://investinglive.com/technical-analysis/chart-of-the-day-gold-faces-a-make-or-break-moment-near-4-000-as-fed-and-market-risks-converge/",
+      "title": "Bank of Canada rate decision: Hike to 2.50%",
+      "link": "https://investinglive.com/central-banks/bank-of-canada-rate-decision/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "AUD/USD struggles to break key resistance despite hot Australia CPI and hawkish RBA",
-      "link": "https://investinglive.com/forex/aud-usd-struggles-to-break-key-resistance-despite-hot-australia-cpi-and-hawkish-rba/",
+      "title": "The USDCAD is trading in a neutral swing area ahead of the Bank of Canada rate decision",
+      "link": "https://investinglive.com/technical-analysis/the-usdcad-is-trading-in-a-neutral-swing-area-ahead-of-the-bank-of-canada-rate-decision/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 28 October 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-28-october-10am-new-york-cut/",
+      "title": "The market is pricing in a 78% chance of a Bank of Canada rate hike",
+      "link": "https://investinglive.com/central-banks/the-market-is-pricing-in-a-78-chance-of-a-bank-of-canada-rate-hike/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Wall Street faces a double test as Fed decision and Microsoft, Alphabet earnings loom",
-      "link": "https://investinglive.com/stocks/wall-street-faces-a-double-test-as-fed-decision-and-microsoft-alphabet-earnings-loom/",
+      "title": "Indian Rupee trims gains as higher oil prices put renewed pressure despite repeated RBI interventions",
+      "link": "https://investinglive.com/forex/indian-rupee-trims-gains-as-higher-oil-prices-put-renewed-pressure-despite-repeated-rbi-interventions/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "European markets brace for Fed decision as hot Australia CPI, RBNZ surprise and oil rally stir nerves",
-      "link": "https://investinglive.com/news/european-markets-brace-for-fed-decision-as-hot-australia-cpi-rbnz-surprise-and-oil-rally-stir-nerves/",
+      "title": "Crude oil is keeping the bullish bias by staying above the 100/200 hour MAs",
+      "link": "https://investinglive.com/commodities/crude-oil-is-keeping-the-bullish-bias-by-staying-above-the-100-200-hour-mas/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Topix explained: why Japan’s biggest-ever index overhaul will cull 683 stocks by 2028",
-      "link": "https://investinglive.com/stock-market-update/topix-explained-why-japan-s-biggest-ever-index-overhaul-will-cull-683-stocks-by-2028/",
+      "title": "UK budget: Growth forecasts cut as Healey unveils £15 billion fiscal buffer",
+      "link": "https://investinglive.com/news/uk-budget-growth-forecasts-cut-as-healey-unveils-15-billion-fiscal-buffer/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Hawkish RBA, surprise RBNZ hold lift AUD/NZD",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-hawkish-rba-surprise-rbnz-hold-lift-aud-nzd/",
+      "title": "US Wholesale inventories 0.6% vs 0.5% estimate",
+      "link": "https://investinglive.com/news/us-wholesale-inventories-0-6-vs-0-5-estimate/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "RBNZ’s Breman: more hikes likely at coming meetings, possibly into restrictive territory",
-      "link": "https://investinglive.com/central-banks/rbnz-s-breman-more-hikes-likely-at-coming-meetings-possibly-into-restrictive-territory/",
+      "title": "Microsoft and Alphabet report tonight. Wall Street's earnings recovery has a catch.",
+      "link": "https://investinglive.com/stocks/microsoft-and-alphabet-report-tonight-wall-street-s-earnings-recovery-has-a-catch/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US warns Gulf allies of possible short, intense Iran campaign after midterms: WSJ",
-      "link": "https://investinglive.com/commodities/us-warns-gulf-allies-of-possible-short-intense-iran-campaign-after-midterms-wsj/",
+      "title": "US September advance goods trade balance -134.9 billion vs -130.2 billion expected",
+      "link": "https://investinglive.com/news/us-september-advance-goods-trade-balance-vs-130-2-billion-expected/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil edges higher after Houthis claim missile strike on Saudi Arabia’s biggest refinery",
-      "link": "https://investinglive.com/commodities/oil-edges-higher-after-houthis-claim-missile-strike-on-saudi-arabia-s-biggest-refinery/",
+      "title": "Morning Kickstart: Dollar mixed ahead of Fed, BoC and Big Tech earnings",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-mixed-ahead-of-fed-boc-and-big-tech-earnings/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "RBA’s Bullock: Inflation is far too high",
-      "link": "https://investinglive.com/central-banks/rba-s-bullock-inflation-is-far-too-high/",
+      "title": "EUR/USD nears key 1.1067 swing level ahead of Fed and ECB decisions. What's next?",
+      "link": "https://investinglive.com/forex/eur-usd-nears-key-1-1067-swing-level-ahead-of-fed-and-ecb-decisions-what-s-next/",
       "date": "2026-10-28"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY mid-point today at 6.7165 (vs. estimate at 6.6734)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7165-vs-estimate-at-6-6734/",
+      "title": "investingLive European session wrap: Stocks tread cautiously as Fed decision and big tech earnings loom",
+      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-28-oct/",
       "date": "2026-10-28"
     }
   ]
