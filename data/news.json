@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "",
+      "date": "2026-10-28"
+    },
+    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Remit for the Monetary Policy Committee - October 2026",
@@ -108,16 +115,93 @@
       "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
       "link": "",
       "date": "2026-10-09"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-      "link": "",
-      "date": "2026-10-08"
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Economic and event calendar in Asia Thursday, October 29, 2026",
+      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-october-29-2026/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The before and after.  A look at the changes in forex, rates, stocks through the FOMC decision and press conference.",
+      "link": "https://investinglive.com/central-banks/the-before-and-after-a-look-at-the-changes-in-forex-rates-stocks-through-the-fomc-decision-and-press-conference/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed Chairman Kevin Warsh: More information will help determine appropriate policy steps",
+      "link": "https://investinglive.com/central-banks/fed-chairman-kevin-warsh-more-information-will-help-determine-appropriate-policy-steps/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Qatar trying to convince Iran to allow UN nuclear inspectors - report",
+      "link": "https://investinglive.com/news/qatar-trying-to-convince-iran-to-allow-un-nuclear-inspectors-report/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The full statement from the October 2026 FOMC rate decision",
+      "link": "https://investinglive.com/central-banks/the-full-statement-from-the-october-2026-fomc-rate-decision/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FOMC decision Oct 28: Rates left unchanged",
+      "link": "https://investinglive.com/central-banks/fomc-decision-oct-28/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Microsoft and Alphabet earnings after the close. What is expected?",
+      "link": "https://investinglive.com/stocks/microsoft-and-alphabet-earnings-after-the-close-what-is-expected/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "For reference: The September 16 FOMC statement",
+      "link": "https://investinglive.com/central-banks/for-reference-the-september-16-fomc-statement/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Iran's Araghchi: Iran continues to give diplomacy a chance to succeed",
+      "link": "https://investinglive.com/news/iran-s-araghchi-iran-continues-to-give-diplomacy-a-chance-to-succeed/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Crude oil extends to a session high of $103.53 as Iran concerns keep buyers in control",
+      "link": "https://investinglive.com/commodities/crude-oil-extends-to-a-session-high-of-103-53-as-iran-concerns-keep-buyers-in-control/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "AUDUSD ping-pongs between moving averages. What would break the stalemate?",
+      "link": "https://investinglive.com/technical-analysis/audusd-ping-pongs-between-moving-averages-what-would-break-the-stalemate/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "NZDUSD tumbles after surprise RBNZ hold. Sellers retain control as the rebound stalls.",
+      "link": "https://investinglive.com/technical-analysis/nzdusd-tumbles-after-surprise-rbnz-hold-sellers-retain-control-as-the-rebound-stalls/",
+      "date": "2026-10-28"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -137,90 +221,6 @@
       "source": "ForexLive",
       "title": "The full statement from the Bank of Canada rate decision for October 2026. Hikes by 25 basis points",
       "link": "https://investinglive.com/central-banks/the-full-statement-from-the-bank-of-canada-rate-decision-for-october-2026-hikes-by-25-basis-points/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bank of Canada rate decision: Hike to 2.50%",
-      "link": "https://investinglive.com/central-banks/bank-of-canada-rate-decision/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The USDCAD is trading in a neutral swing area ahead of the Bank of Canada rate decision",
-      "link": "https://investinglive.com/technical-analysis/the-usdcad-is-trading-in-a-neutral-swing-area-ahead-of-the-bank-of-canada-rate-decision/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The market is pricing in a 78% chance of a Bank of Canada rate hike",
-      "link": "https://investinglive.com/central-banks/the-market-is-pricing-in-a-78-chance-of-a-bank-of-canada-rate-hike/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Indian Rupee trims gains as higher oil prices put renewed pressure despite repeated RBI interventions",
-      "link": "https://investinglive.com/forex/indian-rupee-trims-gains-as-higher-oil-prices-put-renewed-pressure-despite-repeated-rbi-interventions/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil is keeping the bullish bias by staying above the 100/200 hour MAs",
-      "link": "https://investinglive.com/commodities/crude-oil-is-keeping-the-bullish-bias-by-staying-above-the-100-200-hour-mas/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "UK budget: Growth forecasts cut as Healey unveils £15 billion fiscal buffer",
-      "link": "https://investinglive.com/news/uk-budget-growth-forecasts-cut-as-healey-unveils-15-billion-fiscal-buffer/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US Wholesale inventories 0.6% vs 0.5% estimate",
-      "link": "https://investinglive.com/news/us-wholesale-inventories-0-6-vs-0-5-estimate/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Microsoft and Alphabet report tonight. Wall Street's earnings recovery has a catch.",
-      "link": "https://investinglive.com/stocks/microsoft-and-alphabet-report-tonight-wall-street-s-earnings-recovery-has-a-catch/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US September advance goods trade balance -134.9 billion vs -130.2 billion expected",
-      "link": "https://investinglive.com/news/us-september-advance-goods-trade-balance-vs-130-2-billion-expected/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Morning Kickstart: Dollar mixed ahead of Fed, BoC and Big Tech earnings",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-mixed-ahead-of-fed-boc-and-big-tech-earnings/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "EUR/USD nears key 1.1067 swing level ahead of Fed and ECB decisions. What's next?",
-      "link": "https://investinglive.com/forex/eur-usd-nears-key-1-1067-swing-level-ahead-of-fed-and-ecb-decisions-what-s-next/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European session wrap: Stocks tread cautiously as Fed decision and big tech earnings loom",
-      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-28-oct/",
       "date": "2026-10-28"
     }
   ]
