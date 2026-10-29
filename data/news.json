@@ -5,6 +5,41 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Monetary policy decisions",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "ECB President Lagarde to step down on 7 February 2027",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Minutes of the Meeting of the Court of Directors held on 17 September 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Bank of England sets out approach to tokenised collateral in central clearing",
+      "link": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
+      "date": "2026-10-29"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve issues FOMC statement",
@@ -33,32 +68,11 @@
       "date": "2026-10-27"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-      "date": "2026-10-26"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
-      "date": "2026-10-26"
-    },
-    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Services Producer Price Index (Sept.)",
       "link": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
       "date": "2026-10-26"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Piero Cipollone: Interview with Milano Finanza",
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
-      "date": "2026-10-24"
     },
     {
       "cur": "JPY",
@@ -75,13 +89,6 @@
       "date": "2026-10-22"
     },
     {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Minutes of the Securities Lending Committee meeting – September 2026",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
-      "date": "2026-10-22"
-    },
-    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
@@ -93,13 +100,6 @@
       "source": "Fed",
       "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
       "link": "",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Banknote imagery advisory group minutes – 15 July 2026",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
       "date": "2026-10-16"
     },
     {
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Much ado about nothing? Fed chair Warsh talks up a storm but December rate hike bets barely budge",
-      "link": "https://investinglive.com/central-banks/much-ado-about-nothing-fed-chair-warsh-talks-up-a-storm-but-december-rate-hike-bets-barely-budge/",
+      "title": "US GDP Advance for the 3rd quarter 3.4% vs 3.2% estimate",
+      "link": "https://investinglive.com/news/us-gdp-advance-for-the-3rd-quarter-3-4-vs-3-2-estimate/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US futures tumble as Alphabet earnings revive AI spending fears, Amazon is next in the firing line",
-      "link": "https://investinglive.com/stocks/us-futures-tumble-as-alphabet-earnings-revive-ai-spending-fears-amazon-is-next-in-the-firing-line/",
+      "title": "US initial jobless claims 194K vs 199K expected",
+      "link": "https://investinglive.com/news/us-initial-jobless-claims-194k-vs-199k-expected/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Oil eases on Vance’s Iran outreach",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-vance-s-iran-outreach/",
+      "title": "US September PCE core inflation +0.5% m/m vs +0.3% expected",
+      "link": "https://investinglive.com/news/us-september-pce-core-inflation-m-m-vs-0-3-expected/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "RBA set for fifth 2026 hike to 4.85% as banks flag risk of another move in February",
-      "link": "https://investinglive.com/central-banks/rba-set-for-fifth-2026-hike-to-4-85-as-banks-flag-risk-of-another-move-in-february/",
+      "title": "Morning Kickstart: The day after the Fed, Alphabet rattles the AI trade",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-the-day-after-the-fed-alphabet-rattles-the-ai-trade/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "More on Samsung: shares slide up to 6.6% as shareholder-return plan is delayed to January",
-      "link": "https://investinglive.com/stocks/more-on-samsung-shares-slide-up-to-6-6-as-shareholder-return-plan-is-delayed-to-january/",
+      "title": "investingLive European session wrap: Stocks diverge as markets brace for US inflation, ECB and Amazon earnings",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-diverge-as-markets-brace-for-us-inflation-ecb-and-amazon-earnings/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US government builds $30bn stock portfolio across 43 deals in chips, minerals and quantum",
-      "link": "https://investinglive.com/stocks/us-government-builds-30bn-stock-portfolio-across-43-deals-in-chips-minerals-and-quantum/",
+      "title": "Alphabet stock plunged nearly 10% after hours. Why investors who don't own it should pay attention.",
+      "link": "https://investinglive.com/stocks/alphabet-stock-plunged-nearly-10-after-hours-why-investors-who-don-t-own-it-should-pay-attention/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Alphabet slides over 9% after hours as search miss and $9bn cash burn overshadow Cloud",
-      "link": "https://investinglive.com/stocks/alphabet-slides-over-9-after-hours-as-search-miss-and-9bn-cash-burn-overshadow-cloud/",
+      "title": "Google stock analysis after earnings: Is AI eating into search profits?",
+      "link": "https://investinglive.com/stocks/google-stock-analysis-after-earnings-is-ai-eating-into-search-profits/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Samsung Q3 operating profit jumps ninefold to record 107 trillion won on AI chip boom",
-      "link": "https://investinglive.com/stocks/samsung-q3-operating-profit-jumps-ninefold-to-record-107-trillion-won-on-ai-chip-boom/",
+      "title": "HYPE token skyrockets as NYSE owner moves to bring Hyperliquid perpetual futures to US traders",
+      "link": "https://investinglive.com/cryptocurrency/hype-token-skyrockets-as-nyse-owner-moves-to-bring-hyperliquid-perpetual-futures-to-us-traders/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "RBNZ’s Breman says chances of a December rate hike are high after surprise hold at 2.75%",
-      "link": "https://investinglive.com/central-banks/rbnz-s-breman-says-chances-of-a-december-rate-hike-are-high-after-surprise-hold-at-2-75/",
+      "title": "Bitcoin's $80,000 lifeline is looking rather fragile as tech stocks stumble",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-s-80-000-lifeline-is-looking-rather-fragile-as-tech-stocks-stumble/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7147 (vs. estimate at 6.6596)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7147-vs-estimate-at-6-6596/",
+      "title": "Crude oil remains capped by renewed US-Iran deal hopes, but upside risks persist",
+      "link": "https://investinglive.com/commodities/crude-oil-remains-capped-by-renewed-us-iran-deal-hopes-but-upside-risks-persist/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The view from China: CITIC Securities still sees a 25bp Fed hike in December",
-      "link": "https://investinglive.com/central-banks/the-view-from-china-citic-securities-still-sees-a-25bp-fed-hike-in-december/",
+      "title": "ECB president Lagarde set to step down from her position next February",
+      "link": "https://investinglive.com/central-banks/ecb-president-lagarde-set-to-step-down-from-her-position-next-february/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "NZ business confidence rises to +53 as pricing intentions hit highest since May",
-      "link": "https://investinglive.com/central-banks/nz-business-confidence-rises-to-53-as-pricing-intentions-hit-highest-since-may/",
+      "title": "Bitcoin extends consolidation as neutral FOMC decision fails to spark a relief rally. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-extends-consolidation-as-neutral-fomc-decision-fails-to-spark-a-relief-rally-what-s-next/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6596 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-reuters-estimate-7/",
+      "title": "ECB preview: All Lagarde needs to do today is not rock the boat",
+      "link": "https://investinglive.com/central-banks/ecb-preview-all-lagarde-needs-to-do-today-is-not-rock-the-boat/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil - The UAE’s second Hormuz bypass pipeline gets its firm timing; early 2027",
-      "link": "https://investinglive.com/commodities/oil-the-uae-s-second-hormuz-bypass-pipeline-gets-its-firm-timing-early-2027/",
-      "date": "2026-10-28"
+      "title": "Trump administration in ongoing talks for a temporary peace deal with Iran - Semafor",
+      "link": "https://investinglive.com/news/trump-administration-in-ongoing-talks-for-a-temporary-peace-deal-with-iran-semafor/",
+      "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Peltz-led group offers $1.4bn to take Wendy’s private at $7.35 a share, a 20% premium",
-      "link": "https://investinglive.com/stocks/peltz-led-group-offers-1-4bn-to-take-wendy-s-private-at-7-35-a-share-a-20-premium/",
-      "date": "2026-10-28"
+      "title": "European stock market open: A mixed start as Spanish stocks struggle again, US futures slide",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-a-mixed-start-as-spanish-stocks-struggle-again-us-futures-slide/",
+      "date": "2026-10-29"
     }
   ]
 }
