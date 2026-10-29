@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-28",
+  "asof": "2026-10-29",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Oil - The UAE’s second Hormuz bypass pipeline gets its firm timing; early 2027",
+      "link": "https://investinglive.com/commodities/oil-the-uae-s-second-hormuz-bypass-pipeline-gets-its-firm-timing-early-2027/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Peltz-led group offers $1.4bn to take Wendy’s private at $7.35 a share, a 20% premium",
+      "link": "https://investinglive.com/stocks/peltz-led-group-offers-1-4bn-to-take-wendy-s-private-at-7-35-a-share-a-20-premium/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Hong Kong holds base rate at 4.25%: why the HKMA always moves in lockstep with the Fed",
+      "link": "https://investinglive.com/central-banks/hong-kong-holds-base-rate-at-4-25-why-the-hkma-always-moves-in-lockstep-with-the-fed/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Microsoft sees $170bn capex in fiscal 2027 but says it will stay cash flow positive",
+      "link": "https://investinglive.com/stocks/microsoft-sees-170bn-capex-in-fiscal-2027-but-says-it-will-stay-cash-flow-positive/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields and the dollar",
+      "link": "https://investinglive.com/commodities/gold-heads-for-its-biggest-yearly-drop-in-11-years-as-the-iran-war-lifts-yields-and-the-dollar/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Strategy's bitcoin buying hinges on one number: STRC at $100",
+      "link": "https://investinglive.com/cryptocurrency/strategy-s-bitcoin-buying-hinges-on-one-number-strc-at-100/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Recap: Fed holds at 3.75%-4% in 10-2 vote as Cook dissents for a hike, December move in focus",
+      "link": "https://investinglive.com/central-banks/recap-fed-holds-at-3-75-4-in-10-2-vote-as-cook-dissents-for-a-hike-december-move-in-focus/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US bitcoin reserve buying 'very soon'? What has to happen first",
+      "link": "https://investinglive.com/cryptocurrency/us-bitcoin-reserve-buying-very-soon-what-has-to-happen-first/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ICYMI: Oracle jumps around 11% on $225bn 2030 revenue goal and $20bn cap on new funding",
+      "link": "https://investinglive.com/stocks/icymi-oracle-jumps-around-11-on-225bn-2030-revenue-goal-and-20bn-cap-on-new-funding/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UBS sees limited gold downside as three demand pillars set a floor near $4,000",
+      "link": "https://investinglive.com/commodities/ubs-sees-limited-gold-downside-as-three-demand-pillars-set-a-floor-near-4-000/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas FX news wrap 28 Oct: Fed holds rates, yield curve steepens as Big Tech earnings diverge",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Vance writes to Iran hard-liner Rezaei to revive talks as Trump weighs new strikes",
+      "link": "https://investinglive.com/commodities/vance-writes-to-iran-hard-liner-rezaei-to-revive-talks-as-trump-weighs-new-strikes/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Alphabet Q3: Google Cloud revenue jumps 103% but search and ad sales miss forecasts",
+      "link": "https://investinglive.com/stocks/alphabet-q3-google-cloud-revenue-jumps-103-but-search-and-ad-sales-miss-forecasts/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Microsoft Q1 beats as Azure grows 48% and capex lands $6bn below forecast",
+      "link": "https://investinglive.com/stocks/microsoft-q1-beats-as-azure-grows-48-and-capex-lands-6bn-below-forecast/",
+      "date": "2026-10-28"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Economic and event calendar in Asia Thursday, October 29, 2026",
       "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-october-29-2026/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The before and after.  A look at the changes in forex, rates, stocks through the FOMC decision and press conference.",
-      "link": "https://investinglive.com/central-banks/the-before-and-after-a-look-at-the-changes-in-forex-rates-stocks-through-the-fomc-decision-and-press-conference/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed Chairman Kevin Warsh: More information will help determine appropriate policy steps",
-      "link": "https://investinglive.com/central-banks/fed-chairman-kevin-warsh-more-information-will-help-determine-appropriate-policy-steps/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Qatar trying to convince Iran to allow UN nuclear inspectors - report",
-      "link": "https://investinglive.com/news/qatar-trying-to-convince-iran-to-allow-un-nuclear-inspectors-report/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The full statement from the October 2026 FOMC rate decision",
-      "link": "https://investinglive.com/central-banks/the-full-statement-from-the-october-2026-fomc-rate-decision/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "FOMC decision Oct 28: Rates left unchanged",
-      "link": "https://investinglive.com/central-banks/fomc-decision-oct-28/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Microsoft and Alphabet earnings after the close. What is expected?",
-      "link": "https://investinglive.com/stocks/microsoft-and-alphabet-earnings-after-the-close-what-is-expected/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "For reference: The September 16 FOMC statement",
-      "link": "https://investinglive.com/central-banks/for-reference-the-september-16-fomc-statement/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Iran's Araghchi: Iran continues to give diplomacy a chance to succeed",
-      "link": "https://investinglive.com/news/iran-s-araghchi-iran-continues-to-give-diplomacy-a-chance-to-succeed/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil extends to a session high of $103.53 as Iran concerns keep buyers in control",
-      "link": "https://investinglive.com/commodities/crude-oil-extends-to-a-session-high-of-103-53-as-iran-concerns-keep-buyers-in-control/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "AUDUSD ping-pongs between moving averages. What would break the stalemate?",
-      "link": "https://investinglive.com/technical-analysis/audusd-ping-pongs-between-moving-averages-what-would-break-the-stalemate/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "NZDUSD tumbles after surprise RBNZ hold. Sellers retain control as the rebound stalls.",
-      "link": "https://investinglive.com/technical-analysis/nzdusd-tumbles-after-surprise-rbnz-hold-sellers-retain-control-as-the-rebound-stalls/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BOC's Macklem: Our surveys show businesses are planning to pass on more of these cost increases",
-      "link": "https://investinglive.com/central-banks/boc-s-macklem-our-surveys-show-businesses-are-planning-to-pass-on-more-of-these-cost-increases/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The weekly oil inventory data shows a drawdown of -1.892M vs expectations of a 0.015M build.",
-      "link": "https://investinglive.com/commodities/the-weekly-oil-inventory-data-shows-a-drawdown-of-1-892m-vs-expectations-of-a-0-015m-build/",
-      "date": "2026-10-28"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The full statement from the Bank of Canada rate decision for October 2026. Hikes by 25 basis points",
-      "link": "https://investinglive.com/central-banks/the-full-statement-from-the-bank-of-canada-rate-decision-for-october-2026-hikes-by-25-basis-points/",
       "date": "2026-10-28"
     }
   ]
