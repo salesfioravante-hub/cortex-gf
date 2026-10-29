@@ -7,6 +7,13 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
       "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
       "date": "2026-10-29"
@@ -52,13 +59,6 @@
       "title": "Remit for the Monetary Policy Committee - October 2026",
       "link": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
       "date": "2026-10-28"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "October 2026 euro area bank lending survey",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-      "date": "2026-10-27"
     },
     {
       "cur": "JPY",
@@ -121,6 +121,97 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "USDCHF tests key support as sellers challenge the 200-hour moving average",
+      "link": "https://investinglive.com/technical-analysis/usdchf-tests-key-support-as-sellers-challenge-the-200-hour-moving-average/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump: Iran war will be over very soon. Senator warns of 'insane' US plans",
+      "link": "https://investinglive.com/news/trump-iran-war-will-be-over-very-soon/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Iran's Ghalibaf: Progress can only be achieved once the seven conditions have been agreed upon",
+      "link": "https://investinglive.com/news/iran-s-ghalibaf-progress-can-only-be-achieved-once-the-seven-conditions-have-been-agreed-upon/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US treasury sells $44 billion of 7 year notes at a high yield of 4.894%",
+      "link": "https://investinglive.com/news/us-treasury-sells-44-billion-of-7-year-notes-at-a-high-yield-of-4-894/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "WTI crude oil rebounds after a failed break below $100 and the 200-hour MA",
+      "link": "https://investinglive.com/commodities/wti-crude-oil-rebounds-after-a-failed-break-below-100-and-the-200-hour-ma/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Boeing stock analysis: Is the earnings selloff a buy-the-dip opportunity?",
+      "link": "https://investinglive.com/stocks/boeing-stock-analysis-is-the-earnings-selloff-a-buy-the-dip-opportunity/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold slips below its 100-hour MA as interest-rate concerns weigh on the recovery",
+      "link": "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ECB sources report: Policymakers see a December rate hike followed by a pause",
+      "link": "https://investinglive.com/central-banks/ecb-sources-report-policymakers-see-a-december-rate-hike-followed-by-a-pause/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The door remains ajar for ECB to tighten. EURUSD rebounds after break lower failed",
+      "link": "https://investinglive.com/technical-analysis/the-door-remains-ajar-for-ecb-to-tighten-eurusd-rebounds-after-break-lower-failed/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The Nasdaq composite and Nasdaq 100 are back below their 100 day MAs increasing the bearish control",
+      "link": "https://investinglive.com/stocks/the-nasdaq-composite-and-nasdaq-100-are-back-below-their-100-day-mas-increasing-the-bearish-control/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Lagarde: Growth should be underpinned in the near term",
+      "link": "https://investinglive.com/central-banks/lagarde-growth-should-be-underpinned-in-the-near-term/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "USDCAD finds support near the recent lows and near a swing area",
+      "link": "https://investinglive.com/technical-analysis/usdcad-finds-support-near-the-recent-lows-and-near-a-swing-area/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ECB rate decision: No change in rates",
+      "link": "https://investinglive.com/central-banks/ecb-rate-decision/",
+      "date": "2026-10-29"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "US GDP Advance for the 3rd quarter 3.4% vs 3.2% estimate",
       "link": "https://investinglive.com/news/us-gdp-advance-for-the-3rd-quarter-3-4-vs-3-2-estimate/",
       "date": "2026-10-29"
@@ -130,97 +221,6 @@
       "source": "ForexLive",
       "title": "US initial jobless claims 194K vs 199K expected",
       "link": "https://investinglive.com/news/us-initial-jobless-claims-194k-vs-199k-expected/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US September PCE core inflation +0.5% m/m vs +0.3% expected",
-      "link": "https://investinglive.com/news/us-september-pce-core-inflation-m-m-vs-0-3-expected/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Morning Kickstart: The day after the Fed, Alphabet rattles the AI trade",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-the-day-after-the-fed-alphabet-rattles-the-ai-trade/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European session wrap: Stocks diverge as markets brace for US inflation, ECB and Amazon earnings",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-diverge-as-markets-brace-for-us-inflation-ecb-and-amazon-earnings/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Alphabet stock plunged nearly 10% after hours. Why investors who don't own it should pay attention.",
-      "link": "https://investinglive.com/stocks/alphabet-stock-plunged-nearly-10-after-hours-why-investors-who-don-t-own-it-should-pay-attention/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Google stock analysis after earnings: Is AI eating into search profits?",
-      "link": "https://investinglive.com/stocks/google-stock-analysis-after-earnings-is-ai-eating-into-search-profits/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "HYPE token skyrockets as NYSE owner moves to bring Hyperliquid perpetual futures to US traders",
-      "link": "https://investinglive.com/cryptocurrency/hype-token-skyrockets-as-nyse-owner-moves-to-bring-hyperliquid-perpetual-futures-to-us-traders/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin's $80,000 lifeline is looking rather fragile as tech stocks stumble",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-s-80-000-lifeline-is-looking-rather-fragile-as-tech-stocks-stumble/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil remains capped by renewed US-Iran deal hopes, but upside risks persist",
-      "link": "https://investinglive.com/commodities/crude-oil-remains-capped-by-renewed-us-iran-deal-hopes-but-upside-risks-persist/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ECB president Lagarde set to step down from her position next February",
-      "link": "https://investinglive.com/central-banks/ecb-president-lagarde-set-to-step-down-from-her-position-next-february/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin extends consolidation as neutral FOMC decision fails to spark a relief rally. What's next?",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-extends-consolidation-as-neutral-fomc-decision-fails-to-spark-a-relief-rally-what-s-next/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ECB preview: All Lagarde needs to do today is not rock the boat",
-      "link": "https://investinglive.com/central-banks/ecb-preview-all-lagarde-needs-to-do-today-is-not-rock-the-boat/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump administration in ongoing talks for a temporary peace deal with Iran - Semafor",
-      "link": "https://investinglive.com/news/trump-administration-in-ongoing-talks-for-a-temporary-peace-deal-with-iran-semafor/",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stock market open: A mixed start as Spanish stocks struggle again, US futures slide",
-      "link": "https://investinglive.com/stocks/european-stock-market-open-a-mixed-start-as-spanish-stocks-struggle-again-us-futures-slide/",
       "date": "2026-10-29"
     }
   ]
