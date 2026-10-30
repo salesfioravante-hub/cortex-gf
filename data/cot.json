@@ -1,12 +1,12 @@
 {
-  "asof": "2026-10-20",
+  "asof": "2026-10-27",
   "source": "CFTC Commitments of Traders (Legacy Futures-Only)",
   "status": "ok",
   "report": "noncommercial net (large speculators)",
   "byAsset": {
     "EURUSD": {
       "pts": -1,
-      "index": 1
+      "index": 0
     },
     "GBPUSD": {
       "pts": -1,
@@ -18,19 +18,19 @@
     },
     "NZDUSD": {
       "pts": -1,
-      "index": 7
+      "index": 8
     },
     "USDCAD": {
       "pts": 1,
-      "index": 81
+      "index": 78
     },
     "USDJPY": {
       "pts": 0,
-      "index": 81
+      "index": 78
     },
     "USDCHF": {
       "pts": 0,
-      "index": 81
+      "index": 78
     },
     "AUDJPY": {
       "pts": -1,
@@ -38,7 +38,7 @@
     },
     "NZDJPY": {
       "pts": -1,
-      "index": 7
+      "index": 8
     },
     "AUDCAD": {
       "pts": -1,
@@ -46,11 +46,11 @@
     },
     "EURCHF": {
       "pts": -1,
-      "index": 1
+      "index": 0
     },
     "XAUUSD": {
       "pts": -1,
-      "index": 37
+      "index": 30
     },
     "XAGUSD": {
       "pts": -1,
@@ -58,19 +58,19 @@
     },
     "USOIL": {
       "pts": -1,
-      "index": 19
+      "index": 13
     },
     "US500": {
       "pts": -1,
-      "index": 28
+      "index": 30
     },
     "USTEC": {
-      "pts": 2,
-      "index": 92
+      "pts": 1,
+      "index": 90
     },
     "US30": {
       "pts": 1,
-      "index": 71
+      "index": 73
     }
   }
 }
