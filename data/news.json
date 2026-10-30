@@ -7,6 +7,20 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "Philip R. Lane: AI adoption in Europe",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
       "date": "2026-10-30"
@@ -51,20 +65,6 @@
       "source": "BCE",
       "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Monetary policy decisions",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
       "date": "2026-10-29"
     },
     {
@@ -121,6 +121,90 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Earnings next week: Can Apple, Palantir and AMD restore confidence?",
+      "link": "https://investinglive.com/stocks/earnings-next-week-can-apple-palantir-and-amd-restore-confidence/",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed’s Logan: At least two more quarter-point rate hikes needed",
+      "link": "https://investinglive.com/central-banks/fed-s-logan-at-least-two-more-quarter-point-rate-hikes-needed/",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Anthropic may not secure investment-grade rating after IPO, FT reports",
+      "link": "https://investinglive.com/stocks/anthropic-may-not-secure-investment-grade-rating-after-ipo-ft-reports/",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Carney: Canada, EU working toward deepest possible partnership, short of accession",
+      "link": "https://investinglive.com/news/carney-canada-eu-working-toward-deepest-possible-partnership-short-of-accession/",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "How has the Magnificent 7 done relatively to the broader stock indices today?",
+      "link": "https://investinglive.com/stocks/how-has-the-magnificent-7-done-relatively-to-the-broader-stock-indices-today/",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed’s Musalem: Moving sooner with rate hikes lessens risk of hit to broader economy",
+      "link": "https://investinglive.com/central-banks/fed-s-musalem-moving-sooner-with-rate-hikes-lessens-risk-of-hit-to-broader-economy/",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed’s Daly: AI matters for near- and medium-term policy",
+      "link": "https://investinglive.com/central-banks/fed-s-daly-ai-matters-for-near-and-medium-term-policy/",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fitch on UK Budget: Policy continuity leaves a tough delivery challenge",
+      "link": "https://investinglive.com/news/fitch-on-uk-budget-policy-continuity-leaves-a-tough-delivery-challenge/",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold tumbles despite lower yields. Technicals show the way.",
+      "link": "https://investinglive.com/commodities/gold-tumbles-despite-lower-yields-technicals-show-the-way/",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nasdaq leads stocks lower as investors question the cost of AI growth",
+      "link": "https://investinglive.com/stocks/nasdaq-leads-stocks-lower-as-investors-question-the-cost-of-ai-growth/",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed's Barkin: Direction of travel is straightforward for the Fed",
+      "link": "https://investinglive.com/central-banks/fed-s-barkin-direction-of-travel-is-straightforward-for-the-fed/",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin sellers jump on the risk-off bandwagon",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-sellers-jump-on-the-risk-off-bandwagon/",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Canada GDP for August 0.0% vs 0.2% estimate",
       "link": "https://investinglive.com/news/canada-gdp-for-august-0-0-vs-0-2-estimate/",
       "date": "2026-10-30"
@@ -137,90 +221,6 @@
       "source": "ForexLive",
       "title": "Morning Kickstart: Tech hammered as Amazon and Intel tumble; oil rises despite peace talk",
       "link": "https://investinglive.com/technical-analysis/morning-kickstart-tech-hammered-as-amazon-and-intel-tumble-oil-rises-despite-peace-talk/",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil extends gains as traders hedge into weekend amid risks of US strikes on Iran",
-      "link": "https://investinglive.com/commodities/crude-oil-extends-gains-as-traders-hedge-into-weekend-amid-risks-of-us-strikes-on-iran/",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European session wrap: AI spending fears spook tech stocks; dollar falls alongside yields, gold",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-ai-spending-fears-spook-tech-stocks-dollar-falls-alongside-yields-gold/",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Ethereum tumbles as Binance hack triggers risk-off wave across crypto markets. What's next?",
-      "link": "https://investinglive.com/cryptocurrency/ethereum-tumbles-as-binance-hack-triggers-risk-off-wave-across-crypto-markets-what-s-next/",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
-      "link": "https://investinglive.com/news/italy-october-preliminary-cpi-5-4-vs-4-6-y-y-expected/",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Eurozone Q3 GDP beats expectations but the growth surprise comes with a catch",
-      "link": "https://investinglive.com/news/eurozone-q3-gdp-beats-expectations-but-the-growth-surprise-comes-with-a-catch/",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "German state inflation cools in October, but will that ease the ECB's headache?",
-      "link": "https://investinglive.com/news/german-state-inflation-cools-in-october-but-will-that-ease-the-ecb-s-headache/",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Italy Q3 preliminary GDP +0.0% vs +0.1% q/q expected",
-      "link": "https://investinglive.com/news/italy-q3-preliminary-gdp-0-0-vs-0-1-q-q-expected/",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Germany Q3 preliminary GDP +0.2% vs +0.1% q/q expected",
-      "link": "https://investinglive.com/news/germany-q3-preliminary-gdp-0-2-vs-0-1-q-q-expected/",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold gets hit again by forced liquidations as equity losses mount; fundamental outlook increasingly positive",
-      "link": "https://investinglive.com/commodities/gold-gets-hit-again-by-forced-liquidations-as-equity-losses-mount-fundamental-outlook-increasingly-positive/",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stock market open: Stocks stumble as AI fears spook markets, Italy and Spain lead losses",
-      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-stumble-as-ai-fears-spook-markets-italy-and-spain-lead-losses/",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Spain Q3 GDP growth slows slightly but it's the inflation problem that should worry the ECB",
-      "link": "https://investinglive.com/news/spain-q3-gdp-growth-slows-slightly-but-it-s-the-inflation-problem-that-should-worry-the-ecb/",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Spain inflation remains stubbornly high near 5% as the ECB headache gets worse",
-      "link": "https://investinglive.com/news/spain-inflation-remains-stubbornly-high-near-5-as-the-ecb-headache-gets-worse/",
       "date": "2026-10-30"
     }
   ]
