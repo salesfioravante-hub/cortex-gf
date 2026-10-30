@@ -1,9 +1,16 @@
 {
-  "asof": "2026-10-29",
+  "asof": "2026-10-30",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "link": "",
+      "date": "2026-10-29"
+    },
     {
       "cur": "EUR",
       "source": "BCE",
@@ -14,7 +21,7 @@
     {
       "cur": "EUR",
       "source": "BCE",
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
       "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
       "date": "2026-10-29"
     },
@@ -108,119 +115,112 @@
       "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
       "link": "",
       "date": "2026-10-13"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "link": "",
-      "date": "2026-10-09"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "USDCHF tests key support as sellers challenge the 200-hour moving average",
-      "link": "https://investinglive.com/technical-analysis/usdchf-tests-key-support-as-sellers-challenge-the-200-hour-moving-average/",
+      "title": "ANZ lifts year-end Brent forecast to $105 as tight physical market persists",
+      "link": "https://investinglive.com/commodities/anz-lifts-year-end-brent-forecast-to-105-as-tight-physical-market-persists/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trump: Iran war will be over very soon. Senator warns of 'insane' US plans",
-      "link": "https://investinglive.com/news/trump-iran-war-will-be-over-very-soon/",
+      "title": "Tokyo October CPI 2.8% (2.7% expected)",
+      "link": "https://investinglive.com/news/tokyo-october-cpi-2-8-2-7-expected/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Iran's Ghalibaf: Progress can only be achieved once the seven conditions have been agreed upon",
-      "link": "https://investinglive.com/news/iran-s-ghalibaf-progress-can-only-be-achieved-once-the-seven-conditions-have-been-agreed-upon/",
+      "title": "Binance pauses withdrawals after suspected $3B+ hack as Tether, Circle freeze $2.4B",
+      "link": "https://investinglive.com/cryptocurrency/binance-pauses-withdrawals-after-suspected-3b-hack-as-tether-circle-freeze-2-4b/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US treasury sells $44 billion of 7 year notes at a high yield of 4.894%",
-      "link": "https://investinglive.com/news/us-treasury-sells-44-billion-of-7-year-notes-at-a-high-yield-of-4-894/",
+      "title": "Nvidia in talks to guarantee Nscale debt tied to $45 billion Anthropic compute deal",
+      "link": "https://investinglive.com/stock-market-update/nvidia-in-talks-to-guarantee-nscale-debt-tied-to-45-billion-anthropic-compute-deal/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "WTI crude oil rebounds after a failed break below $100 and the 200-hour MA",
-      "link": "https://investinglive.com/commodities/wti-crude-oil-rebounds-after-a-failed-break-below-100-and-the-200-hour-ma/",
+      "title": "Morgan Stanley’s Wilson sees one final sell-off before US stock correction ends",
+      "link": "https://investinglive.com/stock-market-update/morgan-stanley-s-wilson-sees-one-final-sell-off-before-us-stock-correction-ends/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Boeing stock analysis: Is the earnings selloff a buy-the-dip opportunity?",
-      "link": "https://investinglive.com/stocks/boeing-stock-analysis-is-the-earnings-selloff-a-buy-the-dip-opportunity/",
+      "title": "RBA set for back-to-back hike after hot CPI, says Natixis’ Garcia Herrero",
+      "link": "https://investinglive.com/central-banks/rba-set-for-back-to-back-hike-after-hot-cpi-says-natixis-garcia-herrero/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold slips below its 100-hour MA as interest-rate concerns weigh on the recovery",
-      "link": "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/",
+      "title": "ING lifts AUD/USD target to 0.71 as it backs a 25bp RBA hike next week",
+      "link": "https://investinglive.com/central-banks/ing-lifts-aud-usd-target-to-0-71-as-it-backs-a-25bp-rba-hike-next-week/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ECB sources report: Policymakers see a December rate hike followed by a pause",
-      "link": "https://investinglive.com/central-banks/ecb-sources-report-policymakers-see-a-december-rate-hike-followed-by-a-pause/",
+      "title": "ECB to hike once more in December as tighter conditions may not suffice: Deutsche Bank",
+      "link": "https://investinglive.com/central-banks/ecb-to-hike-once-more-in-december-as-tighter-conditions-may-not-suffice-deutsche-bank/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The door remains ajar for ECB to tighten. EURUSD rebounds after break lower failed",
-      "link": "https://investinglive.com/technical-analysis/the-door-remains-ajar-for-ecb-to-tighten-eurusd-rebounds-after-break-lower-failed/",
+      "title": "Intel earnings call: 18A progress and data centre growth offset by PC slump and cash burn",
+      "link": "https://investinglive.com/stocks/intel-earnings-call-18a-progress-and-data-centre-growth-offset-by-pc-slump-and-cash-burn/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The Nasdaq composite and Nasdaq 100 are back below their 100 day MAs increasing the bearish control",
-      "link": "https://investinglive.com/stocks/the-nasdaq-composite-and-nasdaq-100-are-back-below-their-100-day-mas-increasing-the-bearish-control/",
+      "title": "Binance appears hacked, CZ says, as Tether and Circle freeze $1.79B in stablecoins",
+      "link": "https://investinglive.com/cryptocurrency/binance-appears-hacked-cz-says-as-tether-and-circle-freeze-1-79b-in-stablecoins/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Lagarde: Growth should be underpinned in the near term",
-      "link": "https://investinglive.com/central-banks/lagarde-growth-should-be-underpinned-in-the-near-term/",
+      "title": "Tether freezes $971M USDT amid suspected Binance hack as crypto sells off",
+      "link": "https://investinglive.com/cryptocurrency/tether-freezes-971m-usdt-amid-suspected-binance-hack-as-crypto-sells-off/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "USDCAD finds support near the recent lows and near a swing area",
-      "link": "https://investinglive.com/technical-analysis/usdcad-finds-support-near-the-recent-lows-and-near-a-swing-area/",
+      "title": "Earnings bloodbath: Intel crashes over 22%, Amazon over 12%. What's coming next?",
+      "link": "https://investinglive.com/stocks/earnings-bloodbath-intel-crashes-over-22-amazon-over-12-what-s-coming-next/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ECB rate decision: No change in rates",
-      "link": "https://investinglive.com/central-banks/ecb-rate-decision/",
+      "title": "Intel shares tumble around 15%. The narrative is --> weak Q4 guidance overshadows Q3 profit beat",
+      "link": "https://investinglive.com/stocks/intel-shares-tumble-around-15-the-narrative-is-weak-q4-guidance-overshadows-q3-profit-beat/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US GDP Advance for the 3rd quarter 3.4% vs 3.2% estimate",
-      "link": "https://investinglive.com/news/us-gdp-advance-for-the-3rd-quarter-3-4-vs-3-2-estimate/",
+      "title": "BoJ preview: hold at 1.25% expected, with 2% inflation call and dissent risk in focus",
+      "link": "https://investinglive.com/central-banks/boj-preview-hold-at-1-25-expected-with-2-inflation-call-and-dissent-risk-in-focus/",
       "date": "2026-10-29"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US initial jobless claims 194K vs 199K expected",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-194k-vs-199k-expected/",
+      "title": "Tokyo CPI preview: core inflation seen at 2.6% as BoJ weighs December hike",
+      "link": "https://investinglive.com/central-banks/tokyo-cpi-preview-core-inflation-seen-at-2-6-as-boj-weighs-december-hike/",
       "date": "2026-10-29"
     }
   ]

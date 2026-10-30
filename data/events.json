@@ -1,24 +1,19 @@
 {
-  "asof": "2026-10-29",
+  "asof": "2026-10-30",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 6 releases (EUA) — 2026-10-29 Gross Domestic Product; 2026-10-29 Personal Income and Outlays; 2026-10-30 Employment Cost Index; 2026-11-03 Job Openings and Labor Turnover Survey",
+    "FRED: 5 releases (EUA) — 2026-10-30 Employment Cost Index; 2026-11-03 Job Openings and Labor Turnover Survey; 2026-11-06 Employment Situation; 2026-11-10 Consumer Price Index",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 9 eventos"
+    "ForexFactory: 4 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-10-29",
-      "title": "Gross Domestic Product",
+      "date": "2026-10-30",
+      "title": "Employment Cost Index",
       "forecast": ""
-    },
-    "EUR": {
-      "date": "2026-10-29",
-      "title": "Main Refinancing Rate",
-      "forecast": "2.65%"
     },
     "JPY": {
       "date": "2026-10-30",
