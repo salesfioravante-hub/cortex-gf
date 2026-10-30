@@ -5,6 +5,34 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Amendment to \"Basic Principles for Disposal of ETFs and J-REITs\"",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Outlook for Economic Activity and Prices (October 2026, The Bank's View)",
+      "link": "http://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Statement on Monetary Policy",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "(Reference) Decisions regarding a Change in the Pace of Sales of ETFs (October 2026)",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030c.pdf",
+      "date": "2026-10-30"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
@@ -68,38 +96,10 @@
       "date": "2026-10-28"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Indicators for Core CPI",
-      "link": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
-      "date": "2026-10-27"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Services Producer Price Index (Sept.)",
-      "link": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
-      "date": "2026-10-26"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Financial System Report (October 2026)",
-      "link": "http://www.boj.or.jp/en/research/brp/fsr/fsr261023.htm",
-      "date": "2026-10-23"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
       "link": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
       "date": "2026-10-22"
     },
     {
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ANZ lifts year-end Brent forecast to $105 as tight physical market persists",
-      "link": "https://investinglive.com/commodities/anz-lifts-year-end-brent-forecast-to-105-as-tight-physical-market-persists/",
-      "date": "2026-10-29"
+      "title": "What is spooking markets as stocks, Treasury yields and gold all fall ahead of European trading?",
+      "link": "https://investinglive.com/news/what-is-spooking-markets-as-stocks-treasury-yields-and-gold-all-fall-ahead-of-european-trading/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Tokyo October CPI 2.8% (2.7% expected)",
-      "link": "https://investinglive.com/news/tokyo-october-cpi-2-8-2-7-expected/",
-      "date": "2026-10-29"
+      "title": "BOJ declares inflation victory but still won't budge on rates, so what's the hold-up?",
+      "link": "https://investinglive.com/central-banks/boj-declares-inflation-victory-but-still-won-t-budge-on-rates-so-what-s-the-hold-up/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Binance pauses withdrawals after suspected $3B+ hack as Tether, Circle freeze $2.4B",
-      "link": "https://investinglive.com/cryptocurrency/binance-pauses-withdrawals-after-suspected-3b-hack-as-tether-circle-freeze-2-4b/",
-      "date": "2026-10-29"
+      "title": "investingLive Asia-Pacific market news: Binance hack shakes crypto",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-binance-hack-shakes-crypto/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nvidia in talks to guarantee Nscale debt tied to $45 billion Anthropic compute deal",
-      "link": "https://investinglive.com/stock-market-update/nvidia-in-talks-to-guarantee-nscale-debt-tied-to-45-billion-anthropic-compute-deal/",
-      "date": "2026-10-29"
+      "title": "BoJ declares underlying inflation at 2% target, lifts FY2027 price forecast as rates held",
+      "link": "https://investinglive.com/central-banks/boj-declares-underlying-inflation-at-2-target-lifts-fy2027-price-forecast-as-rates-held/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Morgan Stanley’s Wilson sees one final sell-off before US stock correction ends",
-      "link": "https://investinglive.com/stock-market-update/morgan-stanley-s-wilson-sees-one-final-sell-off-before-us-stock-correction-ends/",
-      "date": "2026-10-29"
+      "title": "BoJ keeps policy rate unchanged at 1.25%, as expected",
+      "link": "https://investinglive.com/central-banks/boj-keeps-policy-rate-unchanged-at-1-25-as-expected/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "RBA set for back-to-back hike after hot CPI, says Natixis’ Garcia Herrero",
-      "link": "https://investinglive.com/central-banks/rba-set-for-back-to-back-hike-after-hot-cpi-says-natixis-garcia-herrero/",
-      "date": "2026-10-29"
+      "title": "BoJ decision due shortly: hold at 1.25% expected, December signal in focu",
+      "link": "https://investinglive.com/central-banks/boj-decision-due-shortly-hold-at-1-25-expected-december-signal-in-focu/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ING lifts AUD/USD target to 0.71 as it backs a 25bp RBA hike next week",
-      "link": "https://investinglive.com/central-banks/ing-lifts-aud-usd-target-to-0-71-as-it-backs-a-25bp-rba-hike-next-week/",
-      "date": "2026-10-29"
+      "title": "(Some good news!) Treasuries rally as AI selloff drives flight to safety, 10-year yield at one-month low",
+      "link": "https://investinglive.com/news/some-good-news-treasuries-rally-as-ai-selloff-drives-flight-to-safety-10-year-yield-at-one-month-low/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ECB to hike once more in December as tighter conditions may not suffice: Deutsche Bank",
-      "link": "https://investinglive.com/central-banks/ecb-to-hike-once-more-in-december-as-tighter-conditions-may-not-suffice-deutsche-bank/",
-      "date": "2026-10-29"
+      "title": "Amazon and Intel results deepen worries over AI boom costs as tech, chip stocks slide",
+      "link": "https://investinglive.com/stocks/amazon-and-intel-results-deepen-worries-over-ai-boom-costs-as-tech-chip-stocks-slide/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Intel earnings call: 18A progress and data centre growth offset by PC slump and cash burn",
-      "link": "https://investinglive.com/stocks/intel-earnings-call-18a-progress-and-data-centre-growth-offset-by-pc-slump-and-cash-burn/",
-      "date": "2026-10-29"
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7138 (vs. estimate at 6.6548)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7183-vs-estimate-at-6-6548/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Binance appears hacked, CZ says, as Tether and Circle freeze $1.79B in stablecoins",
-      "link": "https://investinglive.com/cryptocurrency/binance-appears-hacked-cz-says-as-tether-and-circle-freeze-1-79b-in-stablecoins/",
-      "date": "2026-10-29"
+      "title": "Chainalysis estimates $5.9B stolen in suspected Binance hack, nearly 4 times Bybit",
+      "link": "https://investinglive.com/cryptocurrency/chainalysis-estimates-5-9b-stolen-in-suspected-binance-hack-nearly-4-times-bybit/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Tether freezes $971M USDT amid suspected Binance hack as crypto sells off",
-      "link": "https://investinglive.com/cryptocurrency/tether-freezes-971m-usdt-amid-suspected-binance-hack-as-crypto-sells-off/",
-      "date": "2026-10-29"
+      "title": "Binance halts deposits and withdrawals, pledges to cover all losses from suspected hack",
+      "link": "https://investinglive.com/cryptocurrency/binance-halts-deposits-and-withdrawals-pledges-to-cover-all-losses-from-suspected-hack/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Earnings bloodbath: Intel crashes over 22%, Amazon over 12%. What's coming next?",
-      "link": "https://investinglive.com/stocks/earnings-bloodbath-intel-crashes-over-22-amazon-over-12-what-s-coming-next/",
-      "date": "2026-10-29"
+      "title": "Ukraine reportedly pauses strikes on Russian refineries after US pressure",
+      "link": "https://investinglive.com/commodities/ukraine-reportedly-pauses-strikes-on-russian-refineries-after-us-pressure/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Intel shares tumble around 15%. The narrative is --> weak Q4 guidance overshadows Q3 profit beat",
-      "link": "https://investinglive.com/stocks/intel-shares-tumble-around-15-the-narrative-is-weak-q4-guidance-overshadows-q3-profit-beat/",
-      "date": "2026-10-29"
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6548 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6548-reuters-estimate/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BoJ preview: hold at 1.25% expected, with 2% inflation call and dissent risk in focus",
-      "link": "https://investinglive.com/central-banks/boj-preview-hold-at-1-25-expected-with-2-inflation-call-and-dissent-risk-in-focus/",
-      "date": "2026-10-29"
+      "title": "Vessel on fire in Strait of Hormuz after incident near Oman, cause \"unknown\" (LOL)",
+      "link": "https://investinglive.com/commodities/vessel-on-fire-in-strait-of-hormuz-after-incident-near-oman-cause-unknown-lol/",
+      "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Tokyo CPI preview: core inflation seen at 2.6% as BoJ weighs December hike",
-      "link": "https://investinglive.com/central-banks/tokyo-cpi-preview-core-inflation-seen-at-2-6-as-boj-weighs-december-hike/",
-      "date": "2026-10-29"
+      "title": "Japan September factory output beats forecasts, but retail sales disappoint ahead of BoJ",
+      "link": "https://investinglive.com/news/japan-september-factory-output-beats-forecasts-but-retail-sales-disappoint-ahead-of-boj/",
+      "date": "2026-10-30"
     }
   ]
 }
