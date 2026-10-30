@@ -5,6 +5,27 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (October-December 2026) (Schedule Updates)",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
+      "date": "2026-10-30"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Timetable and Schedule of U.S. Dollar Funds-Supplying Operations  (November 2026-March 2027)",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
+      "date": "2026-10-30"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Amendment to \"Basic Principles for Disposal of ETFs and J-REITs\"",
@@ -16,20 +37,6 @@
       "source": "BoJ",
       "title": "Outlook for Economic Activity and Prices (October 2026, The Bank's View)",
       "link": "http://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Statement on Monetary Policy",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "(Reference) Decisions regarding a Change in the Pace of Sales of ETFs (October 2026)",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030c.pdf",
       "date": "2026-10-30"
     },
     {
@@ -58,13 +65,6 @@
       "source": "BCE",
       "title": "Monetary policy decisions",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "ECB President Lagarde to step down on 7 February 2027",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
       "date": "2026-10-29"
     },
     {
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What is spooking markets as stocks, Treasury yields and gold all fall ahead of European trading?",
-      "link": "https://investinglive.com/news/what-is-spooking-markets-as-stocks-treasury-yields-and-gold-all-fall-ahead-of-european-trading/",
+      "title": "Canada GDP for August 0.0% vs 0.2% estimate",
+      "link": "https://investinglive.com/news/canada-gdp-for-august-0-0-vs-0-2-estimate/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BOJ declares inflation victory but still won't budge on rates, so what's the hold-up?",
-      "link": "https://investinglive.com/central-banks/boj-declares-inflation-victory-but-still-won-t-budge-on-rates-so-what-s-the-hold-up/",
+      "title": "US employment cost index for Q3 +0.8% vs +0.8% expected",
+      "link": "https://investinglive.com/news/us-employment-cost-index-for-q3-0-8-vs-0-8-expected/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Binance hack shakes crypto",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-binance-hack-shakes-crypto/",
+      "title": "Morning Kickstart: Tech hammered as Amazon and Intel tumble; oil rises despite peace talk",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-tech-hammered-as-amazon-and-intel-tumble-oil-rises-despite-peace-talk/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BoJ declares underlying inflation at 2% target, lifts FY2027 price forecast as rates held",
-      "link": "https://investinglive.com/central-banks/boj-declares-underlying-inflation-at-2-target-lifts-fy2027-price-forecast-as-rates-held/",
+      "title": "Crude oil extends gains as traders hedge into weekend amid risks of US strikes on Iran",
+      "link": "https://investinglive.com/commodities/crude-oil-extends-gains-as-traders-hedge-into-weekend-amid-risks-of-us-strikes-on-iran/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BoJ keeps policy rate unchanged at 1.25%, as expected",
-      "link": "https://investinglive.com/central-banks/boj-keeps-policy-rate-unchanged-at-1-25-as-expected/",
+      "title": "investingLive European session wrap: AI spending fears spook tech stocks; dollar falls alongside yields, gold",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-ai-spending-fears-spook-tech-stocks-dollar-falls-alongside-yields-gold/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BoJ decision due shortly: hold at 1.25% expected, December signal in focu",
-      "link": "https://investinglive.com/central-banks/boj-decision-due-shortly-hold-at-1-25-expected-december-signal-in-focu/",
+      "title": "Ethereum tumbles as Binance hack triggers risk-off wave across crypto markets. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-tumbles-as-binance-hack-triggers-risk-off-wave-across-crypto-markets-what-s-next/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "(Some good news!) Treasuries rally as AI selloff drives flight to safety, 10-year yield at one-month low",
-      "link": "https://investinglive.com/news/some-good-news-treasuries-rally-as-ai-selloff-drives-flight-to-safety-10-year-yield-at-one-month-low/",
+      "title": "Italy October preliminary CPI +5.4% vs +4.6% y/y expected",
+      "link": "https://investinglive.com/news/italy-october-preliminary-cpi-5-4-vs-4-6-y-y-expected/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Amazon and Intel results deepen worries over AI boom costs as tech, chip stocks slide",
-      "link": "https://investinglive.com/stocks/amazon-and-intel-results-deepen-worries-over-ai-boom-costs-as-tech-chip-stocks-slide/",
+      "title": "Eurozone Q3 GDP beats expectations but the growth surprise comes with a catch",
+      "link": "https://investinglive.com/news/eurozone-q3-gdp-beats-expectations-but-the-growth-surprise-comes-with-a-catch/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7138 (vs. estimate at 6.6548)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7183-vs-estimate-at-6-6548/",
+      "title": "German state inflation cools in October, but will that ease the ECB's headache?",
+      "link": "https://investinglive.com/news/german-state-inflation-cools-in-october-but-will-that-ease-the-ecb-s-headache/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Chainalysis estimates $5.9B stolen in suspected Binance hack, nearly 4 times Bybit",
-      "link": "https://investinglive.com/cryptocurrency/chainalysis-estimates-5-9b-stolen-in-suspected-binance-hack-nearly-4-times-bybit/",
+      "title": "Italy Q3 preliminary GDP +0.0% vs +0.1% q/q expected",
+      "link": "https://investinglive.com/news/italy-q3-preliminary-gdp-0-0-vs-0-1-q-q-expected/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Binance halts deposits and withdrawals, pledges to cover all losses from suspected hack",
-      "link": "https://investinglive.com/cryptocurrency/binance-halts-deposits-and-withdrawals-pledges-to-cover-all-losses-from-suspected-hack/",
+      "title": "Germany Q3 preliminary GDP +0.2% vs +0.1% q/q expected",
+      "link": "https://investinglive.com/news/germany-q3-preliminary-gdp-0-2-vs-0-1-q-q-expected/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Ukraine reportedly pauses strikes on Russian refineries after US pressure",
-      "link": "https://investinglive.com/commodities/ukraine-reportedly-pauses-strikes-on-russian-refineries-after-us-pressure/",
+      "title": "Gold gets hit again by forced liquidations as equity losses mount; fundamental outlook increasingly positive",
+      "link": "https://investinglive.com/commodities/gold-gets-hit-again-by-forced-liquidations-as-equity-losses-mount-fundamental-outlook-increasingly-positive/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6548 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6548-reuters-estimate/",
+      "title": "European stock market open: Stocks stumble as AI fears spook markets, Italy and Spain lead losses",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-stumble-as-ai-fears-spook-markets-italy-and-spain-lead-losses/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Vessel on fire in Strait of Hormuz after incident near Oman, cause \"unknown\" (LOL)",
-      "link": "https://investinglive.com/commodities/vessel-on-fire-in-strait-of-hormuz-after-incident-near-oman-cause-unknown-lol/",
+      "title": "Spain Q3 GDP growth slows slightly but it's the inflation problem that should worry the ECB",
+      "link": "https://investinglive.com/news/spain-q3-gdp-growth-slows-slightly-but-it-s-the-inflation-problem-that-should-worry-the-ecb/",
       "date": "2026-10-30"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Japan September factory output beats forecasts, but retail sales disappoint ahead of BoJ",
-      "link": "https://investinglive.com/news/japan-september-factory-output-beats-forecasts-but-retail-sales-disappoint-ahead-of-boj/",
+      "title": "Spain inflation remains stubbornly high near 5% as the ECB headache gets worse",
+      "link": "https://investinglive.com/news/spain-inflation-remains-stubbornly-high-near-5-as-the-ecb-headache-gets-worse/",
       "date": "2026-10-30"
     }
   ]
