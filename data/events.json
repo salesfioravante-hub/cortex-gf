@@ -1,23 +1,18 @@
 {
-  "asof": "2026-10-30",
+  "asof": "2026-10-31",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 5 releases (EUA) — 2026-10-30 Employment Cost Index; 2026-11-03 Job Openings and Labor Turnover Survey; 2026-11-06 Employment Situation; 2026-11-10 Consumer Price Index",
+    "FRED: 4 releases (EUA) — 2026-11-03 Job Openings and Labor Turnover Survey; 2026-11-06 Employment Situation; 2026-11-10 Consumer Price Index; 2026-11-13 Producer Price Index",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 4 eventos"
+    "ForexFactory: 0 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-10-30",
-      "title": "Employment Cost Index",
-      "forecast": ""
-    },
-    "JPY": {
-      "date": "2026-10-30",
-      "title": "BOJ Outlook Report",
+      "date": "2026-11-03",
+      "title": "Job Openings and Labor Turnover Survey",
       "forecast": ""
     }
   }
