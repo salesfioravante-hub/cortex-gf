@@ -4,7 +4,7 @@
   "status": "ok",
   "series_ok": "7/7",
   "regime": {
-    "dxy": "up",
+    "dxy": "flat",
     "us10y": "down",
     "vix": "normal",
     "growth": "down",
@@ -20,8 +20,8 @@
   },
   "values": {
     "vix": 19.42,
-    "dxy": 121.3202,
-    "us10y": 4.98,
-    "realyield": 2.63
+    "dxy": 121.6656,
+    "us10y": 4.94,
+    "realyield": 2.6
   }
 }
