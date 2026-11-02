@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+      "date": "2026-11-02"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Outlook for Economic Activity and Prices (October 2026, full text)",
@@ -61,13 +68,6 @@
       "date": "2026-10-29"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
-      "date": "2026-10-29"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Minutes of the Meeting of the Court of Directors held on 17 September 2026",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Oil eases on Doha talks",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-doha-talks/",
+      "title": "US S&P Global final manufacturing PMI for October 54.9 vs 56.0 preliminary",
+      "link": "https://investinglive.com/news/us-s-p-global-final-manufacturing-pmi-for-october-54-9-vs-56-0-preliminary/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Deutsche Bank stands alone with RBA hold call as 31 of 32 economists tip a hike",
-      "link": "https://investinglive.com/central-banks/deutsche-bank-stands-alone-with-rba-hold-call-as-31-of-32-economists-tip-a-hike/",
+      "title": "Bitcoin bounces off Friday's key technical support but has a limit to the upside",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-bounces-off-friday-s-key-technical-support-but-has-a-limit-to-the-upside/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman lifts December Brent forecast to $105 on Middle East and Russia supply risks",
-      "link": "https://investinglive.com/commodities/goldman-lifts-december-brent-forecast-to-105-on-middle-east-and-russia-supply-risks/",
+      "title": "Canada S&P global manufacturing PMI 49.6 versus 51.5 last month",
+      "link": "https://investinglive.com/news/canada-s-p-global-manufacturing-pmi-49-6-versus-51-5-last-month/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Tucker Carlson claims Trump weighing nuclear strike on Iran’s Pickaxe Mountain",
-      "link": "https://investinglive.com/commodities/tucker-carlson-claims-trump-weighing-nuclear-strike-on-iran-s-pickaxe-mountain/",
+      "title": "US election: The key races that could tip control of Congress",
+      "link": "https://investinglive.com/news/us-election-the-key-races-that-could-tip-control-of-congress/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold’s slide to one-year low: margin calls amplified a fall driven by Fed hike bets",
-      "link": "https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/",
+      "title": "Iran’s Pezeshkian says Supreme Leader has granted government some authority on dialogue",
+      "link": "https://investinglive.com/news/iran-s-pezeshkian-says-supreme-leader-has-granted-government-some-authority-on-dialogue/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Election scenarios: Morgan Stanley’s Wilson says buy midterm dip, sees S&P 500 at 8,000 after correction",
-      "link": "https://investinglive.com/stock-market-update/election-scenarios-morgan-stanley-s-wilson-says-buy-midterm-dip-sees-s-p-500-at-8-000-after-correction/",
+      "title": "Oil prices sink as Iran's President says Supreme Leader granted certain authorities regarding negotiations",
+      "link": "https://investinglive.com/news/oil-prices-sink-as-iran-s-president-says-supreme-leader-granted-certain-authorities-regarding-negotiations/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bitcoin forecast today: The rebound looks better, but $79,000 is the real test",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-forecast-today-the-rebound-looks-better-but-79-000-is-the-real-test/",
+      "title": "Nasdaq trims losses as renewed hopes for US-Iran deal improve the risk sentiment ahead of the midterms",
+      "link": "https://investinglive.com/stocks/nasdaq-trims-losses-as-renewed-hopes-for-us-iran-deal-improve-the-risk-sentiment-ahead-of-the-midterms/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Tanker hit by two projectiles off Saudi coast as Gulf incidents reach 10 in three days",
-      "link": "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days/",
+      "title": "Morning Kickstart: Oil tumbles as Iran talks continue. USD mixed ahead of ISM",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-oil-tumbles-as-iran-talks-continue-usd-mixed-ahead-of-ism/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China private factory PMI at 52.0 beats forecasts, output growth fastest since April",
-      "link": "https://investinglive.com/news/china-private-factory-pmi-at-52-0-beats-forecasts-output-growth-fastest-since-april/",
+      "title": "investingLive European session wrap: Oil sinks, stocks steady as US midterm elections loom",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-oil-sinks-stocks-steady-as-us-midterm-elections-loom/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China’s central bank goes daily on 1.25% overnight repo, moving to Fed-style anchor",
-      "link": "https://investinglive.com/central-banks/china-s-central-bank-goes-daily-on-1-25-overnight-repo-moving-to-fed-style-anchor/",
+      "title": "France’s Economic Slowdown: Could Debt Worries Weigh on the Eurozone Recovery?",
+      "link": "https://investinglive.com/education/france-s-economic-slowdown-could-debt-worries-weigh-on-the-eurozone-recovery/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7146 (vs. estimate at 6.6625)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7146-vs-estimate-at-6-6625/",
+      "title": "Danish Krone Exchange Rate: 2026 Expert Forecast and Peg Data",
+      "link": "https://investinglive.com/education/danish-krone-exchange-rate-2026-expert-forecast-and-peg-data/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil slips as Iran says Qatar-brokered plan could reopen Hormuz in two days",
-      "link": "https://investinglive.com/commodities/oil-slips-as-iran-says-qatar-brokered-plan-could-reopen-hormuz-in-two-days/",
+      "title": "Elev8 broker launches 'Month of Golden Opportunities' with gold spreads down 23% to 2.4 pips",
+      "link": "https://investinglive.com/education/elev8-broker-launches-month-of-golden-opportunities-with-gold-spreads-down-23-to-2-4-pips/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Japan’s Katayama says US-Japan FX statement ‘alive’, warns on disorderly yen moves",
-      "link": "https://investinglive.com/forex/japan-s-katayama-says-us-japan-fx-statement-alive-warns-on-disorderly-yen-moves/",
+      "title": "Why being right but being early is the same as being wrong",
+      "link": "https://investinglive.com/education/why-being-right-but-being-early-is-the-same-as-being-wrong/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
-      "link": "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/",
+      "title": "A Unified Experience for Investment Solutions: Brokeree’s New Design System",
+      "link": "https://investinglive.com/education/a-unified-experience-for-investment-solutions-brokeree-s-new-design-system/",
       "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Japan weighs ¥5,000 annual payment for low-income workers under new benefit plan",
-      "link": "https://investinglive.com/news/japan-weighs-5-000-annual-payment-for-low-income-workers-under-new-benefit-plan/",
+      "title": "Zcash extends consolidation as macro headwinds continue to limit the upside. What to watch next?",
+      "link": "https://investinglive.com/cryptocurrency/zcash-extends-consolidation-as-macro-headwinds-continue-to-limit-the-upside-what-to-watch-next/",
       "date": "2026-11-02"
     }
   ]
