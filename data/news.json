@@ -1,9 +1,23 @@
 {
-  "asof": "2026-11-01",
+  "asof": "2026-11-02",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Outlook for Economic Activity and Prices (October 2026, full text)",
+      "link": "http://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf",
+      "date": "2026-11-02"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Sources of Changes in Current Account Balances and Market Operations (Oct.)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
+      "date": "2026-11-02"
+    },
     {
       "cur": "EUR",
       "source": "BCE",
@@ -37,20 +51,6 @@
       "source": "BoJ",
       "title": "Timetable and Schedule of U.S. Dollar Funds-Supplying Operations  (November 2026-March 2027)",
       "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Amendment to \"Basic Principles for Disposal of ETFs and J-REITs\"",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Outlook for Economic Activity and Prices (October 2026, The Bank's View)",
-      "link": "http://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf",
       "date": "2026-10-30"
     },
     {
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ICYMI - Ukrainian drones hit three Russian refineries in 72 hours, ending US-sought pause",
-      "link": "https://investinglive.com/commodities/icymi-ukrainian-drones-hit-three-russian-refineries-in-72-hours-ending-us-sought-pause/",
-      "date": "2026-11-01"
+      "title": "investingLive Asia-Pacific market news: Oil eases on Doha talks",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-eases-on-doha-talks/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Australia’s AI investment ambitions hit by another data centre setback",
-      "link": "https://investinglive.com/news/australia-s-ai-investment-ambitions-hit-by-another-data-centre-setback/",
-      "date": "2026-11-01"
+      "title": "Deutsche Bank stands alone with RBA hold call as 31 of 32 economists tip a hike",
+      "link": "https://investinglive.com/central-banks/deutsche-bank-stands-alone-with-rba-hold-call-as-31-of-32-economists-tip-a-hike/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Australia’s factory PMI stuck at 49.6 as new orders drop at fastest pace since 2024",
-      "link": "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/",
-      "date": "2026-11-01"
+      "title": "Goldman lifts December Brent forecast to $105 on Middle East and Russia supply risks",
+      "link": "https://investinglive.com/commodities/goldman-lifts-december-brent-forecast-to-105-on-middle-east-and-russia-supply-risks/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trump says US and Canada have ‘concept’ of a deal, two days before midterms",
-      "link": "https://investinglive.com/news/trump-says-us-and-canada-have-concept-of-a-deal-two-days-before-midterms/",
-      "date": "2026-11-01"
+      "title": "Tucker Carlson claims Trump weighing nuclear strike on Iran’s Pickaxe Mountain",
+      "link": "https://investinglive.com/commodities/tucker-carlson-claims-trump-weighing-nuclear-strike-on-iran-s-pickaxe-mountain/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Economic and event calendar in Asia Monday, November 2, 2026 - another China PMI",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-november-2-2026-another-china-pmi/",
-      "date": "2026-11-01"
+      "title": "Gold’s slide to one-year low: margin calls amplified a fall driven by Fed hike bets",
+      "link": "https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China’s central bank, regulators to meet on stock support after record 12-week slide",
-      "link": "https://investinglive.com/stock-market-update/china-s-central-bank-regulators-to-meet-on-stock-support-after-record-12-week-slide/",
-      "date": "2026-11-01"
+      "title": "Election scenarios: Morgan Stanley’s Wilson says buy midterm dip, sees S&P 500 at 8,000 after correction",
+      "link": "https://investinglive.com/stock-market-update/election-scenarios-morgan-stanley-s-wilson-says-buy-midterm-dip-sees-s-p-500-at-8-000-after-correction/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "OPEC+ holds December targets steady for third month as Hormuz disruption persists",
-      "link": "https://investinglive.com/commodities/opec-holds-december-targets-steady-for-third-month-as-hormuz-disruption-persists/",
-      "date": "2026-11-01"
+      "title": "Bitcoin forecast today: The rebound looks better, but $79,000 is the real test",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-forecast-today-the-rebound-looks-better-but-79-000-is-the-real-test/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China’s factory and services PMI gauges both drop below 50 as fourth quarter starts on a weak note",
-      "link": "https://investinglive.com/news/china-s-factory-and-services-pmi-gauges-both-drop-below-50-as-fourth-quarter-starts-on-a-weak-note/",
-      "date": "2026-11-01"
+      "title": "Tanker hit by two projectiles off Saudi coast as Gulf incidents reach 10 in three days",
+      "link": "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Iran says two tankers hit mines in Hormuz as Tehran offers two-day reopening plan",
-      "link": "https://investinglive.com/commodities/iran-says-two-tankers-hit-mines-in-hormuz-as-tehran-offers-two-day-reopening-plan/",
-      "date": "2026-11-01"
+      "title": "China private factory PMI at 52.0 beats forecasts, output growth fastest since April",
+      "link": "https://investinglive.com/news/china-private-factory-pmi-at-52-0-beats-forecasts-output-growth-fastest-since-april/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What protects Japan’s economy? And what does it mean for the yen?",
-      "link": "https://investinglive.com/education/what-protects-japan-s-economy-and-what-does-it-mean-for-the-yen/",
-      "date": "2026-11-01"
+      "title": "China’s central bank goes daily on 1.25% overnight repo, moving to Fed-style anchor",
+      "link": "https://investinglive.com/central-banks/china-s-central-bank-goes-daily-on-1-25-overnight-repo-moving-to-fed-style-anchor/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bitcoin got spooked this Halloween. Is a monster rebound brewing or another crypto nightmare?",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-got-spooked-this-halloween-is-a-monster-rebound-brewing-or-another-crypto-nightmare/",
-      "date": "2026-10-31"
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7146 (vs. estimate at 6.6625)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7146-vs-estimate-at-6-6625/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 30 Oct: It’s a wrap: Nasdaq tumbles as AI costs worry investors; Fed speakers keep hikes in play",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/",
-      "date": "2026-10-30"
+      "title": "Oil slips as Iran says Qatar-brokered plan could reopen Hormuz in two days",
+      "link": "https://investinglive.com/commodities/oil-slips-as-iran-says-qatar-brokered-plan-could-reopen-hormuz-in-two-days/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nasdaq suffers worst month since March 2025 as technology stocks tumble",
-      "link": "https://investinglive.com/stocks/nasdaq-suffers-worst-month-since-march-2025-as-technology-stocks-tumble/",
-      "date": "2026-10-30"
+      "title": "Japan’s Katayama says US-Japan FX statement ‘alive’, warns on disorderly yen moves",
+      "link": "https://investinglive.com/forex/japan-s-katayama-says-us-japan-fx-statement-alive-warns-on-disorderly-yen-moves/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bitcoin tests key support as Binance security fears weigh",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-tests-key-support-as-binance-security-fears-weigh/",
-      "date": "2026-10-30"
+      "title": "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
+      "link": "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/",
+      "date": "2026-11-02"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Week ahead: Elections, rate decisions and jobs take center stage",
-      "link": "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/",
-      "date": "2026-10-30"
+      "title": "Japan weighs ¥5,000 annual payment for low-income workers under new benefit plan",
+      "link": "https://investinglive.com/news/japan-weighs-5-000-annual-payment-for-low-income-workers-under-new-benefit-plan/",
+      "date": "2026-11-02"
     }
   ]
 }
