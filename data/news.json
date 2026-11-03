@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-02",
+  "asof": "2026-11-03",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -15,14 +15,14 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Outlook for Economic Activity and Prices (October 2026, full text)",
-      "link": "http://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf",
+      "link": "https://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf",
       "date": "2026-11-02"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Sources of Changes in Current Account Balances and Market Operations (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
+      "link": "https://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
       "date": "2026-11-02"
     },
     {
@@ -50,14 +50,14 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (October-December 2026) (Schedule Updates)",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
+      "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
       "date": "2026-10-30"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Timetable and Schedule of U.S. Dollar Funds-Supplying Operations  (November 2026-March 2027)",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
+      "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
       "date": "2026-10-30"
     },
     {
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman: Don’t try to time the S&P 500 top as EPS growth seen slowing to 11%",
-      "link": "https://investinglive.com/stock-market-update/goldman-don-t-try-to-time-the-s-p-500-top-as-eps-growth-seen-slowing-to-11/",
-      "date": "2026-11-02"
+      "title": "RBA governor Bullock says it might be that this rate hike might not be enough",
+      "link": "https://investinglive.com/central-banks/rba-governor-bullock-says-it-might-be-that-this-rate-hike-might-not-be-enough/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US midterms: what traders need to know as narrow Congress majorities face voters",
-      "link": "https://investinglive.com/stocks/us-midterms-what-traders-need-to-know-as-narrow-congress-majorities-face-voters/",
-      "date": "2026-11-02"
+      "title": "Apple earnings beat fails to impress Wall Street as tech shares struggle ahead of US midterms",
+      "link": "https://investinglive.com/stocks/apple-earnings-beat-fails-to-impress-wall-street-as-tech-shares-struggle-ahead-of-us-midterms/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "WSJ: Anthropic IPO investors push for lower $1.5 trillion valuation after tech selloff",
-      "link": "https://investinglive.com/stocks/wsj-anthropic-ipo-investors-push-for-lower-1-5-trillion-valuation-after-tech-selloff/",
-      "date": "2026-11-02"
+      "title": "RBA’s Bullock offers no guidance, says it is probably good to wait for data after hike",
+      "link": "https://investinglive.com/central-banks/rba-s-bullock-offers-no-guidance-says-it-is-probably-good-to-wait-for-data-after-hike/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Up to six blasts reported near Iran’s Qeshm Island as Israeli TV cites US strike",
-      "link": "https://investinglive.com/commodities/up-to-six-blasts-reported-near-iran-s-qeshm-island-as-israeli-tv-cites-us-strike/",
-      "date": "2026-11-02"
+      "title": "investingLive Asia-Pacific market news: RBA hikes to 18-year high",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-hikes-to-18-year-high/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Apple beats Q4 forecasts on iPhone and Mac as revenue tops $114 billion",
-      "link": "https://investinglive.com/stocks/apple-beats-q4-forecasts-on-iphone-and-mac-as-revenue-tops-114-billion/",
-      "date": "2026-11-02"
+      "title": "Apple and Palantir beat earnings. Why did both stocks fall?",
+      "link": "https://investinglive.com/stocks/apple-and-palantir-beat-earnings-why-did-both-stocks-fall/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Dow rises as Nasdaq slides",
-      "link": "https://investinglive.com/stocks/dow-rises-as-nasdaq-slides/",
-      "date": "2026-11-02"
+      "title": "More: RBA lifts cash rate to 4.85% in split 6-3 vote, sees inflation above 3% until late 2027",
+      "link": "https://investinglive.com/central-banks/more-rba-lifts-cash-rate-to-4-85-in-split-6-3-vote-sees-inflation-above-3-until-late-2027/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Palantir beats Q3 estimates, lifts 2026 revenue outlook to around $8.5 billion",
-      "link": "https://investinglive.com/stocks/palantir-beats-q3-estimates-lifts-2026-revenue-outlook-to-around-8-5-billion/",
-      "date": "2026-11-02"
+      "title": "Reserve Bank of Australia (RBA) 25bp rate hike, as widely expected",
+      "link": "https://investinglive.com/central-banks/reserve-bank-of-australia-rba-25bp-rate-hike-as-widely-expected/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 2 Nov: It’s a wrap: AI selling overwhelms oil’s plunge",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-nov-it-s-a-wrap-ai-selling-overwhelms-oil-s-plunge/",
-      "date": "2026-11-02"
+      "title": "After the Binance hack, the simple security rule regulators keep coming back to, hot vs. cold wallets",
+      "link": "https://investinglive.com/education/after-the-binance-hack-the-simple-security-rule-regulators-keep-coming-back-to-hot-vs-cold-wallets/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Economic and event calendar in Asia 03 November 2026 - RBA rate hike expected",
-      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-03-november-2026-rba-rate-hike-expected/",
-      "date": "2026-11-02"
+      "title": "Nasdaq’s worst month since March 2025 puts returns on AI spending in focus, says BlackRock",
+      "link": "https://investinglive.com/stocks/nasdaq-s-worst-month-since-march-2025-puts-returns-on-ai-spending-in-focus-says-blackrock/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Apple and Palantir earnings preview: The numbers buyers and sellers will be watching",
-      "link": "https://investinglive.com/stocks/apple-and-palantir-earnings-preview-the-numbers-buyers-and-sellers-will-be-watching-him/",
-      "date": "2026-11-02"
+      "title": "Blackstone’s Gray sees more AI equity fundraising ahead from major tech firms",
+      "link": "https://investinglive.com/stocks/blackstone-s-gray-sees-more-ai-equity-fundraising-ahead-from-major-tech-firms/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "AUDUSD trades to a new low and looks to test a swing area target",
-      "link": "https://investinglive.com/technical-analysis/audusd-trades-to-a-new-low-and-looks-to-test-a-swing-area-target/",
-      "date": "2026-11-02"
+      "title": "JPMorgan’s four midterm scenarios: S&P 500 seen moving between -0.25% and +1.25%",
+      "link": "https://investinglive.com/stocks/jpmorgan-s-four-midterm-scenarios-s-p-500-seen-moving-between-0-25-and-1-25/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "NASDAQ indices have given up their gains. Trade in negative territory",
-      "link": "https://investinglive.com/stocks/nasdaq-indices-have-given-up-their-gains-trade-in-negative-territory/",
-      "date": "2026-11-02"
+      "title": "More on US strikes on Qeshm: officials confirm attack as Trump plays down war risk",
+      "link": "https://investinglive.com/commodities/more-on-us-strikes-on-qeshm-officials-confirm-attack-as-trump-plays-down-war-risk/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Iran and US reportedly on verge of preliminary agreement",
-      "link": "https://investinglive.com/news/iran-and-us-reportedly-on-verge-of-preliminary-agreement/",
-      "date": "2026-11-02"
+      "title": "Following the money: the playbook behind the $6.3bn Binance heist and a suspected $106 million theft",
+      "link": "https://investinglive.com/education/following-the-money-the-playbook-behind-the-6-3bn-binance-heist-and-a-suspected-106-million-theft/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "USDCAD decline stalls at key support. Can buyers build on the bounce?",
-      "link": "https://investinglive.com/technical-analysis/usdcad-decline-stalls-at-key-support-can-buyers-build-on-the-bounce/",
-      "date": "2026-11-02"
+      "title": "PBOC sets USD/ CNY central rate at 6.7150 (vs. estimate at 6.6489)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-7150-vs-estimate-at-6-6489/",
+      "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold Technicals: Gold is up sharply erasing some of last week's declines.  Bounces off key MA target.",
-      "link": "https://investinglive.com/commodities/gold-technicals-gold-is-up-sharply-erasing-some-of-last-week-s-declines-bounces-off-key-ma-target/",
-      "date": "2026-11-02"
+      "title": "China’s PBOC lifts FX reserve ratio to 6%: what it means for the yuan, AUD",
+      "link": "https://investinglive.com/central-banks/china-s-pboc-lifts-fx-reserve-ratio-to-6-what-it-means-for-the-yuan-aud/",
+      "date": "2026-11-03"
     }
   ]
 }
