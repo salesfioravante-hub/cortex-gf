@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
+      "date": "2026-11-03"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
@@ -15,14 +22,14 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Outlook for Economic Activity and Prices (October 2026, full text)",
-      "link": "https://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf",
+      "link": "http://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf",
       "date": "2026-11-02"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Sources of Changes in Current Account Balances and Market Operations (Oct.)",
-      "link": "https://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
+      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
       "date": "2026-11-02"
     },
     {
@@ -50,22 +57,15 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (October-December 2026) (Schedule Updates)",
-      "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
       "date": "2026-10-30"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Timetable and Schedule of U.S. Dollar Funds-Supplying Operations  (November 2026-March 2027)",
-      "link": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
+      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
       "date": "2026-10-30"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-      "link": "",
-      "date": "2026-10-29"
     },
     {
       "cur": "GBP",
@@ -82,145 +82,117 @@
       "date": "2026-10-29"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve issues FOMC statement",
-      "link": "",
-      "date": "2026-10-28"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Remit for the Monetary Policy Committee - October 2026",
       "link": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
       "date": "2026-10-28"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
-      "link": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
-      "date": "2026-10-22"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-      "link": "",
-      "date": "2026-10-16"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-      "link": "",
-      "date": "2026-10-13"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "RBA governor Bullock says it might be that this rate hike might not be enough",
-      "link": "https://investinglive.com/central-banks/rba-governor-bullock-says-it-might-be-that-this-rate-hike-might-not-be-enough/",
+      "title": "Trump on Israel: The aid gets cut off at year-end",
+      "link": "https://investinglive.com/news/trump-on-israel-the-aid-gets-cut-off-at-year-end/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Apple earnings beat fails to impress Wall Street as tech shares struggle ahead of US midterms",
-      "link": "https://investinglive.com/stocks/apple-earnings-beat-fails-to-impress-wall-street-as-tech-shares-struggle-ahead-of-us-midterms/",
+      "title": "Never tell me the odds: Prediction markets see Democrats taking control of House and Senate",
+      "link": "https://investinglive.com/news/never-tell-me-the-odds-prediction-markets-see-democrats-taking-control-of-house-and-senate/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "RBA’s Bullock offers no guidance, says it is probably good to wait for data after hike",
-      "link": "https://investinglive.com/central-banks/rba-s-bullock-offers-no-guidance-says-it-is-probably-good-to-wait-for-data-after-hike/",
+      "title": "Morning Kickstart: Election uncertainty, Iran tensions and rising yields frame the session",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-election-uncertainty-iran-tensions-and-rising-yields-frame-the-session/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: RBA hikes to 18-year high",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-hikes-to-18-year-high/",
+      "title": "investingLive European news wrap: Markets remain cautious as focus shifts to US midterm elections",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-cautious-as-focus-shifts-to-us-midterm-elections/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Apple and Palantir beat earnings. Why did both stocks fall?",
-      "link": "https://investinglive.com/stocks/apple-and-palantir-beat-earnings-why-did-both-stocks-fall/",
+      "title": "Squeezing the Lemon: Why Brokers' Growth Is Already in Their Systems",
+      "link": "https://investinglive.com/education/squeezing-the-lemon-why-brokers-growth-is-already-in-their-systems/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "More: RBA lifts cash rate to 4.85% in split 6-3 vote, sees inflation above 3% until late 2027",
-      "link": "https://investinglive.com/central-banks/more-rba-lifts-cash-rate-to-4-85-in-split-6-3-vote-sees-inflation-above-3-until-late-2027/",
+      "title": "How markets price geopolitical risk: Why de-escalation headlines can trigger major market moves",
+      "link": "https://investinglive.com/education/how-markets-price-geopolitical-risk-why-de-escalation-headlines-can-trigger-major-market-moves/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Reserve Bank of Australia (RBA) 25bp rate hike, as widely expected",
-      "link": "https://investinglive.com/central-banks/reserve-bank-of-australia-rba-25bp-rate-hike-as-widely-expected/",
+      "title": "The S&P 500 stays on the back foot amid geopolitical uncertainty as US midterm elections loom. What's next?",
+      "link": "https://investinglive.com/stocks/the-s-p-500-stays-on-the-back-foot-amid-geopolitical-uncertainty-as-us-midterm-elections-loom-what-s-next/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "After the Binance hack, the simple security rule regulators keep coming back to, hot vs. cold wallets",
-      "link": "https://investinglive.com/education/after-the-binance-hack-the-simple-security-rule-regulators-keep-coming-back-to-hot-vs-cold-wallets/",
+      "title": "Solana remains under pressure as markets weigh US-Iran talks, Fed risks and US midterm elections",
+      "link": "https://investinglive.com/cryptocurrency/solana-remains-under-pressure-as-markets-weigh-us-iran-talks-fed-risks-and-us-midterm-elections/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nasdaq’s worst month since March 2025 puts returns on AI spending in focus, says BlackRock",
-      "link": "https://investinglive.com/stocks/nasdaq-s-worst-month-since-march-2025-puts-returns-on-ai-spending-in-focus-says-blackrock/",
+      "title": "Crude oil trims losses as US strikes Iran's Qeshm Island while CIA Director calls for continued economic pressure",
+      "link": "https://investinglive.com/commodities/crude-oil-trims-losses-as-us-strikes-iran-s-qeshm-island-while-cia-director-calls-for-continued-economic-pressure/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Blackstone’s Gray sees more AI equity fundraising ahead from major tech firms",
-      "link": "https://investinglive.com/stocks/blackstone-s-gray-sees-more-ai-equity-fundraising-ahead-from-major-tech-firms/",
+      "title": "Three warning signs the tech selloff isn't over as Wall Street sentiment hangs by a thread",
+      "link": "https://investinglive.com/stocks/three-warning-signs-the-tech-selloff-isn-t-over-as-wall-street-sentiment-hangs-by-a-thread/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "JPMorgan’s four midterm scenarios: S&P 500 seen moving between -0.25% and +1.25%",
-      "link": "https://investinglive.com/stocks/jpmorgan-s-four-midterm-scenarios-s-p-500-seen-moving-between-0-25-and-1-25/",
+      "title": "Ethereum consolidates as focus shifts to US midterm elections while US-Iran negotiations continue",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-consolidates-as-focus-shifts-to-us-midterm-elections-while-us-iran-negotiations-continue/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "More on US strikes on Qeshm: officials confirm attack as Trump plays down war risk",
-      "link": "https://investinglive.com/commodities/more-on-us-strikes-on-qeshm-officials-confirm-attack-as-trump-plays-down-war-risk/",
+      "title": "European stock market open: Stocks tumble across the board as risk sentiment sours",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-tumble-across-the-board-as-risk-sentiment-sours/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Following the money: the playbook behind the $6.3bn Binance heist and a suspected $106 million theft",
-      "link": "https://investinglive.com/education/following-the-money-the-playbook-behind-the-6-3bn-binance-heist-and-a-suspected-106-million-theft/",
+      "title": "Gold trims gains after overnight strikes on Iran as the focus turns to the US midterm elections",
+      "link": "https://investinglive.com/commodities/gold-trims-gains-after-overnight-strikes-on-iran-as-the-focus-turns-to-the-us-midterm-elections/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY central rate at 6.7150 (vs. estimate at 6.6489)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-7150-vs-estimate-at-6-6489/",
+      "title": "Swiss inflation surprises higher in October but core prices offer some relief",
+      "link": "https://investinglive.com/news/swiss-inflation-surprises-higher-in-october-but-core-prices-offer-some-relief/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China’s PBOC lifts FX reserve ratio to 6%: what it means for the yuan, AUD",
-      "link": "https://investinglive.com/central-banks/china-s-pboc-lifts-fx-reserve-ratio-to-6-what-it-means-for-the-yuan-aud/",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-77/",
       "date": "2026-11-03"
     }
   ]
