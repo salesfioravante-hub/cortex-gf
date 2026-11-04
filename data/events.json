@@ -1,29 +1,19 @@
 {
-  "asof": "2026-11-03",
+  "asof": "2026-11-04",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 5 releases (EUA) — 2026-11-03 Job Openings and Labor Turnover Survey; 2026-11-06 Employment Situation; 2026-11-10 Consumer Price Index; 2026-11-13 Producer Price Index",
+    "FRED: 4 releases (EUA) — 2026-11-06 Employment Situation; 2026-11-10 Consumer Price Index; 2026-11-13 Producer Price Index; 2026-11-17 Advance Monthly Sales for Retail and Food Services",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 19 eventos"
+    "ForexFactory: 12 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-11-03",
-      "title": "Job Openings and Labor Turnover Survey",
+      "date": "2026-11-06",
+      "title": "Employment Situation",
       "forecast": ""
-    },
-    "AUD": {
-      "date": "2026-11-03",
-      "title": "Cash Rate",
-      "forecast": "4.85%"
-    },
-    "NZD": {
-      "date": "2026-11-03",
-      "title": "Employment Change q/q",
-      "forecast": "0.4%"
     },
     "GBP": {
       "date": "2026-11-05",
@@ -38,6 +28,11 @@
     "JPY": {
       "date": "2026-11-06",
       "title": "BOJ Gov Ueda Speaks",
+      "forecast": ""
+    },
+    "NZD": {
+      "date": "2026-11-06",
+      "title": "Parliamentary Elections",
       "forecast": ""
     }
   }

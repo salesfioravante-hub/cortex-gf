@@ -1,14 +1,28 @@
 {
-  "asof": "2026-11-03",
+  "asof": "2026-11-04",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Bank of Japan Accounts (October 31)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261031.htm",
+      "date": "2026-11-04"
+    },
+    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
       "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
+      "date": "2026-11-03"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Monetary Base (Oct.)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
       "date": "2026-11-03"
     },
     {
@@ -51,20 +65,6 @@
       "source": "BCE",
       "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (October-December 2026) (Schedule Updates)",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Timetable and Schedule of U.S. Dollar Funds-Supplying Operations  (November 2026-March 2027)",
-      "link": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
       "date": "2026-10-30"
     },
     {
@@ -114,106 +114,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "If you squint, the odds are improving slightly for Republican Senate control",
-      "link": "https://investinglive.com/news/if-you-squint-the-odds-are-improving-slightly-for-republican-senate-control/",
+      "title": "Tesla misled South Korean buyers over Full Self-Driving, consumer group alleges",
+      "link": "https://investinglive.com/stocks/tesla-misled-south-korean-buyers-over-full-self-driving-consumer-group-alleges/",
+      "date": "2026-11-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6811 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6811-reuters-estimate/",
+      "date": "2026-11-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "India gold demand seen at six-year low in 2026 as high prices and weak monsoon bite",
+      "link": "https://investinglive.com/commodities/india-gold-demand-seen-at-six-year-low-in-2026-as-high-prices-and-weak-monsoon-bite/",
+      "date": "2026-11-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The very early results in Kentucky show a massive swing towards Democrats",
+      "link": "https://investinglive.com/news/the-very-early-results-in-kentucky-show-a-massive-swing-towards-democrats/",
+      "date": "2026-11-04"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump says no immediate plan to strike Iran as Netanyahu hints at attack this week",
+      "link": "https://investinglive.com/commodities/trump-says-no-immediate-plan-to-strike-iran-as-netanyahu-hints-at-attack-this-week/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ECB’s Nagel says a December rate hike is very likely to be necessary",
-      "link": "https://investinglive.com/central-banks/ecb-s-nagel-says-a-december-rate-hike-is-very-likely-to-be-necessary/",
+      "title": "BMW issues second profit warning, says car business could slip into operating loss",
+      "link": "https://investinglive.com/stocks/bmw-issues-second-profit-warning-says-car-business-could-slip-into-operating-loss/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Iran tensions rise as report details U.S. strike contingency and intelligence divisions",
-      "link": "https://investinglive.com/news/iran-tensions-rise-as-report-details-u-s-strike-contingency-and-intelligence-divisions/",
+      "title": "Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WGC says",
+      "link": "https://investinglive.com/commodities/central-bank-gold-buying-jumps-42-in-q3-as-high-prices-hit-jewellery-demand-wgc-says/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "European stocks close lower as yields climb. UK FTSE leads the declines",
-      "link": "https://investinglive.com/stocks/european-stocks-close-lower-as-yields-climb-uk-ftse-leads-the-declines/",
+      "title": "US warns of Houthi threat to Saudi airports and infrastructure, curbs travel to oil areas",
+      "link": "https://investinglive.com/commodities/us-warns-of-houthi-threat-to-saudi-airports-and-infrastructure-curbs-travel-to-oil-areas/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "USDCAD buyers push away from support. Can they clear the next upside hurdles?",
-      "link": "https://investinglive.com/technical-analysis/usdcad-buyers-push-away-from-support-can-they-clear-the-next-upside-hurdles/",
+      "title": "Carney says US trade talks to intensify as Washington asks less and offers mor",
+      "link": "https://investinglive.com/news/carney-says-us-trade-talks-to-intensify-as-washington-asks-less-and-offers-mor/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "History is kind to buyers of stock markets today",
-      "link": "https://investinglive.com/stocks/history-is-kind-to-buyers-of-stock-markets-today/",
+      "title": "Oil: Private survey of inventory shows a huge headline crude oil draw vs. build expected",
+      "link": "https://investinglive.com/commodities/oil-private-survey-of-inventory-shows-a-huge-headline-crude-oil-draw-vs-build-expected/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "USDCHF falls on firmer Swiss CPI, but buyers lean against the 100 day MA",
-      "link": "https://investinglive.com/technical-analysis/usdchf-falls-on-firmer-swiss-cpi-but-buyers-lean-against-the-100-day-ma/",
+      "title": "investingLive Americas market news wrap: Job openings jump as the US votes",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-job-openings-jump-as-the-us-votes/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BOC's Macklem: There could be a need to raise the policy rate further",
-      "link": "https://investinglive.com/central-banks/boc-s-macklem-there-could-be-a-need-to-raise-the-policy-rate-further/",
+      "title": "NZ Q3 Unemployment rate 5.7% (expected 5.5%, prior 5.6%)",
+      "link": "https://investinglive.com/news/nz-q3-unemployment-rate-5-7-expected-5-5-prior-5-6/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The broader US stock indices are making a play to the upside. Nasdaq indices bounce from the 200 day MAs",
-      "link": "https://investinglive.com/stocks/the-broader-us-stock-indices-are-making-a-play-to-the-upside-nasdaq-indices-bounce-from-the-200-day-mas/",
+      "title": "Nasdaq rebounds as chip stocks rally and Dow slips",
+      "link": "https://investinglive.com/stocks/nasdaq-rebounds-as-chip-stocks-rally-and-dow-slips/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "JOLTs Job openings 7.523M vs 7.100M estimate",
-      "link": "https://investinglive.com/news/jolts-job-openings-7-523m-vs-7-100m-estimate/",
+      "title": "AMD shares rise after hours as Q4 revenue outlook of $17bn tops forecasts on AI ramp",
+      "link": "https://investinglive.com/stocks/amd-shares-rise-after-hours-as-q4-revenue-outlook-of-17bn-tops-forecasts-on-ai-ramp/",
       "date": "2026-11-03"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US September factory orders +1.8% vs +1.2% expected",
-      "link": "https://investinglive.com/news/us-september-factory-orders-1-8-vs-1-2-expected/",
-      "date": "2026-11-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Tough to buy into the Iran headlines in the context of the election",
-      "link": "https://investinglive.com/news/tough-to-buy-into-the-iran-headlines-in-the-context-of-the-election/",
-      "date": "2026-11-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin sellers had their shot and missed. Now it is the buyers’ turn.",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-sellers-had-their-shot-and-missed-now-it-is-the-buyers-turn/",
-      "date": "2026-11-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump on Israel: The aid gets cut off at year-end",
-      "link": "https://investinglive.com/news/trump-on-israel-the-aid-gets-cut-off-at-year-end/",
-      "date": "2026-11-03"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Never tell me the odds: Prediction markets see Democrats taking control of House and Senate",
-      "link": "https://investinglive.com/news/never-tell-me-the-odds-prediction-markets-see-democrats-taking-control-of-house-and-senate/",
+      "title": "Super Micro shares rise after hours as revenue nears $20bn and Q2 guidance tops forecasts",
+      "link": "https://investinglive.com/stocks/super-micro-shares-rise-after-hours-as-revenue-nears-20bn-and-q2-guidance-tops-forecasts/",
       "date": "2026-11-03"
     }
   ]
