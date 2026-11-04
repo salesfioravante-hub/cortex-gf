@@ -7,6 +7,20 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261030.xlsx",
+      "date": "2026-11-04"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Collateral Accepted by the Bank of Japan (End of  Oct.)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2610.xlsx",
+      "date": "2026-11-04"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Bank of Japan Accounts (October 31)",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261031.htm",
       "date": "2026-11-04"
@@ -30,20 +44,6 @@
       "source": "BCE",
       "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
-      "date": "2026-11-02"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Outlook for Economic Activity and Prices (October 2026, full text)",
-      "link": "http://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf",
-      "date": "2026-11-02"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Sources of Changes in Current Account Balances and Market Operations (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
       "date": "2026-11-02"
     },
     {
@@ -114,107 +114,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Tesla misled South Korean buyers over Full Self-Driving, consumer group alleges",
-      "link": "https://investinglive.com/stocks/tesla-misled-south-korean-buyers-over-full-self-driving-consumer-group-alleges/",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-78/",
       "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6811 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6811-reuters-estimate/",
+      "title": "FX option expiries for 4 November 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-4-november-10am-new-york-cut/",
       "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "India gold demand seen at six-year low in 2026 as high prices and weak monsoon bite",
-      "link": "https://investinglive.com/commodities/india-gold-demand-seen-at-six-year-low-in-2026-as-high-prices-and-weak-monsoon-bite/",
+      "title": "US futures continue to trim losses after early beatdown but AI worries linger",
+      "link": "https://investinglive.com/stocks/us-futures-continue-to-trim-losses-after-early-beatdown-but-ai-worries-linger/",
       "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The very early results in Kentucky show a massive swing towards Democrats",
-      "link": "https://investinglive.com/news/the-very-early-results-in-kentucky-show-a-massive-swing-towards-democrats/",
+      "title": "US midterms 2026: Who would've thought that a war would be a bad idea?",
+      "link": "https://investinglive.com/news/us-midterms-2026-who-would-ve-thought-that-a-war-would-be-a-bad-idea/",
       "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trump says no immediate plan to strike Iran as Netanyahu hints at attack this week",
-      "link": "https://investinglive.com/commodities/trump-says-no-immediate-plan-to-strike-iran-as-netanyahu-hints-at-attack-this-week/",
-      "date": "2026-11-03"
+      "title": "investingLive Asia-Pacific market news: Stocks slide as Trump slammed in mid terms loss",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-stocks-slide-as-trump-slammed-in-mid-terms-loss/",
+      "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BMW issues second profit warning, says car business could slip into operating loss",
-      "link": "https://investinglive.com/stocks/bmw-issues-second-profit-warning-says-car-business-could-slip-into-operating-loss/",
-      "date": "2026-11-03"
+      "title": "China’s yuan slides to two-week low as PBOC moves to slow its rally",
+      "link": "https://investinglive.com/forex/china-s-yuan-slides-to-two-week-low-as-pboc-moves-to-slow-its-rally/",
+      "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WGC says",
-      "link": "https://investinglive.com/commodities/central-bank-gold-buying-jumps-42-in-q3-as-high-prices-hit-jewellery-demand-wgc-says/",
-      "date": "2026-11-03"
+      "title": "Iran’s IRGC says four tankers destroyed by mines south of Hormuz, two vessels detained",
+      "link": "https://investinglive.com/commodities/iran-s-irgc-says-four-tankers-destroyed-by-mines-south-of-hormuz-two-vessels-detained/",
+      "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US warns of Houthi threat to Saudi airports and infrastructure, curbs travel to oil areas",
-      "link": "https://investinglive.com/commodities/us-warns-of-houthi-threat-to-saudi-airports-and-infrastructure-curbs-travel-to-oil-areas/",
-      "date": "2026-11-03"
+      "title": "Trump allies are pointing to the Iran war as the reason for the election disaster",
+      "link": "https://investinglive.com/news/trump-allies-are-pointing-to-the-iran-war-as-the-reason-for-the-election-disaster/",
+      "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Carney says US trade talks to intensify as Washington asks less and offers mor",
-      "link": "https://investinglive.com/news/carney-says-us-trade-talks-to-intensify-as-washington-asks-less-and-offers-mor/",
-      "date": "2026-11-03"
+      "title": "US futures slide as Democrats lead midterm count, AI data centre fears hit tech",
+      "link": "https://investinglive.com/stock-market-update/us-futures-slide-as-democrats-lead-midterm-count-ai-data-centre-fears-hit-tech/",
+      "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil: Private survey of inventory shows a huge headline crude oil draw vs. build expected",
-      "link": "https://investinglive.com/commodities/oil-private-survey-of-inventory-shows-a-huge-headline-crude-oil-draw-vs-build-expected/",
-      "date": "2026-11-03"
+      "title": "Nikkei drops 3% as Democratic midterm gains hit AI and chip stocks",
+      "link": "https://investinglive.com/stock-market-update/nikkei-drops-3-as-democratic-midterm-gains-hit-ai-and-chip-stocks/",
+      "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Americas market news wrap: Job openings jump as the US votes",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-job-openings-jump-as-the-us-votes/",
-      "date": "2026-11-03"
+      "title": "Update: Iran says Hormuz stays shut until demands met as US deal remains far off",
+      "link": "https://investinglive.com/commodities/update-iran-says-hormuz-stays-shut-until-demands-met-as-us-deal-remains-far-off/",
+      "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "NZ Q3 Unemployment rate 5.7% (expected 5.5%, prior 5.6%)",
-      "link": "https://investinglive.com/news/nz-q3-unemployment-rate-5-7-expected-5-5-prior-5-6/",
-      "date": "2026-11-03"
+      "title": "China services PMI slows to 50.8 in October as price cuts meet rising costs",
+      "link": "https://investinglive.com/news/china-services-pmi-slows-to-50-8-in-october-as-price-cuts-meet-rising-costs/",
+      "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nasdaq rebounds as chip stocks rally and Dow slips",
-      "link": "https://investinglive.com/stocks/nasdaq-rebounds-as-chip-stocks-rally-and-dow-slips/",
-      "date": "2026-11-03"
+      "title": "Sell tech, sell USD and other signals from the massive blue wave that's unfolding",
+      "link": "https://investinglive.com/forex/sell-tech-sell-usd-and-other-signals-from-the-massive-blue-wave-that-s-unfolding/",
+      "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "AMD shares rise after hours as Q4 revenue outlook of $17bn tops forecasts on AI ramp",
-      "link": "https://investinglive.com/stocks/amd-shares-rise-after-hours-as-q4-revenue-outlook-of-17bn-tops-forecasts-on-ai-ramp/",
-      "date": "2026-11-03"
+      "title": "China buyback loan applications top 200bn yuan as PBOC steps up stock support",
+      "link": "https://investinglive.com/education/china-buyback-loan-applications-top-200bn-yuan-as-pboc-steps-up-stock-support/",
+      "date": "2026-11-04"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Super Micro shares rise after hours as revenue nears $20bn and Q2 guidance tops forecasts",
-      "link": "https://investinglive.com/stocks/super-micro-shares-rise-after-hours-as-revenue-nears-20bn-and-q2-guidance-tops-forecasts/",
-      "date": "2026-11-03"
+      "title": "It's no longer early, this election is looking like a disaster for Republicans",
+      "link": "https://investinglive.com/news/it-s-no-longer-early-this-election-is-looking-like-a-disaster-for-republicans/",
+      "date": "2026-11-04"
     }
   ]
 }
