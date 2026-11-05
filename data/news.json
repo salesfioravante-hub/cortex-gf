@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "link": "",
+      "date": "2026-11-05"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
@@ -114,6 +121,83 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "Magnificent 7: What are the technicals telling traders for each of those companies him",
+      "link": "https://investinglive.com/stocks/magnificent-7-what-are-the-technicals-telling-traders-for-each-of-those-companies-him/",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "WTI crude oil settles at $90.52, up 2.72% as buyers defend key support",
+      "link": "https://investinglive.com/commodities/wti-crude-oil-settles-at-90-52-up-2-72-as-buyers-defend-key-support/",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The market is waiting for signals from Donald Trump",
+      "link": "https://investinglive.com/news/the-market-is-waiting-for-signals-from-donald-trump/",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Europe Close: AI and chip liquidation drags equities lower in US, but Europe is mixed.",
+      "link": "https://investinglive.com/stocks/europe-close-ai-and-chip-liquidation-drags-equities-lower/",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "AUDUSD sellers have pushed to the lowest level since mid-October. What next?",
+      "link": "https://investinglive.com/technical-analysis/audusd-sellers-have-pushed-to-the-lowest-level-since-mid-october-what-next/",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Oil cracks are beginning to fall and refineries are pointing to more normalization",
+      "link": "https://investinglive.com/commodities/oil-cracks-are-beginning-to-fall-and-refineries-are-pointing-to-more-normalization/",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin falls with risk off sentiment. The price is testing a key swing area target.",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-falls-with-risk-off-sentiment-the-price-is-testing-a-key-swing-area-target/",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nasdaq Composite breaks the July low in 5.5% rout",
+      "link": "https://investinglive.com/stocks/nasdaq-composite-breaks-the-july-low-in-5-5-rout/",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The market is telling the hyperscalers it's happy about a slower data center buildout",
+      "link": "https://investinglive.com/news/the-market-is-telling-the-hyperscalers-it-s-happy-about-a-slower-data-center-buildout-0/",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US broader indices are getting hammered",
+      "link": "https://investinglive.com/stocks/us-broader-indices-are-getting-hammered/",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Memory names getting smoked: Micron breaks the July low in 12% drop",
+      "link": "https://investinglive.com/stocks/memory-names-getting-smoked-micron-breaks-the-july-low-in-12-drop/",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Crude oil tests the key confluence area and finds willing buyers",
       "link": "https://investinglive.com/commodities/crude-oil-tests-the-key-confluence-area-and-finds-willing-buyers/",
       "date": "2026-11-05"
@@ -137,83 +221,6 @@
       "source": "ForexLive",
       "title": "Fed's Hammack: Gradual rate hikes are the best way to get inflation to target",
       "link": "https://investinglive.com/central-banks/fed-s-hammack-gradual-rate-hikes-are-the-best-way-to-get-inflation-to-target/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US initial jobless claims 189K vs 196K estimate",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-189k-vs-196k-estimate/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US Q3 productivity +3.6% vs +2.8% expected",
-      "link": "https://investinglive.com/news/us-q3-productivity-3-6-vs-2-8-expected/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Morning Kickstart: BOE hikes to 4% as sterling struggles to hold its gains",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-boe-hikes-to-4-as-sterling-struggles-to-hold-its-gains/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-boe-raises-bank-rate-to-4-00-as-expected/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BoE Governor Bailey says there is a case for another 25bps hike if war doesn't end",
-      "link": "https://investinglive.com/central-banks/boe-governor-bailey-says-there-is-a-case-for-another-25bps-hike-if-war-doesn-t-end/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "What Could Stop the Fed Raising Rates in  December?",
-      "link": "https://investinglive.com/education/what-could-stop-the-fed-raising-rates-in-december/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bank of England raises the Bank Rate to 4.00% as expected in a 9-0 vote",
-      "link": "https://investinglive.com/central-banks/bank-of-england-raises-the-bank-rate-to-4-00-as-expected-in-a-9-0-vote/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Nasdaq futures rebound nearly 280 points. But buyers now face a crucial test",
-      "link": "https://investinglive.com/technical-analysis/nasdaq-futures-rebound-nearly-280-points-but-buyers-now-face-a-crucial-test/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Solana rallies as Republicans' midterm loss raises hopes of US-Iran war ending",
-      "link": "https://investinglive.com/cryptocurrency/solana-rallies-as-republicans-midterm-loss-raises-hopes-of-us-iran-war-ending/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Oil prices tumble as Republicans' midterm loss sparks bets on Iran war exit; Trump still has the final say",
-      "link": "https://investinglive.com/commodities/oil-prices-tumble-as-republicans-midterm-loss-sparks-bets-on-iran-war-exit-trump-still-has-the-final-say/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Macro pulse: Wall Street's post-election rally reveals a curious divergence",
-      "link": "https://investinglive.com/education/macro-pulse-wall-street-s-post-election-rally-reveals-a-curious-divergence/",
       "date": "2026-11-05"
     }
   ]
