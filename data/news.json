@@ -7,6 +7,34 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Piero Cipollone: Shaping the future of money",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Holding the Twenty-fifth Round of the \"Bond Market Group\" Meetings",
+      "link": "http://www.boj.or.jp/en/paym/bond/mbond_list/mbond261105.pdf",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
       "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
       "date": "2026-11-04"
@@ -40,13 +68,6 @@
       "date": "2026-11-04"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Collateral Accepted by the Bank of Japan (End of  Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/col/col2610.xlsx",
-      "date": "2026-11-04"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
@@ -61,20 +82,6 @@
       "date": "2026-11-02"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Philip R. Lane: AI adoption in Europe",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
-      "date": "2026-10-30"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
-      "date": "2026-10-30"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
@@ -86,13 +93,6 @@
       "source": "BoE",
       "title": "Minutes of the Meeting of the Court of Directors held on 17 September 2026",
       "link": "https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Bank of England sets out approach to tokenised collateral in central clearing",
-      "link": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
       "date": "2026-10-29"
     },
     {
@@ -114,107 +114,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nasdaq Futures Analysis for Day Traders Today: Bears Take Control Below 28,270 as Semiconductor Weakness Returns",
-      "link": "https://investinglive.com/technical-analysis/nasdaq-futures-analysis-for-day-traders-today-bears-take-control-below-28-270-as-semiconductor-weakness-returns/",
+      "title": "Crude oil tests the key confluence area and finds willing buyers",
+      "link": "https://investinglive.com/commodities/crude-oil-tests-the-key-confluence-area-and-finds-willing-buyers/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil prices plunge after US midterms as WTI crude faces a critical technical test",
-      "link": "https://investinglive.com/commodities/oil-prices-plunge-after-us-midterms-as-wti-crude-faces-a-critical-technical-test/",
+      "title": "Fed's Barkin: Gradual pace of hikes \"makes sense\"",
+      "link": "https://investinglive.com/central-banks/fed-s-barkin-gradual-pace-of-hikes-makes-sense/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Gold rocketed higher still",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-rocketed-higher-still/",
+      "title": "Marco Rubio ‘on resignation watch’ - report",
+      "link": "https://investinglive.com/news/marco-rubio-on-resignation-watch-report/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bitcoin analysis after the US midterms: Bulls are back, but $82,000 could change everything",
-      "link": "https://investinglive.com/technical-analysis/bitcoin-analysis-after-the-us-midterms-bulls-are-back-but-82-000-could-change-everything/",
+      "title": "Fed's Hammack: Gradual rate hikes are the best way to get inflation to target",
+      "link": "https://investinglive.com/central-banks/fed-s-hammack-gradual-rate-hikes-are-the-best-way-to-get-inflation-to-target/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China blocks SoftBank’s $5.4 billion ABB robotics deal, FT says, in blow to Son’s AI push",
-      "link": "https://investinglive.com/stocks/china-blocks-softbank-s-5-4-billion-abb-robotics-deal-ft-says-in-blow-to-son-s-ai-push/",
+      "title": "US initial jobless claims 189K vs 196K estimate",
+      "link": "https://investinglive.com/news/us-initial-jobless-claims-189k-vs-196k-estimate/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "168 of 225 Nikkei stocks rise, but AI losses drag the index lower as the Topix rallies",
-      "link": "https://investinglive.com/stock-market-update/168-of-225-nikkei-stocks-rise-but-ai-losses-drag-the-index-lower-as-the-topix-rallies/",
+      "title": "US Q3 productivity +3.6% vs +2.8% expected",
+      "link": "https://investinglive.com/news/us-q3-productivity-3-6-vs-2-8-expected/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold jumps as oil slumps on Iran diplomacy hopes, an early test of Citi’s thesis",
-      "link": "https://investinglive.com/commodities/gold-jumps-as-oil-slumps-on-iran-diplomacy-hopes-an-early-test-of-citi-s-thesis/",
+      "title": "Morning Kickstart: BOE hikes to 4% as sterling struggles to hold its gains",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-boe-hikes-to-4-as-sterling-struggles-to-hold-its-gains/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Sidecars and exam days: two Korean market quirks explained as the KOSPI slides 4%",
-      "link": "https://investinglive.com/education/sidecars-and-exam-days-two-korean-market-quirks-explained-as-the-kospi-slides-4/",
+      "title": "investingLive European news wrap: BoE raises bank rate to 4.00% as expected",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-boe-raises-bank-rate-to-4-00-as-expected/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bank of England preview: first hike to 4% expected as energy pushes inflation to 3.5%",
-      "link": "https://investinglive.com/central-banks/bank-of-england-preview-first-hike-to-4-expected-as-energy-pushes-inflation-to-3-5/",
+      "title": "BoE Governor Bailey says there is a case for another 25bps hike if war doesn't end",
+      "link": "https://investinglive.com/central-banks/boe-governor-bailey-says-there-is-a-case-for-another-25bps-hike-if-war-doesn-t-end/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Berkshire adds $27 million of Sirius XM as investors rotate from AI toward value stocks",
-      "link": "https://investinglive.com/stocks/berkshire-adds-27-million-of-sirius-xm-as-investors-rotate-from-ai-toward-value-stocks/",
+      "title": "What Could Stop the Fed Raising Rates in  December?",
+      "link": "https://investinglive.com/education/what-could-stop-the-fed-raising-rates-in-december/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Australia’s trade surplus jumps to A$2.8 billion, a seven-month high, on LNG and metals",
-      "link": "https://investinglive.com/news/australia-s-trade-surplus-jumps-to-a-2-8-billion-a-seven-month-high-on-lng-and-metals/",
+      "title": "Bank of England raises the Bank Rate to 4.00% as expected in a 9-0 vote",
+      "link": "https://investinglive.com/central-banks/bank-of-england-raises-the-bank-rate-to-4-00-as-expected-in-a-9-0-vote/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Japan services PMI edges up to 51.7, but composite slips to five-month low as hiring slows",
-      "link": "https://investinglive.com/news/japan-services-pmi-edges-up-to-51-7-but-composite-slips-to-five-month-low-as-hiring-slows/",
+      "title": "Nasdaq futures rebound nearly 280 points. But buyers now face a crucial test",
+      "link": "https://investinglive.com/technical-analysis/nasdaq-futures-rebound-nearly-280-points-but-buyers-now-face-a-crucial-test/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7156 (vs. estimate at 6.6783)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7156-vs-estimate-at-6-6783/",
+      "title": "Solana rallies as Republicans' midterm loss raises hopes of US-Iran war ending",
+      "link": "https://investinglive.com/cryptocurrency/solana-rallies-as-republicans-midterm-loss-raises-hopes-of-us-iran-war-ending/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6783 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6783-reuters-estimate/",
+      "title": "Oil prices tumble as Republicans' midterm loss sparks bets on Iran war exit; Trump still has the final say",
+      "link": "https://investinglive.com/commodities/oil-prices-tumble-as-republicans-midterm-loss-sparks-bets-on-iran-war-exit-trump-still-has-the-final-say/",
       "date": "2026-11-05"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BoJ minutes: board backed further hikes, flagged 50% oil surge as government urged caution",
-      "link": "https://investinglive.com/central-banks/boj-minutes-board-backed-further-hikes-flagged-50-oil-surge-as-government-urged-caution/",
-      "date": "2026-11-04"
+      "title": "Macro pulse: Wall Street's post-election rally reveals a curious divergence",
+      "link": "https://investinglive.com/education/macro-pulse-wall-street-s-post-election-rally-reveals-a-curious-divergence/",
+      "date": "2026-11-05"
     }
   ]
 }
