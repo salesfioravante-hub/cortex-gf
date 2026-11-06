@@ -14,6 +14,13 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Speech by Governor UEDA at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund",
+      "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261107a.htm",
+      "date": "2026-11-06"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
       "link": "http://www.boj.or.jp/en/about/release_2026/rel261106b.htm",
       "date": "2026-11-06"
@@ -75,13 +82,6 @@
       "date": "2026-11-04"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Sources of Changes in Current Account Balances (Projections for Nov.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2611.xlsx",
-      "date": "2026-11-04"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
@@ -108,120 +108,113 @@
       "title": "Federal Reserve issues FOMC statement",
       "link": "",
       "date": "2026-10-28"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-      "link": "",
-      "date": "2026-10-16"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Fed's Williams says US economy remains resilient, appropriate time to gather more information",
-      "link": "https://investinglive.com/central-banks/fed-s-williams-says-us-economy-remains-resilient-appropriate-time-to-gather-more-information/",
+      "title": "BOJ's Ueda: Consumer prices now around 3% and expected to rise further into early next year",
+      "link": "https://investinglive.com/central-banks/boj-s-ueda-consumer-prices-now-around-3-and-expected-to-rise-further-into-early-next-year/",
       "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Newmont stock breaks out of a two-month downtrend. But buyers have a test to pass.",
-      "link": "https://investinglive.com/stocks/newmont-stock-breaks-out-of-a-two-month-downtrend-but-buyers-have-a-test-to-pass/",
+      "title": "Bitcoin testing a key support target.  What needs to happen to give buyers some relief?",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-testing-a-key-support-target-what-needs-to-happen-to-give-buyers-some-relief/",
       "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "A welcome change for gold as tech selloff fails to spark heavy liquidation, breaking the recent pattern",
-      "link": "https://investinglive.com/commodities/a-welcome-change-for-gold-as-tech-selloff-fails-to-spark-heavy-liquidation-breaking-the-recent-pattern/",
+      "title": "Iran reviewing proposals to curb nuclear program - report",
+      "link": "https://investinglive.com/news/iran-reviewing-proposals-to-curb-nuclear-program-report/",
       "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-pacific news wrap: Global tech stocks rout raises growth concerns",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-news-wrap-global-tech-stocks-rout-raises-growth-concerns/",
+      "title": "Broader US stock indices bounce higher but still has work to do to give buyers more hope",
+      "link": "https://investinglive.com/stocks/broader-us-stock-indices-bounce-higher-but-still-has-work-to-do-to-give-buyers-more-hope/",
       "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 6 November 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-6-november-10am-new-york-cut/",
+      "title": "Xlence Becomes Official Internationalization Partner of 1. FSV Mainz 05 in Asia",
+      "link": "https://investinglive.com/education/xlence-becomes-official-internationalization-partner-of-1-fsv-mainz-05-in-asia/",
       "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-80/",
+      "title": "November US UMich prelim consumer sentiment 51.0 vs 48.0 expected",
+      "link": "https://investinglive.com/news/november-us-umich-prelim-consumer-sentiment-vs-48-0-expected/",
       "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nasdaq analysis after yesterday's crash: Is this the dip investors have been waiting for?",
-      "link": "https://investinglive.com/stocks/nasdaq-analysis-after-yesterday-s-crash-is-this-the-dip-investors-have-been-waiting-for/",
+      "title": "Iran responds positively to latest mediator proposal - report",
+      "link": "https://investinglive.com/news/iran-responds-positively-to-latest-mediator-proposal-report/",
       "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 5 Nov: Nasdaq 100 plunges 6.36% as AI selloff spreads",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-5-nov-nasdaq-100-plunges-6-36-as-ai-selloff-spreads/",
-      "date": "2026-11-05"
+      "title": "USD moves higher after the US jobs report. What levels are in play now?",
+      "link": "https://investinglive.com/technical-analysis/usd-moves-higher-after-the-us-jobs-report-what-levels-are-in-play-now/",
+      "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nasdaq 100 suffers worst day since 2020",
-      "link": "https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/",
-      "date": "2026-11-05"
+      "title": "US October non-farm payrolls +165K vs +65K expected",
+      "link": "https://investinglive.com/news/us-october-non-farm-payrolls-165k-vs-65k-expected/",
+      "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Magnificent 7: What are the technicals telling traders for each of those companies him",
-      "link": "https://investinglive.com/stocks/magnificent-7-what-are-the-technicals-telling-traders-for-each-of-those-companies-him/",
-      "date": "2026-11-05"
+      "title": "Canada Employment change for October -4.7K vs 13.6K estimate. Unemployment rate 6.7%.",
+      "link": "https://investinglive.com/news/canada-employment-change-for-october-4-7k-vs-13-6k-estimate-unemployment-rate-6-7/",
+      "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "WTI crude oil settles at $90.52, up 2.72% as buyers defend key support",
-      "link": "https://investinglive.com/commodities/wti-crude-oil-settles-at-90-52-up-2-72-as-buyers-defend-key-support/",
-      "date": "2026-11-05"
+      "title": "Morning Kickstart | Nasdaq futures rebound after rout as U.S. and Canadian jobs reports loom",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-nasdaq-futures-rebound-after-rout-as-u-s-and-canadian-jobs-reports-loom/",
+      "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The market is waiting for signals from Donald Trump",
-      "link": "https://investinglive.com/news/the-market-is-waiting-for-signals-from-donald-trump/",
-      "date": "2026-11-05"
+      "title": "BoE's Pill: No repeat of 2022 hiking cycle as growth risks could keep rates on hold",
+      "link": "https://investinglive.com/central-banks/boe-s-pill-no-repeat-of-2022-hiking-cycle-as-growth-risks-could-keep-rates-on-hold/",
+      "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Europe Close: AI and chip liquidation drags equities lower in US, but Europe is mixed.",
-      "link": "https://investinglive.com/stocks/europe-close-ai-and-chip-liquidation-drags-equities-lower/",
-      "date": "2026-11-05"
+      "title": "What is the distribution of forecasts for the US NFP?",
+      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-2/",
+      "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "AUDUSD sellers have pushed to the lowest level since mid-October. What next?",
-      "link": "https://investinglive.com/technical-analysis/audusd-sellers-have-pushed-to-the-lowest-level-since-mid-october-what-next/",
-      "date": "2026-11-05"
+      "title": "investingLive European news wrap: Markets consolidate ahead of the US NFP report",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-ahead-of-the-us-nfp-report/",
+      "date": "2026-11-06"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil cracks are beginning to fall and refineries are pointing to more normalization",
-      "link": "https://investinglive.com/commodities/oil-cracks-are-beginning-to-fall-and-refineries-are-pointing-to-more-normalization/",
-      "date": "2026-11-05"
+      "title": "Zcash resists crypto market selloff as network upgrade goes live. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/zcash-resists-crypto-market-selloff-as-network-upgrade-goes-live-what-s-next/",
+      "date": "2026-11-06"
     }
   ]
 }
