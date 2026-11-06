@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "ECB publishes consolidated banking data for end-June 2026",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+      "date": "2026-11-06"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
+      "link": "http://www.boj.or.jp/en/about/release_2026/rel261106b.htm",
+      "date": "2026-11-06"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "IMES Discussion Paper Series (2026)",
@@ -68,25 +82,11 @@
       "date": "2026-11-04"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
-      "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260918.pdf",
-      "date": "2026-11-04"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
       "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
       "date": "2026-11-03"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
-      "date": "2026-11-02"
     },
     {
       "cur": "USD",
@@ -118,6 +118,55 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed's Williams says US economy remains resilient, appropriate time to gather more information",
+      "link": "https://investinglive.com/central-banks/fed-s-williams-says-us-economy-remains-resilient-appropriate-time-to-gather-more-information/",
+      "date": "2026-11-06"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Newmont stock breaks out of a two-month downtrend. But buyers have a test to pass.",
+      "link": "https://investinglive.com/stocks/newmont-stock-breaks-out-of-a-two-month-downtrend-but-buyers-have-a-test-to-pass/",
+      "date": "2026-11-06"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "A welcome change for gold as tech selloff fails to spark heavy liquidation, breaking the recent pattern",
+      "link": "https://investinglive.com/commodities/a-welcome-change-for-gold-as-tech-selloff-fails-to-spark-heavy-liquidation-breaking-the-recent-pattern/",
+      "date": "2026-11-06"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Asia-pacific news wrap: Global tech stocks rout raises growth concerns",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-news-wrap-global-tech-stocks-rout-raises-growth-concerns/",
+      "date": "2026-11-06"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FX option expiries for 6 November 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-6-november-10am-new-york-cut/",
+      "date": "2026-11-06"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-80/",
+      "date": "2026-11-06"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nasdaq analysis after yesterday's crash: Is this the dip investors have been waiting for?",
+      "link": "https://investinglive.com/stocks/nasdaq-analysis-after-yesterday-s-crash-is-this-the-dip-investors-have-been-waiting-for/",
+      "date": "2026-11-06"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -172,55 +221,6 @@
       "source": "ForexLive",
       "title": "Oil cracks are beginning to fall and refineries are pointing to more normalization",
       "link": "https://investinglive.com/commodities/oil-cracks-are-beginning-to-fall-and-refineries-are-pointing-to-more-normalization/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin falls with risk off sentiment. The price is testing a key swing area target.",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-falls-with-risk-off-sentiment-the-price-is-testing-a-key-swing-area-target/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Nasdaq Composite breaks the July low in 5.5% rout",
-      "link": "https://investinglive.com/stocks/nasdaq-composite-breaks-the-july-low-in-5-5-rout/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The market is telling the hyperscalers it's happy about a slower data center buildout",
-      "link": "https://investinglive.com/news/the-market-is-telling-the-hyperscalers-it-s-happy-about-a-slower-data-center-buildout-0/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US broader indices are getting hammered",
-      "link": "https://investinglive.com/stocks/us-broader-indices-are-getting-hammered/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Memory names getting smoked: Micron breaks the July low in 12% drop",
-      "link": "https://investinglive.com/stocks/memory-names-getting-smoked-micron-breaks-the-july-low-in-12-drop/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil tests the key confluence area and finds willing buyers",
-      "link": "https://investinglive.com/commodities/crude-oil-tests-the-key-confluence-area-and-finds-willing-buyers/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Barkin: Gradual pace of hikes \"makes sense\"",
-      "link": "https://investinglive.com/central-banks/fed-s-barkin-gradual-pace-of-hikes-makes-sense/",
       "date": "2026-11-05"
     }
   ]
