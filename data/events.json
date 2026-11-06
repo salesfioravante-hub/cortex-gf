@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-05",
+  "asof": "2026-11-06",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
@@ -7,17 +7,12 @@
     "FRED: 5 releases (EUA) — 2026-11-06 Employment Situation; 2026-11-10 Consumer Price Index; 2026-11-10 Consumer Price Index Excluding Energy Commodities; 2026-11-13 Producer Price Index",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 12 eventos"
+    "ForexFactory: 7 eventos"
   ],
   "byCurrency": {
     "USD": {
       "date": "2026-11-06",
       "title": "Employment Situation",
-      "forecast": ""
-    },
-    "GBP": {
-      "date": "2026-11-05",
-      "title": "BOE Monetary Policy Report",
       "forecast": ""
     },
     "CAD": {

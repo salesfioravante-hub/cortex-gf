@@ -1,9 +1,16 @@
 {
-  "asof": "2026-11-05",
+  "asof": "2026-11-06",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "IMES Discussion Paper Series (2026)",
+      "link": "http://www.boj.or.jp/en/research/imes/dps/dps26.htm",
+      "date": "2026-11-06"
+    },
     {
       "cur": "USD",
       "source": "Fed",
@@ -68,13 +75,6 @@
       "date": "2026-11-04"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261030.xlsx",
-      "date": "2026-11-04"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
@@ -118,6 +118,20 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas FX news wrap 5 Nov: Nasdaq 100 plunges 6.36% as AI selloff spreads",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-5-nov-nasdaq-100-plunges-6-36-as-ai-selloff-spreads/",
+      "date": "2026-11-05"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nasdaq 100 suffers worst day since 2020",
+      "link": "https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/",
+      "date": "2026-11-05"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -207,20 +221,6 @@
       "source": "ForexLive",
       "title": "Fed's Barkin: Gradual pace of hikes \"makes sense\"",
       "link": "https://investinglive.com/central-banks/fed-s-barkin-gradual-pace-of-hikes-makes-sense/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Marco Rubio ‘on resignation watch’ - report",
-      "link": "https://investinglive.com/news/marco-rubio-on-resignation-watch-report/",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Hammack: Gradual rate hikes are the best way to get inflation to target",
-      "link": "https://investinglive.com/central-banks/fed-s-hammack-gradual-rate-hikes-are-the-best-way-to-get-inflation-to-target/",
       "date": "2026-11-05"
     }
   ]
