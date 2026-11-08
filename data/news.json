@@ -40,13 +40,6 @@
       "date": "2026-11-06"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-      "link": "",
-      "date": "2026-11-05"
-    },
-    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
@@ -89,28 +82,84 @@
       "date": "2026-11-03"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-      "link": "",
-      "date": "2026-10-29"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Minutes of the Meeting of the Court of Directors held on 17 September 2026",
       "link": "https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026",
       "date": "2026-10-29"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve issues FOMC statement",
-      "link": "",
-      "date": "2026-10-28"
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Blumenthal sets Jan 4 deadline for Binance, Tether and Trump crypto firms as power shifts",
+      "link": "https://investinglive.com/cryptocurrency/blumenthal-sets-jan-4-deadline-for-binance-tether-and-trump-crypto-firms-as-power-shifts/",
+      "date": "2026-11-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Weekend: Houthis hit Riyadh’s Aramco Tower and target oil storage as Saudi supply risk grows",
+      "link": "https://investinglive.com/commodities/weekend-houthis-hit-riyadh-s-aramco-tower-and-target-oil-storage-as-saudi-supply-risk-grows/",
+      "date": "2026-11-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "RBA’s Hunter warns AI could trigger sharp asset repricing as boom adds to inflation",
+      "link": "https://investinglive.com/central-banks/rba-s-hunter-warns-ai-could-trigger-sharp-asset-repricing-as-boom-adds-to-inflation/",
+      "date": "2026-11-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Is NVDA stock a buy or sell? Spy alert?",
+      "link": "https://investinglive.com/stocks/is-nvda-stock-a-buy-or-sell-spy-alert/",
+      "date": "2026-11-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Rubio says Iran talks not productive as Tehran’s demands are unacceptable",
+      "link": "https://investinglive.com/commodities/rubio-says-iran-talks-not-productive-as-tehran-s-demands-are-unacceptable/",
+      "date": "2026-11-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bitcoin continues to trade heavily, under $74,600, risk mood turns wary",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-continues-to-trade-heavily-under-74-600-risk-mood-turns-wary/",
+      "date": "2026-11-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "NZD firms in early Asia as New Zealand faces weeks of political limbo",
+      "link": "https://investinglive.com/forex/nzd-firms-in-early-asia-as-new-zealand-faces-weeks-of-political-limbo/",
+      "date": "2026-11-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Suspected Iranian drone strike halts Iraq gas field, cuts two thirds of Kurdistan power",
+      "link": "https://investinglive.com/commodities/suspected-iranian-drone-strike-halts-iraq-gas-field-cuts-two-thirds-of-kurdistan-power/",
+      "date": "2026-11-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Weekend: Trump says new Iran strikes ‘highly unlikely’ five times (but three carriers stay ready)",
+      "link": "https://investinglive.com/commodities/weekend-trump-says-new-iran-strikes-highly-unlikely-five-times-but-three-carriers-stay-ready/",
+      "date": "2026-11-08"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Three risks for Nvidia shares after Huang admits affair with suspected Chinese spy",
+      "link": "https://investinglive.com/stocks/three-risks-for-nvidia-shares-after-huang-admits-affair-with-suspected-chinese-spy/",
+      "date": "2026-11-08"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -144,76 +193,6 @@
       "source": "ForexLive",
       "title": "Trump: We are talking to Iran, we are doing very well with Iran",
       "link": "https://investinglive.com/news/trump-we-are-talking-to-iran-we-are-doing-very-well-with-iran/",
-      "date": "2026-11-06"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump chief of staff Susie Wiles to be replaced by Stephen Miller",
-      "link": "https://investinglive.com/news/trump-chief-of-staff-susie-wiles-to-be-replaced-by-stephen-miller/",
-      "date": "2026-11-06"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Daly: Jobs report is good news",
-      "link": "https://investinglive.com/central-banks/fed-s-daly-jobs-report-is-good-news/",
-      "date": "2026-11-06"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Microsoft is reportedly winding down it's Oracle deal to wind down AI cloud capacity",
-      "link": "https://investinglive.com/news/microsoft-is-reportedly-winding-down-it-s-oracle-deal-to-wind-down-ai-cloud-capacity/",
-      "date": "2026-11-06"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US presses China to honor Busan trade truce as rare earth shipments fall short.",
-      "link": "https://investinglive.com/news/us-presses-china-to-honor-busan-trade-truce-as-rare-earth-shipments-fall-short/",
-      "date": "2026-11-06"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stocks fall into the weekend as Wall Street rebounds",
-      "link": "https://investinglive.com/stocks/european-stocks-fall-into-the-weekend-as-wall-street-rebounds/",
-      "date": "2026-11-06"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BOJ's Ueda: Consumer prices now around 3% and expected to rise further into early next year",
-      "link": "https://investinglive.com/central-banks/boj-s-ueda-consumer-prices-now-around-3-and-expected-to-rise-further-into-early-next-year/",
-      "date": "2026-11-06"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin testing a key support target.  What needs to happen to give buyers some relief?",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-testing-a-key-support-target-what-needs-to-happen-to-give-buyers-some-relief/",
-      "date": "2026-11-06"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Iran reviewing proposals to curb nuclear program - report",
-      "link": "https://investinglive.com/news/iran-reviewing-proposals-to-curb-nuclear-program-report/",
-      "date": "2026-11-06"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Broader US stock indices bounce higher but still has work to do to give buyers more hope",
-      "link": "https://investinglive.com/stocks/broader-us-stock-indices-bounce-higher-but-still-has-work-to-do-to-give-buyers-more-hope/",
-      "date": "2026-11-06"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Xlence Becomes Official Internationalization Partner of 1. FSV Mainz 05 in Asia",
-      "link": "https://investinglive.com/education/xlence-becomes-official-internationalization-partner-of-1-fsv-mainz-05-in-asia/",
       "date": "2026-11-06"
     }
   ]
