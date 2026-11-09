@@ -7,6 +7,13 @@
     {
       "cur": "JPY",
       "source": "BoJ",
+      "title": "Amounts Outstanding in the Call Money Market (Oct.)",
+      "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
+      "date": "2026-11-09"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
       "title": "Consumption Activity Index",
       "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
       "date": "2026-11-09"
@@ -23,13 +30,6 @@
       "source": "BoJ",
       "title": "Monetary Base and the Bank of Japan's Transactions (Oct.)",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2610.pdf",
-      "date": "2026-11-08"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Bank of Japan's Transactions with the Government (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
       "date": "2026-11-08"
     },
     {
@@ -114,107 +114,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil steadies",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-shrugs-off-nvidia-scandal-oil-steadies/",
+      "title": "Crude oil is trading above and below a key technical confluence area. Who will take charge?",
+      "link": "https://investinglive.com/commodities/crude-oil-is-trading-above-and-below-a-key-technical-confluence-area-who-will-take-charge/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Qatar says US-Iran talks alive as Trump meets Qatari PM, oil swings on mixed signals",
-      "link": "https://investinglive.com/commodities/qatar-says-us-iran-talks-alive-as-trump-meets-qatari-pm-oil-swings-on-mixed-signals/",
+      "title": "Brent crude breaks the 200-day moving average in fall to a two-month low",
+      "link": "https://investinglive.com/commodities/brent-crude-breaks-the-200-day-moving-average-in-fall-to-the-lowest-in-two-months/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "WSJ: Japan spent a record $50 billion in one day to defend the yen, data confirms",
-      "link": "https://investinglive.com/central-banks/wsj-japan-spent-a-record-50-billion-in-one-day-to-defend-the-yen-data-confirms/",
+      "title": "Bitcoin is doing it's ABCs technically. What will the buyers and selllers do at the old support?",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-is-doing-it-s-abcs-technically-what-will-the-buyers-and-selllers-do-at-the-old-support/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China extends suspension of 24% tariffs on US goods, keeps 10% levy ahead of APEC",
-      "link": "https://investinglive.com/stocks/china-extends-suspension-of-24-tariffs-on-us-goods-keeps-10-levy-ahead-of-apec/",
+      "title": "Morning Kickstart. Stock futures climb as Bitcoin nears its 200-day moving average. USD/oil lower.",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-stock-futures-climb-as-bitcoin-nears-its-200-day-moving-average-usd-is-lower/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman’s AI memory basket plunges 51% from peak, JPMorgan sees earnings buffer for now",
-      "link": "https://investinglive.com/stocks/goldman-s-ai-memory-basket-plunges-51-from-peak-jpmorgan-sees-earnings-buffer-for-now/",
+      "title": "Oil falls further on report that Trump asked Iraqi PM to bring Iran proposals to end the war",
+      "link": "https://investinglive.com/commodities/oil-falls-further-on-report-that-trump-asked-iraqi-pm-to-bring-iran-proposals-to-end-the-war/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
-      "link": "https://investinglive.com/news/china-october-2026-cpi-0-7-y-y-expected-0-8-prior-0-9/",
+      "title": "investingLive European news wrap: Markets await fresh US-Iran developments, US CPI data",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-await-fresh-us-iran-developments-us-cpi-data/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ICYMI: Goldman cuts gold forecasts to $4,150 for 2026, $4,800 for 2027 as hawkish Fed bites",
-      "link": "https://investinglive.com/commodities/icymi-goldman-cuts-gold-forecasts-to-4-150-for-2026-4-800-for-2027-as-hawkish-fed-bites/",
+      "title": "Solana remains skewed to the downside amid negative macro backdrop as US CPI looms",
+      "link": "https://investinglive.com/cryptocurrency/solana-remains-skewed-to-the-downside-amid-negative-macro-backdrop-as-us-cpi-looms/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold ticks higher on softer oil, but Fed’s 80% December hike odds cap gain",
-      "link": "https://investinglive.com/commodities/gold-ticks-higher-on-softer-oil-but-fed-s-80-december-hike-odds-cap-gain/",
+      "title": "Crude oil is caught between hopes of a US-Iran deal and escalation risks. What's next?",
+      "link": "https://investinglive.com/commodities/crude-oil-is-caught-between-hopes-of-a-us-iran-deal-and-escalation-risks-what-s-next/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Markets price three more BoE hikes, but analysts see a shallower path after move to 4%",
-      "link": "https://investinglive.com/central-banks/markets-price-three-more-boe-hikes-but-analysts-see-a-shallower-path-after-move-to-4/",
+      "title": "Gold futures rallied $81, then gave back $51. Can buyers reclaim $4,115?",
+      "link": "https://investinglive.com/commodities/gold-futures-rallied-81-then-gave-back-51-can-buyers-reclaim-4-115/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7188 (vs. estimate at 6.6799)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7188-vs-estimate-at-6-6799/",
+      "title": "Eurozone Sentix investor confidence weakens further in November as global growth momentum fades",
+      "link": "https://investinglive.com/news/eurozone-sentix-investor-confidence-weakens-further-in-november-as-global-growth-momentum-fades/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6799 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6799-reuters-estimate/",
+      "title": "Market outlook for the week of 9th - 13th November",
+      "link": "https://investinglive.com/forex/market-outlook-for-the-week-of-9th-13th-november/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trump eyes Xi, Putin meeting at APEC on Iran war, says he’d ‘certainly take’ Huang",
-      "link": "https://investinglive.com/news/trump-eyes-xi-putin-meeting-at-apec-on-iran-war-says-he-d-certainly-take-huang/",
-      "date": "2026-11-08"
+      "title": "Ethereum remains vulnerable to further downside as traders brace for US CPI and Iran developments",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-remains-vulnerable-to-further-downside-as-traders-brace-for-us-cpi-and-iran-developments/",
+      "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Recap - BOJ’s Ueda sees inflation near 2% but flags upside risks as energy costs bite",
-      "link": "https://investinglive.com/central-banks/recap-boj-s-ueda-sees-inflation-near-2-but-flags-upside-risks-as-energy-costs-bite/",
-      "date": "2026-11-08"
+      "title": "Gold remains skewed to the upside amid favourable macro backdrop, with US-Iran and CPI in focus",
+      "link": "https://investinglive.com/commodities/gold-remains-skewed-to-the-upside-amid-favourable-macro-backdrop-with-us-iran-and-cpi-in-focus/",
+      "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China steps up market stabilisation push: three short-term priorities for equities",
-      "link": "https://investinglive.com/stocks/china-steps-up-market-stabilisation-push-three-short-term-priorities-for-equities/",
-      "date": "2026-11-08"
+      "title": "FX option expiries for 9 November 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-9-november-10am-new-york-cut/",
+      "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
-      "link": "https://investinglive.com/news/china-october-inflation-preview-cpi-seen-near-0-8-ppi-above-5/",
-      "date": "2026-11-08"
+      "title": "Finance Magnates Awards 2026: Forex Brokers and Prop Firm Winners",
+      "link": "https://investinglive.com/news/finance-magnates-awards-2026-forex-brokers-and-prop-firm-winners/",
+      "date": "2026-11-09"
     }
   ]
 }
