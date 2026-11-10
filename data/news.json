@@ -1,9 +1,30 @@
 {
-  "asof": "2026-11-09",
+  "asof": "2026-11-10",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "link": "",
+      "date": "2026-11-09"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Principal Figures of Financial Institutions (Oct.)",
+      "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2610.pdf",
+      "date": "2026-11-09"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026",
+      "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
+      "date": "2026-11-09"
+    },
     {
       "cur": "JPY",
       "source": "BoJ",
@@ -17,20 +38,6 @@
       "title": "Consumption Activity Index",
       "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
       "date": "2026-11-09"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Market Operations by the Bank of Japan (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
-      "date": "2026-11-08"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Monetary Base and the Bank of Japan's Transactions (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2610.pdf",
-      "date": "2026-11-08"
     },
     {
       "cur": "EUR",
@@ -114,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Crude oil is trading above and below a key technical confluence area. Who will take charge?",
-      "link": "https://investinglive.com/commodities/crude-oil-is-trading-above-and-below-a-key-technical-confluence-area-who-will-take-charge/",
+      "title": "BoJ opinions back faster hikes, one sees neutral rate ‘considerably above 1%’",
+      "link": "https://investinglive.com/central-banks/boj-opinions-back-faster-hikes-one-sees-neutral-rate-considerably-above-1/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Brent crude breaks the 200-day moving average in fall to a two-month low",
-      "link": "https://investinglive.com/commodities/brent-crude-breaks-the-200-day-moving-average-in-fall-to-the-lowest-in-two-months/",
+      "title": "Japan household spending plunges 6.8%, 10th straight drop, as BoJ weighs December hike",
+      "link": "https://investinglive.com/news/japan-household-spending-plunges-6-8-10th-straight-drop-as-boj-weighs-december-hike/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bitcoin is doing it's ABCs technically. What will the buyers and selllers do at the old support?",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-is-doing-it-s-abcs-technically-what-will-the-buyers-and-selllers-do-at-the-old-support/",
+      "title": "US CPI preview: 43-day shutdown leaves no official annual rate as monthly pace seen easing",
+      "link": "https://investinglive.com/news/us-cpi-preview-43-day-shutdown-leaves-no-official-annual-rate-as-monthly-pace-seen-easing/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Morning Kickstart. Stock futures climb as Bitcoin nears its 200-day moving average. USD/oil lower.",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-stock-futures-climb-as-bitcoin-nears-its-200-day-moving-average-usd-is-lower/",
+      "title": "BlackRock: an AI spending slowdown in 2027 would hurt markets but could also lower yields",
+      "link": "https://investinglive.com/stock-market-update/blackrock-an-ai-spending-slowdown-in-2027-would-hurt-markets-but-could-also-lower-yields/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil falls further on report that Trump asked Iraqi PM to bring Iran proposals to end the war",
-      "link": "https://investinglive.com/commodities/oil-falls-further-on-report-that-trump-asked-iraqi-pm-to-bring-iran-proposals-to-end-the-war/",
+      "title": "Morgan Stanley flags AI as a new risk for the Australian dollar after Democratic sweep",
+      "link": "https://investinglive.com/forex/morgan-stanley-flags-ai-as-a-new-risk-for-the-australian-dollar-after-democratic-sweep/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive European news wrap: Markets await fresh US-Iran developments, US CPI data",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-await-fresh-us-iran-developments-us-cpi-data/",
+      "title": "Goldman sees $1.5 trillion in AI debt over three years, warns supply weighs on credit",
+      "link": "https://investinglive.com/stock-market-update/goldman-sees-1-5-trillion-in-ai-debt-over-three-years-warns-supply-weighs-on-credit/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Solana remains skewed to the downside amid negative macro backdrop as US CPI looms",
-      "link": "https://investinglive.com/cryptocurrency/solana-remains-skewed-to-the-downside-amid-negative-macro-backdrop-as-us-cpi-looms/",
+      "title": "Iran tells US to stop ‘fake news’ on talks, demands it accept seven conditions to end war",
+      "link": "https://investinglive.com/commodities/iran-tells-us-to-stop-fake-news-on-talks-demands-it-accept-seven-conditions-to-end-war/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Crude oil is caught between hopes of a US-Iran deal and escalation risks. What's next?",
-      "link": "https://investinglive.com/commodities/crude-oil-is-caught-between-hopes-of-a-us-iran-deal-and-escalation-risks-what-s-next/",
+      "title": "Asset managers stay constructive on stocks after AI rout, urge investors to diversify",
+      "link": "https://investinglive.com/stock-market-update/asset-managers-stay-constructive-on-stocks-after-ai-rout-urge-investors-to-diversify/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold futures rallied $81, then gave back $51. Can buyers reclaim $4,115?",
-      "link": "https://investinglive.com/commodities/gold-futures-rallied-81-then-gave-back-51-can-buyers-reclaim-4-115/",
+      "title": "Trump says renewed Iran strikes ‘quite unlikely’ as Gulf allies back blockade status quo",
+      "link": "https://investinglive.com/commodities/trump-says-renewed-iran-strikes-quite-unlikely-as-gulf-allies-back-blockade-status-quo/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Eurozone Sentix investor confidence weakens further in November as global growth momentum fades",
-      "link": "https://investinglive.com/news/eurozone-sentix-investor-confidence-weakens-further-in-november-as-global-growth-momentum-fades/",
+      "title": "WSJ: Anthropic targets Nasdaq debut next week under ticker ANT despite tech selloff",
+      "link": "https://investinglive.com/stock-market-update/wsj-anthropic-targets-nasdaq-debut-next-week-under-ticker-ant-despite-tech-selloff/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Market outlook for the week of 9th - 13th November",
-      "link": "https://investinglive.com/forex/market-outlook-for-the-week-of-9th-13th-november/",
+      "title": "Event calendar in Asia Tuesday, November 10, 2026: BoJ and China trade data",
+      "link": "https://investinglive.com/central-banks/event-calendar-in-asia-tuesday-november-10-2026-boj-and-china-trade-data/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Ethereum remains vulnerable to further downside as traders brace for US CPI and Iran developments",
-      "link": "https://investinglive.com/cryptocurrency/ethereum-remains-vulnerable-to-further-downside-as-traders-brace-for-us-cpi-and-iran-developments/",
+      "title": "investingLive Americas market news wrap: Iran optimism and tech rebound leads to risk surge",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-iran-optimism-and-tech-rebound-leads-to-risk-surge/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold remains skewed to the upside amid favourable macro backdrop, with US-Iran and CPI in focus",
-      "link": "https://investinglive.com/commodities/gold-remains-skewed-to-the-upside-amid-favourable-macro-backdrop-with-us-iran-and-cpi-in-focus/",
+      "title": "Stock markets hit fresh highs on Iran headlines",
+      "link": "https://investinglive.com/commodities/stock-markets-hit-fresh-highs-on-iran-headlines/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 9 November 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-9-november-10am-new-york-cut/",
+      "title": "Anthropic unveils Fable 5.2 and Mythos 5.2 models ahead of IPO",
+      "link": "https://investinglive.com/news/anthropic-unveils-fable-5-2-and-mythos-5-2-models-ahead-of-ipo/",
       "date": "2026-11-09"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Finance Magnates Awards 2026: Forex Brokers and Prop Firm Winners",
-      "link": "https://investinglive.com/news/finance-magnates-awards-2026-forex-brokers-and-prop-firm-winners/",
+      "title": "NZDUSD buyers are starting to take back control after reaching the lowest level since April 2025",
+      "link": "https://investinglive.com/technical-analysis/nzdusd-buyers-are-starting-to-take-back-control-after-reaching-the-lowest-level-since-april-2025/",
       "date": "2026-11-09"
     }
   ]
