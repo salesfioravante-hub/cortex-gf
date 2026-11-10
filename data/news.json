@@ -5,6 +5,27 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+      "date": "2026-11-10"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+      "date": "2026-11-10"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
+      "link": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
+      "date": "2026-11-10"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
@@ -61,20 +82,6 @@
       "date": "2026-11-05"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Piero Cipollone: Shaping the future of money",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
-      "date": "2026-11-05"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
@@ -103,13 +110,6 @@
       "date": "2026-10-29"
     },
     {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Minutes of the Meeting of the Court of Directors held on 17 September 2026",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026",
-      "date": "2026-10-29"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve issues FOMC statement",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-82/",
+      "title": "Fed's Logan: It's clear that Fed needs at least two more quarter-point rate hikes",
+      "link": "https://investinglive.com/central-banks/fed-s-logan-it-s-clear-that-fed-needs-at-least-two-more-quarter-point-rate-hikes/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Learn technical analysis without being a professor: This repeating pattern is super simple and super effective",
-      "link": "https://investinglive.com/education/learn-technical-analysis-without-being-a-professor-this-repeating-pattern-is-super-simple-and-super-effective/",
+      "title": "Stocks rebounding despite higher-than-expected CPI",
+      "link": "https://investinglive.com/stocks/stocks-rebounding-despite-higher-than-expected-cpi/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 10 November 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-10-november-10am-new-york-cut/",
+      "title": "US 2-year yields surge as the market realizes the US has an inflation problem",
+      "link": "https://investinglive.com/forex/us-2-year-yields-surge-as-the-market-realizes-the-us-has-an-inflation-problem/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink",
-      "link": "https://investinglive.com/news/us-cpi-preview-wall-street-sees-cooler-inflation-but-the-fed-may-not-blink/",
+      "title": "US stocks slide, yields jump, USD higher after hotter-than-expected October CPI",
+      "link": "https://investinglive.com/technical-analysis/us-stocks-slide-yields-jump-usd-higher-after-hotter-than-expected-october-cpi/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Heads up: Any US CPI fireworks may fizzle out as Veterans Day holiday looms",
-      "link": "https://investinglive.com/news/heads-up-any-us-cpi-fireworks-may-fizzle-out-as-veterans-day-holiday-looms/",
+      "title": "US October core CPI +0.3% vs +0.2% expected",
+      "link": "https://investinglive.com/news/us-october-core-cpi-vs-0-2-expected/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US CPI takes centre stage as markets look to steady the ship after the midterm selloff",
-      "link": "https://investinglive.com/news/us-cpi-takes-centre-stage-as-markets-look-to-steady-the-ship-after-the-midterm-selloff/",
+      "title": "Morning Kickstart. Oil slides as Waller puts a half-point hike in play. Markets brace for CPI",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-oil-slides-as-waller-puts-a-half-point-hike-in-play-markets-brace-for-cpi/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: AI rebound rolls on, oil slips",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-ai-rebound-rolls-on-oil-slips/",
+      "title": "investingLive European news wrap: Fed's Waller floats case for 50 bps hike in December",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-fed-s-waller-floats-case-for-50-bps-hike-in-december/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China trade recap: surplus tops $1 trillion as AI boom powers exports, tensions loom",
-      "link": "https://investinglive.com/news/china-trade-recap-surplus-tops-1-trillion-as-ai-boom-powers-exports-tensions-loom/",
+      "title": "Zcash remains stuck in a range as macro headwinds continue to limit the upside. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/zcash-remains-stuck-in-a-range-as-macro-headwinds-continue-to-limit-the-upside-what-s-next/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Australia to mandate AI breach reporting, set up regulator after OpenAI agent breach",
-      "link": "https://investinglive.com/stocks/australia-to-mandate-ai-breach-reporting-set-up-regulator-after-openai-agent-breach/",
+      "title": "PrimeXBT Insights: NVIDIA Earnings Preview & Key Price Drivers",
+      "link": "https://investinglive.com/education/primexbt-insights-nvidia-earnings-preview-key-price-drivers/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nikkei, KOSPI extend rebound as AI and chip stocks surge, recouping Friday’s rout",
-      "link": "https://investinglive.com/stock-market-update/nikkei-kospi-extend-rebound-as-ai-and-chip-stocks-surge-recouping-friday-s-rout/",
+      "title": "Crude oil loses ground on renewed US-Iran deal hopes, but a concrete breakthrough isn't in sight yet",
+      "link": "https://investinglive.com/commodities/crude-oil-loses-ground-on-renewed-us-iran-deal-hopes-but-a-concrete-breakthrough-isn-t-in-sight-yet/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China October exports beat forecasts, imports surge 41.6% as trade surplus narrows",
-      "link": "https://investinglive.com/news/china-october-exports-beat-forecasts-imports-surge-41-6-as-trade-surplus-narrows/",
+      "title": "Chart of the day: Nasdaq comeback looks to have the breadth but does it have the staying power?",
+      "link": "https://investinglive.com/stocks/chart-of-the-day-nasdaq-comeback-looks-to-have-the-breadth-but-does-it-have-the-staying-power/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FedEx adds four weekly China-US freighter flights as AI hardware demand keeps cargo busy",
-      "link": "https://investinglive.com/stocks/fedex-adds-four-weekly-china-us-freighter-flights-as-ai-hardware-demand-keeps-cargo-busy/",
+      "title": "Bitcoin stays under pressure ahead of the US CPI report as Waller raises prospect of a 50 bps hike",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-stays-under-pressure-ahead-of-the-us-cpi-report-as-waller-raises-prospect-of-a-50-bps-hike/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Anthropic retracts IPO pricing details sent to bankers, says figures were inaccurate",
-      "link": "https://investinglive.com/stocks/anthropic-retracts-ipo-pricing-details-sent-to-bankers-says-figures-were-inaccurate/",
+      "title": "Stock earnings pick of the week: Can Applied Materials spot cracks in the AI spending boom?",
+      "link": "https://investinglive.com/stocks/stock-earnings-pick-of-the-week-can-applied-materials-spot-cracks-in-the-ai-spending-boom/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Anthropic lines up $26 billion from Nvidia, Google, others as IPO priced at $70 to $80",
-      "link": "https://investinglive.com/stocks/anthropic-lines-up-26-billion-from-nvidia-google-others-as-ipo-priced-at-70-to-80/",
+      "title": "Fed's Waller says a half-point rate hike in December may be needed if Core CPI comes in hot",
+      "link": "https://investinglive.com/central-banks/fed-s-waller-says-a-half-point-rate-hike-in-december-may-be-needed-if-core-cpi-comes-in-hot/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Australian consumer sentiment sinks to four-year low as rates and living costs bite",
-      "link": "https://investinglive.com/news/australian-consumer-sentiment-sinks-to-four-year-low-as-rates-and-living-costs-bite/",
+      "title": "What is the distribution of forecasts for the US CPI?",
+      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-cpi-3/",
       "date": "2026-11-10"
     }
   ]
