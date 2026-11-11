@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-10",
+  "asof": "2026-11-11",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -23,6 +23,13 @@
       "source": "BoE",
       "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
       "link": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
+      "date": "2026-11-10"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Money Stock (Oct.)",
+      "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2610.pdf",
       "date": "2026-11-10"
     },
     {
@@ -51,13 +58,6 @@
       "source": "BoJ",
       "title": "Amounts Outstanding in the Call Money Market (Oct.)",
       "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
-      "date": "2026-11-09"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Consumption Activity Index",
-      "link": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
       "date": "2026-11-09"
     },
     {
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "More from Fed’s Bowman: Shifts focus to inflation, wants AI and Middle East risks to ease first",
-      "link": "https://investinglive.com/central-banks/more-from-fed-s-bowman-shifts-focus-to-inflation-wants-ai-and-middle-east-risks-to-ease-first/",
+      "title": "Morgans’ Stickley: S&P 500 up after every midterm since 1950 as Nvidia looks cheap",
+      "link": "https://investinglive.com/stock-market-update/morgans-stickley-s-p-500-up-after-every-midterm-since-1950-as-nvidia-looks-cheap/",
+      "date": "2026-11-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Three drivers setting gold’s tone as December Fed hike bets build, according to Standard Chartered",
+      "link": "https://investinglive.com/commodities/three-drivers-setting-gold-s-tone-as-december-fed-hike-bets-build-according-to-standard-chartered/",
+      "date": "2026-11-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "SoftBank shares down after swings to $7 billion Q2 loss on $3.7 billion US data centre power hit",
+      "link": "https://investinglive.com/stocks/softbank-shares-down-after-swings-to-7-billion-q2-loss-on-3-7-billion-us-data-centre-power-hit/",
+      "date": "2026-11-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bite harder",
+      "link": "https://investinglive.com/news/australian-investor-home-lending-plunges-32-in-q3-as-tax-curbs-and-rba-hikes-bite-harder/",
+      "date": "2026-11-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC sets USD/ CNY mid-point today at 6.7191 (vs. estimate at 6.6855)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-vs-estimate-at-6-6855/",
+      "date": "2026-11-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6855 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6855-reuters-estimate/",
+      "date": "2026-11-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "NIESR sees UK inflation above BoE target for four years, peaking at 4.4% in 2027",
+      "link": "https://investinglive.com/central-banks/niesr-sees-uk-inflation-above-boe-target-for-four-years-peaking-at-4-4-in-2027/",
+      "date": "2026-11-11"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed’s Goolsbee calls CPI ‘borderline disturbing’, flags three inflation worries",
+      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-calls-cpi-borderline-disturbing-flags-three-inflation-worries/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 10 Nov: It’s a Wrap. Hot US CPI puts a bigger Fed hike in play",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-10-nov-it-s-a-wrap-hot-us-cpi-puts-a-bigger-fed-hike-in-play/",
+      "title": "Fed’s Paulson backs further gradual rate hikes, names three triggers for faster action",
+      "link": "https://investinglive.com/central-banks/fed-s-paulson-backs-further-gradual-rate-hikes-names-three-triggers-for-faster-action/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Costco declares $30 special dividend worth $13.3 billion, renews $4 billion buyback",
-      "link": "https://investinglive.com/stocks/costco-declares-30-special-dividend-worth-13-3-billion-renews-4-billion-buyback/",
+      "title": "Mizuho’s Klein calls Nvidia ‘silly cheap’ below 10x earnings despite Huang uncertainty",
+      "link": "https://investinglive.com/stocks/mizuho-s-klein-calls-nvidia-silly-cheap-below-10x-earnings-despite-huang-uncertainty/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "CoreWeave Q3 beats on seven key metrics, lifts full-year revenue and run-rate guidance",
-      "link": "https://investinglive.com/stocks/coreweave-q3-beats-on-seven-key-metrics-lifts-full-year-revenue-and-run-rate-guidance/",
+      "title": "Anthropic reserves up to 20% of its $64 billion IPO for retail investors",
+      "link": "https://investinglive.com/stocks/anthropic-reserves-up-to-20-of-its-64-billion-ipo-for-retail-investors/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Economic and event calendar in Asia Wednesday, November 11, 2026 - two Fed speakers",
-      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-november-11-2026-two-fed-speakers/",
+      "title": "Reuters Tankan: Japan manufacturer mood hits +27, highest in over five years on chips",
+      "link": "https://investinglive.com/news/reuters-tankan-japan-manufacturer-mood-hits-27-highest-in-over-five-years-on-chips/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US stock market close: Hot CPI leads to a selloff",
-      "link": "https://investinglive.com/stock-market-update/us-stock-market-close-hot-cpi-leads-to-a-selloff/",
+      "title": "UBS keeps 8,900 S&P 500 target for end-2027, says 20% derating sets up strong gains",
+      "link": "https://investinglive.com/stock-market-update/ubs-keeps-8-900-s-p-500-target-for-end-2027-says-20-derating-sets-up-strong-gains/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Intel bounces from $51.50 swing area support. Can buyers build on it?",
-      "link": "https://investinglive.com/stocks/intel-bounces-from-51-50-can-buyers-build-on-it/",
+      "title": "Carney says Canada has made no decision on lifting its Arctic offshore drilling ban",
+      "link": "https://investinglive.com/commodities/carney-says-canada-has-made-no-decision-on-lifting-its-arctic-offshore-drilling-ban/",
       "date": "2026-11-10"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Fed's Bowman: Persistent inflation, firming labor conditions suggest 'work to do'",
-      "link": "https://investinglive.com/central-banks/fed-s-bowman-persistent-inflation-firming-labor-conditions-suggest-work-to-do/",
-      "date": "2026-11-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Nvidia falls another 6% and is now testing a key support zone",
-      "link": "https://investinglive.com/stocks/nvidia-falls-another-6-and-is-now-testing-a-key-support-zone/",
-      "date": "2026-11-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Anthropic looks to be pricing its IPO for success",
-      "link": "https://investinglive.com/stocks/anthropic-looks-to-be-pricing-its-ipo-for-success/",
-      "date": "2026-11-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Schmid: Some concerning trends in prices, underneath the whole energy story",
-      "link": "https://investinglive.com/central-banks/fed-s-schmid-some-concerning-trends-in-prices-underneath-the-whole-energy-story/",
-      "date": "2026-11-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bank of Canada minutes: Governing Council sees possible need to hike rates further",
-      "link": "https://investinglive.com/central-banks/bank-of-canada-minutes-governing-council-sees-possible-need-to-hike-rates-further/",
-      "date": "2026-11-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "U.S. Treasury sells $42 billion of 10 year notes at a high yield of 5.02%",
-      "link": "https://investinglive.com/news/u-s-treasury-sells-42-billion-of-10-year-notes-at-a-high-yield-of-5-02/",
-      "date": "2026-11-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "ECB’s Lane says the bar for directional rate guidance is high",
-      "link": "https://investinglive.com/central-banks/ecb-s-lane-says-the-bar-for-directional-rate-guidance-is-high/",
-      "date": "2026-11-10"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stocks mostly higher as hot US CPI sends Treasury yields above 5%",
-      "link": "https://investinglive.com/stocks/european-stocks-mostly-higher-as-hot-us-cpi-sends-treasury-yields-above-5/",
+      "title": "Private oil inventory survey shows huge headline build vs. draw expected",
+      "link": "https://investinglive.com/commodities/private-oil-inventory-survey-shows-huge-headline-build-vs-draw-expected/",
       "date": "2026-11-10"
     }
   ]
