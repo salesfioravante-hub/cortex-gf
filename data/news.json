@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "link": "",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "link": "",
+      "date": "2026-11-12"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Japanese Government Bonds Held by the Bank of Japan",
@@ -101,126 +115,112 @@
       "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
       "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
       "date": "2026-11-03"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-      "link": "",
-      "date": "2026-10-29"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve issues FOMC statement",
-      "link": "",
-      "date": "2026-10-28"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold erases post-midterms gains as higher real yields and US dollar hurt. What's next?",
-      "link": "https://investinglive.com/commodities/gold-erases-post-midterms-gains-as-higher-real-yields-and-us-dollar-hurt-what-s-next/",
+      "title": "Gold tumbles $112 as sellers break below the late-October/early-November low",
+      "link": "https://investinglive.com/commodities/gold-tumbles-112-as-sellers-break-below-the-late-october-early-november-low/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "European stock market open: DAX pushes to fresh record highs as Europe defies Wall Street jitters",
-      "link": "https://investinglive.com/stocks/european-stock-market-open-dax-pushes-to-fresh-record-highs-as-europe-defies-wall-street-jitters/",
+      "title": "Crude oil inventories +4.657 million versus -1.109 million estimate",
+      "link": "https://investinglive.com/commodities/crude-oil-inventories-4-657-million-versus-1-109-million-estimate/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold price faces a key test as $4,000 breaks and weekly support beckons",
-      "link": "https://investinglive.com/commodities/gold-price-faces-a-key-test-as-4-000-breaks-and-weekly-support-beckons/",
+      "title": "Crude oil futures trying to keep a technical ceiling in place.",
+      "link": "https://investinglive.com/commodities/crude-oil-futures-trying-to-keep-a-technical-ceiling-in-place/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-84/",
+      "title": "Euro falls to the lowest since April 2025",
+      "link": "https://investinglive.com/forex/euro-falls-to-the-lowest-since-april-2025/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "UK Q3 GDP meets estimates as resilient growth gives BOE more room to tackle inflation",
-      "link": "https://investinglive.com/news/uk-q3-gdp-meets-estimates-as-resilient-growth-gives-boe-more-room-to-tackle-inflation/",
+      "title": "Fed's Goolsbee: Inflation has been well-above target",
+      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-inflation-has-been-well-above-target/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "UK September GDP beats expectations as resilient growth keeps BOE December rate hike on track",
-      "link": "https://investinglive.com/news/uk-september-gdp-beats-expectations-as-resilient-growth-keeps-boe-december-rate-hike-on-track/",
+      "title": "The US dollar moves higher as Treasury yields extend their gains",
+      "link": "https://investinglive.com/technical-analysis/the-us-dollar-moves-higher-as-treasury-yields-extend-their-gains/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 12 November 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-12-november-10am-new-york-cut/",
+      "title": "As market digest the Nvidia fallout, what has the fallout meant for the Nasdaq composite/Nasdaq 100 indices?",
+      "link": "https://investinglive.com/stocks/as-market-digest-the-nvidia-fallout-what-has-the-fallout-meant-for-the-nasdaq-composite-nasdaq-100-indices/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nasdaq futures are under pressure. Is it too late to short?",
-      "link": "https://investinglive.com/technical-analysis/nasdaq-futures-are-under-pressure-is-it-too-late-to-short/",
+      "title": "US October existing home sales 3.75m vs 3.85m expected",
+      "link": "https://investinglive.com/news/us-october-existing-home-sales-3-75m-vs-3-85m-expected/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BOJ policymaker Asada urges caution on further rate hikes even as December move remains firmly in play",
-      "link": "https://investinglive.com/central-banks/boj-policymaker-asada-urges-caution-on-further-rate-hikes-even-as-december-move-remains-firmly-in-play/",
+      "title": "Now that all the Nvidia/Jensen Huang news is out, what next for traders in Nvidia?",
+      "link": "https://investinglive.com/stocks/now-that-all-the-nvidia-jensen-huang-news-is-out-what-next-for-traders-in-nvidia/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "AUD/USD faces a make-or-break test as dollar bulls turn up the heat",
-      "link": "https://investinglive.com/forex/aud-usd-faces-a-make-or-break-test-as-dollar-bulls-turn-up-the-heat/",
+      "title": "Bitcoin breaks key support. What can traders learn from the move?",
+      "link": "https://investinglive.com/education/bitcoin-breaks-key-support-what-can-traders-learn-from-the-move/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Chinese tech firms reportedly rushing to secure more Nvidia chip capacity amid fears that spy scandal would spur tighter restrictions",
-      "link": "https://investinglive.com/news/chinese-tech-firms-reportedly-rushing-to-secure-more-nvidia-chip-capacity-amid-fears-that-spy-scandal-would-spur-tighter-restrictions/",
+      "title": "Jensen Huang ousted as CEO of Nvidia",
+      "link": "https://investinglive.com/stocks/jensen-huang-ousted-as-ceo-of-nvidia/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nvidia stock plunges 8.6%, but AMD and Broadcom rally. Which chip stocks are worth buying?",
-      "link": "https://investinglive.com/stocks/nvidia-stock-plunges-8-6-but-amd-and-broadcom-rally-which-chip-stocks-are-worth-buying/",
+      "title": "Fed's Hammack: We need to move to restrictive mon pol to lower inflation",
+      "link": "https://investinglive.com/central-banks/fed-s-hammack-we-need-to-move-to-restrictive-mon-pol-to-lower-inflation/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Heads up: UK September GDP in focus but will weak growth really stop the BOE from hiking again?",
-      "link": "https://investinglive.com/news/heads-up-uk-september-gdp-in-focus-but-will-weak-growth-really-stop-the-boe-from-hiking-again/",
+      "title": "US weekly initial jobless claims 200K vs 195K expected",
+      "link": "https://investinglive.com/news/us-weekly-initial-jobless-claims-200k-vs-195k-expected/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Nvidia slides on Huang ouster reports",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-nvidia-slides-on-huang-ouster-reports/",
+      "title": "Morning Kickstart: Yields climb as Nvidia slides below key support. USD mixed.",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-yields-climb-as-nvidia-slides-below-key-support-usd-mixed/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bernstein halves Nvidia target to $200, the 3rd broker in 2 days to step back over Huang",
-      "link": "https://investinglive.com/stocks/bernstein-halves-nvidia-target-to-200-the-3rd-broker-in-2-days-to-step-back-over-huang/",
+      "title": "Why markets sometimes ignore economic data",
+      "link": "https://investinglive.com/education/why-markets-sometimes-ignore-economic-data/",
       "date": "2026-11-12"
     }
   ]
