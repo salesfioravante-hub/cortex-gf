@@ -7,23 +7,30 @@
     {
       "cur": "JPY",
       "source": "BoJ",
-      "title": "Bank of Japan Accounts (November 10)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261110.htm",
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261110.xlsx",
       "date": "2026-11-12"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
-      "title": "Corporate Goods Price Index (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2610.pdf",
-      "date": "2026-11-11"
+      "title": "Basic Figures on Fails (Oct.)",
+      "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2610.pdf",
+      "date": "2026-11-12"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
-      "title": "Release of Latest \"Amounts Outstanding of Deposits by Depositor\" Data",
-      "link": "http://www.boj.or.jp/en/statistics/outline/notice_2026/not261112a.htm",
-      "date": "2026-11-11"
+      "title": "Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)",
+      "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261112a.htm",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Bank of Japan Accounts (November 10)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261110.htm",
+      "date": "2026-11-12"
     },
     {
       "cur": "EUR",
@@ -44,13 +51,6 @@
       "source": "BoE",
       "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
       "link": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
-      "date": "2026-11-10"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Money Stock (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/money/ms/ms2610.pdf",
       "date": "2026-11-10"
     },
     {
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "TD Securities sees gold retesting $3,900 as Fed hike bets and a firm dollar bite",
-      "link": "https://investinglive.com/commodities/td-securities-sees-gold-retesting-3-900-as-fed-hike-bets-and-a-firm-dollar-bite/",
+      "title": "Gold erases post-midterms gains as higher real yields and US dollar hurt. What's next?",
+      "link": "https://investinglive.com/commodities/gold-erases-post-midterms-gains-as-higher-real-yields-and-us-dollar-hurt-what-s-next/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6797 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6797-reuters-estimate/",
+      "title": "European stock market open: DAX pushes to fresh record highs as Europe defies Wall Street jitters",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-dax-pushes-to-fresh-record-highs-as-europe-defies-wall-street-jitters/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Japan’s Mimura warns yen moves are too rapid as USD/JPY pushes back toward 160",
-      "link": "https://investinglive.com/forex/japan-s-mimura-warns-yen-moves-are-too-rapid-as-usd-jpy-pushes-back-toward-160/",
+      "title": "Gold price faces a key test as $4,000 breaks and weekly support beckons",
+      "link": "https://investinglive.com/commodities/gold-price-faces-a-key-test-as-4-000-breaks-and-weekly-support-beckons/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "United Airlines bans AI agents from booking flights: 3 reasons it matters beyond travel",
-      "link": "https://investinglive.com/stocks/united-airlines-bans-ai-agents-from-booking-flights-3-reasons-it-matters-beyond-travel/",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-84/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Japan wholesale inflation speeds up to 7.1%, beating forecasts and firming BoJ hike bets",
-      "link": "https://investinglive.com/central-banks/japan-wholesale-inflation-speeds-up-to-7-1-beating-forecasts-and-firming-boj-hike-bets/",
+      "title": "UK Q3 GDP meets estimates as resilient growth gives BOE more room to tackle inflation",
+      "link": "https://investinglive.com/news/uk-q3-gdp-meets-estimates-as-resilient-growth-gives-boe-more-room-to-tackle-inflation/",
       "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "UBS sees limited support for a 50bp Fed hike in December despite hot October CPI",
-      "link": "https://investinglive.com/central-banks/ubs-sees-limited-support-for-a-50bp-fed-hike-in-december-despite-hot-october-cpi/",
-      "date": "2026-11-11"
+      "title": "UK September GDP beats expectations as resilient growth keeps BOE December rate hike on track",
+      "link": "https://investinglive.com/news/uk-september-gdp-beats-expectations-as-resilient-growth-keeps-boe-december-rate-hike-on-track/",
+      "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "From smuggling indictment to 48% rebound: the Super Micro playbook Nvidia bulls are watching",
-      "link": "https://investinglive.com/stocks/from-smuggling-indictment-to-48-rebound-the-super-micro-playbook-nvidia-bulls-are-watching/",
-      "date": "2026-11-11"
+      "title": "FX option expiries for 12 November 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-12-november-10am-new-york-cut/",
+      "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nasdaq futures drop 0.8% as WSJ says Nvidia board is preparing to oust CEO Huang",
-      "link": "https://investinglive.com/stock-market-update/nasdaq-futures-drop-0-8-as-wsj-says-nvidia-board-is-preparing-to-oust-ceo-huang/",
-      "date": "2026-11-11"
+      "title": "Nasdaq futures are under pressure. Is it too late to short?",
+      "link": "https://investinglive.com/technical-analysis/nasdaq-futures-are-under-pressure-is-it-too-late-to-short/",
+      "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Strategy (MSTR) is to be removed from MSCI Global Investable Market Indexes following MSCI's implementation of a new non-operating company rule.",
-      "link": "https://investinglive.com/stocks/strategy-mstr-is-to-be-removed-from-msci-global-investable-market-indexes-following-msci-s-implementation-of-a-new-non-operating-company-rule/",
-      "date": "2026-11-11"
+      "title": "BOJ policymaker Asada urges caution on further rate hikes even as December move remains firmly in play",
+      "link": "https://investinglive.com/central-banks/boj-policymaker-asada-urges-caution-on-further-rate-hikes-even-as-december-move-remains-firmly-in-play/",
+      "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nvidia stock plunges after hours as New York Times reports new Jensen Huang relationship allegation",
-      "link": "https://investinglive.com/news/nvidia-stock-plunges-after-hours-as-new-york-times-reports-new-jensen-huang-relationship-allegation/",
-      "date": "2026-11-11"
+      "title": "AUD/USD faces a make-or-break test as dollar bulls turn up the heat",
+      "link": "https://investinglive.com/forex/aud-usd-faces-a-make-or-break-test-as-dollar-bulls-turn-up-the-heat/",
+      "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nvidia CEO Huang faces 2nd relationship report as NYT links him to senior executive",
-      "link": "https://investinglive.com/stocks/nvidia-ceo-huang-faces-2nd-relationship-report-as-nyt-links-him-to-senior-executive/",
-      "date": "2026-11-11"
+      "title": "Chinese tech firms reportedly rushing to secure more Nvidia chip capacity amid fears that spy scandal would spur tighter restrictions",
+      "link": "https://investinglive.com/news/chinese-tech-firms-reportedly-rushing-to-secure-more-nvidia-chip-capacity-amid-fears-that-spy-scandal-would-spur-tighter-restrictions/",
+      "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Lutnick stalls Trump’s third Nvidia chip diversion crackdown this year, Axios says",
-      "link": "https://investinglive.com/stocks/lutnick-stalls-trump-s-third-nvidia-chip-diversion-crackdown-this-year-axios-says/",
-      "date": "2026-11-11"
+      "title": "Nvidia stock plunges 8.6%, but AMD and Broadcom rally. Which chip stocks are worth buying?",
+      "link": "https://investinglive.com/stocks/nvidia-stock-plunges-8-6-but-amd-and-broadcom-rally-which-chip-stocks-are-worth-buying/",
+      "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Anthropic IPO oversubscribed several times ahead of record $90 billion listing",
-      "link": "https://investinglive.com/stocks/anthropic-ipo-oversubscribed-several-times-ahead-of-record-90-billion-listing/",
-      "date": "2026-11-11"
+      "title": "Heads up: UK September GDP in focus but will weak growth really stop the BOE from hiking again?",
+      "link": "https://investinglive.com/news/heads-up-uk-september-gdp-in-focus-but-will-weak-growth-really-stop-the-boe-from-hiking-again/",
+      "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US stocks rally as AI shares rebound",
-      "link": "https://investinglive.com/stocks/us-stocks-rally-as-ai-shares-rebound/",
-      "date": "2026-11-11"
+      "title": "investingLive Asia-Pacific market news: Nvidia slides on Huang ouster reports",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-nvidia-slides-on-huang-ouster-reports/",
+      "date": "2026-11-12"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 11 Nov. It’s a Wrap: Dollar climbs as stocks rise and oil fades",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-nov-it-s-a-wrap-dollar-climbs-as-stocks-rise-and-oil-fades/",
-      "date": "2026-11-11"
+      "title": "Bernstein halves Nvidia target to $200, the 3rd broker in 2 days to step back over Huang",
+      "link": "https://investinglive.com/stocks/bernstein-halves-nvidia-target-to-200-the-3rd-broker-in-2-days-to-step-back-over-huang/",
+      "date": "2026-11-12"
     }
   ]
 }
