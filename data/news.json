@@ -1,9 +1,30 @@
 {
-  "asof": "2026-11-11",
+  "asof": "2026-11-12",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Bank of Japan Accounts (November 10)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261110.htm",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Corporate Goods Price Index (Oct.)",
+      "link": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2610.pdf",
+      "date": "2026-11-11"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Release of Latest \"Amounts Outstanding of Deposits by Depositor\" Data",
+      "link": "http://www.boj.or.jp/en/statistics/outline/notice_2026/not261112a.htm",
+      "date": "2026-11-11"
+    },
     {
       "cur": "EUR",
       "source": "BCE",
@@ -37,27 +58,6 @@
       "source": "Fed",
       "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
       "link": "",
-      "date": "2026-11-09"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Principal Figures of Financial Institutions (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2610.pdf",
-      "date": "2026-11-09"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026",
-      "link": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
-      "date": "2026-11-09"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Amounts Outstanding in the Call Money Market (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
       "date": "2026-11-09"
     },
     {
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Stocks move to new session highs as buyers reclaim key technical levels",
-      "link": "https://investinglive.com/stocks/stocks-move-to-new-session-highs-as-buyers-reclaim-key-technical-levels/",
+      "title": "TD Securities sees gold retesting $3,900 as Fed hike bets and a firm dollar bite",
+      "link": "https://investinglive.com/commodities/td-securities-sees-gold-retesting-3-900-as-fed-hike-bets-and-a-firm-dollar-bite/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6797 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6797-reuters-estimate/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan’s Mimura warns yen moves are too rapid as USD/JPY pushes back toward 160",
+      "link": "https://investinglive.com/forex/japan-s-mimura-warns-yen-moves-are-too-rapid-as-usd-jpy-pushes-back-toward-160/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "United Airlines bans AI agents from booking flights: 3 reasons it matters beyond travel",
+      "link": "https://investinglive.com/stocks/united-airlines-bans-ai-agents-from-booking-flights-3-reasons-it-matters-beyond-travel/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan wholesale inflation speeds up to 7.1%, beating forecasts and firming BoJ hike bets",
+      "link": "https://investinglive.com/central-banks/japan-wholesale-inflation-speeds-up-to-7-1-beating-forecasts-and-firming-boj-hike-bets/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "UBS sees limited support for a 50bp Fed hike in December despite hot October CPI",
+      "link": "https://investinglive.com/central-banks/ubs-sees-limited-support-for-a-50bp-fed-hike-in-december-despite-hot-october-cpi/",
       "date": "2026-11-11"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "European stocks close higher. AI rebound sends Nasdaq indices sharply higher.",
-      "link": "https://investinglive.com/stocks/european-stocks-close-higher-ai-rebound-sends-nasdaq-indices-sharply-higher/",
+      "title": "From smuggling indictment to 48% rebound: the Super Micro playbook Nvidia bulls are watching",
+      "link": "https://investinglive.com/stocks/from-smuggling-indictment-to-48-rebound-the-super-micro-playbook-nvidia-bulls-are-watching/",
       "date": "2026-11-11"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Iran’s Ghalibaf: Peace is our priority if Washington accepts our conditions",
-      "link": "https://investinglive.com/news/iran-s-ghalibaf-peace-is-our-priority-if-washington-accepts-our-conditions/",
+      "title": "Nasdaq futures drop 0.8% as WSJ says Nvidia board is preparing to oust CEO Huang",
+      "link": "https://investinglive.com/stock-market-update/nasdaq-futures-drop-0-8-as-wsj-says-nvidia-board-is-preparing-to-oust-ceo-huang/",
       "date": "2026-11-11"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "As the broader indices move solidly higher there is some mixed price action in some big cap tech",
-      "link": "https://investinglive.com/stocks/as-the-broader-indices-move-solidly-higher-there-is-some-mixed-price-action-in-some-big-cap-tech/",
+      "title": "Strategy (MSTR) is to be removed from MSCI Global Investable Market Indexes following MSCI's implementation of a new non-operating company rule.",
+      "link": "https://investinglive.com/stocks/strategy-mstr-is-to-be-removed-from-msci-global-investable-market-indexes-following-msci-s-implementation-of-a-new-non-operating-company-rule/",
       "date": "2026-11-11"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The broader stock indices are showing signs of life but with work to do. What needs to happen next?",
-      "link": "https://investinglive.com/stocks/the-broader-stock-indices-are-showing-signs-of-life-but-with-work-to-do-what-needs-to-happen-next/",
+      "title": "Nvidia stock plunges after hours as New York Times reports new Jensen Huang relationship allegation",
+      "link": "https://investinglive.com/news/nvidia-stock-plunges-after-hours-as-new-york-times-reports-new-jensen-huang-relationship-allegation/",
       "date": "2026-11-11"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The USD is making a break for it. What do you need to watch technically?",
-      "link": "https://investinglive.com/technical-analysis/the-usd-is-making-a-break-for-it-what-do-you-need-to-watch-technically/",
+      "title": "Nvidia CEO Huang faces 2nd relationship report as NYT links him to senior executive",
+      "link": "https://investinglive.com/stocks/nvidia-ceo-huang-faces-2nd-relationship-report-as-nyt-links-him-to-senior-executive/",
       "date": "2026-11-11"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Crude oil faces a geopolitical test as Russia signals progress toward peace",
-      "link": "https://investinglive.com/technical-analysis/crude-oil-faces-a-geopolitical-test-as-russia-signals-progress-toward-peace/",
+      "title": "Lutnick stalls Trump’s third Nvidia chip diversion crackdown this year, Axios says",
+      "link": "https://investinglive.com/stocks/lutnick-stalls-trump-s-third-nvidia-chip-diversion-crackdown-this-year-axios-says/",
       "date": "2026-11-11"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The price of Bitcoin is little changed but off the support target. What next?",
-      "link": "https://investinglive.com/cryptocurrency/the-price-of-bitcoin-is-little-changed-but-off-the-support-target-what-next/",
+      "title": "Anthropic IPO oversubscribed several times ahead of record $90 billion listing",
+      "link": "https://investinglive.com/stocks/anthropic-ipo-oversubscribed-several-times-ahead-of-record-90-billion-listing/",
       "date": "2026-11-11"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Morning Kickstart: AI stocks rebound as USD after hot CPI. Thank you Veterans for your service",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-ai-stocks-rebound-as-usd-after-hot-cpi-thank-you-veterans-for-your-service/",
+      "title": "US stocks rally as AI shares rebound",
+      "link": "https://investinglive.com/stocks/us-stocks-rally-as-ai-shares-rebound/",
       "date": "2026-11-11"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive European session wrap: Stocks rally, dollar climbs as bond market sits out post-CPI action",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rally-dollar-climbs-as-bond-market-sits-out-post-cpi-action/",
-      "date": "2026-11-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil rebounds as expectations for an imminent deal fade amid the lack of US-Iran progress",
-      "link": "https://investinglive.com/commodities/crude-oil-rebounds-as-expectations-for-an-imminent-deal-fade-amid-the-lack-of-us-iran-progress/",
-      "date": "2026-11-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USD/JPY knocks on the door of 159.00 again, dollar bulls risk poking the intervention bear",
-      "link": "https://investinglive.com/forex/usd-jpy-knocks-on-the-door-of-159-00-again-dollar-bulls-risk-poking-the-intervention-bear/",
-      "date": "2026-11-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Ethereum extends losses as Fed's Waller puts a larger rate hike on the table and US CPI remains hot",
-      "link": "https://investinglive.com/cryptocurrency/ethereum-extends-losses-as-fed-s-waller-puts-a-larger-rate-hike-on-the-table-and-us-cpi-remains-hot/",
-      "date": "2026-11-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US futures rally as AI dip buyers return but the bond market has unfinished business",
-      "link": "https://investinglive.com/stocks/us-stock-futures-rally-as-ai-dip-buyers-return-but-the-bond-market-has-unfinished-business/",
-      "date": "2026-11-11"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold dips after Fed's Waller drops the 50 bps hike bomb and US CPI comes above expectations",
-      "link": "https://investinglive.com/commodities/gold-dips-after-fed-s-waller-drops-the-50-bps-hike-bomb-and-us-cpi-comes-above-expectations/",
+      "title": "investingLive Americas FX news wrap 11 Nov. It’s a Wrap: Dollar climbs as stocks rise and oil fades",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-nov-it-s-a-wrap-dollar-climbs-as-stocks-rise-and-oil-fades/",
       "date": "2026-11-11"
     }
   ]
