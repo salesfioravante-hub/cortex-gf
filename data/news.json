@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Agencies extend comment period for proposed third-party risk management guidance",
+      "link": "",
+      "date": "2026-11-13"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Isabel Schnabel: Made in Europe",
@@ -17,6 +24,27 @@
       "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
       "link": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
       "date": "2026-11-13"
+    },
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "link": "",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "link": "",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "link": "",
+      "date": "2026-11-12"
     },
     {
       "cur": "JPY",
@@ -93,6 +121,41 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "US stock markets slide but the selling is localized around chip names",
+      "link": "https://investinglive.com/stocks/us-stock-markets-slide-but-the-selling-is-localized-around-chip-names/",
+      "date": "2026-11-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The US consumer may be hitting a wall. A look at eight indicators",
+      "link": "https://investinglive.com/news/the-us-consumer-may-be-hitting-a-wall-a-look-at-eight-indicators/",
+      "date": "2026-11-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed's Daly: In all likelihood, we need to raise rates",
+      "link": "https://investinglive.com/central-banks/fed-s-daly-in-all-likelihood-we-need-to-raise-rates/",
+      "date": "2026-11-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed's Collins: I would think some additional policy tightening is warranted soon",
+      "link": "https://investinglive.com/central-banks/fed-s-collins-i-would-think-some-additional-policy-tightening-is-warranted-soon/",
+      "date": "2026-11-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Earnings week ahead: Nvidia without Jensen, Anthropic’s IPO, and the consumer meets a hiking Fed",
+      "link": "https://investinglive.com/news/earnings-week-ahead-nvidia-without-jensen-anthropic-s-ipo-and-the-consumer-meets-a-hiking-fed/",
+      "date": "2026-11-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Goldman Sachs: We can explain almost the entire US inflation overshoot by tariffs and the war in Iran",
       "link": "https://investinglive.com/central-banks/goldman-sachs-we-can-explain-almost-the-entire-us-inflation-overshoot-by-tariffs-and-the-war-in-iran/",
       "date": "2026-11-13"
@@ -158,41 +221,6 @@
       "source": "ForexLive",
       "title": "Eurozone Q3 GDP unchanged in second estimate as uneven growth clouds the outlook",
       "link": "https://investinglive.com/news/eurozone-q3-gdp-unchanged-in-second-estimate-as-uneven-growth-clouds-the-outlook/",
-      "date": "2026-11-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The macro backdrop remains negative for Ethereum as Trump's Iran remarks fuel renewed risk aversion",
-      "link": "https://investinglive.com/cryptocurrency/the-macro-backdrop-remains-negative-for-ethereum-as-trump-s-iran-remarks-fuel-renewed-risk-aversion/",
-      "date": "2026-11-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stock market open: Stocks ease slightly as the rally takes a breather",
-      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-ease-slightly-as-the-rally-takes-a-breather/",
-      "date": "2026-11-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Higher real yields and stronger US dollar weigh on gold as Trump puts Iran deal in jeopardy",
-      "link": "https://investinglive.com/commodities/higher-real-yields-and-stronger-us-dollar-weigh-on-gold-as-trump-puts-iran-deal-in-jeopardy/",
-      "date": "2026-11-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Spain inflation remains stubborn in October, keeping ECB rate hike expectations firmly alive",
-      "link": "https://investinglive.com/news/spain-inflation-remains-stubborn-in-october-keeping-ecb-rate-hike-expectations-firmly-alive/",
-      "date": "2026-11-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive",
-      "link": "https://investinglive.com/news/france-october-inflation-accelerates-as-energy-prices-surge-keeping-ecb-rate-hike-bets-alive/",
       "date": "2026-11-13"
     }
   ]
