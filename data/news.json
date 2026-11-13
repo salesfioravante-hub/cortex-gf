@@ -12,25 +12,11 @@
       "date": "2026-11-13"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-      "link": "",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "link": "",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-      "link": "",
-      "date": "2026-11-12"
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
+      "date": "2026-11-13"
     },
     {
       "cur": "JPY",
@@ -82,13 +68,6 @@
       "date": "2026-11-10"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "link": "",
-      "date": "2026-11-09"
-    },
-    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
@@ -108,119 +87,112 @@
       "title": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
       "link": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026",
       "date": "2026-11-04"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
-      "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
-      "date": "2026-11-03"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Germany October wholesale price index +0.4% vs +1.9% m/m prior",
-      "link": "https://investinglive.com/news/germany-october-wholesale-price-index-0-4-vs-1-9-m-m-prior/",
+      "title": "Goldman Sachs: We can explain almost the entire US inflation overshoot by tariffs and the war in Iran",
+      "link": "https://investinglive.com/central-banks/goldman-sachs-we-can-explain-almost-the-entire-us-inflation-overshoot-by-tariffs-and-the-war-in-iran/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Xlence prepares for Anthropic’s anticipated IPO",
-      "link": "https://investinglive.com/education/xlence-prepares-for-anthropic-s-anticipated-ipo/",
+      "title": "Fed's Goolsbee: We're not on the way to 2% inflation and we have to deal with that",
+      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-we-re-not-on-the-way-to-2-inflation-and-we-have-to-deal-with-that/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trading Sphere eyes Anthropic IPO with plans for day-one CFD trading",
-      "link": "https://investinglive.com/education/trading-sphere-eyes-anthropic-ipo-with-plans-for-day-one-cfd-trading/",
+      "title": "US October PPI +6.5% vs +6.6% expected",
+      "link": "https://investinglive.com/news/us-october-ppi-6-5-vs-6-6-expected/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 13 November 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-13-november-10am-new-york-cut/",
+      "title": "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
+      "link": "https://investinglive.com/stocks/nasdaq-s-suckers-rally-is-approaching-a-key-resistance-amid-hawkish-fed-bets-us-iran-tensions/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level",
-      "link": "https://investinglive.com/forex/japan-prime-minister-takaichi-fires-another-verbal-warning-as-usd-jpy-flirts-with-the-160-level/",
+      "title": "investingLive European session wrap: Wall Street eyes a rebound but rising Treasury yields keep traders on edge",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-wall-street-eyes-a-rebound-but-rising-treasury-yields-keep-traders-on-edge/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US bond market cracks resurface as higher for longer fears return to haunt Wall Street",
-      "link": "https://investinglive.com/news/us-bond-market-cracks-resurface-as-higher-for-longer-fears-return-to-haunt-wall-street/",
+      "title": "How have interest rate expectations changed after this week's events?",
+      "link": "https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-8/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-fed-hike-bets-ripple-through-asia/",
+      "title": "Wall Street steadies despite Nvidia drama but dip buyers are still walking a tight rope",
+      "link": "https://investinglive.com/stocks/wall-street-steadies-despite-nvidia-drama-but-dip-buyers-are-still-walking-a-tight-rope/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Asian stocks steady as Nikkei gains 1.4%, Hang Seng slips on Nvidia leadership fallout",
-      "link": "https://investinglive.com/stock-market-update/asian-stocks-steady-as-nikkei-gains-1-4-hang-seng-slips-on-nvidia-leadership-fallout/",
+      "title": "Solana remains under pressure amid hawkish Fed bets and renewed US-Iran tensions. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/solana-remains-under-pressure-amid-hawkish-fed-bets-and-renewed-us-iran-tensions-what-s-next/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bitcoin dipped under $70K, first time since August",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-dipped-under-70k-first-time-since-august/",
+      "title": "Crude oil jumps as escalation risks increase after Trump says the US doesn't need Iran deal",
+      "link": "https://investinglive.com/commodities/crude-oil-jumps-as-escalation-risks-increase-after-trump-says-the-us-doesn-t-need-iran-deal/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Iran’s Guards claim strike on US radar in Bahrain, warn firms over Hormuz oil trade",
-      "link": "https://investinglive.com/commodities/iran-s-guards-claim-strike-on-us-radar-in-bahrain-warn-firms-over-hormuz-oil-trade/",
+      "title": "Eurozone Q3 GDP unchanged in second estimate as uneven growth clouds the outlook",
+      "link": "https://investinglive.com/news/eurozone-q3-gdp-unchanged-in-second-estimate-as-uneven-growth-clouds-the-outlook/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Anthropic IPO six times oversubscribed: what retail investors can realistically expect",
-      "link": "https://investinglive.com/stocks/anthropic-ipo-six-times-oversubscribed-what-retail-investors-can-realistically-expect/",
+      "title": "The macro backdrop remains negative for Ethereum as Trump's Iran remarks fuel renewed risk aversion",
+      "link": "https://investinglive.com/cryptocurrency/the-macro-backdrop-remains-negative-for-ethereum-as-trump-s-iran-remarks-fuel-renewed-risk-aversion/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Airlines face higher fuel bills as pre-war hedges expire and jet fuel holds near $150",
-      "link": "https://investinglive.com/commodities/airlines-face-higher-fuel-bills-as-pre-war-hedges-expire-and-jet-fuel-holds-near-150/",
+      "title": "European stock market open: Stocks ease slightly as the rally takes a breather",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-ease-slightly-as-the-rally-takes-a-breather/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "SMIC co-CEO sees 2026 revenue topping $12 billion as AI demand stretches chip upcycle",
-      "link": "https://investinglive.com/stocks/smic-co-ceo-sees-2026-revenue-topping-12-billion-as-ai-demand-stretches-chip-upcycle/",
+      "title": "Higher real yields and stronger US dollar weigh on gold as Trump puts Iran deal in jeopardy",
+      "link": "https://investinglive.com/commodities/higher-real-yields-and-stronger-us-dollar-weigh-on-gold-as-trump-puts-iran-deal-in-jeopardy/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold set for $3.3bn of index fund buying in January as rebalancing flips in its favour",
-      "link": "https://investinglive.com/commodities/gold-set-for-3-3bn-of-index-fund-buying-in-january-as-rebalancing-flips-in-its-favour/",
+      "title": "Spain inflation remains stubborn in October, keeping ECB rate hike expectations firmly alive",
+      "link": "https://investinglive.com/news/spain-inflation-remains-stubborn-in-october-keeping-ecb-rate-hike-expectations-firmly-alive/",
       "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ByteDance plans $6bn share buyback at about $400 billion valuation, up 20% in a year",
-      "link": "https://investinglive.com/stocks/bytedance-plans-6bn-share-buyback-at-about-400-billion-valuation-up-20-in-a-year/",
+      "title": "France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive",
+      "link": "https://investinglive.com/news/france-october-inflation-accelerates-as-energy-prices-surge-keeping-ecb-rate-hike-bets-alive/",
       "date": "2026-11-13"
     }
   ]
