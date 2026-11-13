@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Isabel Schnabel: Made in Europe",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+      "date": "2026-11-13"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
@@ -89,13 +96,6 @@
       "date": "2026-11-07"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "ECB publishes consolidated banking data for end-June 2026",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
-      "date": "2026-11-06"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "UBS sees no RBA cuts until late 2027 as AI boom fuels inflation, growth slowing to 1.4%",
-      "link": "https://investinglive.com/central-banks/ubs-sees-no-rba-cuts-until-late-2027-as-ai-boom-fuels-inflation-growth-slowing-to-1-4/",
-      "date": "2026-11-12"
+      "title": "Germany October wholesale price index +0.4% vs +1.9% m/m prior",
+      "link": "https://investinglive.com/news/germany-october-wholesale-price-index-0-4-vs-1-9-m-m-prior/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Anthropic IPO targets around $1 trillion valuation, half the $2 trillion once whispered",
-      "link": "https://investinglive.com/stocks/anthropic-ipo-targets-around-1-trillion-valuation-half-the-2-trillion-once-whispered/",
-      "date": "2026-11-12"
+      "title": "Xlence prepares for Anthropic’s anticipated IPO",
+      "link": "https://investinglive.com/education/xlence-prepares-for-anthropic-s-anticipated-ipo/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman sees AI spending hitting $1.4 trillion by end-2027, nearly 4% of the US economy",
-      "link": "https://investinglive.com/stocks/goldman-sees-ai-spending-hitting-1-4-trillion-by-end-2027-nearly-4-of-the-us-economy/",
-      "date": "2026-11-12"
+      "title": "Trading Sphere eyes Anthropic IPO with plans for day-one CFD trading",
+      "link": "https://investinglive.com/education/trading-sphere-eyes-anthropic-ipo-with-plans-for-day-one-cfd-trading/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "NZ manufacturing PMI eases to 54.9 in October but extends expansion run to 16 months",
-      "link": "https://investinglive.com/news/nz-manufacturing-pmi-eases-to-54-9-in-october-but-extends-expansion-run-to-16-months/",
-      "date": "2026-11-12"
+      "title": "FX option expiries for 13 November 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-13-november-10am-new-york-cut/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Cerebras raises 2026 outlook, sees revenue tripling in 2027 as $26bn backlog builds",
-      "link": "https://investinglive.com/stocks/cerebras-raises-2026-outlook-sees-revenue-tripling-in-2027-as-26bn-backlog-builds/",
-      "date": "2026-11-12"
+      "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level",
+      "link": "https://investinglive.com/forex/japan-prime-minister-takaichi-fires-another-verbal-warning-as-usd-jpy-flirts-with-the-160-level/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Applied Materials beats on Q4 and guides above forecasts as chip equipment demand holds",
-      "link": "https://investinglive.com/stocks/applied-materials-beats-on-q4-and-guides-above-forecasts-as-chip-equipment-demand-holds/",
-      "date": "2026-11-12"
+      "title": "US bond market cracks resurface as higher for longer fears return to haunt Wall Street",
+      "link": "https://investinglive.com/news/us-bond-market-cracks-resurface-as-higher-for-longer-fears-return-to-haunt-wall-street/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Cisco beats and lifts FY27 view as AI revenue from hyperscalers set to more than double",
-      "link": "https://investinglive.com/stocks/cisco-beats-and-lifts-fy27-view-as-ai-revenue-from-hyperscalers-set-to-more-than-double/",
-      "date": "2026-11-12"
+      "title": "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-fed-hike-bets-ripple-through-asia/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Americas market news wrap: Jensen Huang ousted from Nvidia",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-jensen-huang-ousted-from-nvidia/",
-      "date": "2026-11-12"
+      "title": "Asian stocks steady as Nikkei gains 1.4%, Hang Seng slips on Nvidia leadership fallout",
+      "link": "https://investinglive.com/stock-market-update/asian-stocks-steady-as-nikkei-gains-1-4-hang-seng-slips-on-nvidia-leadership-fallout/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Economic and event calendar in Asia Friday, November 13, 2026 - NY Fed's Williams on the agenda",
-      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-friday-november-13-2026-ny-fed-s-williams-on-the-agenda/",
-      "date": "2026-11-12"
+      "title": "Bitcoin dipped under $70K, first time since August",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-dipped-under-70k-first-time-since-august/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trump: I would consider a week-long campaign against Cuba",
-      "link": "https://investinglive.com/news/trump-i-would-consider-a-week-long-campaign-against-cuba/",
-      "date": "2026-11-12"
+      "title": "Iran’s Guards claim strike on US radar in Bahrain, warn firms over Hormuz oil trade",
+      "link": "https://investinglive.com/commodities/iran-s-guards-claim-strike-on-us-radar-in-bahrain-warn-firms-over-hormuz-oil-trade/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil prices rise after Iran reports strikes",
-      "link": "https://investinglive.com/news/oil-prices-rise-after-iran-reports-strikes/",
-      "date": "2026-11-12"
+      "title": "Anthropic IPO six times oversubscribed: what retail investors can realistically expect",
+      "link": "https://investinglive.com/stocks/anthropic-ipo-six-times-oversubscribed-what-retail-investors-can-realistically-expect/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US October federal budget deficit sets a record",
-      "link": "https://investinglive.com/news/us-october-federal-budget-deficit-sets-a-record/",
-      "date": "2026-11-12"
+      "title": "Airlines face higher fuel bills as pre-war hedges expire and jet fuel holds near $150",
+      "link": "https://investinglive.com/commodities/airlines-face-higher-fuel-bills-as-pre-war-hedges-expire-and-jet-fuel-holds-near-150/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Fed's Daly: How much tightening and when is no a decision for right now",
-      "link": "https://investinglive.com/central-banks/fed-s-daly-how-much-tightening-and-when-is-no-a-decision-for-right-now/",
-      "date": "2026-11-12"
+      "title": "SMIC co-CEO sees 2026 revenue topping $12 billion as AI demand stretches chip upcycle",
+      "link": "https://investinglive.com/stocks/smic-co-ceo-sees-2026-revenue-topping-12-billion-as-ai-demand-stretches-chip-upcycle/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US 30-year bond auction tails as demand disappoints for second straight day",
-      "link": "https://investinglive.com/news/us-30-year-bond-auction-tails-as-demand-disappoints-for-second-straight-day/",
-      "date": "2026-11-12"
+      "title": "Gold set for $3.3bn of index fund buying in January as rebalancing flips in its favour",
+      "link": "https://investinglive.com/commodities/gold-set-for-3-3bn-of-index-fund-buying-in-january-as-rebalancing-flips-in-its-favour/",
+      "date": "2026-11-13"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold tumbles $112 as sellers break below the late-October/early-November low",
-      "link": "https://investinglive.com/commodities/gold-tumbles-112-as-sellers-break-below-the-late-october-early-november-low/",
-      "date": "2026-11-12"
+      "title": "ByteDance plans $6bn share buyback at about $400 billion valuation, up 20% in a year",
+      "link": "https://investinglive.com/stocks/bytedance-plans-6bn-share-buyback-at-about-400-billion-valuation-up-20-in-a-year/",
+      "date": "2026-11-13"
     }
   ]
 }
