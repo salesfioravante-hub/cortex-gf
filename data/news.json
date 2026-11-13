@@ -1,9 +1,16 @@
 {
-  "asof": "2026-11-12",
+  "asof": "2026-11-13",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "link": "",
+      "date": "2026-11-12"
+    },
     {
       "cur": "USD",
       "source": "Fed",
@@ -89,13 +96,6 @@
       "date": "2026-11-06"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-      "link": "",
-      "date": "2026-11-05"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "UBS sees no RBA cuts until late 2027 as AI boom fuels inflation, growth slowing to 1.4%",
+      "link": "https://investinglive.com/central-banks/ubs-sees-no-rba-cuts-until-late-2027-as-ai-boom-fuels-inflation-growth-slowing-to-1-4/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Anthropic IPO targets around $1 trillion valuation, half the $2 trillion once whispered",
+      "link": "https://investinglive.com/stocks/anthropic-ipo-targets-around-1-trillion-valuation-half-the-2-trillion-once-whispered/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Goldman sees AI spending hitting $1.4 trillion by end-2027, nearly 4% of the US economy",
+      "link": "https://investinglive.com/stocks/goldman-sees-ai-spending-hitting-1-4-trillion-by-end-2027-nearly-4-of-the-us-economy/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "NZ manufacturing PMI eases to 54.9 in October but extends expansion run to 16 months",
+      "link": "https://investinglive.com/news/nz-manufacturing-pmi-eases-to-54-9-in-october-but-extends-expansion-run-to-16-months/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Cerebras raises 2026 outlook, sees revenue tripling in 2027 as $26bn backlog builds",
+      "link": "https://investinglive.com/stocks/cerebras-raises-2026-outlook-sees-revenue-tripling-in-2027-as-26bn-backlog-builds/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Applied Materials beats on Q4 and guides above forecasts as chip equipment demand holds",
+      "link": "https://investinglive.com/stocks/applied-materials-beats-on-q4-and-guides-above-forecasts-as-chip-equipment-demand-holds/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Cisco beats and lifts FY27 view as AI revenue from hyperscalers set to more than double",
+      "link": "https://investinglive.com/stocks/cisco-beats-and-lifts-fy27-view-as-ai-revenue-from-hyperscalers-set-to-more-than-double/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas market news wrap: Jensen Huang ousted from Nvidia",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-jensen-huang-ousted-from-nvidia/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Economic and event calendar in Asia Friday, November 13, 2026 - NY Fed's Williams on the agenda",
+      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-friday-november-13-2026-ny-fed-s-williams-on-the-agenda/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump: I would consider a week-long campaign against Cuba",
+      "link": "https://investinglive.com/news/trump-i-would-consider-a-week-long-campaign-against-cuba/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Oil prices rise after Iran reports strikes",
+      "link": "https://investinglive.com/news/oil-prices-rise-after-iran-reports-strikes/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US October federal budget deficit sets a record",
+      "link": "https://investinglive.com/news/us-october-federal-budget-deficit-sets-a-record/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed's Daly: How much tightening and when is no a decision for right now",
+      "link": "https://investinglive.com/central-banks/fed-s-daly-how-much-tightening-and-when-is-no-a-decision-for-right-now/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US 30-year bond auction tails as demand disappoints for second straight day",
+      "link": "https://investinglive.com/news/us-30-year-bond-auction-tails-as-demand-disappoints-for-second-straight-day/",
+      "date": "2026-11-12"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "Gold tumbles $112 as sellers break below the late-October/early-November low",
       "link": "https://investinglive.com/commodities/gold-tumbles-112-as-sellers-break-below-the-late-october-early-november-low/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil inventories +4.657 million versus -1.109 million estimate",
-      "link": "https://investinglive.com/commodities/crude-oil-inventories-4-657-million-versus-1-109-million-estimate/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil futures trying to keep a technical ceiling in place.",
-      "link": "https://investinglive.com/commodities/crude-oil-futures-trying-to-keep-a-technical-ceiling-in-place/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Euro falls to the lowest since April 2025",
-      "link": "https://investinglive.com/forex/euro-falls-to-the-lowest-since-april-2025/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Goolsbee: Inflation has been well-above target",
-      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-inflation-has-been-well-above-target/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The US dollar moves higher as Treasury yields extend their gains",
-      "link": "https://investinglive.com/technical-analysis/the-us-dollar-moves-higher-as-treasury-yields-extend-their-gains/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "As market digest the Nvidia fallout, what has the fallout meant for the Nasdaq composite/Nasdaq 100 indices?",
-      "link": "https://investinglive.com/stocks/as-market-digest-the-nvidia-fallout-what-has-the-fallout-meant-for-the-nasdaq-composite-nasdaq-100-indices/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US October existing home sales 3.75m vs 3.85m expected",
-      "link": "https://investinglive.com/news/us-october-existing-home-sales-3-75m-vs-3-85m-expected/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Now that all the Nvidia/Jensen Huang news is out, what next for traders in Nvidia?",
-      "link": "https://investinglive.com/stocks/now-that-all-the-nvidia-jensen-huang-news-is-out-what-next-for-traders-in-nvidia/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin breaks key support. What can traders learn from the move?",
-      "link": "https://investinglive.com/education/bitcoin-breaks-key-support-what-can-traders-learn-from-the-move/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Jensen Huang ousted as CEO of Nvidia",
-      "link": "https://investinglive.com/stocks/jensen-huang-ousted-as-ceo-of-nvidia/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Hammack: We need to move to restrictive mon pol to lower inflation",
-      "link": "https://investinglive.com/central-banks/fed-s-hammack-we-need-to-move-to-restrictive-mon-pol-to-lower-inflation/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US weekly initial jobless claims 200K vs 195K expected",
-      "link": "https://investinglive.com/news/us-weekly-initial-jobless-claims-200k-vs-195k-expected/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Morning Kickstart: Yields climb as Nvidia slides below key support. USD mixed.",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-yields-climb-as-nvidia-slides-below-key-support-usd-mixed/",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Why markets sometimes ignore economic data",
-      "link": "https://investinglive.com/education/why-markets-sometimes-ignore-economic-data/",
       "date": "2026-11-12"
     }
   ]
