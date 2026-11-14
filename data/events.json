@@ -1,18 +1,18 @@
 {
-  "asof": "2026-11-13",
+  "asof": "2026-11-14",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 4 releases (EUA) — 2026-11-13 Producer Price Index; 2026-11-17 Advance Monthly Sales for Retail and Food Services; 2026-11-25 Gross Domestic Product; 2026-11-25 Personal Income and Outlays",
+    "FRED: 3 releases (EUA) — 2026-11-17 Advance Monthly Sales for Retail and Food Services; 2026-11-25 Gross Domestic Product; 2026-11-25 Personal Income and Outlays",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 2 eventos"
+    "ForexFactory: 0 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-11-13",
-      "title": "Producer Price Index",
+      "date": "2026-11-17",
+      "title": "Advance Monthly Sales for Retail and Food Services",
       "forecast": ""
     }
   }

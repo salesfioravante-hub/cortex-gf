@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-13",
+  "asof": "2026-11-14",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,6 +121,13 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-hawkish-fed-worries-ebb-after-ppi/",
+      "date": "2026-11-13"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "US stock markets slide but the selling is localized around chip names",
       "link": "https://investinglive.com/stocks/us-stock-markets-slide-but-the-selling-is-localized-around-chip-names/",
       "date": "2026-11-13"
@@ -214,13 +221,6 @@
       "source": "ForexLive",
       "title": "Crude oil jumps as escalation risks increase after Trump says the US doesn't need Iran deal",
       "link": "https://investinglive.com/commodities/crude-oil-jumps-as-escalation-risks-increase-after-trump-says-the-us-doesn-t-need-iran-deal/",
-      "date": "2026-11-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Eurozone Q3 GDP unchanged in second estimate as uneven growth clouds the outlook",
-      "link": "https://investinglive.com/news/eurozone-q3-gdp-unchanged-in-second-estimate-as-uneven-growth-clouds-the-outlook/",
       "date": "2026-11-13"
     }
   ]
