@@ -7,13 +7,33 @@
     "FRED: 3 releases (EUA) — 2026-11-17 Advance Monthly Sales for Retail and Food Services; 2026-11-25 Gross Domestic Product; 2026-11-25 Personal Income and Outlays",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 0 eventos"
+    "ForexFactory: 14 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-11-17",
-      "title": "Advance Monthly Sales for Retail and Food Services",
+      "date": "2026-11-16",
+      "title": "Fed Chairman Warsh Speaks",
       "forecast": ""
+    },
+    "CAD": {
+      "date": "2026-11-16",
+      "title": "CPI m/m",
+      "forecast": "0.3%"
+    },
+    "AUD": {
+      "date": "2026-11-16",
+      "title": "RBA Gov Bullock Speaks",
+      "forecast": ""
+    },
+    "NZD": {
+      "date": "2026-11-17",
+      "title": "Inflation Expectations q/q",
+      "forecast": ""
+    },
+    "GBP": {
+      "date": "2026-11-18",
+      "title": "CPI y/y",
+      "forecast": "3.6%"
     }
   }
 }
