@@ -5,6 +5,34 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "date": "2026-11-16"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Highlights of the Outlook for Economic Activity and Prices (October 2026)",
+      "link": "http://www.boj.or.jp/en/mopo/outlook/highlight/ten202610.htm",
+      "date": "2026-11-16"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "BOJ Current Account Balances by Sector (Oct.)",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
+      "date": "2026-11-16"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic Activity, Prices, and Monetary Policy in Japan: Japan's Money and Capital Market Transformation -- Will a Paradigm Shift Occur?)",
+      "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261116a.htm",
+      "date": "2026-11-16"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Agencies extend comment period for proposed third-party risk management guidance",
@@ -54,27 +82,6 @@
       "date": "2026-11-12"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Basic Figures on Fails (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2610.pdf",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)",
-      "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261112a.htm",
-      "date": "2026-11-12"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Bank of Japan Accounts (November 10)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261110.htm",
-      "date": "2026-11-12"
-    },
-    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
@@ -96,13 +103,6 @@
       "date": "2026-11-10"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
-      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
-      "date": "2026-11-07"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ICYMI: Fed’s Jefferson says inflation is the key signal for rates, with PCE still at 3.6%",
-      "link": "https://investinglive.com/central-banks/icymi-fed-s-jefferson-says-inflation-is-the-key-signal-for-rates-with-pce-still-at-3-6/",
+      "title": "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?",
+      "link": "https://investinglive.com/commodities/gold-threatens-a-major-breakdown-amid-a-more-hawkish-fed-what-to-watch-next/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Weekend: Bessent urges Nvidia to hire an outsider CEO, pouring cold water on a Huang comeback",
-      "link": "https://investinglive.com/stocks/weekend-bessent-urges-nvidia-to-hire-an-outsider-ceo-pouring-cold-water-on-a-huang-comeback/",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-86/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6771 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6771-reuters-estimate/",
+      "title": "Nvidia earnings could test a fragile market. Five stocks are already offering clues",
+      "link": "https://investinglive.com/stocks/nvidia-earnings-could-test-a-fragile-market-five-stocks-are-already-offering-clues/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Japan Q3 GDP shrinks 0.1% annualised vs +0.3% expected as exports and consumers weigh",
-      "link": "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/",
-      "date": "2026-11-15"
+      "title": "Global broker Elev8 introduces AI access to help clients see more of their trading data",
+      "link": "https://investinglive.com/education/global-broker-elev8-introduces-ai-access-to-help-clients-see-more-of-their-trading-data/",
+      "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US futures open firmer as Nasdaq leads, oil slips despite Iran tanker claims: 5 things",
-      "link": "https://investinglive.com/stocks/us-futures-open-firmer-as-nasdaq-leads-oil-slips-despite-iran-tanker-claims-5-things/",
-      "date": "2026-11-15"
+      "title": "investingLive Asia-Pacific market news: Chipmakers hit ahead of Nvidia",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-chipmakers-hit-ahead-of-nvidia/",
+      "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ECB bond market intervention warning from Governor Knot. Can’t replace sound fiscal policy,",
-      "link": "https://investinglive.com/central-banks/ecb-bond-market-intervention-warning-from-governor-knot-can-t-replace-sound-fiscal-policy/",
-      "date": "2026-11-15"
+      "title": "AI: Daily quotas come to DeepSeek, a visible sign of China’s AI chip crunch",
+      "link": "https://investinglive.com/stocks/ai-daily-quotas-come-to-deepseek-a-visible-sign-of-china-s-ai-chip-crunch/",
+      "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trump out of public view since Wednesday, fuelling speculation on his wherabouts",
-      "link": "https://investinglive.com/news/trump-out-of-public-view-since-wednesday-fuelling-speculation-on-hiw-wherabouts/",
-      "date": "2026-11-15"
+      "title": "BOJ’s Takata calls for nimble hikes after 1.5% bid, says neutral rate may top estimates",
+      "link": "https://investinglive.com/central-banks/boj-s-takata-calls-for-nimble-hikes-after-1-5-bid-says-neutral-rate-may-top-estimates/",
+      "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing",
-      "link": "https://investinglive.com/stocks/weekend-blackstone-s-qts-cuts-ai-data-center-debt-sale-60-as-investors-push-back-on-pricing/",
-      "date": "2026-11-15"
+      "title": "Goldman sees Brent at $78 by end-2027 as oil surplus returns, flags near-term upside risk",
+      "link": "https://investinglive.com/commodities/goldman-sees-brent-at-78-by-end-2027-as-oil-surplus-returns-flags-near-term-upside-risk/",
+      "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ICYMI - Trump extends Jones Act waiver 90 days, foreign tankers moving oil in US",
-      "link": "https://investinglive.com/commodities/icymi-trump-extends-jones-act-waiver-90-days-foreign-tankers-moving-oil-in-us/",
-      "date": "2026-11-15"
+      "title": "Records show $12bn Nvidia chips to China, US drafts licence rules on Nvidia chip exports",
+      "link": "https://investinglive.com/stocks/records-show-12bn-nvidia-chips-to-china-us-drafts-licence-rules-on-nvidia-chip-exports/",
+      "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Iran says supertanker with 2 million barrels sank after Hormuz mine strike, unconfirmed",
-      "link": "https://investinglive.com/commodities/iran-says-supertanker-with-2-million-barrels-sank-after-hormuz-mine-strike-unconfirmed/",
-      "date": "2026-11-15"
+      "title": "China factory output slows to 4.8% in October, retail sales up just 0.4% as demand sags",
+      "link": "https://investinglive.com/news/china-factory-output-slows-to-4-8-in-october-retail-sales-up-just-0-4-as-demand-sags/",
+      "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ECB’s Nagel says another rate hike ‘highly probable’ as energy prices push inflation",
-      "link": "https://investinglive.com/central-banks/ecb-s-nagel-says-another-rate-hike-highly-probable-as-energy-prices-push-inflation/",
-      "date": "2026-11-15"
+      "title": "Japan economy shrinks 0.1% in Q3, first fall in 4 quarters as inflation hits households",
+      "link": "https://investinglive.com/news/japan-economy-shrinks-0-1-in-q3-first-fall-in-4-quarters-as-inflation-hits-households/",
+      "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "New Zealand services PSI hits 3.5-year high at 51.7, fifth straight month of growth",
-      "link": "https://investinglive.com/news/new-zealand-services-psi-hits-3-5-year-high-at-51-7-fifth-straight-month-of-growth/",
-      "date": "2026-11-15"
+      "title": "China’s October data shows the economy losing momentum on retail sales and industry output",
+      "link": "https://investinglive.com/news/china-s-october-data-shows-the-economy-losing-momentum-on-retail-sales-and-industry-output/",
+      "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Weekend Fed speak: Collins backs steady, gradual rate hikes, cool on a bigger December move",
-      "link": "https://investinglive.com/central-banks/weekend-fed-speak-collins-backs-steady-gradual-rate-hikes-cool-on-a-bigger-december-move/",
-      "date": "2026-11-15"
+      "title": "Morgan Stanley goes max overweight global stocks, sees 15% S&P 500 upside on AI capex",
+      "link": "https://investinglive.com/stocks/morgan-stanley-goes-max-overweight-global-stocks-sees-15-s-p-500-upside-on-ai-capex/",
+      "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Sunday Fed talk: Schmid says inflation would still be near 3% without energy, Fed has work to do",
-      "link": "https://investinglive.com/central-banks/sunday-fed-talk-schmid-says-inflation-would-still-be-near-3-without-energy-fed-has-work-to-do/",
-      "date": "2026-11-15"
+      "title": "Oil price analysis: Sellers are losing momentum, but $86.75 remains the danger line",
+      "link": "https://investinglive.com/commodities/oil-price-analysis-sellers-are-losing-momentum-but-86-75-remains-the-danger-line/",
+      "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Jensen Huang weighs Nvidia comeback days after quitting over scandal, FT reports",
-      "link": "https://investinglive.com/stocks/jensen-huang-weighs-nvidia-comeback-days-after-quitting-over-scandal-ft-reports/",
-      "date": "2026-11-15"
+      "title": "Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion",
+      "link": "https://investinglive.com/cryptocurrency/weekend-bitcoin-fell-to-four-month-low-near-62-000-as-crypto-liquidations-top-2-billion/",
+      "date": "2026-11-16"
     }
   ]
 }
