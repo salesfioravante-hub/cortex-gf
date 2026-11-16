@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-15",
+  "asof": "2026-11-16",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nvida stock analysis before its earnings",
-      "link": "https://investinglive.com/stocks/nvida-stock-analysis-before-its-earnings/",
+      "title": "ICYMI: Fed’s Jefferson says inflation is the key signal for rates, with PCE still at 3.6%",
+      "link": "https://investinglive.com/central-banks/icymi-fed-s-jefferson-says-inflation-is-the-key-signal-for-rates-with-pce-still-at-3-6/",
+      "date": "2026-11-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Weekend: Bessent urges Nvidia to hire an outsider CEO, pouring cold water on a Huang comeback",
+      "link": "https://investinglive.com/stocks/weekend-bessent-urges-nvidia-to-hire-an-outsider-ceo-pouring-cold-water-on-a-huang-comeback/",
+      "date": "2026-11-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6771 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6771-reuters-estimate/",
+      "date": "2026-11-16"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan Q3 GDP shrinks 0.1% annualised vs +0.3% expected as exports and consumers weigh",
+      "link": "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/",
       "date": "2026-11-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold futures rose Friday, but the rally failed. What I’m watching next week",
-      "link": "https://investinglive.com/commodities/gold-futures-rose-friday-but-the-rally-failed-what-i-m-watching-next-week/",
-      "date": "2026-11-14"
+      "title": "US futures open firmer as Nasdaq leads, oil slips despite Iran tanker claims: 5 things",
+      "link": "https://investinglive.com/stocks/us-futures-open-firmer-as-nasdaq-leads-oil-slips-despite-iran-tanker-claims-5-things/",
+      "date": "2026-11-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-hawkish-fed-worries-ebb-after-ppi/",
-      "date": "2026-11-13"
+      "title": "ECB bond market intervention warning from Governor Knot. Can’t replace sound fiscal policy,",
+      "link": "https://investinglive.com/central-banks/ecb-bond-market-intervention-warning-from-governor-knot-can-t-replace-sound-fiscal-policy/",
+      "date": "2026-11-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US stock markets slide but the selling is localized around chip names",
-      "link": "https://investinglive.com/stocks/us-stock-markets-slide-but-the-selling-is-localized-around-chip-names/",
-      "date": "2026-11-13"
+      "title": "Trump out of public view since Wednesday, fuelling speculation on his wherabouts",
+      "link": "https://investinglive.com/news/trump-out-of-public-view-since-wednesday-fuelling-speculation-on-hiw-wherabouts/",
+      "date": "2026-11-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The US consumer may be hitting a wall. A look at eight indicators",
-      "link": "https://investinglive.com/news/the-us-consumer-may-be-hitting-a-wall-a-look-at-eight-indicators/",
-      "date": "2026-11-13"
+      "title": "Weekend - Blackstone’s QTS cuts AI data center debt sale 60% as investors push back on pricing",
+      "link": "https://investinglive.com/stocks/weekend-blackstone-s-qts-cuts-ai-data-center-debt-sale-60-as-investors-push-back-on-pricing/",
+      "date": "2026-11-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Fed's Daly: In all likelihood, we need to raise rates",
-      "link": "https://investinglive.com/central-banks/fed-s-daly-in-all-likelihood-we-need-to-raise-rates/",
-      "date": "2026-11-13"
+      "title": "ICYMI - Trump extends Jones Act waiver 90 days, foreign tankers moving oil in US",
+      "link": "https://investinglive.com/commodities/icymi-trump-extends-jones-act-waiver-90-days-foreign-tankers-moving-oil-in-us/",
+      "date": "2026-11-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Fed's Collins: I would think some additional policy tightening is warranted soon",
-      "link": "https://investinglive.com/central-banks/fed-s-collins-i-would-think-some-additional-policy-tightening-is-warranted-soon/",
-      "date": "2026-11-13"
+      "title": "Iran says supertanker with 2 million barrels sank after Hormuz mine strike, unconfirmed",
+      "link": "https://investinglive.com/commodities/iran-says-supertanker-with-2-million-barrels-sank-after-hormuz-mine-strike-unconfirmed/",
+      "date": "2026-11-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Earnings week ahead: Nvidia without Jensen, Anthropic’s IPO, and the consumer meets a hiking Fed",
-      "link": "https://investinglive.com/news/earnings-week-ahead-nvidia-without-jensen-anthropic-s-ipo-and-the-consumer-meets-a-hiking-fed/",
-      "date": "2026-11-13"
+      "title": "ECB’s Nagel says another rate hike ‘highly probable’ as energy prices push inflation",
+      "link": "https://investinglive.com/central-banks/ecb-s-nagel-says-another-rate-hike-highly-probable-as-energy-prices-push-inflation/",
+      "date": "2026-11-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman Sachs: We can explain almost the entire US inflation overshoot by tariffs and the war in Iran",
-      "link": "https://investinglive.com/central-banks/goldman-sachs-we-can-explain-almost-the-entire-us-inflation-overshoot-by-tariffs-and-the-war-in-iran/",
-      "date": "2026-11-13"
+      "title": "New Zealand services PSI hits 3.5-year high at 51.7, fifth straight month of growth",
+      "link": "https://investinglive.com/news/new-zealand-services-psi-hits-3-5-year-high-at-51-7-fifth-straight-month-of-growth/",
+      "date": "2026-11-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Fed's Goolsbee: We're not on the way to 2% inflation and we have to deal with that",
-      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-we-re-not-on-the-way-to-2-inflation-and-we-have-to-deal-with-that/",
-      "date": "2026-11-13"
+      "title": "Weekend Fed speak: Collins backs steady, gradual rate hikes, cool on a bigger December move",
+      "link": "https://investinglive.com/central-banks/weekend-fed-speak-collins-backs-steady-gradual-rate-hikes-cool-on-a-bigger-december-move/",
+      "date": "2026-11-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US October PPI +6.5% vs +6.6% expected",
-      "link": "https://investinglive.com/news/us-october-ppi-6-5-vs-6-6-expected/",
-      "date": "2026-11-13"
+      "title": "Sunday Fed talk: Schmid says inflation would still be near 3% without energy, Fed has work to do",
+      "link": "https://investinglive.com/central-banks/sunday-fed-talk-schmid-says-inflation-would-still-be-near-3-without-energy-fed-has-work-to-do/",
+      "date": "2026-11-15"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
-      "link": "https://investinglive.com/stocks/nasdaq-s-suckers-rally-is-approaching-a-key-resistance-amid-hawkish-fed-bets-us-iran-tensions/",
-      "date": "2026-11-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive European session wrap: Wall Street eyes a rebound but rising Treasury yields keep traders on edge",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-wall-street-eyes-a-rebound-but-rising-treasury-yields-keep-traders-on-edge/",
-      "date": "2026-11-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "How have interest rate expectations changed after this week's events?",
-      "link": "https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-8/",
-      "date": "2026-11-13"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Wall Street steadies despite Nvidia drama but dip buyers are still walking a tight rope",
-      "link": "https://investinglive.com/stocks/wall-street-steadies-despite-nvidia-drama-but-dip-buyers-are-still-walking-a-tight-rope/",
-      "date": "2026-11-13"
+      "title": "Jensen Huang weighs Nvidia comeback days after quitting over scandal, FT reports",
+      "link": "https://investinglive.com/stocks/jensen-huang-weighs-nvidia-comeback-days-after-quitting-over-scandal-ft-reports/",
+      "date": "2026-11-15"
     }
   ]
 }
