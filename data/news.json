@@ -7,6 +7,13 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "Frank Elderson: Smart supervision for small banks",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+      "date": "2026-11-16"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
       "date": "2026-11-16"
@@ -89,13 +96,6 @@
       "date": "2026-11-10"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
-      "date": "2026-11-10"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?",
-      "link": "https://investinglive.com/commodities/gold-threatens-a-major-breakdown-amid-a-more-hawkish-fed-what-to-watch-next/",
+      "title": "Hammack: Economy can handle more restriction, unclear how far Fed has to go",
+      "link": "https://investinglive.com/central-banks/hammack-economy-can-handle-more-restriction-unclear-how-far-fed-has-to-go/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-86/",
+      "title": "US banking websites are having problems",
+      "link": "https://investinglive.com/news/us-banking-websites-are-having-problems/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nvidia earnings could test a fragile market. Five stocks are already offering clues",
-      "link": "https://investinglive.com/stocks/nvidia-earnings-could-test-a-fragile-market-five-stocks-are-already-offering-clues/",
+      "title": "Natural gas analysis with the \"perfect\" trading range",
+      "link": "https://investinglive.com/commodities/natural-gas-analysis-with-the-perfect-trading-range/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Global broker Elev8 introduces AI access to help clients see more of their trading data",
-      "link": "https://investinglive.com/education/global-broker-elev8-introduces-ai-access-to-help-clients-see-more-of-their-trading-data/",
+      "title": "Fed’s Warsh doesn’t talk about monetary policy in a speech on AI",
+      "link": "https://investinglive.com/central-banks/fed-s-warsh-doesn-t-talk-about-monetary-policy-in-a-speech-on-ai/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Chipmakers hit ahead of Nvidia",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-chipmakers-hit-ahead-of-nvidia/",
+      "title": "Tiff Macklem should have been fired, not celebrated",
+      "link": "https://investinglive.com/central-banks/tiff-macklem-to-retire-he-will-be-remembered-for-the-worst-forward-guidance-in-central-bank-history/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "AI: Daily quotas come to DeepSeek, a visible sign of China’s AI chip crunch",
-      "link": "https://investinglive.com/stocks/ai-daily-quotas-come-to-deepseek-a-visible-sign-of-china-s-ai-chip-crunch/",
+      "title": "Forget the petro-dollar, introducing the chip-dollar",
+      "link": "https://investinglive.com/forex/forget-the-petro-dollar-introducing-the-chip-dollar/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BOJ’s Takata calls for nimble hikes after 1.5% bid, says neutral rate may top estimates",
-      "link": "https://investinglive.com/central-banks/boj-s-takata-calls-for-nimble-hikes-after-1-5-bid-says-neutral-rate-may-top-estimates/",
+      "title": "Trump says he wouldn’t mind seeing Huang reinstated as Nvidia CEO",
+      "link": "https://investinglive.com/stocks/trump-says-he-wouldn-t-mind-seeing-huang-reinstated-as-nvidia-ceo/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman sees Brent at $78 by end-2027 as oil surplus returns, flags near-term upside risk",
-      "link": "https://investinglive.com/commodities/goldman-sees-brent-at-78-by-end-2027-as-oil-surplus-returns-flags-near-term-upside-risk/",
+      "title": "Goldman Sachs gets bearish on oil prices but doesn't see help for consumers",
+      "link": "https://investinglive.com/commodities/goldman-sachs-gets-bearish-on-oil-prices-but-doesn-t-see-help-for-consumers/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Records show $12bn Nvidia chips to China, US drafts licence rules on Nvidia chip exports",
-      "link": "https://investinglive.com/stocks/records-show-12bn-nvidia-chips-to-china-us-drafts-licence-rules-on-nvidia-chip-exports/",
+      "title": "Canada October CPI 3.1% vs +3.2% expected",
+      "link": "https://investinglive.com/news/canada-october-cpi-3-1-vs-3-2-expected/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China factory output slows to 4.8% in October, retail sales up just 0.4% as demand sags",
-      "link": "https://investinglive.com/news/china-factory-output-slows-to-4-8-in-october-retail-sales-up-just-0-4-as-demand-sags/",
+      "title": "US November Empire Manufacturing index +7.80 vs +18.00 expected",
+      "link": "https://investinglive.com/news/us-november-empire-manufacturing-index-7-80-vs-18-00-expected/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Japan economy shrinks 0.1% in Q3, first fall in 4 quarters as inflation hits households",
-      "link": "https://investinglive.com/news/japan-economy-shrinks-0-1-in-q3-first-fall-in-4-quarters-as-inflation-hits-households/",
+      "title": "investingLive European news wrap: Risk sentiment remains negative",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-remains-negative/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China’s October data shows the economy losing momentum on retail sales and industry output",
-      "link": "https://investinglive.com/news/china-s-october-data-shows-the-economy-losing-momentum-on-retail-sales-and-industry-output/",
+      "title": "Why the AI trade is a macro trade: the risks to the US economy",
+      "link": "https://investinglive.com/education/why-the-ai-trade-is-a-macro-trade-the-risks-to-the-us-economy/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Morgan Stanley goes max overweight global stocks, sees 15% S&P 500 upside on AI capex",
-      "link": "https://investinglive.com/stocks/morgan-stanley-goes-max-overweight-global-stocks-sees-15-s-p-500-upside-on-ai-capex/",
+      "title": "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend",
+      "link": "https://investinglive.com/cryptocurrency/zcash-needs-a-dovish-fed-or-a-us-iran-breakthrough-to-reverse-the-bearish-trend/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil price analysis: Sellers are losing momentum, but $86.75 remains the danger line",
-      "link": "https://investinglive.com/commodities/oil-price-analysis-sellers-are-losing-momentum-but-86-75-remains-the-danger-line/",
+      "title": "FX option expiries for 16 November 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-16-november-10am-new-york-cut/",
       "date": "2026-11-16"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion",
-      "link": "https://investinglive.com/cryptocurrency/weekend-bitcoin-fell-to-four-month-low-near-62-000-as-crypto-liquidations-top-2-billion/",
+      "title": "Crude oil remains supported amid the prolonged US-Iran standoff and risks of military escalation",
+      "link": "https://investinglive.com/commodities/crude-oil-remains-supported-amid-the-prolonged-us-iran-standoff-and-risks-of-military-escalation/",
       "date": "2026-11-16"
     }
   ]
