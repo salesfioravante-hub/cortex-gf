@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-17",
+  "asof": "2026-11-18",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "SEC reportedly probes Nvidia disclosures as Bessent demands answers within 10 days",
-      "link": "https://investinglive.com/stocks/sec-reportedly-probes-nvidia-disclosures-as-bessent-demands-answers-within-10-days/",
+      "title": "Recap: Australian wages grow at fastest pace in nearly 3 years, yet swaps see a 75% RBA peak",
+      "link": "https://investinglive.com/news/recap-australian-wages-grow-at-fastest-pace-in-nearly-3-years-yet-swaps-see-a-75-rba-peak/",
+      "date": "2026-11-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold’s worst enemy right now is a 5% Treasury yield, not the headlines from the Middle East",
+      "link": "https://investinglive.com/commodities/gold-s-worst-enemy-right-now-is-a-5-treasury-yield-not-the-headlines-from-the-middle-east/",
+      "date": "2026-11-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "TSMC reportedly demands cash up front from AI chip clients amid circular financing fears",
+      "link": "https://investinglive.com/news/tsmc-reportedly-demands-cash-up-front-from-ai-chip-clients-amid-circular-financing-fears/",
+      "date": "2026-11-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Morgan Stanley sees USD/JPY fair value above 170, forecasts yen at 162 by late 2027",
+      "link": "https://investinglive.com/forex/morgan-stanley-sees-usd-jpy-fair-value-above-170-forecasts-yen-at-162-by-late-2027/",
+      "date": "2026-11-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Recap: Japan exports hit record ¥11.8 trillion as AI chip demand extends run to 14 months",
+      "link": "https://investinglive.com/news/recap-japan-exports-hit-record-11-8-trillion-as-ai-chip-demand-extends-run-to-14-months/",
+      "date": "2026-11-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Ueda keeps December hike in play as BOJ wants inflation anchored around 2%",
+      "link": "https://investinglive.com/central-banks/ueda-keeps-december-hike-in-play-as-boj-wants-inflation-anchored-around-2/",
+      "date": "2026-11-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC sets USD/ CNY mid-point today at 6.7118 (vs. estimate at 6.6654)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7118-vs-estimate-at-6-6654/",
+      "date": "2026-11-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Onchain investors bought Nvidia’s Huang sell-off: tokenized supply up 121% in a week",
+      "link": "https://investinglive.com/cryptocurrency/onchain-investors-bought-nvidia-s-huang-sell-off-tokenized-supply-up-121-in-a-week/",
+      "date": "2026-11-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Australian wages jump 1.1%, strongest since 2023, but real pay falls for a fourth quarter",
+      "link": "https://investinglive.com/central-banks/australian-wages-beat-at-1-1-as-award-rise-hands-rba-hawks-a-fresh-argument/",
+      "date": "2026-11-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6654 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-reuters-estimate-9/",
+      "date": "2026-11-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan’s trade deficit comes in at half the expected size as exports jump 20.5%",
+      "link": "https://investinglive.com/news/japan-s-trade-deficit-comes-in-at-half-the-expected-size-as-exports-jump-20-5/",
+      "date": "2026-11-18"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Back to the future! Nvidia earnings/forecast lifts Nasdaq futures 1.3%",
+      "link": "https://investinglive.com/stocks/back-to-the-future-nvidia-earnings-forecast-lifts-nasdaq-futures-1-3/",
       "date": "2026-11-17"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nvidia hands three directors export control oversight days after Huang exit",
-      "link": "https://investinglive.com/stocks/nvidia-hands-three-directors-export-control-oversight-days-after-huang-exit/",
+      "title": "Supplier, lender, shareholder: how Nvidia became the \"Bank of AI\"",
+      "link": "https://investinglive.com/education/supplier-lender-shareholder-how-nvidia-became-the-bank-of-ai/",
       "date": "2026-11-17"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nvidia (price up) tops forecasts by $7 billion as Kress steers first report since Huang exit",
-      "link": "https://investinglive.com/stocks/nvidia-price-up-tops-forecasts-by-7-billion-as-kress-steers-first-report-since-huang-exit/",
+      "title": "Nvidia’s missing 10-Q: three reasons to be alert, not alarmed",
+      "link": "https://investinglive.com/stocks/nvidia-s-missing-10-q-three-reasons-to-be-alert-not-alarmed/",
       "date": "2026-11-17"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US stocks fall; Dow stocks are the hardest hit with a drop of 1.65%",
-      "link": "https://investinglive.com/stocks/us-stocks-fall-dow-stocks-are-the-hardest-hit-with-a-drop-of-1-65/",
-      "date": "2026-11-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "investingLive Americas market news wrap: US retail sales continue to show resilience",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-us-retail-sales-continue-to-show-resilience/",
-      "date": "2026-11-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Economic and event calendar in Asia 18 November 2026.",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-18-november-2026/",
-      "date": "2026-11-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USDCAD bounces off the 100 hour MA. Buyers remain in control.",
-      "link": "https://investinglive.com/technical-analysis/usdcad-bounces-off-the-100-hour-ma-buyers-remain-in-control/",
-      "date": "2026-11-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Williams: The economy is getting stronger, inflation not moving in the right direction",
-      "link": "https://investinglive.com/central-banks/fed-s-williams-the-economy-is-getting-stronger-inflation-not-moving-in-the-right-direction/",
-      "date": "2026-11-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Why Warren Buffet and Berkshire Hathaway keep going back to airlines",
-      "link": "https://investinglive.com/education/why-warren-buffet-and-berkshire-hathaway-keep-going-back-to-airlines/",
-      "date": "2026-11-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Nvidia earnings after the close. The price is testing a key downside target. What are the key levels for traders?",
-      "link": "https://investinglive.com/stocks/nvidia-earnings-are-to-be-released-after-the-close-the-price-is-testing-a-key-downside-target/",
-      "date": "2026-11-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Flight to safety concerns from continued cyber issues send stocks lower, yields lower, gold higher, JPY and CHF up",
-      "link": "https://investinglive.com/technical-analysis/flight-to-safety-concerns-from-continued-cyber-issues-send-stocks-lower-yields-lower-gold-higher-jpy-and-chf-up/",
-      "date": "2026-11-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Jensen Huang says open to return as CEO if board allows",
-      "link": "https://investinglive.com/stocks/jensen-huang-says-open-to-return-as-ceo-if-board-allows/",
-      "date": "2026-11-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "It's getting tough to believe all these internet outages are a coincidence",
-      "link": "https://investinglive.com/news/it-s-getting-tough-to-believe-all-these-internet-outages-are-a-coincidence/",
-      "date": "2026-11-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Nasdaq stretching toward the swing area and 50% retracement targets.  Key support being tested.",
-      "link": "https://investinglive.com/stocks/nasdaq-stretching-toward-the-swing-area-and-50-retracement-targets-key-support-being-tested/",
-      "date": "2026-11-17"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US Sept business inventories +0.5% vs +0.4% prior",
-      "link": "https://investinglive.com/news/us-sept-business-inventories-vs-0-4-prior/",
+      "title": "Nvidia sees 75% revenue growth next year as Kress points to $2.5 trillion backlog",
+      "link": "https://investinglive.com/stocks/nvidia-sees-75-revenue-growth-next-year-as-kress-points-to-2-5-trillion-backlog/",
       "date": "2026-11-17"
     }
   ]

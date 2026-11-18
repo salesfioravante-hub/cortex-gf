@@ -1,23 +1,18 @@
 {
-  "asof": "2026-11-17",
+  "asof": "2026-11-18",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 4 releases (EUA) — 2026-11-17 Advance Monthly Sales for Retail and Food Services; 2026-11-25 Gross Domestic Product; 2026-11-25 Personal Income and Outlays; 2026-12-01 Job Openings and Labor Turnover Survey",
+    "FRED: 4 releases (EUA) — 2026-11-25 Gross Domestic Product; 2026-11-25 Personal Income and Outlays; 2026-12-01 Job Openings and Labor Turnover Survey; 2026-12-02 Gross Domestic Product by County",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 8 eventos"
+    "ForexFactory: 5 eventos"
   ],
   "byCurrency": {
     "USD": {
-      "date": "2026-11-17",
-      "title": "Advance Monthly Sales for Retail and Food Services",
-      "forecast": ""
-    },
-    "NZD": {
-      "date": "2026-11-17",
-      "title": "Inflation Expectations q/q",
+      "date": "2026-11-18",
+      "title": "FOMC Meeting Minutes",
       "forecast": ""
     },
     "GBP": {
