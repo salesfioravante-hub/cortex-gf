@@ -1,9 +1,16 @@
 {
-  "asof": "2026-11-18",
+  "asof": "2026-11-19",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Statement by Governor UEDA concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee on Financial Affairs, Senate)",
+      "link": "http://www.boj.or.jp/en/mopo/diet/d_state/dst261119a.htm",
+      "date": "2026-11-19"
+    },
     {
       "cur": "USD",
       "source": "Fed",
@@ -61,13 +68,6 @@
       "date": "2026-11-16"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic Activity, Prices, and Monetary Policy in Japan: Japan's Money and Capital Market Transformation -- Will a Paradigm Shift Occur?)",
-      "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261116a.htm",
-      "date": "2026-11-16"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Agencies extend comment period for proposed third-party risk management guidance",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Australia jobs preview. Employment expected to rebound after September’s drop. What technical levels are in play?",
-      "link": "https://investinglive.com/news/australia-jobs-preview-employment-expected-to-rebound-after-september-s-drop-what-technical-levels-are-in-play/",
-      "date": "2026-11-18"
+      "title": "Nvidia chair tells staff there is no Jensen clone, as leaders pledge strategy continuity",
+      "link": "https://investinglive.com/stocks/nvidia-chair-tells-staff-there-is-no-jensen-clone-as-leaders-pledge-strategy-continuity/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "NZDUSD sellers stay in control as price nears the 0.54808 floor",
-      "link": "https://investinglive.com/technical-analysis/nzdusd-sellers-stay-in-control-as-price-nears-the-0-54808-floor/",
-      "date": "2026-11-18"
+      "title": "Japan’s AI stocks lose their premium as three threats emerge after Nvidia’s CEO exit",
+      "link": "https://investinglive.com/stock-market-update/japan-s-ai-stocks-lose-their-premium-as-three-threats-emerge-after-nvidia-s-ceo-exit/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FOMC Minutes: A couple of participants noted a hike of more than 25 bps could warrant consideration in December",
-      "link": "https://investinglive.com/central-banks/fomc-minutes-a-couple-of-participants-noted-a-hike-of-more-than-25-bps-could-warrant-consideration-in-december/",
-      "date": "2026-11-18"
+      "title": "Lava CEO says bitcoin sellers are spent, but whale exchange flows point the other way",
+      "link": "https://investinglive.com/cryptocurrency/lava-ceo-says-bitcoin-sellers-are-spent-but-whale-exchange-flows-point-the-other-way/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Fed's Barr supports further rate hikes as inflation remains too high",
-      "link": "https://investinglive.com/central-banks/fed-s-barr-supports-further-rate-hikes-as-inflation-remains-too-high/",
-      "date": "2026-11-18"
+      "title": "More from Ueda: real rates still low, and BOJ finances can withstand further hikes",
+      "link": "https://investinglive.com/central-banks/more-from-ueda-real-rates-still-low-and-boj-finances-can-withstand-further-hikes/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The market's verdict on Nvidia earnings is a problem for the AI boom trade",
-      "link": "https://investinglive.com/stocks/the-market-s-verdict-on-nvidia-earnings-is-a-problem-for-the-ai-boom-trade/",
-      "date": "2026-11-18"
+      "title": "Musk says Anthropic wants another 10 gigawatts of SpaceX compute, over 30 times its deal  Alt headlines:",
+      "link": "https://investinglive.com/stocks/musk-says-anthropic-wants-another-10-gigawatts-of-spacex-compute-over-30-times-its-deal-alt-headlines/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The US Treasury auctions $16B of 20 year bonds at a high year at 5.459%",
-      "link": "https://investinglive.com/news/the-us-treasury-auctions-16b-of-20-year-bonds-at-a-high-year-at-5-495/",
-      "date": "2026-11-18"
+      "title": "BOJ’s Ueda expects to keep raising rates, warning inflation could overshoot 2% target",
+      "link": "https://investinglive.com/central-banks/boj-s-ueda-expects-to-keep-raising-rates-warning-inflation-could-overshoot-2-target/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BoC’s Gravelle says policy scenarios help build credibility",
-      "link": "https://investinglive.com/central-banks/boc-s-gravelle-says-policy-scenarios-help-build-credibility/",
-      "date": "2026-11-18"
+      "title": "BlackRock says bitcoin’s fading link to stocks strengthens the case for allocation",
+      "link": "https://investinglive.com/cryptocurrency/blackrock-says-bitcoin-s-fading-link-to-stocks-strengthens-the-case-for-allocation/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Fed’s Daly says inflation has been too high for too long as consumer spending holds up",
-      "link": "https://investinglive.com/central-banks/fed-s-daly-says-inflation-has-been-too-high-for-too-long-as-consumer-spending-holds-up/",
-      "date": "2026-11-18"
+      "title": "Musk says Tesla will build a Model Y with no steering wheel or pedals, but gives no date",
+      "link": "https://investinglive.com/stocks/musk-says-tesla-will-build-a-model-y-with-no-steering-wheel-or-pedals-but-gives-no-date/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "USDCAD trades to the highest level for the year and going back to April 2025",
-      "link": "https://investinglive.com/technical-analysis/usdcad-trades-to-the-highest-level-for-the-year-and-going-back-to-april-2025/",
-      "date": "2026-11-18"
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7128 (vs. estimate at 6.6684)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7128-vs-estimate-at-6-6684/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Crude oil is trading lower after yesterday's run to the upside found willing sellers. What next?",
-      "link": "https://investinglive.com/commodities/crude-oil-is-trading-lower-after-yesterday-s-run-to-the-upside-found-willing-sellers-what-next/",
-      "date": "2026-11-18"
+      "title": "Australian unemployment jumps to 4.9% as jobs fall 43,500, taking RBA hikes off the table",
+      "link": "https://investinglive.com/central-banks/australian-unemployment-jumps-to-4-9-as-jobs-fall-43-500-taking-rba-hikes-off-the-table/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US weekly crude oil inventories +3380K vs +58K expected",
-      "link": "https://investinglive.com/commodities/us-weekly-crude-oil-inventories-vs-58k-expected/",
-      "date": "2026-11-18"
+      "title": "Australian unemployment rate jumps to 4.9% in October, against 4.7% expected",
+      "link": "https://investinglive.com/news/australian-unemployment-rate-jumps-to-4-9-in-october-against-4-7-expected/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The broader NASDAQ indices open higher but move into negative territory. Nvidia also gives early gains after earnings beat",
-      "link": "https://investinglive.com/stocks/the-broader-nasdaq-indices-open-higher-but-move-into-negative-territory-nvidia-also-gives-early-gains-after-earnings-beat/",
-      "date": "2026-11-18"
+      "title": "Four Fed officials push for more hikes as Waller floats 50bp to break 3% inflation mindset",
+      "link": "https://investinglive.com/central-banks/four-fed-officials-push-for-more-hikes-as-waller-floats-50bp-to-break-3-inflation-mindset/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US October pending home sales -4.7% vs -2.0% expected",
-      "link": "https://investinglive.com/news/us-october-pending-home-sales-4-7-vs-2-0-expected/",
-      "date": "2026-11-18"
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6684 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6684-reuters-estimate/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "As Bitcoin consolidates, the technical resistance gets closer and closer to the price. What next?",
-      "link": "https://investinglive.com/cryptocurrency/as-bitcoin-consolidates-the-technical-resistance-gets-closer-and-closer-to-the-price-what-next/",
-      "date": "2026-11-18"
+      "title": "Japan machinery orders up 13.4% y/y: what this early capex signal tells you",
+      "link": "https://investinglive.com/education/japan-machinery-orders-up-13-4-y-y-what-this-early-capex-signal-tells-you/",
+      "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Macro signals from today's earnings: Target, TJX and Lowe’s",
-      "link": "https://investinglive.com/stocks/macro-signals-from-today-s-earnings-target-tjx-and-lowe-s/",
+      "title": "Anthropic confirms $83 IPO price on 980 million shares in an $81 billion deal",
+      "link": "https://investinglive.com/stocks/anthropic-confirms-83-ipo-price-on-980-million-shares-in-an-81-billion-deal/",
       "date": "2026-11-18"
     }
   ]
