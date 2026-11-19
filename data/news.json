@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "link": "",
+      "date": "2026-11-19"
+    },
+    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Cyber resilience guidance consultation and AI and quantum effective practices",
@@ -103,13 +110,6 @@
       "date": "2026-11-12"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "link": "",
-      "date": "2026-11-12"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ActivTrades Relaunches ActivPartner: A Partner Programme Built Around Each Partner's Business",
-      "link": "https://investinglive.com/education/activtrades-relaunches-activpartner-a-partner-programme-built-around-each-partner-s-business/",
+      "title": "Fed’s Goolsbee says he sees no clear path back to 2% inflation",
+      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-says-he-sees-no-clear-path-back-to-2-inflation/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Solana's downtrend remains intact despite easing selling pressure. What could change the picture?",
-      "link": "https://investinglive.com/cryptocurrency/solana-s-downtrend-remains-intact-despite-easing-selling-pressure-what-could-change-the-picture/",
+      "title": "AUDUSD moves to a new low.   Price action is ping ponging down and up and back down again.",
+      "link": "https://investinglive.com/technical-analysis/audusd-moves-to-a-new-low/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Crude oil extends losses amid growth concerns but risk of US strikes keeps the downside limited",
-      "link": "https://investinglive.com/commodities/crude-oil-extends-losses-amid-growth-concerns-but-risk-of-us-strikes-keeps-the-downside-limited/",
+      "title": "No relief for US stocks. Major indices trade to new lows",
+      "link": "https://investinglive.com/stocks/no-relief-for-us-stocks-major-indices-trade-to-new-lows/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Ethereum consolidates around recent lows as the bearish momentum wanes amid lack of catalysts",
-      "link": "https://investinglive.com/cryptocurrency/ethereum-consolidates-around-recent-lows-as-the-bearish-momentum-wanes-amid-lack-of-catalysts/",
+      "title": "Canada seeks interim U.S. tariff deal by year-end, CBC reports",
+      "link": "https://investinglive.com/news/canada-seeks-interim-u-s-tariff-deal-by-year-end-cbc-reports/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold's selloff may be nearing exhaustion as growth concerns challenge hawkish expectations",
-      "link": "https://investinglive.com/commodities/gold-s-selloff-may-be-nearing-exhaustion-as-growth-concerns-challenge-hawkish-expectations/",
+      "title": "GBPUSD breaks to a new 2026 low. The daily chart shows room to the downside.",
+      "link": "https://investinglive.com/technical-analysis/gbpusd-breaks-to-a-new-2026-low-the-daily-chart-shows-room-to-the-downside/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 19 November 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-19-november-10am-new-york-cut/",
+      "title": "Trump weighs another strike on Iran as Hormuz shipping risks mount. Returns to Washington after overseas trip.",
+      "link": "https://investinglive.com/news/trump-weighs-another-strike-on-iran-as-hormuz-shipping-risks-mount-returns-to-washington-after-overseas-trip/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-89/",
+      "title": "Fed's Goolsbee: Job market is stable, but inflation is \"way higher\" than Fed's 2% target",
+      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-job-market-is-stable-but-inflation-is-way-higher-than-fed-s-2-target/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount,",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-92-as-gulf-attacks-mount/",
+      "title": "US stocks race lower.  There is some market indigestion from the Anthropic IPO",
+      "link": "https://investinglive.com/stocks/us-stocks-race-lower-there-is-some-market-indigestion-from-the-anthropic-ipo/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "GTA VI lifts Sony shares as PlayStation takes three-quarters of 17 million sales",
-      "link": "https://investinglive.com/stocks/gta-vi-lifts-sony-shares-as-playstation-takes-three-quarters-of-17-million-sales/",
+      "title": "European stocks close lower. Anthropic opens 34% above its IPO price.",
+      "link": "https://investinglive.com/stocks/european-stocks-close-lower-anthropic-opens-34-above-its-ipo-price/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman cuts KOSPI target to 7,500 but says gloom is overdone, sees 48% upside",
-      "link": "https://investinglive.com/stock-market-update/goldman-cuts-kospi-target-to-7-500-but-says-gloom-is-overdone-sees-48-upside/",
+      "title": "Poland's Tusk: It doesn't look probable that Russia will be ready to negotiate peace before spring",
+      "link": "https://investinglive.com/news/poland-s-tusk-it-doesn-t-look-probable-that-russia-will-be-ready-to-negotiate-peace-before-spring/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ETH whales keep buying through the slide while bitcoin whales send coins to exchanges",
-      "link": "https://investinglive.com/cryptocurrency/eth-whales-keep-buying-through-the-slide-while-bitcoin-whales-send-coins-to-exchanges/",
+      "title": "AMD shares tumble after Hunterbrook flags China export risks. What about the technicals?",
+      "link": "https://investinglive.com/stocks/amd-shares-tumble-after-hunterbrook-flags-china-export-risks-what-about-the-technicals/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "NYT: Trump weighs new Iran strikes as Israel presses for a four- to seven-day air campaign",
-      "link": "https://investinglive.com/commodities/nyt-trump-weighs-new-iran-strikes-as-israel-presses-for-a-four-to-seven-day-air-campaign/",
+      "title": "The mood shifted in a hurry",
+      "link": "https://investinglive.com/stocks/the-mood-shifted-in-a-hurry/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nvidia chair tells staff there is no Jensen clone, as leaders pledge strategy continuity",
-      "link": "https://investinglive.com/stocks/nvidia-chair-tells-staff-there-is-no-jensen-clone-as-leaders-pledge-strategy-continuity/",
+      "title": "The broader indices are benefiting from the Anthropic enthusiasm, but there is work to do. What next?",
+      "link": "https://investinglive.com/stocks/the-broader-indices-are-benefiting-from-the-anthropic-enthusiasm-but-there-is-work-to-do-what-next/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Japan’s AI stocks lose their premium as three threats emerge after Nvidia’s CEO exit",
-      "link": "https://investinglive.com/stock-market-update/japan-s-ai-stocks-lose-their-premium-as-three-threats-emerge-after-nvidia-s-ceo-exit/",
+      "title": "Walmart continues the relatively upbeat commentary on consumers",
+      "link": "https://investinglive.com/stocks/walmart-continues-the-relatively-upbeat-commentary-on-consumers/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Lava CEO says bitcoin sellers are spent, but whale exchange flows point the other way",
-      "link": "https://investinglive.com/cryptocurrency/lava-ceo-says-bitcoin-sellers-are-spent-but-whale-exchange-flows-point-the-other-way/",
+      "title": "USDCAD sellers make a play after a new high for the year",
+      "link": "https://investinglive.com/technical-analysis/usdcad-sellers-make-a-play-after-a-new-high-for-the-year/",
       "date": "2026-11-19"
     }
   ]
