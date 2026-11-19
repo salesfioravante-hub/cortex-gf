@@ -5,6 +5,27 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Cyber resilience guidance consultation and AI and quantum effective practices",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Minutes of the Market Participants Group meeting – 18 November 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Developments in Real Exports and Real Imports",
+      "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+      "date": "2026-11-19"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Statement by Governor UEDA concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee on Financial Affairs, Senate)",
@@ -61,13 +82,6 @@
       "date": "2026-11-16"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "BOJ Current Account Balances by Sector (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
-      "date": "2026-11-16"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Agencies extend comment period for proposed third-party risk management guidance",
@@ -101,23 +115,93 @@
       "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
       "link": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
       "date": "2026-11-10"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
-      "date": "2026-11-05"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026",
-      "date": "2026-11-04"
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ActivTrades Relaunches ActivPartner: A Partner Programme Built Around Each Partner's Business",
+      "link": "https://investinglive.com/education/activtrades-relaunches-activpartner-a-partner-programme-built-around-each-partner-s-business/",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Solana's downtrend remains intact despite easing selling pressure. What could change the picture?",
+      "link": "https://investinglive.com/cryptocurrency/solana-s-downtrend-remains-intact-despite-easing-selling-pressure-what-could-change-the-picture/",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Crude oil extends losses amid growth concerns but risk of US strikes keeps the downside limited",
+      "link": "https://investinglive.com/commodities/crude-oil-extends-losses-amid-growth-concerns-but-risk-of-us-strikes-keeps-the-downside-limited/",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Ethereum consolidates around recent lows as the bearish momentum wanes amid lack of catalysts",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-consolidates-around-recent-lows-as-the-bearish-momentum-wanes-amid-lack-of-catalysts/",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold's selloff may be nearing exhaustion as growth concerns challenge hawkish expectations",
+      "link": "https://investinglive.com/commodities/gold-s-selloff-may-be-nearing-exhaustion-as-growth-concerns-challenge-hawkish-expectations/",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "FX option expiries for 19 November 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-19-november-10am-new-york-cut/",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-89/",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount,",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-92-as-gulf-attacks-mount/",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "GTA VI lifts Sony shares as PlayStation takes three-quarters of 17 million sales",
+      "link": "https://investinglive.com/stocks/gta-vi-lifts-sony-shares-as-playstation-takes-three-quarters-of-17-million-sales/",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Goldman cuts KOSPI target to 7,500 but says gloom is overdone, sees 48% upside",
+      "link": "https://investinglive.com/stock-market-update/goldman-cuts-kospi-target-to-7-500-but-says-gloom-is-overdone-sees-48-upside/",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ETH whales keep buying through the slide while bitcoin whales send coins to exchanges",
+      "link": "https://investinglive.com/cryptocurrency/eth-whales-keep-buying-through-the-slide-while-bitcoin-whales-send-coins-to-exchanges/",
+      "date": "2026-11-19"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "NYT: Trump weighs new Iran strikes as Israel presses for a four- to seven-day air campaign",
+      "link": "https://investinglive.com/commodities/nyt-trump-weighs-new-iran-strikes-as-israel-presses-for-a-four-to-seven-day-air-campaign/",
+      "date": "2026-11-19"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -138,90 +222,6 @@
       "title": "Lava CEO says bitcoin sellers are spent, but whale exchange flows point the other way",
       "link": "https://investinglive.com/cryptocurrency/lava-ceo-says-bitcoin-sellers-are-spent-but-whale-exchange-flows-point-the-other-way/",
       "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "More from Ueda: real rates still low, and BOJ finances can withstand further hikes",
-      "link": "https://investinglive.com/central-banks/more-from-ueda-real-rates-still-low-and-boj-finances-can-withstand-further-hikes/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Musk says Anthropic wants another 10 gigawatts of SpaceX compute, over 30 times its deal  Alt headlines:",
-      "link": "https://investinglive.com/stocks/musk-says-anthropic-wants-another-10-gigawatts-of-spacex-compute-over-30-times-its-deal-alt-headlines/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BOJ’s Ueda expects to keep raising rates, warning inflation could overshoot 2% target",
-      "link": "https://investinglive.com/central-banks/boj-s-ueda-expects-to-keep-raising-rates-warning-inflation-could-overshoot-2-target/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "BlackRock says bitcoin’s fading link to stocks strengthens the case for allocation",
-      "link": "https://investinglive.com/cryptocurrency/blackrock-says-bitcoin-s-fading-link-to-stocks-strengthens-the-case-for-allocation/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Musk says Tesla will build a Model Y with no steering wheel or pedals, but gives no date",
-      "link": "https://investinglive.com/stocks/musk-says-tesla-will-build-a-model-y-with-no-steering-wheel-or-pedals-but-gives-no-date/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7128 (vs. estimate at 6.6684)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7128-vs-estimate-at-6-6684/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Australian unemployment jumps to 4.9% as jobs fall 43,500, taking RBA hikes off the table",
-      "link": "https://investinglive.com/central-banks/australian-unemployment-jumps-to-4-9-as-jobs-fall-43-500-taking-rba-hikes-off-the-table/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Australian unemployment rate jumps to 4.9% in October, against 4.7% expected",
-      "link": "https://investinglive.com/news/australian-unemployment-rate-jumps-to-4-9-in-october-against-4-7-expected/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Four Fed officials push for more hikes as Waller floats 50bp to break 3% inflation mindset",
-      "link": "https://investinglive.com/central-banks/four-fed-officials-push-for-more-hikes-as-waller-floats-50bp-to-break-3-inflation-mindset/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6684 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6684-reuters-estimate/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Japan machinery orders up 13.4% y/y: what this early capex signal tells you",
-      "link": "https://investinglive.com/education/japan-machinery-orders-up-13-4-y-y-what-this-early-capex-signal-tells-you/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Anthropic confirms $83 IPO price on 980 million shares in an $81 billion deal",
-      "link": "https://investinglive.com/stocks/anthropic-confirms-83-ipo-price-on-980-million-shares-in-an-81-billion-deal/",
-      "date": "2026-11-18"
     }
   ]
 }
