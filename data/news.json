@@ -5,6 +5,13 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "link": "",
+      "date": "2026-11-20"
+    },
+    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Christine Lagarde: Acting in time",
@@ -103,13 +110,6 @@
       "date": "2026-11-13"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-      "link": "",
-      "date": "2026-11-12"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Elev8 launches CFD trading on Anthropic, PBC (ANT) following historic IPO",
-      "link": "https://investinglive.com/education/elev8-launches-cfd-trading-on-anthropic-pbc-ant-following-historic-ipo/",
+      "title": "European stocks end a bruising week. German DAX falls 7.29%.",
+      "link": "https://investinglive.com/news/european-stocks-end-a-bruising-week-german-dax-falls-7-29/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Oil prices remain under pressure as focus shifts from supply disruptions to demand concerns. What's next?",
-      "link": "https://investinglive.com/commodities/oil-prices-remain-under-pressure-as-focus-shifts-from-supply-disruptions-to-demand-concerns-what-s-next/",
+      "title": "Trump: Secured two new trade deals. 10 others coming very soon.",
+      "link": "https://investinglive.com/news/trump-secured-two-new-trade-deals-10-others-coming-very-soon/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bitcoin extends losses as growth concerns increase amid stock market rout. What could change the trend?",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-extends-losses-as-growth-concerns-increase-amid-stock-market-rout-what-could-change-the-trend/",
+      "title": "Fed’s Cook says monetary policy isn’t restrictive enough",
+      "link": "https://investinglive.com/central-banks/fed-s-cook-says-monetary-policy-isn-t-restrictive-enough/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold's panic selling signals capitulation, but a catalyst is needed for a bottom",
-      "link": "https://investinglive.com/commodities/gold-s-panic-selling-signals-capitulation-but-a-catalyst-is-needed-for-a-bottom/",
+      "title": "NASDAQ composite is now down on the year",
+      "link": "https://investinglive.com/stocks/nasdaq-composite-is-now-down-on-the-year/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 20 November 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-20-november-10am-new-york-cut/",
+      "title": "Could Jensen Huang end up at SpaceX? Dan Ives thinks he could work alongside Elon Musk",
+      "link": "https://investinglive.com/stocks/could-jensen-huang-end-up-at-spacex-dan-ives-thinks-he-could-work-alongside-elon-musk/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-90/",
+      "title": "Gold breaks below the 50% midpoint. Can buyers hold the old breakout area?",
+      "link": "https://investinglive.com/commodities/gold-breaks-below-the-50-midpoint-can-buyers-hold-the-old-breakout-area/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "UK October retail sales +0.7% vs +0.0% m/m expected",
-      "link": "https://investinglive.com/news/uk-october-retail-sales-0-7-vs-0-0-m-m-expected/",
+      "title": "AI-linked stocks slide. Sandisk leads 14 names down more than 9%",
+      "link": "https://investinglive.com/stocks/ai-linked-stocks-slide-sandisk-leads-14-names-down-more-than-9/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Red Friday as Asia’s AI trade unravels",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-red-friday-as-asia-s-ai-trade-unravels/",
+      "title": "Bessent says Trump and Xi saw robust discussion on trade policy, AI",
+      "link": "https://investinglive.com/news/bessent-says-trump-and-xi-saw-robust-discussion-on-trade-policy-ai/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "UBS cuts global stocks to Neutral, days after Morgan Stanley went maximum overweight",
-      "link": "https://investinglive.com/stock-market-update/ubs-cuts-global-stocks-to-neutral-days-after-morgan-stanley-went-maximum-overweight/",
+      "title": "S&P 500 turns positive, but the Nasdaq indices remain in technical triage",
+      "link": "https://investinglive.com/stocks/s-p-500-turns-positive-but-the-nasdaq-indices-remain-in-technical-triage/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "No, the Fed isn’t pumping $1.756 billion into markets on Friday morning: what that viral post gets wrong",
-      "link": "https://investinglive.com/stocks/no-the-fed-isn-t-pumping-1-756-billion-into-markets-on-friday-morning-what-that-viral-post-gets-wrong/",
+      "title": "University of Michigan consumer sentiment 51.5 versus 51.5 estimate",
+      "link": "https://investinglive.com/news/university-of-michigan-consumer-sentiment-51-5-versus-51-5-estimate/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "A December BoJ hike may not be enough: why a fuzzy endpoint keeps yen bears circling",
-      "link": "https://investinglive.com/central-banks/a-december-boj-hike-may-not-be-enough-why-a-fuzzy-endpoint-keeps-yen-bears-circling/",
+      "title": "Bitcoin tests key swing area low. A break below will target the 2026 lows",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-tests-key-swing-area-low-a-break-below-will-target-the-2026-lows/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "No way back for oil after Hormuz, says IEA’s Birol, but Goldman still sees Brent at $78",
-      "link": "https://investinglive.com/commodities/no-way-back-for-oil-after-hormuz-says-iea-s-birol-but-goldman-still-sees-brent-at-78/",
+      "title": "Greer says US-China trade truce extension hinges on rare earths",
+      "link": "https://investinglive.com/news/greer-says-us-china-trade-truce-extension-hinges-on-rare-earths/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US envoys float NATO membership for Ukraine in exchange for Donbas, WSJ reports",
-      "link": "https://investinglive.com/news/us-envoys-float-nato-membership-for-ukraine-in-exchange-for-donbas-wsj-reports/",
+      "title": "Canada retail sales comes in stronger at 0.8% vs 0.7% estimate. Core up 1.0% vs 0.7% estimate.",
+      "link": "https://investinglive.com/news/canada-retail-sales-comes-in-stronger-at-0-8-vs-0-7-estimate-core-up-1-0-vs-0-7-estimate/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ICYMI: AMD slides 8% as short seller Hunterbrook ties its firmware to a blacklisted Chinese firm",
-      "link": "https://investinglive.com/stocks/icymi-amd-slides-8-as-short-seller-hunterbrook-ties-its-firmware-to-a-blacklisted-chinese-firm/",
+      "title": "Morning Kickstart. Anthropic slides after its IPO and gold breaks lower",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-anthropic-slides-after-its-ipo-and-gold-breaks-lower/",
       "date": "2026-11-20"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Some analysts now see BoJ rates at 2.5% by mid-2027, despite slower underlying inflation",
-      "link": "https://investinglive.com/central-banks/some-analysts-now-see-boj-rates-at-2-5-by-mid-2027-despite-slower-underlying-inflation/",
+      "title": "Is ANT stock a buy or sell?",
+      "link": "https://investinglive.com/stocks/is-ant-stock-a-buy-or-sell/",
       "date": "2026-11-20"
     }
   ]
