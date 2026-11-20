@@ -1,24 +1,19 @@
 {
-  "asof": "2026-11-19",
+  "asof": "2026-11-20",
   "source": "Calendário econômico (FRED + FMP + ForexFactory)",
   "status": "ok",
   "provider": "multi",
   "notes": [
-    "FRED: 4 releases (EUA) — 2026-11-25 Gross Domestic Product; 2026-11-25 Personal Income and Outlays; 2026-12-01 Job Openings and Labor Turnover Survey; 2026-12-02 Gross Domestic Product by County",
+    "FRED: 5 releases (EUA) — 2026-11-25 Gross Domestic Product; 2026-11-25 Personal Income and Outlays; 2026-12-01 Job Openings and Labor Turnover Survey; 2026-12-02 Gross Domestic Product by County",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 2 eventos"
+    "ForexFactory: 0 eventos"
   ],
   "byCurrency": {
     "USD": {
       "date": "2026-11-25",
       "title": "Gross Domestic Product",
       "forecast": ""
-    },
-    "AUD": {
-      "date": "2026-11-19",
-      "title": "Employment Change",
-      "forecast": "25.5K"
     }
   }
 }

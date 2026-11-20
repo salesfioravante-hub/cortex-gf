@@ -1,9 +1,16 @@
 {
-  "asof": "2026-11-19",
+  "asof": "2026-11-20",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Monetary and Economic Studies (2026)",
+      "link": "http://www.boj.or.jp/en/research/imes/mes/mes26.htm",
+      "date": "2026-11-20"
+    },
     {
       "cur": "USD",
       "source": "Fed",
@@ -82,13 +89,6 @@
       "date": "2026-11-16"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Highlights of the Outlook for Economic Activity and Prices (October 2026)",
-      "link": "http://www.boj.or.jp/en/mopo/outlook/highlight/ten202610.htm",
-      "date": "2026-11-16"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Agencies extend comment period for proposed third-party risk management guidance",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Fed’s Goolsbee says he sees no clear path back to 2% inflation",
-      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-says-he-sees-no-clear-path-back-to-2-inflation/",
+      "title": "ICYMI: AMD slides 8% as short seller Hunterbrook ties its firmware to a blacklisted Chinese firm",
+      "link": "https://investinglive.com/stocks/icymi-amd-slides-8-as-short-seller-hunterbrook-ties-its-firmware-to-a-blacklisted-chinese-firm/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Some analysts now see BoJ rates at 2.5% by mid-2027, despite slower underlying inflation",
+      "link": "https://investinglive.com/central-banks/some-analysts-now-see-boj-rates-at-2-5-by-mid-2027-despite-slower-underlying-inflation/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "US approved nearly 900,000 Nvidia and AMD AI chips for China. Raises more questions than answers.",
+      "link": "https://investinglive.com/news/us-approved-nearly-900-000-nvidia-and-amd-ai-chips-for-china-raises-more-questions-than-answers/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "China holds loan prime rates for an 18th month as the overnight rate takes over",
+      "link": "https://investinglive.com/central-banks/china-holds-loan-prime-rates-for-an-18th-month-as-the-overnight-rate-takes-over/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nikkei slides 4.5% and KOSPI tumbles as Wall Street’s AI reversal hits Asian chipmakers",
+      "link": "https://investinglive.com/stock-market-update/nikkei-slides-4-5-and-kospi-tumbles-as-wall-street-s-ai-reversal-hits-asian-chipmakers/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7131 (vs. estimate at 6.6731)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7131-vs-estimate-at-6-6731/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Japan CPI misses on all three measures, but core stays above 2% ahead of a BoJ hike call",
+      "link": "https://investinglive.com/central-banks/japan-cpi-misses-on-all-three-measures-but-core-stays-above-2-ahead-of-a-boj-hike-call/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6731 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6731-reuters-estimate-0/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold slides toward $3,600 as sellers press on, but UBS upgrades it and still sees $5,000",
+      "link": "https://investinglive.com/commodities/gold-slides-toward-3-600-as-sellers-press-on-but-ubs-upgrades-it-and-still-sees-5-000/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Fed's Paulson keeps quiet on December, says October’s pause was never meant as a stop",
+      "link": "https://investinglive.com/central-banks/fed-s-paulson-keeps-quiet-on-december-says-october-s-pause-was-never-meant-as-a-stop/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "AUDUSD moves to a new low.   Price action is ping ponging down and up and back down again.",
-      "link": "https://investinglive.com/technical-analysis/audusd-moves-to-a-new-low/",
+      "title": "Japan inflation picks up less than forecast as core-core slows to 2.2%",
+      "link": "https://investinglive.com/news/japan-inflation-picks-up-but-misses-forecasts-as-core-core-slows-to-2-2/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "No relief for US stocks. Major indices trade to new lows",
-      "link": "https://investinglive.com/stocks/no-relief-for-us-stocks-major-indices-trade-to-new-lows/",
+      "title": "Bitcoin hits lowest since July as Fed hike talk and a Wall Street rout collide",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-hits-lowest-since-july-as-fed-hike-talk-and-a-wall-street-rout-collide/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Canada seeks interim U.S. tariff deal by year-end, CBC reports",
-      "link": "https://investinglive.com/news/canada-seeks-interim-u-s-tariff-deal-by-year-end-cbc-reports/",
+      "title": "11-day Bitcoin redemption freeze: the risk hiding inside BTC-backed tokens",
+      "link": "https://investinglive.com/cryptocurrency/11-day-bitcoin-redemption-freeze-the-risk-hiding-inside-btc-backed-tokens/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "GBPUSD breaks to a new 2026 low. The daily chart shows room to the downside.",
-      "link": "https://investinglive.com/technical-analysis/gbpusd-breaks-to-a-new-2026-low-the-daily-chart-shows-room-to-the-downside/",
+      "title": "Euro breaks below $1.10 as French election risk builds; three banks see $1.08 next",
+      "link": "https://investinglive.com/forex/euro-breaks-below-1-10-as-french-election-risk-builds-three-banks-see-1-08-next/",
       "date": "2026-11-19"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trump weighs another strike on Iran as Hormuz shipping risks mount. Returns to Washington after overseas trip.",
-      "link": "https://investinglive.com/news/trump-weighs-another-strike-on-iran-as-hormuz-shipping-risks-mount-returns-to-washington-after-overseas-trip/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Fed's Goolsbee: Job market is stable, but inflation is \"way higher\" than Fed's 2% target",
-      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-job-market-is-stable-but-inflation-is-way-higher-than-fed-s-2-target/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US stocks race lower.  There is some market indigestion from the Anthropic IPO",
-      "link": "https://investinglive.com/stocks/us-stocks-race-lower-there-is-some-market-indigestion-from-the-anthropic-ipo/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stocks close lower. Anthropic opens 34% above its IPO price.",
-      "link": "https://investinglive.com/stocks/european-stocks-close-lower-anthropic-opens-34-above-its-ipo-price/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Poland's Tusk: It doesn't look probable that Russia will be ready to negotiate peace before spring",
-      "link": "https://investinglive.com/news/poland-s-tusk-it-doesn-t-look-probable-that-russia-will-be-ready-to-negotiate-peace-before-spring/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "AMD shares tumble after Hunterbrook flags China export risks. What about the technicals?",
-      "link": "https://investinglive.com/stocks/amd-shares-tumble-after-hunterbrook-flags-china-export-risks-what-about-the-technicals/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The mood shifted in a hurry",
-      "link": "https://investinglive.com/stocks/the-mood-shifted-in-a-hurry/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The broader indices are benefiting from the Anthropic enthusiasm, but there is work to do. What next?",
-      "link": "https://investinglive.com/stocks/the-broader-indices-are-benefiting-from-the-anthropic-enthusiasm-but-there-is-work-to-do-what-next/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Walmart continues the relatively upbeat commentary on consumers",
-      "link": "https://investinglive.com/stocks/walmart-continues-the-relatively-upbeat-commentary-on-consumers/",
-      "date": "2026-11-19"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "USDCAD sellers make a play after a new high for the year",
-      "link": "https://investinglive.com/technical-analysis/usdcad-sellers-make-a-play-after-a-new-high-for-the-year/",
+      "title": "Barclays: Back-to-back Fed hikes give the dollar staying power that a jumbo 50bp move wouldn’t",
+      "link": "https://investinglive.com/central-banks/barclays-back-to-back-fed-hikes-give-the-dollar-staying-power-that-a-jumbo-50bp-move-wouldn-t/",
       "date": "2026-11-19"
     }
   ]
