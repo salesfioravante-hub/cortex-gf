@@ -1,9 +1,16 @@
 {
-  "asof": "2026-11-20",
+  "asof": "2026-11-21",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "USD",
+      "source": "Fed",
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "link": "",
+      "date": "2026-11-20"
+    },
     {
       "cur": "USD",
       "source": "Fed",
@@ -96,13 +103,6 @@
       "date": "2026-11-16"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Agencies extend comment period for proposed third-party risk management guidance",
-      "link": "",
-      "date": "2026-11-13"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
@@ -118,6 +118,41 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "investingLive Americas FX news wrap 20 Nov: Stocks get hammered as Nasdaq plunges 5.28%",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-nov-stocks-get-hammered-as-nasdaq-plunges-5-28/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nasdaq 100 posts worst week since March 2020",
+      "link": "https://investinglive.com/stocks/nasdaq-100-posts-worst-week-since-march-2020/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "AUDUSD is the biggest mover of the major currencies this week.  The price falls -2.30% for the week.",
+      "link": "https://investinglive.com/technical-analysis/audusd-is-the-biggest-mover-of-the-major-currencies-this-week-the-price-falls-2-30-for-the-week/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Trump weighs renewed strikes on Iran as military warns of strain. FT",
+      "link": "https://investinglive.com/news/trump-weighs-renewed-strikes-on-iran-as-military-warns-of-strain-ft/",
+      "date": "2026-11-20"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nvidia falls after SEC probe on potential accounting issues",
+      "link": "https://investinglive.com/stocks/nvidia-down-falls-after-sec-probe-on-potential-accounting-issues/",
+      "date": "2026-11-20"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -186,41 +221,6 @@
       "source": "ForexLive",
       "title": "University of Michigan consumer sentiment 51.5 versus 51.5 estimate",
       "link": "https://investinglive.com/news/university-of-michigan-consumer-sentiment-51-5-versus-51-5-estimate/",
-      "date": "2026-11-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin tests key swing area low. A break below will target the 2026 lows",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-tests-key-swing-area-low-a-break-below-will-target-the-2026-lows/",
-      "date": "2026-11-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Greer says US-China trade truce extension hinges on rare earths",
-      "link": "https://investinglive.com/news/greer-says-us-china-trade-truce-extension-hinges-on-rare-earths/",
-      "date": "2026-11-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Canada retail sales comes in stronger at 0.8% vs 0.7% estimate. Core up 1.0% vs 0.7% estimate.",
-      "link": "https://investinglive.com/news/canada-retail-sales-comes-in-stronger-at-0-8-vs-0-7-estimate-core-up-1-0-vs-0-7-estimate/",
-      "date": "2026-11-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Morning Kickstart. Anthropic slides after its IPO and gold breaks lower",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-anthropic-slides-after-its-ipo-and-gold-breaks-lower/",
-      "date": "2026-11-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Is ANT stock a buy or sell?",
-      "link": "https://investinglive.com/stocks/is-ant-stock-a-buy-or-sell/",
       "date": "2026-11-20"
     }
   ]
