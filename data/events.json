@@ -7,13 +7,18 @@
     "FRED: 5 releases (EUA) — 2026-11-25 Gross Domestic Product; 2026-11-25 Personal Income and Outlays; 2026-12-01 Job Openings and Labor Turnover Survey; 2026-12-02 Gross Domestic Product by County",
     "FMP(stable): HTTP 402",
     "FMP(v3): HTTP 403 — Legacy Endpoint : Due to Legacy endpoints being no longer supported - This endpoint is onl",
-    "ForexFactory: 0 eventos"
+    "ForexFactory: 5 eventos"
   ],
   "byCurrency": {
     "USD": {
       "date": "2026-11-25",
       "title": "Gross Domestic Product",
       "forecast": ""
+    },
+    "AUD": {
+      "date": "2026-11-25",
+      "title": "CPI m/m",
+      "forecast": "0.4%"
     }
   }
 }
