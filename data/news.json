@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-21",
+  "asof": "2026-11-22",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -29,7 +29,7 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Monetary and Economic Studies (2026)",
-      "link": "http://www.boj.or.jp/en/research/imes/mes/mes26.htm",
+      "link": "https://www.boj.or.jp/en/research/imes/mes/mes26.htm",
       "date": "2026-11-20"
     },
     {
@@ -57,14 +57,14 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Developments in Real Exports and Real Imports",
-      "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+      "link": "https://www.boj.or.jp/en/research/research_data/reri/index.htm",
       "date": "2026-11-19"
     },
     {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Statement by Governor UEDA concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee on Financial Affairs, Senate)",
-      "link": "http://www.boj.or.jp/en/mopo/diet/d_state/dst261119a.htm",
+      "link": "https://www.boj.or.jp/en/mopo/diet/d_state/dst261119a.htm",
       "date": "2026-11-19"
     },
     {
@@ -99,7 +99,7 @@
       "cur": "JPY",
       "source": "BoJ",
       "title": "Release of Latest \"Loans and Bills Discounted by Sector\" and \"Loans to Households\" Data",
-      "link": "http://www.boj.or.jp/en/statistics/outline/notice_2026/not261117a.htm",
+      "link": "https://www.boj.or.jp/en/statistics/outline/notice_2026/not261117a.htm",
       "date": "2026-11-16"
     },
     {
