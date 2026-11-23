@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-22",
+  "asof": "2026-11-23",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bitcoin analysis: More volume, but less downside damage (possible dip?)",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-analysis-more-volume-but-less-downside-damage-possible-dip/",
+      "title": "Goldman sees European gas halving to €45 in 2027, but a cold winter could push it to €150",
+      "link": "https://investinglive.com/commodities/goldman-sees-european-gas-halving-to-45-in-2027-but-a-cold-winter-could-push-it-to-150/",
+      "date": "2026-11-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Chinese brokers see a bottom and a broader 2027 rally after Beijing's support push",
+      "link": "https://investinglive.com/stock-market-update/chinese-brokers-see-a-bottom-and-a-broader-2027-rally-after-beijing-s-support-push/",
+      "date": "2026-11-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6775 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6775-reuters-estimate/",
+      "date": "2026-11-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The AI winners may not exist yet, J.P. Morgan warns, as mega-IPOs flood the market",
+      "link": "https://investinglive.com/stock-market-update/the-ai-winners-may-not-exist-yet-j-p-morgan-warns-as-mega-ipos-flood-the-market/",
+      "date": "2026-11-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "SNB's Martin eyes second-round effects after inflation jumps to 1.5%, hike in view",
+      "link": "https://investinglive.com/central-banks/snb-s-martin-eyes-second-round-effects-after-inflation-jumps-to-1-5-hike-in-view/",
+      "date": "2026-11-23"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Gold sinks 9% in a week as margin calls and Fed hike bets override its haven role",
+      "link": "https://investinglive.com/commodities/gold-sinks-9-in-a-week-as-margin-calls-and-fed-hike-bets-override-its-haven-role/",
       "date": "2026-11-22"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 20 Nov: Stocks get hammered as Nasdaq plunges 5.28%",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-nov-stocks-get-hammered-as-nasdaq-plunges-5-28/",
-      "date": "2026-11-20"
+      "title": "Korea's market rescue fund is worth around $8 billion, but is 10.76 trillion won enough?",
+      "link": "https://investinglive.com/stock-market-update/korea-s-market-rescue-fund-is-worth-around-8-billion-but-is-10-76-trillion-won-enough/",
+      "date": "2026-11-22"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nasdaq 100 posts worst week since March 2020",
-      "link": "https://investinglive.com/stocks/nasdaq-100-posts-worst-week-since-march-2020/",
-      "date": "2026-11-20"
+      "title": "Could Nvidia shareholders force Huang back? The 15% hurdle behind a long-shot idea",
+      "link": "https://investinglive.com/stocks/could-nvidia-shareholders-force-huang-back-the-15-hurdle-behind-a-long-shot-idea/",
+      "date": "2026-11-22"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "AUDUSD is the biggest mover of the major currencies this week.  The price falls -2.30% for the week.",
-      "link": "https://investinglive.com/technical-analysis/audusd-is-the-biggest-mover-of-the-major-currencies-this-week-the-price-falls-2-30-for-the-week/",
-      "date": "2026-11-20"
+      "title": "Bessent leaves door open to Huang return at Nvidia, a week after urging an outside CEO",
+      "link": "https://investinglive.com/stocks/bessent-leaves-door-open-to-huang-return-at-nvidia-a-week-after-urging-an-outside-ceo/",
+      "date": "2026-11-22"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trump weighs renewed strikes on Iran as military warns of strain. FT",
-      "link": "https://investinglive.com/news/trump-weighs-renewed-strikes-on-iran-as-military-warns-of-strain-ft/",
-      "date": "2026-11-20"
+      "title": "China cuts margin requirement to 80% in fresh market support push, but will it work?",
+      "link": "https://investinglive.com/stock-market-update/china-cuts-margin-requirement-to-80-in-fresh-market-support-push-but-will-it-work/",
+      "date": "2026-11-22"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nvidia falls after SEC probe on potential accounting issues",
-      "link": "https://investinglive.com/stocks/nvidia-down-falls-after-sec-probe-on-potential-accounting-issues/",
-      "date": "2026-11-20"
+      "title": "Australia flash PMI sinks to 46.1 as private sector shrinks at fastest pace in 5 years",
+      "link": "https://investinglive.com/news/australia-flash-pmi-sinks-to-46-1-as-private-sector-shrinks-at-fastest-pace-in-5-years/",
+      "date": "2026-11-22"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "European stocks end a bruising week. German DAX falls 7.29%.",
-      "link": "https://investinglive.com/news/european-stocks-end-a-bruising-week-german-dax-falls-7-29/",
-      "date": "2026-11-20"
+      "title": "New Zealand retail volumes jump 2.2% in Q3, more than four times the expected pace",
+      "link": "https://investinglive.com/news/new-zealand-retail-volumes-jump-2-2-in-q3-more-than-four-times-the-expected-pace/",
+      "date": "2026-11-22"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trump: Secured two new trade deals. 10 others coming very soon.",
-      "link": "https://investinglive.com/news/trump-secured-two-new-trade-deals-10-others-coming-very-soon/",
-      "date": "2026-11-20"
+      "title": "Goldman names 3 signals that could mark a bottom as the S&P 500 sits 12% below its record",
+      "link": "https://investinglive.com/stock-market-update/goldman-names-3-signals-that-could-mark-a-bottom-as-the-s-p-500-sits-12-below-its-record/",
+      "date": "2026-11-22"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Fed’s Cook says monetary policy isn’t restrictive enough",
-      "link": "https://investinglive.com/central-banks/fed-s-cook-says-monetary-policy-isn-t-restrictive-enough/",
-      "date": "2026-11-20"
+      "title": "Seoul readies a market fund unused since 2008 after the Kospi sinks",
+      "link": "https://investinglive.com/stock-market-update/seoul-readies-a-market-fund-unused-since-2008-after-the-kospi-sinks/",
+      "date": "2026-11-22"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "NASDAQ composite is now down on the year",
-      "link": "https://investinglive.com/stocks/nasdaq-composite-is-now-down-on-the-year/",
-      "date": "2026-11-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Could Jensen Huang end up at SpaceX? Dan Ives thinks he could work alongside Elon Musk",
-      "link": "https://investinglive.com/stocks/could-jensen-huang-end-up-at-spacex-dan-ives-thinks-he-could-work-alongside-elon-musk/",
-      "date": "2026-11-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold breaks below the 50% midpoint. Can buyers hold the old breakout area?",
-      "link": "https://investinglive.com/commodities/gold-breaks-below-the-50-midpoint-can-buyers-hold-the-old-breakout-area/",
-      "date": "2026-11-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "AI-linked stocks slide. Sandisk leads 14 names down more than 9%",
-      "link": "https://investinglive.com/stocks/ai-linked-stocks-slide-sandisk-leads-14-names-down-more-than-9/",
-      "date": "2026-11-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bessent says Trump and Xi saw robust discussion on trade policy, AI",
-      "link": "https://investinglive.com/news/bessent-says-trump-and-xi-saw-robust-discussion-on-trade-policy-ai/",
-      "date": "2026-11-20"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "S&P 500 turns positive, but the Nasdaq indices remain in technical triage",
-      "link": "https://investinglive.com/stocks/s-p-500-turns-positive-but-the-nasdaq-indices-remain-in-technical-triage/",
-      "date": "2026-11-20"
+      "title": "US equity rout: Bessent cautions Fed against overtightening, before its December decision",
+      "link": "https://investinglive.com/central-banks/us-equity-rout-bessent-cautions-fed-against-overtightening-before-its-december-decision/",
+      "date": "2026-11-22"
     }
   ]
 }
