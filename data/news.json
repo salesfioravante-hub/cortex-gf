@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+      "date": "2026-11-23"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
+      "date": "2026-11-23"
+    },
+    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -89,13 +103,6 @@
       "date": "2026-11-18"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-      "date": "2026-11-17"
-    },
-    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Release of Latest \"Loans and Bills Discounted by Sector\" and \"Loans to Households\" Data",
@@ -108,120 +115,113 @@
       "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
       "link": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
       "date": "2026-11-13"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
-      "date": "2026-11-10"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman sees European gas halving to €45 in 2027, but a cold winter could push it to €150",
-      "link": "https://investinglive.com/commodities/goldman-sees-european-gas-halving-to-45-in-2027-but-a-cold-winter-could-push-it-to-150/",
+      "title": "Market outlook for the week of 23rd - 27th November",
+      "link": "https://investinglive.com/forex/market-outlook-for-the-week-of-23rd-27th-november/",
       "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Chinese brokers see a bottom and a broader 2027 rally after Beijing's support push",
-      "link": "https://investinglive.com/stock-market-update/chinese-brokers-see-a-bottom-and-a-broader-2027-rally-after-beijing-s-support-push/",
+      "title": "Gold trims losses amid broad short-covering across markets as growth concerns linger. What's next?",
+      "link": "https://investinglive.com/commodities/gold-trims-losses-amid-broad-short-covering-across-markets-as-growth-concerns-linger-what-s-next/",
       "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6775 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6775-reuters-estimate/",
+      "title": "UK November flash services PMI 52.0 vs 53.0 expected",
+      "link": "https://investinglive.com/news/uk-november-flash-services-pmi-52-0-vs-53-0-expected/",
       "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The AI winners may not exist yet, J.P. Morgan warns, as mega-IPOs flood the market",
-      "link": "https://investinglive.com/stock-market-update/the-ai-winners-may-not-exist-yet-j-p-morgan-warns-as-mega-ipos-flood-the-market/",
+      "title": "Eurozone November flash services PMI 51.2 vs 51.8 expected",
+      "link": "https://investinglive.com/news/eurozone-november-flash-services-pmi-51-2-vs-51-8-expected/",
       "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "SNB's Martin eyes second-round effects after inflation jumps to 1.5%, hike in view",
-      "link": "https://investinglive.com/central-banks/snb-s-martin-eyes-second-round-effects-after-inflation-jumps-to-1-5-hike-in-view/",
+      "title": "Germany November flash manufacturing PMI 55.0 vs 54.0 expected",
+      "link": "https://investinglive.com/news/germany-november-flash-manufacturing-pmi-55-0-vs-54-0-expected/",
       "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold sinks 9% in a week as margin calls and Fed hike bets override its haven role",
-      "link": "https://investinglive.com/commodities/gold-sinks-9-in-a-week-as-margin-calls-and-fed-hike-bets-override-its-haven-role/",
-      "date": "2026-11-22"
+      "title": "France November flash services PMI 46.6 vs 47.5 expected",
+      "link": "https://investinglive.com/news/france-november-flash-services-pmi-46-6-vs-47-5-expected/",
+      "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Korea's market rescue fund is worth around $8 billion, but is 10.76 trillion won enough?",
-      "link": "https://investinglive.com/stock-market-update/korea-s-market-rescue-fund-is-worth-around-8-billion-but-is-10-76-trillion-won-enough/",
-      "date": "2026-11-22"
+      "title": "FX option expiries for 23 November 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-23-november-10am-new-york-cut/",
+      "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Could Nvidia shareholders force Huang back? The 15% hurdle behind a long-shot idea",
-      "link": "https://investinglive.com/stocks/could-nvidia-shareholders-force-huang-back-the-15-hurdle-behind-a-long-shot-idea/",
-      "date": "2026-11-22"
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-91/",
+      "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bessent leaves door open to Huang return at Nvidia, a week after urging an outside CEO",
-      "link": "https://investinglive.com/stocks/bessent-leaves-door-open-to-huang-return-at-nvidia-a-week-after-urging-an-outside-ceo/",
-      "date": "2026-11-22"
+      "title": "Nasdaq analysis today as we wake up to the green",
+      "link": "https://investinglive.com/stocks/nasdaq-analysis-today-as-we-wake-up-to-the-green/",
+      "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China cuts margin requirement to 80% in fresh market support push, but will it work?",
-      "link": "https://investinglive.com/stock-market-update/china-cuts-margin-requirement-to-80-in-fresh-market-support-push-but-will-it-work/",
-      "date": "2026-11-22"
+      "title": "investingLive Asia-Pacific market news: US futures hold 2% bounce",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-us-futures-hold-2-bounce/",
+      "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Australia flash PMI sinks to 46.1 as private sector shrinks at fastest pace in 5 years",
-      "link": "https://investinglive.com/news/australia-flash-pmi-sinks-to-46-1-as-private-sector-shrinks-at-fastest-pace-in-5-years/",
-      "date": "2026-11-22"
+      "title": "Waking up to green",
+      "link": "https://investinglive.com/stocks/waking-up-to-green/",
+      "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "New Zealand retail volumes jump 2.2% in Q3, more than four times the expected pace",
-      "link": "https://investinglive.com/news/new-zealand-retail-volumes-jump-2-2-in-q3-more-than-four-times-the-expected-pace/",
-      "date": "2026-11-22"
+      "title": "Crypto crime: Fusionist's ACE bridge emptied of $3.7 million as traders follow a $2 million exploit",
+      "link": "https://investinglive.com/cryptocurrency/crypto-crime-fusionist-s-ace-bridge-emptied-of-3-7-million-as-traders-follow-a-2-million-exploit/",
+      "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman names 3 signals that could mark a bottom as the S&P 500 sits 12% below its record",
-      "link": "https://investinglive.com/stock-market-update/goldman-names-3-signals-that-could-mark-a-bottom-as-the-s-p-500-sits-12-below-its-record/",
-      "date": "2026-11-22"
+      "title": "California widens Nvidia probe to criminal law, a bigger deal than Huang return talk",
+      "link": "https://investinglive.com/stocks/california-widens-nvidia-probe-to-criminal-law-a-bigger-deal-than-huang-return-talk/",
+      "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Seoul readies a market fund unused since 2008 after the Kospi sinks",
-      "link": "https://investinglive.com/stock-market-update/seoul-readies-a-market-fund-unused-since-2008-after-the-kospi-sinks/",
-      "date": "2026-11-22"
+      "title": "OCBC: AI rout becomes a growth shock as EM currencies take the dollar's strength",
+      "link": "https://investinglive.com/central-banks/ocbc-ai-rout-becomes-a-growth-shock-as-em-currencies-take-the-dollar-s-strength/",
+      "date": "2026-11-23"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US equity rout: Bessent cautions Fed against overtightening, before its December decision",
-      "link": "https://investinglive.com/central-banks/us-equity-rout-bessent-cautions-fed-against-overtightening-before-its-december-decision/",
-      "date": "2026-11-22"
+      "title": "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
+      "link": "https://investinglive.com/central-banks/jpmorgan-s-kelly-tech-correction-overdue-stocks-to-bounce-fed-to-hike-once-then-pause/",
+      "date": "2026-11-23"
     }
   ]
 }
