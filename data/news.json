@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -23,6 +23,13 @@
       "source": "BoE",
       "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
       "link": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
+      "date": "2026-11-23"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Statistics on Securities Financing Transactions in Japan",
+      "link": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
       "date": "2026-11-23"
     },
     {
@@ -103,13 +110,6 @@
       "date": "2026-11-18"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Release of Latest \"Loans and Bills Discounted by Sector\" and \"Loans to Households\" Data",
-      "link": "http://www.boj.or.jp/en/statistics/outline/notice_2026/not261117a.htm",
-      "date": "2026-11-16"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Fed's Williams pins inflation on unusual factors, sees 2027 bringing it lower",
-      "link": "https://investinglive.com/central-banks/fed-s-williams-pins-inflation-on-unusual-factors-sees-2027-bringing-it-lower/",
-      "date": "2026-11-23"
+      "title": "US dollar refuses to budge despite the risk-on bounce, so what's keeping it so strong?",
+      "link": "https://investinglive.com/forex/us-dollar-refuses-to-budge-despite-the-risk-on-bounce-so-what-s-keeping-it-so-strong/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nvidia's Huang is back. Monday's rally leaves three big questions unanswered.",
-      "link": "https://investinglive.com/stocks/nvidia-s-huang-is-back-monday-s-rally-leaves-three-big-questions-unanswered/",
-      "date": "2026-11-23"
+      "title": "Gold gets a bit of a lifeline but the technical damage runs deep, so what now?",
+      "link": "https://investinglive.com/commodities/gold-gets-a-bit-of-a-lifeline-but-the-technical-damage-runs-deep-so-what-now/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Jensen Huang is back in charge.  Nvidia moves higher.",
-      "link": "https://investinglive.com/stocks/jensen-huang-is-back-in-charge-nvidia-moves-higher/",
-      "date": "2026-11-23"
+      "title": "Wall Street catches Jensen Huang fever, but is this all a dead cat bounce?",
+      "link": "https://investinglive.com/stocks/wall-street-catches-jensen-huang-fever-but-is-this-all-a-dead-cat-bounce/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Economic and event calendar in Asia Tuesday, November 24, 2026: Singapore and Japan",
-      "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-november-24-2026-singapore-and-japan/",
-      "date": "2026-11-23"
+      "title": "investingLive Asia-Pacific market news: Huang's return powers Asia's AI rebound",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-huang-s-return-powers-asia-s-ai-rebound/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Americas market news wrap: Nvidia climbs 30% as Jensen Huang returns",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-nvidia-climbs-30-as-jensen-huang-returns/",
-      "date": "2026-11-23"
+      "title": "Iran says three tankers hit mines, yet oil sits near a three-month low as supply wins",
+      "link": "https://investinglive.com/commodities/iran-says-three-tankers-hit-mines-yet-oil-sits-near-a-three-month-low-as-supply-wins/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-      "link": "https://investinglive.com/central-banks/williams-keeps-december-fed-hike-in-play-as-inflation-seen-above-2-until-2028/",
-      "date": "2026-11-23"
+      "title": "ICYMI: China's 90 billion yuan rescue: record state ETF buying struggles to halt AI sell-off",
+      "link": "https://investinglive.com/stock-market-update/icymi-china-s-90-billion-yuan-rescue-record-state-etf-buying-struggles-to-halt-ai-sell-off/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Silver sets the technical boundaries in the short term for traders",
-      "link": "https://investinglive.com/commodities/silver-sets-the-technical-boundaries-in-the-short-term-for-traders/",
-      "date": "2026-11-23"
+      "title": "CFTC staff let exchanges count bitcoin and ether toward reserves, after a 20% haircut",
+      "link": "https://investinglive.com/cryptocurrency/cftc-staff-let-exchanges-count-bitcoin-and-ether-toward-reserves-after-a-20-haircut/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Crude oil settles at $80.17. Trades at its lowest level since August 26.",
-      "link": "https://investinglive.com/commodities/crude-oil-settles-at-80-17-trades-at-its-lowest-level-since-august-26/",
-      "date": "2026-11-23"
+      "title": "PIMCO: AI debt and refinancing stress are splitting the corporate bond market in two",
+      "link": "https://investinglive.com/education/pimco-ai-debt-and-refinancing-stress-are-splitting-the-corporate-bond-market-in-two/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Jensen Huang may be back but the China hawks probably haven't given up",
-      "link": "https://investinglive.com/stocks/jensen-huang-may-be-back-but-the-china-hawks-probably-haven-t-given-up/",
-      "date": "2026-11-23"
+      "title": "Gold's road back to $5,000: four big banks bet on recovery, but the Fed sets the pace",
+      "link": "https://investinglive.com/commodities/gold-s-road-back-to-5-000-four-big-banks-bet-on-recovery-but-the-fed-sets-the-pace/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The Nvidia reversal creates a fresh scramble for dollars",
-      "link": "https://investinglive.com/forex/the-nvidia-reversal-creates-a-fresh-scramble-for-dollars/",
-      "date": "2026-11-23"
+      "title": "BlackRock says markets overprice Fed hikes, sees two not three as energy shock fades",
+      "link": "https://investinglive.com/central-banks/blackrock-says-markets-overprice-fed-hikes-sees-two-not-three-as-energy-shock-fades/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold rebounds 3.2% despite a stronger dollar and higher yields.",
-      "link": "https://investinglive.com/commodities/gold-rebounds-3-2-despite-a-stronger-dollar-and-higher-yields/",
-      "date": "2026-11-23"
+      "title": "PBOC sets USD/ CNY central rate at 6.7111 (vs. estimate at 6.6757)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-7111-vs-estimate-at-6-6757/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "U.S. Treasury sells $69 billion the two-year notes at a high yield of 4.700%",
-      "link": "https://investinglive.com/news/u-s-treasury-sells-69-billion-the-two-year-notes-at-a-high-yield-of-4-700/",
-      "date": "2026-11-23"
+      "title": "Singapore sees AI boom carrying 2026, but slower AI investment growth to weigh on 2027",
+      "link": "https://investinglive.com/central-banks/singapore-sees-ai-boom-carrying-2026-but-slower-ai-investment-growth-to-weigh-on-2027/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The EURUSD is moving below a retracement target and to the lowest level since April 2025",
-      "link": "https://investinglive.com/technical-analysis/the-eurusd-is-moving-below-a-retracement-target-and-to-the-lowest-level-since-april-2025/",
-      "date": "2026-11-23"
+      "title": "Bank of Korea seen hiking to 3.25% this week, with one final move in early 2027",
+      "link": "https://investinglive.com/central-banks/bank-of-korea-seen-hiking-to-3-25-this-week-with-one-final-move-in-early-2027/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nvidia is lifting all boats. Nvidia is up 32.6% and that is lifting AI and chip stocks after last week’s rout.",
-      "link": "https://investinglive.com/stocks/nvidia-jumps-32-6-as-ai-and-chip-stocks-rebound-from-last-week-s-rout-nvidia-is-lifting-all-boats/",
-      "date": "2026-11-23"
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6757 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6757-reuters-estimate/",
+      "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "A look inside Anthropic shows there is no ceiling on AI",
-      "link": "https://investinglive.com/stocks/a-look-inside-anthropic-shows-there-is-no-ceiling-on-ai/",
-      "date": "2026-11-23"
+      "title": "Analysts cheer Huang's Nvidia return but question the board's sudden U-turn",
+      "link": "https://investinglive.com/stocks/analysts-cheer-huang-s-nvidia-return-but-question-the-board-s-sudden-u-turn/",
+      "date": "2026-11-24"
     }
   ]
 }
