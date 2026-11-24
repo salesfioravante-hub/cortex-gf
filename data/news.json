@@ -7,6 +7,20 @@
     {
       "cur": "EUR",
       "source": "BCE",
+      "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+      "date": "2026-11-24"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
+      "date": "2026-11-24"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
       "title": "Philip R. Lane: Climate change and monetary policy",
       "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
       "date": "2026-11-23"
@@ -89,13 +103,6 @@
       "date": "2026-11-19"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Statement by Governor UEDA concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee on Financial Affairs, Senate)",
-      "link": "http://www.boj.or.jp/en/mopo/diet/d_state/dst261119a.htm",
-      "date": "2026-11-19"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
@@ -103,124 +110,117 @@
       "date": "2026-11-18"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Boris Vujčić: Financial Stability Review - November 2026",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
-      "date": "2026-11-18"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-      "link": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
-      "date": "2026-11-13"
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Release of Latest \"Loans and Bills Discounted by Sector\" and \"Loans to Households\" Data",
+      "link": "http://www.boj.or.jp/en/statistics/outline/notice_2026/not261117a.htm",
+      "date": "2026-11-16"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US dollar refuses to budge despite the risk-on bounce, so what's keeping it so strong?",
-      "link": "https://investinglive.com/forex/us-dollar-refuses-to-budge-despite-the-risk-on-bounce-so-what-s-keeping-it-so-strong/",
+      "title": "Bank of Canada may need to respond sooner or more forcefully to major supply shocks",
+      "link": "https://investinglive.com/central-banks/bank-of-canada-may-need-to-respond-sooner-or-more-forcefully-to-major-supply-shocks/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold gets a bit of a lifeline but the technical damage runs deep, so what now?",
-      "link": "https://investinglive.com/commodities/gold-gets-a-bit-of-a-lifeline-but-the-technical-damage-runs-deep-so-what-now/",
+      "title": "European stocks fall as Trump turns back to tariffs. Italy leads the declines.",
+      "link": "https://investinglive.com/news/european-stocks-fall-as-trump-turns-back-to-tariffs-italy-leads-the-declines/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Wall Street catches Jensen Huang fever, but is this all a dead cat bounce?",
-      "link": "https://investinglive.com/stocks/wall-street-catches-jensen-huang-fever-but-is-this-all-a-dead-cat-bounce/",
+      "title": "USDCHF breaks below both hourly moving averages. Sellers eye 0.8339–0.8348.",
+      "link": "https://investinglive.com/technical-analysis/usdchf-breaks-below-both-hourly-moving-averages-sellers-eye-0-8339-0-8348/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Huang's return powers Asia's AI rebound",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-huang-s-return-powers-asia-s-ai-rebound/",
+      "title": "Stock markets fall as Trump pivots from corporate meddling to fresh tariffs",
+      "link": "https://investinglive.com/news/stock-markets-fall-as-trump-pivots-from-corporate-meddling-to-fresh-tariffs/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Iran says three tankers hit mines, yet oil sits near a three-month low as supply wins",
-      "link": "https://investinglive.com/commodities/iran-says-three-tankers-hit-mines-yet-oil-sits-near-a-three-month-low-as-supply-wins/",
+      "title": "US broader stock indices give up some of the gains from yesterday with sellers remaining in control",
+      "link": "https://investinglive.com/stocks/us-broader-stock-indices-give-up-some-of-the-gains-from-yesterday-with-sellers-remaining-in-control/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ICYMI: China's 90 billion yuan rescue: record state ETF buying struggles to halt AI sell-off",
-      "link": "https://investinglive.com/stock-market-update/icymi-china-s-90-billion-yuan-rescue-record-state-etf-buying-struggles-to-halt-ai-sell-off/",
+      "title": "Richmond Fed composite Index for November comes in higher at 3 versus -2 last month",
+      "link": "https://investinglive.com/central-banks/richmond-fed-composite-index-for-november-3-versus-2-last-month/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "CFTC staff let exchanges count bitcoin and ether toward reserves, after a 20% haircut",
-      "link": "https://investinglive.com/cryptocurrency/cftc-staff-let-exchanges-count-bitcoin-and-ether-toward-reserves-after-a-20-haircut/",
+      "title": "US November consumer confidence 103.3 vs 92.5 expected",
+      "link": "https://investinglive.com/news/us-november-consumer-confidence-103-3-vs-92-5-expected/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PIMCO: AI debt and refinancing stress are splitting the corporate bond market in two",
-      "link": "https://investinglive.com/education/pimco-ai-debt-and-refinancing-stress-are-splitting-the-corporate-bond-market-in-two/",
+      "title": "Bitcoin slips back below its old floor as sellers lean on $60,000.",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-slips-back-below-its-old-floor-as-sellers-lean-on-60-000/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold's road back to $5,000: four big banks bet on recovery, but the Fed sets the pace",
-      "link": "https://investinglive.com/commodities/gold-s-road-back-to-5-000-four-big-banks-bet-on-recovery-but-the-fed-sets-the-pace/",
+      "title": "November Belgian business confidence falls to the lowest of the year",
+      "link": "https://investinglive.com/news/november-belgian-business-confidence-falls-to-the-lowest-of-the-year/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BlackRock says markets overprice Fed hikes, sees two not three as energy shock fades",
-      "link": "https://investinglive.com/central-banks/blackrock-says-markets-overprice-fed-hikes-sees-two-not-three-as-energy-shock-fades/",
+      "title": "US September CaseShiller 20-city house price index +2.6 vs +2.7% expected",
+      "link": "https://investinglive.com/news/us-september-caseshiller-20-city-house-price-index-2-6-vs-2-7-expected/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY central rate at 6.7111 (vs. estimate at 6.6757)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-7111-vs-estimate-at-6-6757/",
+      "title": "Morning Kickstart. Nvidia slips after Monday’s surge. Nasdaq 100 futures fall 450 points. USD mostly lower",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-nvidia-slips-after-monday-s-surge-nasdaq-100-futures-fall-450-points-usd-mostly-lower/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Singapore sees AI boom carrying 2026, but slower AI investment growth to weigh on 2027",
-      "link": "https://investinglive.com/central-banks/singapore-sees-ai-boom-carrying-2026-but-slower-ai-investment-growth-to-weigh-on-2027/",
+      "title": "investingLive European news wrap: US futures give back Nvidia-led gains",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-us-futures-give-back-nvidia-led-gains/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bank of Korea seen hiking to 3.25% this week, with one final move in early 2027",
-      "link": "https://investinglive.com/central-banks/bank-of-korea-seen-hiking-to-3-25-this-week-with-one-final-move-in-early-2027/",
+      "title": "What is a short squeeze and why can it trigger violent rallies?",
+      "link": "https://investinglive.com/education/what-is-a-short-squeeze-and-why-can-it-trigger-violent-rallies/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6757 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6757-reuters-estimate/",
+      "title": "Suckers' Rally 3.0? Nasdaq surges as Nvidia reinstates Huang following White House pressure",
+      "link": "https://investinglive.com/stocks/suckers-rally-3-0-nasdaq-surges-as-nvidia-reinstates-huang-following-white-house-pressure/",
       "date": "2026-11-24"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Analysts cheer Huang's Nvidia return but question the board's sudden U-turn",
-      "link": "https://investinglive.com/stocks/analysts-cheer-huang-s-nvidia-return-but-question-the-board-s-sudden-u-turn/",
+      "title": "Markets didn't stay down for long",
+      "link": "https://investinglive.com/education/markets-didn-t-stay-down-for-long/",
       "date": "2026-11-24"
     }
   ]
