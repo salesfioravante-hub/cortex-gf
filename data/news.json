@@ -5,6 +5,34 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Card payments edge past cash in shops; euro area consumers want both",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+      "date": "2026-11-25"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Regulators implement growth-friendly securitisation reforms",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-implement-growth-friendly-securitisation-reforms",
+      "date": "2026-11-25"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261120.xlsx",
+      "date": "2026-11-25"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Indicators for Core CPI",
+      "link": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
+      "date": "2026-11-25"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Bank of Japan Accounts (November 20)",
@@ -40,13 +68,6 @@
       "date": "2026-11-24"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Services Producer Price Index (Oct.)",
-      "link": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2610.pdf",
-      "date": "2026-11-24"
-    },
-    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Philip R. Lane: Climate change and monetary policy",
@@ -68,13 +89,6 @@
       "date": "2026-11-23"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Statistics on Securities Financing Transactions in Japan",
-      "link": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
-      "date": "2026-11-23"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -86,13 +100,6 @@
       "source": "Fed",
       "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
       "link": "",
-      "date": "2026-11-20"
-    },
-    {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Christine Lagarde: Acting in time",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
       "date": "2026-11-20"
     },
     {
@@ -108,120 +115,113 @@
       "title": "Cyber resilience guidance consultation and AI and quantum effective practices",
       "link": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
       "date": "2026-11-19"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Minutes of the Market Participants Group meeting – 18 November 2026",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
-      "date": "2026-11-19"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Yen and euro both seen gaining on the dollar by end-2027, but on different paths",
-      "link": "https://investinglive.com/forex/yen-and-euro-both-seen-gaining-on-the-dollar-by-end-2027-but-on-different-paths/",
+      "title": "Wall Street braces for another beatdown as US futures tumble, tech selloff deepens",
+      "link": "https://investinglive.com/stocks/wall-street-braces-for-another-beatdown-as-us-futures-tumble-tech-selloff-deepens/",
       "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman sees 9% return for European stocks as 2027 earnings growth slows to 7%",
-      "link": "https://investinglive.com/stock-market-update/goldman-sees-9-return-for-european-stocks-as-2027-earnings-growth-slows-to-7/",
+      "title": "What Are Barriers in Trading? Learn About Defined-Risk Contracts in Our Free Webinar",
+      "link": "https://investinglive.com/education/what-are-barriers-in-trading-learn-about-defined-risk-contracts-in-our-free-webinar/",
       "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY mid-point today at 6.7088 (vs. estimate at 6.6559)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7088-vs-estimate-at-6-6559/",
+      "title": "Crude oil consolidates as bearish momentum eases while geopolitical risks remain high",
+      "link": "https://investinglive.com/commodities/crude-oil-consolidates-as-bearish-momentum-eases-while-geopolitical-risks-remain-high/",
       "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Australia trimmed mean CPI jumps to 3.8% in October, keeping further RBA hike risk alive",
-      "link": "https://investinglive.com/central-banks/australia-trimmed-mean-cpi-jumps-to-3-8-in-october-keeping-further-rba-hike-risk-alive/",
+      "title": "Ethereum remains under pressure as macro headwinds outweigh Nvidia-driven optimism",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-remains-under-pressure-as-macro-headwinds-outweigh-nvidia-driven-optimism/",
       "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "AUD jumps: Australia October trimmed mean CPI 3.8% y/y (expected 3.6%, prior 3.6%).",
-      "link": "https://investinglive.com/central-banks/aud-jumps-australia-october-trimmed-mean-cpi-3-8-y-y-expected-3-6-prior-3-6/",
+      "title": "Macro pulse: The Australian dollar can't catch a break, even with inflation running hot",
+      "link": "https://investinglive.com/education/macro-pulse-the-australian-dollar-can-t-catch-a-break-even-with-inflation-running-hot/",
       "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Japan services producer prices jump 4.2% in October, firming the case for a BOJ hike",
-      "link": "https://investinglive.com/news/japan-services-producer-prices-jump-4-2-in-october-firming-the-case-for-a-boj-hike/",
+      "title": "Howzit, Champions! HFM Brings Premier League Glory to Cape Town for Africa Trophy Tour Finale",
+      "link": "https://investinglive.com/education/howzit-champions-hfm-brings-premier-league-glory-to-cape-town-for-africa-trophy-tour-finale/",
       "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6559 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6559-reuters-estimate/",
+      "title": "Champions Don Land! HFM Brought Premier League Glory to Lagos with Arsenal Trophy Tour",
+      "link": "https://investinglive.com/education/champions-don-land-hfm-brought-premier-league-glory-to-lagos-with-arsenal-trophy-tour/",
       "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "RBA's Jacobs: five hikes have made policy clearly restrictive, but the squeeze is uneven",
-      "link": "https://investinglive.com/central-banks/rba-s-jacobs-five-hikes-have-made-policy-clearly-restrictive-but-the-squeeze-is-uneven/",
+      "title": "Mabingwa Wamefika! HFM Brought Premier League Glory to Nairobi with Arsenal Trophy Tour",
+      "link": "https://investinglive.com/education/mabingwa-wamefika-hfm-brought-premier-league-glory-to-nairobi-with-arsenal-trophy-tour/",
       "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "How crypto loans unwind: what a $43.8 million ether sale teaches about leverage",
-      "link": "https://investinglive.com/education/how-crypto-loans-unwind-what-a-43-8-million-ether-sale-teaches-about-leverage/",
-      "date": "2026-11-24"
+      "title": "Market playbook: Where do investors hide when stocks, gold and Bitcoin are all struggling?",
+      "link": "https://investinglive.com/education/market-playbook-where-do-investors-hide-when-stocks-gold-and-bitcoin-are-all-struggling/",
+      "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Saudi Arabia triples its oil storage in Japan as Tokyo buys 8m barrels to refill reserves",
-      "link": "https://investinglive.com/commodities/saudi-arabia-triples-its-oil-storage-in-japan-as-tokyo-buys-8m-barrels-to-refill-reserves/",
-      "date": "2026-11-24"
+      "title": "Why a forex prop firm's headline numbers leave part of the story untold",
+      "link": "https://investinglive.com/education/why-a-forex-prop-firm-s-headline-numbers-leave-part-of-the-story-untold/",
+      "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Trump floats a US government stake in Nvidia, calling the chipmaker vital to AI leadership",
-      "link": "https://investinglive.com/stocks/trump-floats-a-us-government-stake-in-nvidia-calling-the-chipmaker-vital-to-ai-leadership/",
-      "date": "2026-11-24"
+      "title": "Why tight stop losses are just a psychological trap",
+      "link": "https://investinglive.com/education/why-tight-stop-losses-are-just-a-psychological-trap/",
+      "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Barclays holds $100 Brent call for 2026, says bearish oil positioning ignores tight supply",
-      "link": "https://investinglive.com/commodities/barclays-holds-100-brent-call-for-2026-says-bearish-oil-positioning-ignores-tight-supply/",
-      "date": "2026-11-24"
+      "title": "European stock market open: Europe holds its nerve despite another Wall Street selloff",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-europe-holds-its-nerve-despite-another-wall-street-selloff/",
+      "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "US PCE preview: inflation seen near 3.8% in the Fed's last read before a December hike",
-      "link": "https://investinglive.com/central-banks/us-pce-preview-inflation-seen-near-3-8-in-the-fed-s-last-read-before-a-december-hike/",
-      "date": "2026-11-24"
+      "title": "Gold erases gains as Nvidia optimism fades and US moves to restore tariffs to 2025 levels",
+      "link": "https://investinglive.com/commodities/gold-erases-gains-as-nvidia-optimism-fades-and-us-moves-to-restore-tariffs-to-2025-levels/",
+      "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Deutsche Bank sees S&P 500 at 9,000 by end-2027, 25% upside on AI-driven earnings",
-      "link": "https://investinglive.com/stock-market-update/deutsche-bank-sees-s-p-500-at-9-000-by-end-2027-25-upside-on-ai-driven-earnings/",
-      "date": "2026-11-24"
+      "title": "France November consumer confidence improves slightly but economic worries persist",
+      "link": "https://investinglive.com/news/france-november-consumer-confidence-improves-slightly-but-economic-worries-persist/",
+      "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "JPMorgan's 8,200 S&P 500 target for 2027 sits below peers as Fed risk tempers AI upside",
-      "link": "https://investinglive.com/stock-market-update/jpmorgan-s-8-200-s-p-500-target-for-2027-sits-below-peers-as-fed-risk-tempers-ai-upside/",
-      "date": "2026-11-24"
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-93/",
+      "date": "2026-11-25"
     }
   ]
 }
