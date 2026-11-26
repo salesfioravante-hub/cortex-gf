@@ -14,6 +14,13 @@
     {
       "cur": "GBP",
       "source": "BoE",
+      "title": "Payments systems Memorandum of Understanding",
+      "link": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
       "title": "Statistical Notice 2026/09 - Update to the classification of accounts guide",
       "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09",
       "date": "2026-11-26"
@@ -103,13 +110,6 @@
       "date": "2026-11-24"
     },
     {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
-      "link": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
-      "date": "2026-11-24"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -118,6 +118,62 @@
     }
   ],
   "ticker": [
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "ECB picks Spain's Hernández de Cos as president, with 3 tests waiting from day one",
+      "link": "https://investinglive.com/central-banks/ecb-picks-spain-s-hernandez-de-cos-as-president-with-3-tests-waiting-from-day-one/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "JPMorgan sees bitcoin capitulation in record Strategy discount, but 3 risks cloud the call",
+      "link": "https://investinglive.com/cryptocurrency/jpmorgan-sees-bitcoin-capitulation-in-record-strategy-discount-but-3-risks-cloud-the-call/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Five questions over Nvidia's China chip trail that Huang's return has not settled",
+      "link": "https://investinglive.com/stocks/five-questions-over-nvidia-s-china-chip-trail-that-huang-s-return-has-not-settled/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "NZ consumer confidence breaks 100 as falling fuel prices cool inflation fears",
+      "link": "https://investinglive.com/news/nz-consumer-confidence-breaks-100-as-falling-fuel-prices-cool-inflation-fears/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Tokyo CPI preview: core inflation seen jumping to 3% three weeks before BoJ decision",
+      "link": "https://investinglive.com/central-banks/tokyo-cpi-preview-core-inflation-seen-jumping-to-3-three-weeks-before-boj-decision/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "European stocks surge, S&P 500 futures finish higher in Thanksgiving trading",
+      "link": "https://investinglive.com/stocks/european-stocks-surge-s-p-500-futures-finish-higher-in-thanksgiving-trading/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "EU leaders set to confirm backing for Spain's De Cos as next ECB President - report",
+      "link": "https://investinglive.com/central-banks/eu-leaders-set-to-confirm-backing-for-spain-s-de-cos-as-next-ecb-president-report/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "CoreWeave bond yields are approaching 19%. Why even stock investors should pay attention",
+      "link": "https://investinglive.com/stocks/coreweave-bond-yields-are-approaching-19-why-even-stock-investors-should-pay-attention/",
+      "date": "2026-11-26"
+    },
     {
       "cur": "MKT",
       "source": "ForexLive",
@@ -165,62 +221,6 @@
       "source": "ForexLive",
       "title": "Zcash continues to face macro headwinds despite improving adoption developments. What's next?",
       "link": "https://investinglive.com/cryptocurrency/zcash-continues-to-face-macro-headwinds-despite-improving-adoption-developments-what-s-next/",
-      "date": "2026-11-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Macro pulse: Is the Santa Claus rally losing its magic on Wall Street?",
-      "link": "https://investinglive.com/education/macro-pulse-is-the-santa-claus-rally-losing-its-magic-on-wall-street/",
-      "date": "2026-11-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Crude oil finds some footing as prolonged US-Iran tensions keep the downside limited. What's next?",
-      "link": "https://investinglive.com/commodities/crude-oil-finds-some-footing-as-prolonged-us-iran-tensions-keep-the-downside-limited-what-s-next/",
-      "date": "2026-11-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Month-end FX rebalancing signals favour the dollar - Credit Agricole",
-      "link": "https://investinglive.com/orders/month-end-fx-rebalancing-signals-favour-the-dollar-credit-agricole/",
-      "date": "2026-11-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Bitcoin consolidates at yearly lows as traders await fresh catalyst amid negative backdrop",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-consolidates-at-yearly-lows-as-traders-await-fresh-catalyst-amid-negative-backdrop/",
-      "date": "2026-11-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stock market open: Stocks surge after stunning Wall Street turnaround",
-      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-surge-after-stunning-wall-street-turnaround/",
-      "date": "2026-11-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold remains caught between forced liquidations and hawkish Fed bets. What could trigger a reversal?",
-      "link": "https://investinglive.com/commodities/gold-remains-caught-between-forced-liquidations-and-hawkish-fed-bets-what-could-trigger-a-reversal/",
-      "date": "2026-11-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "China hits back at Trump’s latest tariff threat as trade war tensions resurface",
-      "link": "https://investinglive.com/news/china-hits-back-at-trump-s-latest-tariff-threat-as-trade-war-tensions-resurface/",
-      "date": "2026-11-26"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "What are the main events for today?",
-      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-94/",
       "date": "2026-11-26"
     }
   ]
