@@ -5,6 +5,27 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Meeting of 28-29 October 2026",
+      "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Statistical Notice 2026/09 - Update to the classification of accounts guide",
+      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "GBP",
+      "source": "BoE",
+      "title": "Financial Policy Committee Record – November 2026",
+      "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+      "date": "2026-11-26"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "Speech by Board Member TAMURA in Yamanashi (Economic Activity, Prices, and Monetary Policy in Japan)",
@@ -89,139 +110,118 @@
       "date": "2026-11-24"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Philip R. Lane: Climate change and monetary policy",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
-      "date": "2026-11-23"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
-      "link": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
-      "date": "2026-11-23"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve announces College Fed Challenge winners",
       "link": "",
       "date": "2026-11-20"
-    },
-    {
-      "cur": "GBP",
-      "source": "BoE",
-      "title": "Cyber resilience guidance consultation and AI and quantum effective practices",
-      "link": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
-      "date": "2026-11-19"
     }
   ],
   "ticker": [
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "My Nvidia stock analysis shows bulls are better than what most seem to think",
-      "link": "https://investinglive.com/stocks/my-nvidia-stock-analysis-shows-bulls-are-better-than-what-most-seem-to-think/",
+      "title": "EUR/USD might be bottoming out amid peak Fed hawkishness and dovish repricing risks",
+      "link": "https://investinglive.com/forex/eur-usd-might-be-bottoming-out-amid-peak-fed-hawkishness-and-dovish-repricing-risks/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Ray Dalio's 10-15% gold call resurfaces as bullion tries to find its feet",
-      "link": "https://investinglive.com/commodities/ray-dalio-s-10-15-gold-call-resurfaces-as-bullion-tries-to-find-its-feet/",
+      "title": "investingLive European session wrap: European stocks ride Wall Street's comeback into Thanksgiving",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-european-stocks-ride-wall-street-s-comeback-into-thanksgiving/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Franklin Templeton adds Hyperliquid's HYPE to its EZPZ crypto index ETF from December 1",
-      "link": "https://investinglive.com/cryptocurrency/franklin-templeton-adds-hyperliquid-s-hype-to-its-ezpz-crypto-index-etf-from-december-1/",
+      "title": "Wall Street’s earnings mood is starting to improve. Is the stock market finding a bottom?",
+      "link": "https://investinglive.com/stocks/wall-street-s-earnings-mood-is-starting-to-improve-is-the-stock-market-finding-a-bottom/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bank of Korea signals more hikes as 15 of 21 rate projections sit above 3.25%",
-      "link": "https://investinglive.com/central-banks/bank-of-korea-signals-more-hikes-as-15-of-21-rate-projections-sit-above-3-25/",
+      "title": "Connecting the dots: Is big tech starting to outgrow its own valuation playbook?",
+      "link": "https://investinglive.com/education/connecting-the-dots-is-big-tech-starting-to-outgrow-its-own-valuation-playbook/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "S&P puts Nvidia's AA rating on watch for a possible cut, as Moody's holds steady",
-      "link": "https://investinglive.com/stocks/s-p-puts-nvidia-s-aa-rating-on-watch-for-a-possible-cut-as-moody-s-holds-steady/",
+      "title": "Anthropic shares are now available on Xlence",
+      "link": "https://investinglive.com/education/anthropic-shares-are-now-available-on-xlence/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Goldman says hedge funds pile into shorts, with ETF shorts posting a 19-point weekly jump",
-      "link": "https://investinglive.com/stocks/goldman-says-hedge-funds-pile-into-shorts-with-etf-shorts-posting-a-19-point-weekly-jump/",
+      "title": "What really drives the FX market? A look at interest rate differentials",
+      "link": "https://investinglive.com/education/what-really-drives-the-fx-market-a-look-at-interest-rate-differentials/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7096 (vs. estimate at 6.6655)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7096-vs-estimate-at-6-6655/",
+      "title": "Zcash continues to face macro headwinds despite improving adoption developments. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/zcash-continues-to-face-macro-headwinds-despite-improving-adoption-developments-what-s-next/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "BoJ's Tamura says rates must reach neutral 'soon', still sees neutral near 2%",
-      "link": "https://investinglive.com/central-banks/boj-s-tamura-says-rates-must-reach-neutral-soon-still-sees-neutral-near-2/",
+      "title": "Macro pulse: Is the Santa Claus rally losing its magic on Wall Street?",
+      "link": "https://investinglive.com/education/macro-pulse-is-the-santa-claus-rally-losing-its-magic-on-wall-street/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Bank of Korea hikes to 3.25%, sees 4.1% growth in 2027 as chip boom drives economy",
-      "link": "https://investinglive.com/central-banks/bank-of-korea-hikes-to-3-25-sees-4-1-growth-in-2027-as-chip-boom-drives-economy/",
+      "title": "Crude oil finds some footing as prolonged US-Iran tensions keep the downside limited. What's next?",
+      "link": "https://investinglive.com/commodities/crude-oil-finds-some-footing-as-prolonged-us-iran-tensions-keep-the-downside-limited-what-s-next/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "The RBA's three 'stars' are fuzzier than they look: what it means for AUD and stocks",
-      "link": "https://investinglive.com/education/the-rba-s-three-stars-are-fuzzier-than-they-look-what-it-means-for-aud-and-stocks/",
+      "title": "Month-end FX rebalancing signals favour the dollar - Credit Agricole",
+      "link": "https://investinglive.com/orders/month-end-fx-rebalancing-signals-favour-the-dollar-credit-agricole/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Australia's data centre boom drives the biggest capex jump in years, near mining-boom highs",
-      "link": "https://investinglive.com/news/australia-s-data-centre-boom-drives-the-biggest-capex-jump-in-years-near-mining-boom-highs/",
+      "title": "Bitcoin consolidates at yearly lows as traders await fresh catalyst amid negative backdrop",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-consolidates-at-yearly-lows-as-traders-await-fresh-catalyst-amid-negative-backdrop/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6655 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6655-reuters-estimate-0/",
+      "title": "European stock market open: Stocks surge after stunning Wall Street turnaround",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-surge-after-stunning-wall-street-turnaround/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Nikkei and Kospi rebound over 1% as Asia follows Wall Street's comeback, BoK decision next",
-      "link": "https://investinglive.com/stock-market-update/nikkei-and-kospi-rebound-over-1-as-asia-follows-wall-street-s-comeback-bok-decision-next/",
+      "title": "Gold remains caught between forced liquidations and hawkish Fed bets. What could trigger a reversal?",
+      "link": "https://investinglive.com/commodities/gold-remains-caught-between-forced-liquidations-and-hawkish-fed-bets-what-could-trigger-a-reversal/",
       "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Citi says fear is extreme, but stocks rose after 13 of 14 past VIX spikes to 40",
-      "link": "https://investinglive.com/stocks/citi-says-fear-is-extreme-but-stocks-rose-after-13-of-14-past-vix-spikes-to-40/",
-      "date": "2026-11-25"
+      "title": "China hits back at Trump’s latest tariff threat as trade war tensions resurface",
+      "link": "https://investinglive.com/news/china-hits-back-at-trump-s-latest-tariff-threat-as-trade-war-tensions-resurface/",
+      "date": "2026-11-26"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Projectile explodes near tanker 50 nautical miles off Dubai as Gulf shipping attacks mount",
-      "link": "https://investinglive.com/commodities/projectile-explodes-near-tanker-50-nautical-miles-off-dubai-as-gulf-shipping-attacks-mount/",
-      "date": "2026-11-25"
+      "title": "What are the main events for today?",
+      "link": "https://investinglive.com/news/what-are-the-main-events-for-today-94/",
+      "date": "2026-11-26"
     }
   ]
 }
