@@ -1,9 +1,16 @@
 {
-  "asof": "2026-11-25",
+  "asof": "2026-11-26",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Speech by Board Member TAMURA in Yamanashi (Economic Activity, Prices, and Monetary Policy in Japan)",
+      "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261126a.htm",
+      "date": "2026-11-26"
+    },
     {
       "cur": "USD",
       "source": "Fed",
@@ -82,13 +89,6 @@
       "date": "2026-11-24"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Average Contract Interest Rates on Loans and Discounts (Sept.)",
-      "link": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2609.pdf",
-      "date": "2026-11-24"
-    },
-    {
       "cur": "EUR",
       "source": "BCE",
       "title": "Philip R. Lane: Climate change and monetary policy",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Americas FX news wrap 25 Nov: It’s a Wrap. S&P 500 and Nasdaq pare steep losses",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-25-nov-it-s-a-wrap-s-p-500-and-nasdaq-pare-steep-losses/",
+      "title": "My Nvidia stock analysis shows bulls are better than what most seem to think",
+      "link": "https://investinglive.com/stocks/my-nvidia-stock-analysis-shows-bulls-are-better-than-what-most-seem-to-think/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Ray Dalio's 10-15% gold call resurfaces as bullion tries to find its feet",
+      "link": "https://investinglive.com/commodities/ray-dalio-s-10-15-gold-call-resurfaces-as-bullion-tries-to-find-its-feet/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Franklin Templeton adds Hyperliquid's HYPE to its EZPZ crypto index ETF from December 1",
+      "link": "https://investinglive.com/cryptocurrency/franklin-templeton-adds-hyperliquid-s-hype-to-its-ezpz-crypto-index-etf-from-december-1/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bank of Korea signals more hikes as 15 of 21 rate projections sit above 3.25%",
+      "link": "https://investinglive.com/central-banks/bank-of-korea-signals-more-hikes-as-15-of-21-rate-projections-sit-above-3-25/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "S&P puts Nvidia's AA rating on watch for a possible cut, as Moody's holds steady",
+      "link": "https://investinglive.com/stocks/s-p-puts-nvidia-s-aa-rating-on-watch-for-a-possible-cut-as-moody-s-holds-steady/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Goldman says hedge funds pile into shorts, with ETF shorts posting a 19-point weekly jump",
+      "link": "https://investinglive.com/stocks/goldman-says-hedge-funds-pile-into-shorts-with-etf-shorts-posting-a-19-point-weekly-jump/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7096 (vs. estimate at 6.6655)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7096-vs-estimate-at-6-6655/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "BoJ's Tamura says rates must reach neutral 'soon', still sees neutral near 2%",
+      "link": "https://investinglive.com/central-banks/boj-s-tamura-says-rates-must-reach-neutral-soon-still-sees-neutral-near-2/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Bank of Korea hikes to 3.25%, sees 4.1% growth in 2027 as chip boom drives economy",
+      "link": "https://investinglive.com/central-banks/bank-of-korea-hikes-to-3-25-sees-4-1-growth-in-2027-as-chip-boom-drives-economy/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "The RBA's three 'stars' are fuzzier than they look: what it means for AUD and stocks",
+      "link": "https://investinglive.com/education/the-rba-s-three-stars-are-fuzzier-than-they-look-what-it-means-for-aud-and-stocks/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Australia's data centre boom drives the biggest capex jump in years, near mining-boom highs",
+      "link": "https://investinglive.com/news/australia-s-data-centre-boom-drives-the-biggest-capex-jump-in-years-near-mining-boom-highs/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6655 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6655-reuters-estimate-0/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Nikkei and Kospi rebound over 1% as Asia follows Wall Street's comeback, BoK decision next",
+      "link": "https://investinglive.com/stock-market-update/nikkei-and-kospi-rebound-over-1-as-asia-follows-wall-street-s-comeback-bok-decision-next/",
+      "date": "2026-11-26"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
+      "title": "Citi says fear is extreme, but stocks rose after 13 of 14 past VIX spikes to 40",
+      "link": "https://investinglive.com/stocks/citi-says-fear-is-extreme-but-stocks-rose-after-13-of-14-past-vix-spikes-to-40/",
       "date": "2026-11-25"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "A junk-rated borrower with an AA-rated customer: CoreWeave's next loan leans on Meta",
-      "link": "https://investinglive.com/stocks/a-junk-rated-borrower-with-an-aa-rated-customer-coreweave-s-next-loan-leans-on-meta/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold bulls may have been waiting months for a chart like this",
-      "link": "https://investinglive.com/commodities/gold-bulls-may-have-been-waiting-months-for-a-chart-like-this/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "U.S. stocks close mixed as Dow reverses a 1,105-point drop",
-      "link": "https://investinglive.com/stocks/u-s-stocks-close-mixed-as-dow-reverses-a-1-105-point-drop/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Economic and event calendar in Asia Thursday, November 26, 2026: BoK, BoJ, turkey later",
-      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-thursday-november-26-2026-bok-boj-turkey-later/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "The Nasdaq looked over the edge. Support held. Now what?",
-      "link": "https://investinglive.com/stocks/the-nasdaq-looked-over-the-edge-support-held-now-what/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Beige Book: Eight of 12 districts report growth as wage pressures pick up",
-      "link": "https://investinglive.com/central-banks/beige-book-eight-of-12-districts-report-growth-as-wage-pressures-pick-up/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Stock markets mount a huge comeback",
-      "link": "https://investinglive.com/stocks/stock-markets-mount-a-huge-comeback/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Baker Hughes US rig count holds steady at 607. Oil rigs rise by one.",
-      "link": "https://investinglive.com/commodities/baker-hughes-us-rig-count-holds-steady-at-607-oil-rigs-rise-by-one/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Trump blames the election for the selloff. Here’s what I’m watching.",
-      "link": "https://investinglive.com/news/trump-blames-the-election-for-the-selloff-here-s-what-i-m-watching/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stocks close lower as the Nasdaq 100 sheds nearly 4%.",
-      "link": "https://investinglive.com/stocks/european-stocks-close-lower-as-the-nasdaq-100-sheds-nearly-4/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "US treasury sells $44 billion of 7-year notes at a high yield of 4.708%",
-      "link": "https://investinglive.com/news/us-treasury-sells-44-billion-of-70-or-notes-at-a-high-yield-of-4-708/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "We are in the railway boom, but just discovered the airplane",
-      "link": "https://investinglive.com/stocks/we-are-in-the-railway-boom-but-just-discovered-the-airplane/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "What is order flow trading? How to read buying and selling pressure beyond chart patterns",
-      "link": "https://investinglive.com/education/what-is-order-flow-trading-how-to-read-buying-and-selling-pressure-beyond-chart-patterns/",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "Gold is sitting on the edge of support at $3,425 despite lower yields",
-      "link": "https://investinglive.com/commodities/gold-is-sitting-on-the-edge-of-support-at-3-425-despite-lower-yields/",
+      "title": "Projectile explodes near tanker 50 nautical miles off Dubai as Gulf shipping attacks mount",
+      "link": "https://investinglive.com/commodities/projectile-explodes-near-tanker-50-nautical-miles-off-dubai-as-gulf-shipping-attacks-mount/",
       "date": "2026-11-25"
     }
   ]
