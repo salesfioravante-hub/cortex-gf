@@ -5,6 +5,20 @@
   "provider": "RSS BC",
   "items": [
     {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+      "date": "2026-11-27"
+    },
+    {
+      "cur": "EUR",
+      "source": "BCE",
+      "title": "ECB Consumer Expectations Survey results – October 2026",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+      "date": "2026-11-27"
+    },
+    {
       "cur": "JPY",
       "source": "BoJ",
       "title": "(BOJ Review) Developments in JGB Market-Making Business by Securities Companies",
@@ -75,13 +89,6 @@
       "date": "2026-11-25"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Card payments edge past cash in shops; euro area consumers want both",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
-      "date": "2026-11-25"
-    },
-    {
       "cur": "GBP",
       "source": "BoE",
       "title": "Regulators implement growth-friendly securitisation reforms",
@@ -103,13 +110,6 @@
       "date": "2026-11-24"
     },
     {
-      "cur": "EUR",
-      "source": "BCE",
-      "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
-      "date": "2026-11-24"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -121,106 +121,106 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "FX option expiries for 27 November 10am New York cut",
-      "link": "https://investinglive.com/orders/fx-option-expiries-for-27-november-10am-new-york-cut/",
+      "title": "US stock markets climb to the highs of the day as tech leads",
+      "link": "https://investinglive.com/stocks/us-stock-markets-climb-to-the-highs-of-the-day-as-tech-leads/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Reminder: Wall Street is back today but will dip buyers have the last laugh?",
-      "link": "https://investinglive.com/stocks/reminder-wall-street-is-back-today-but-will-dip-buyers-have-the-last-laugh/",
+      "title": "IRGC Navy commander says breaking the US naval blockade is imminent",
+      "link": "https://investinglive.com/commodities/irgc-navy-commander-says-breaking-the-us-naval-blockade-is-imminent/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold begins to find its feet again but are buyers out of the woods yet?",
-      "link": "https://investinglive.com/commodities/gold-begins-to-find-its-feet-again-but-are-buyers-out-of-the-woods-yet/",
+      "title": "Brazil's EWZ up 13% as Lula hands the finance ministry to a banker",
+      "link": "https://investinglive.com/stocks/brazil-s-ewz-up-13-as-lula-hands-the-finance-ministry-to-a-banker/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive Asia-Pacific market news: Kosdaq jumps 6.7% as risk appetite returns, gold rebounds",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-6-7-as-risk-appetite-returns-gold-rebounds/",
+      "title": "October US advance goods trade balance -149.5B vs -133.0B expected",
+      "link": "https://investinglive.com/news/october-us-advance-goods-trade-balance-149-5b-vs-133-0b-expected/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Five steps from China's cabinet to shore up its stock market, but no numbers yet",
-      "link": "https://investinglive.com/stocks/five-steps-from-china-s-cabinet-to-shore-up-its-stock-market-but-no-numbers-yet/",
+      "title": "Green Friday: US stock futures surge as the AI trade comes back to life",
+      "link": "https://investinglive.com/stocks/green-friday-us-stock-futures-surge-as-the-ai-trade-comes-back-to-life/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Aussie upside capped as jobless rate hits 4.9% and the RBA nears its peak, OCBC says",
-      "link": "https://investinglive.com/central-banks/aussie-upside-capped-as-jobless-rate-hits-4-9-and-the-rba-nears-its-peak-ocbc-says/",
+      "title": "investingLive European session wrap: Post-Thanksgiving optimism lifts stocks, gold",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-post-thanksgiving-optimism-lifts-stocks-gold/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ICYMI: SpaceX and Musk to hand shares to every child holding an active Trump Account",
-      "link": "https://investinglive.com/stocks/icymi-spacex-and-musk-to-hand-shares-to-every-child-holding-an-active-trump-account/",
+      "title": "Black Friday's Record Spending Trap: Why Good Economic News Isn't Always Good Market News",
+      "link": "https://investinglive.com/education/black-friday-s-record-spending-trap-why-good-economic-news-isn-t-always-good-market-news/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China's industrial profits jump 20.1% in October as electronics do the heavy lifting",
-      "link": "https://investinglive.com/news/china-s-industrial-profits-jump-20-1-in-october-as-electronics-do-the-heavy-lifting/",
+      "title": "S&P 500 rebounds as growth concerns ease and Nvidia lifts sentiment, but underlying macro headwinds remain unchanged",
+      "link": "https://investinglive.com/stocks/s-p-500-rebounds-as-growth-concerns-ease-and-nvidia-lifts-sentiment-but-underlying-macro-headwinds-remain-unchanged/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "RBI buys no gold for six months but brings another 60 tonnes home",
-      "link": "https://investinglive.com/commodities/rbi-buys-no-gold-for-six-months-but-brings-another-60-tonnes-home/",
+      "title": "How have interest rate expectations changed after this week's events?",
+      "link": "https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-10/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "IMF tells RBA to stand ready for more hikes, even after 125bp of tightening this year",
-      "link": "https://investinglive.com/central-banks/imf-tells-rba-to-stand-ready-for-more-hikes-even-after-125bp-of-tightening-this-year/",
+      "title": "Connecting the dots: When does the AI selloff become a Fed problem?",
+      "link": "https://investinglive.com/education/connecting-the-dots-when-does-the-ai-selloff-become-a-fed-problem/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Warsh's 2018 dilemma returns as an AI stock rout meets a Fed bent on taming inflation",
-      "link": "https://investinglive.com/central-banks/warsh-s-2018-dilemma-returns-as-an-ai-stock-rout-meets-a-fed-bent-on-taming-inflation/",
+      "title": "Solana remains mostly rangebound as the negative macro backdrop limits the recovery. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/solana-remains-mostly-rangebound-as-the-negative-macro-backdrop-limits-the-recovery-what-s-next/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "China's industrial profits growth speeds up to 20.1% y/y in October",
-      "link": "https://investinglive.com/news/china-s-industrial-profits-growth-speeds-up-to-20-1-y-y-in-october/",
+      "title": "Crude oil extends the rebound as growth concerns ease and US-Iran tensions provide support",
+      "link": "https://investinglive.com/commodities/crude-oil-extends-the-rebound-as-growth-concerns-ease-and-us-iran-tensions-provide-support/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Kiwi edges higher as official NZ election count confirms a hung parliament",
-      "link": "https://investinglive.com/news/kiwi-edges-higher-as-official-nz-election-count-confirms-a-hung-parliament/",
+      "title": "Ethereum consolidates near yearly lows as bearish macro backdrop remains intact despite short-covering",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-consolidates-near-yearly-lows-as-bearish-macro-backdrop-remains-intact-despite-short-covering/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7075 (vs. estimate at 6.6604)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7075-vs-estimate-at-6-6604/",
+      "title": "Germany unemployment rises more than expected in November as labour market struggles persist",
+      "link": "https://investinglive.com/news/germany-unemployment-rises-more-than-expected-in-november-as-labour-market-struggles-persist/",
       "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Gold's downside looks limited because the dollar has already done most of its work, CBA says",
-      "link": "https://investinglive.com/commodities/gold-s-downside-looks-limited-because-the-dollar-has-already-done-most-of-its-work-cba-says/",
+      "title": "European stock market open: The rebound party rolls on",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-the-rebound-party-rolls-on/",
       "date": "2026-11-27"
     }
   ]
