@@ -1,9 +1,23 @@
 {
-  "asof": "2026-11-26",
+  "asof": "2026-11-27",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
   "items": [
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "(BOJ Review) Developments in JGB Market-Making Business by Securities Companies",
+      "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e14.htm",
+      "date": "2026-11-27"
+    },
+    {
+      "cur": "JPY",
+      "source": "BoJ",
+      "title": "Keynote speech by Executive Director KAMIYAMA at the IMF MCM-OAP Seminar in Tokyo (Digital Money and Payments: Transitioning Toward a New Paradigm)",
+      "link": "http://www.boj.or.jp/en/about/press/koen_2026/ko261127a.htm",
+      "date": "2026-11-27"
+    },
     {
       "cur": "EUR",
       "source": "BCE",
@@ -82,20 +96,6 @@
       "date": "2026-11-25"
     },
     {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Indicators for Core CPI",
-      "link": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "JPY",
-      "source": "BoJ",
-      "title": "Bank of Japan Accounts (November 20)",
-      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261120.htm",
-      "date": "2026-11-25"
-    },
-    {
       "cur": "USD",
       "source": "Fed",
       "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
@@ -121,107 +121,107 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "ECB picks Spain's Hernández de Cos as president, with 3 tests waiting from day one",
-      "link": "https://investinglive.com/central-banks/ecb-picks-spain-s-hernandez-de-cos-as-president-with-3-tests-waiting-from-day-one/",
-      "date": "2026-11-26"
+      "title": "FX option expiries for 27 November 10am New York cut",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-27-november-10am-new-york-cut/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "JPMorgan sees bitcoin capitulation in record Strategy discount, but 3 risks cloud the call",
-      "link": "https://investinglive.com/cryptocurrency/jpmorgan-sees-bitcoin-capitulation-in-record-strategy-discount-but-3-risks-cloud-the-call/",
-      "date": "2026-11-26"
+      "title": "Reminder: Wall Street is back today but will dip buyers have the last laugh?",
+      "link": "https://investinglive.com/stocks/reminder-wall-street-is-back-today-but-will-dip-buyers-have-the-last-laugh/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Five questions over Nvidia's China chip trail that Huang's return has not settled",
-      "link": "https://investinglive.com/stocks/five-questions-over-nvidia-s-china-chip-trail-that-huang-s-return-has-not-settled/",
-      "date": "2026-11-26"
+      "title": "Gold begins to find its feet again but are buyers out of the woods yet?",
+      "link": "https://investinglive.com/commodities/gold-begins-to-find-its-feet-again-but-are-buyers-out-of-the-woods-yet/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "NZ consumer confidence breaks 100 as falling fuel prices cool inflation fears",
-      "link": "https://investinglive.com/news/nz-consumer-confidence-breaks-100-as-falling-fuel-prices-cool-inflation-fears/",
-      "date": "2026-11-26"
+      "title": "investingLive Asia-Pacific market news: Kosdaq jumps 6.7% as risk appetite returns, gold rebounds",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-6-7-as-risk-appetite-returns-gold-rebounds/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Tokyo CPI preview: core inflation seen jumping to 3% three weeks before BoJ decision",
-      "link": "https://investinglive.com/central-banks/tokyo-cpi-preview-core-inflation-seen-jumping-to-3-three-weeks-before-boj-decision/",
-      "date": "2026-11-26"
+      "title": "Five steps from China's cabinet to shore up its stock market, but no numbers yet",
+      "link": "https://investinglive.com/stocks/five-steps-from-china-s-cabinet-to-shore-up-its-stock-market-but-no-numbers-yet/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "European stocks surge, S&P 500 futures finish higher in Thanksgiving trading",
-      "link": "https://investinglive.com/stocks/european-stocks-surge-s-p-500-futures-finish-higher-in-thanksgiving-trading/",
-      "date": "2026-11-26"
+      "title": "Aussie upside capped as jobless rate hits 4.9% and the RBA nears its peak, OCBC says",
+      "link": "https://investinglive.com/central-banks/aussie-upside-capped-as-jobless-rate-hits-4-9-and-the-rba-nears-its-peak-ocbc-says/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "EU leaders set to confirm backing for Spain's De Cos as next ECB President - report",
-      "link": "https://investinglive.com/central-banks/eu-leaders-set-to-confirm-backing-for-spain-s-de-cos-as-next-ecb-president-report/",
-      "date": "2026-11-26"
+      "title": "ICYMI: SpaceX and Musk to hand shares to every child holding an active Trump Account",
+      "link": "https://investinglive.com/stocks/icymi-spacex-and-musk-to-hand-shares-to-every-child-holding-an-active-trump-account/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "CoreWeave bond yields are approaching 19%. Why even stock investors should pay attention",
-      "link": "https://investinglive.com/stocks/coreweave-bond-yields-are-approaching-19-why-even-stock-investors-should-pay-attention/",
-      "date": "2026-11-26"
+      "title": "China's industrial profits jump 20.1% in October as electronics do the heavy lifting",
+      "link": "https://investinglive.com/news/china-s-industrial-profits-jump-20-1-in-october-as-electronics-do-the-heavy-lifting/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "EUR/USD might be bottoming out amid peak Fed hawkishness and dovish repricing risks",
-      "link": "https://investinglive.com/forex/eur-usd-might-be-bottoming-out-amid-peak-fed-hawkishness-and-dovish-repricing-risks/",
-      "date": "2026-11-26"
+      "title": "RBI buys no gold for six months but brings another 60 tonnes home",
+      "link": "https://investinglive.com/commodities/rbi-buys-no-gold-for-six-months-but-brings-another-60-tonnes-home/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "investingLive European session wrap: European stocks ride Wall Street's comeback into Thanksgiving",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-european-stocks-ride-wall-street-s-comeback-into-thanksgiving/",
-      "date": "2026-11-26"
+      "title": "IMF tells RBA to stand ready for more hikes, even after 125bp of tightening this year",
+      "link": "https://investinglive.com/central-banks/imf-tells-rba-to-stand-ready-for-more-hikes-even-after-125bp-of-tightening-this-year/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Wall Street’s earnings mood is starting to improve. Is the stock market finding a bottom?",
-      "link": "https://investinglive.com/stocks/wall-street-s-earnings-mood-is-starting-to-improve-is-the-stock-market-finding-a-bottom/",
-      "date": "2026-11-26"
+      "title": "Warsh's 2018 dilemma returns as an AI stock rout meets a Fed bent on taming inflation",
+      "link": "https://investinglive.com/central-banks/warsh-s-2018-dilemma-returns-as-an-ai-stock-rout-meets-a-fed-bent-on-taming-inflation/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Connecting the dots: Is big tech starting to outgrow its own valuation playbook?",
-      "link": "https://investinglive.com/education/connecting-the-dots-is-big-tech-starting-to-outgrow-its-own-valuation-playbook/",
-      "date": "2026-11-26"
+      "title": "China's industrial profits growth speeds up to 20.1% y/y in October",
+      "link": "https://investinglive.com/news/china-s-industrial-profits-growth-speeds-up-to-20-1-y-y-in-october/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Anthropic shares are now available on Xlence",
-      "link": "https://investinglive.com/education/anthropic-shares-are-now-available-on-xlence/",
-      "date": "2026-11-26"
+      "title": "Kiwi edges higher as official NZ election count confirms a hung parliament",
+      "link": "https://investinglive.com/news/kiwi-edges-higher-as-official-nz-election-count-confirms-a-hung-parliament/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "What really drives the FX market? A look at interest rate differentials",
-      "link": "https://investinglive.com/education/what-really-drives-the-fx-market-a-look-at-interest-rate-differentials/",
-      "date": "2026-11-26"
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7075 (vs. estimate at 6.6604)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7075-vs-estimate-at-6-6604/",
+      "date": "2026-11-27"
     },
     {
       "cur": "MKT",
       "source": "ForexLive",
-      "title": "Zcash continues to face macro headwinds despite improving adoption developments. What's next?",
-      "link": "https://investinglive.com/cryptocurrency/zcash-continues-to-face-macro-headwinds-despite-improving-adoption-developments-what-s-next/",
-      "date": "2026-11-26"
+      "title": "Gold's downside looks limited because the dollar has already done most of its work, CBA says",
+      "link": "https://investinglive.com/commodities/gold-s-downside-looks-limited-because-the-dollar-has-already-done-most-of-its-work-cba-says/",
+      "date": "2026-11-27"
     }
   ]
 }
