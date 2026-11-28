@@ -68,20 +68,6 @@
       "date": "2026-11-26"
     },
     {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "link": "",
-      "date": "2026-11-25"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "link": "",
-      "date": "2026-11-25"
-    },
-    {
       "cur": "EUR",
       "source": "BCE",
       "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
@@ -101,20 +87,6 @@
       "title": "Japanese Government Bonds Held by the Bank of Japan",
       "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261120.xlsx",
       "date": "2026-11-25"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-      "link": "",
-      "date": "2026-11-24"
-    },
-    {
-      "cur": "USD",
-      "source": "Fed",
-      "title": "Federal Reserve announces College Fed Challenge winners",
-      "link": "",
-      "date": "2026-11-20"
     }
   ],
   "ticker": [
