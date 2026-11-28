@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-27",
+  "asof": "2026-11-28",
   "source": "Bancos centrais (RSS) + mercado (ForexLive/FXStreet)",
   "status": "ok",
   "provider": "RSS BC",
@@ -121,6 +121,13 @@
     {
       "cur": "MKT",
       "source": "ForexLive",
+      "title": "At the close: S&P 500 records best week since April 2025",
+      "link": "https://investinglive.com/stocks/at-the-close-s-p-500-records-best-week-since-april-2025/",
+      "date": "2026-11-27"
+    },
+    {
+      "cur": "MKT",
+      "source": "ForexLive",
       "title": "US stock markets climb to the highs of the day as tech leads",
       "link": "https://investinglive.com/stocks/us-stock-markets-climb-to-the-highs-of-the-day-as-tech-leads/",
       "date": "2026-11-27"
@@ -214,13 +221,6 @@
       "source": "ForexLive",
       "title": "Germany unemployment rises more than expected in November as labour market struggles persist",
       "link": "https://investinglive.com/news/germany-unemployment-rises-more-than-expected-in-november-as-labour-market-struggles-persist/",
-      "date": "2026-11-27"
-    },
-    {
-      "cur": "MKT",
-      "source": "ForexLive",
-      "title": "European stock market open: The rebound party rolls on",
-      "link": "https://investinglive.com/stocks/european-stock-market-open-the-rebound-party-rolls-on/",
       "date": "2026-11-27"
     }
   ]
